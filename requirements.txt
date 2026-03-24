@@ -1,0 +1,9 @@
+# Shakespeare Sonnets Digital Humanities Site
+# Python 3.10+
+
+# No external dependencies for core pipeline.
+# SQLite is built into Python.
+# HTML generation uses string formatting (no Jinja2 needed for v1).
+
+# Optional: syllable counting
+# pronouncing>=2.0    # CMU Pronouncing Dictionary wrapper (uncomment when needed)

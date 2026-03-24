@@ -1,0 +1,26 @@
+# Database (generated)
+db/*.db
+
+# Generated site
+site/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Corpus PDFs (too large for git)
+corpus/*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude
+.claude/
