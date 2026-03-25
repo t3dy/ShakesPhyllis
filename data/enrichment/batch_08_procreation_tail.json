@@ -1,0 +1,322 @@
+{
+  "batch": "08_procreation_tail_early_praise",
+  "description": "Final procreation sonnets (13-16) + early praise/love declarations (21-24)",
+  "sonnets": [
+    {
+      "number": 13,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "You are not truly yourself because you are only here temporarily — beauty is held on lease. A fair house falling to decay when husbandry could save it? Only unthrifts allow that. Dear my love: you had a father; let your son say so.",
+        "speaker_stance": "intimate, increasingly tender",
+        "emotional_arc": "philosophical paradox -> lease metaphor -> house/husbandry -> the devastating final line",
+        "dramatic_situation": "The Speaker shifts to 'you' (from 'thou') and 'Dear my love' — the most intimate address in the procreation sequence. The couplet's argument is devastating in its simplicity: you had a father; let your son say the same.",
+        "subtext": "'Dear my love' is the first endearment in the sequence — more personal than Sonnet 10's 'for love of me.' The Speaker's emotional investment is now undeniable. The lease/house metaphors connect to the economic thread but the tone is tender, not prosecutorial.",
+        "analysis_text": "Sonnet 13 opens with one of Shakespeare's most philosophically daring claims: 'O! that you were your self.' You are NOT yourself because you will cease to exist — 'you are / No longer yours, than you yourself here live.' The self is temporary, held on lease. Q2 extends the lease metaphor: beauty held 'in lease' that will reach 'determination' (expiry) unless a child continues the term. The volta shifts to the house image: 'Who lets so fair a house fall to decay?' — the FYM's body/lineage as a beautiful building needing 'husbandry' (maintenance/marriage). The couplet is the procreation sequence's most emotionally effective argument, because it is the simplest: 'You had a father: let your son say so.' The logic is irrefutable — the FYM exists because his father had a child. The obligation is reciprocal. 'Dear my love' in line 13 is the Speaker's first explicit endearment in the sequence."
+      },
+      "directing": {
+        "scene_setting": "Intimate. The Speaker and FYM close together. The tone has shifted from prosecution to tenderness.",
+        "character_note": "The Speaker is no longer arguing from philosophy or economics — he is pleading from love. 'Dear my love' is the breakthrough.",
+        "fym_note": "The FYM's father is invoked for the first time — the argument from personal genealogy rather than abstract duty.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the philosophical paradox (you are not yourself), develop through the lease and house images, and land the couplet's devastating simplicity.",
+        "key_moments": [
+          {"line": 1, "note": "'O! that you were your self' — the paradox. You are NOT yourself because you are temporary."},
+          {"line": 9, "note": "'Who lets so fair a house fall to decay' — the house image. Rhetorical question: only a fool."},
+          {"line": 13, "note": "'Dear my love' — the first endearment. The Speaker's heart is exposed."},
+          {"line": 14, "note": "'You had a father: let your son say so' — the simplest and most devastating argument in the sequence."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["O", "you", "were", "your", "self"], "emotional_note": "Philosophical wish — if only you were permanent", "delivery_note": "The paradox: 'that you were your self' — but you're NOT, because selfhood requires permanence.", "gloss": "Oh, if only you truly belonged to yourself — but you don't", "commentary": "The philosophical claim: the self is not self-owning because it is mortal. 'You are / No longer yours, than you yourself here live' — you only own yourself for the duration of your life."},
+        {"line_number": 13, "emphasis_words": ["Dear", "my", "love", "know"], "emotional_note": "The endearment — the Speaker's heart exposed", "delivery_note": "'Dear my love' — the most intimate address so far. Let the tenderness come through.", "gloss": "Dear my love, you know", "commentary": "'Dear my love' — the first explicit endearment in the sequence. More intimate than 'thou' or 'you.' The Speaker's emotional investment is now undeniable."},
+        {"line_number": 14, "emphasis_words": ["had", "father", "let", "son", "say", "so"], "emotional_note": "The simplest argument — and the most powerful", "delivery_note": "Monosyllabic simplicity after 13 lines of metaphor. 'You had a father' — fact. 'Let your son say so' — obligation. Let the clarity cut.", "gloss": "You had a father — let your son be able to say the same", "commentary": "The couplet's argument is irresistible because it is tautological: you exist because your father had a child. The obligation to continue the chain is self-evident. The monosyllabic simplicity (every word is one syllable) enacts the plainness of the truth."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "identity", "prominence": "PRIMARY"},
+        {"theme": "love", "prominence": "SECONDARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'You,' 'dear my love,' 'your sweet semblance'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Dear my love' — the Speaker's first endearment, revealing personal attachment"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "O! that you were your self; but, love you are / No longer yours", "explanation": "You are not yourself because selfhood is temporary. The self is held on lease from Nature, not owned."},
+        {"line_number": 9, "device_id": "METAPHOR", "quotation": "Who lets so fair a house fall to decay", "explanation": "The FYM's body/lineage as a beautiful house needing maintenance. 'Husbandry' puns on house-management and marriage."},
+        {"line_number": 14, "device_id": "EPIGRAM", "quotation": "You had a father: let your son say so", "explanation": "The simplest argument in the sequence: you exist because your father reproduced. Monosyllabic plainness as the ultimate persuasion."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The tonal shift from earlier sonnets' prosecution to this sonnet's tenderness ('Dear my love') is a dramatic event. The Speaker's feelings surface."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The couplet's argument by tautology: you had a father → you should be a father. Irrefutable because self-evident."},
+        {"mode_id": "IMAGISTIC", "priority": 1, "rationale": "Lease → house → husbandry: the image chain connects economic, architectural, and marital meanings."}
+      ]
+    },
+    {
+      "number": 15,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Everything that grows holds perfection for only a moment — this huge stage presents nothing but shows. Men, like plants, vaunt in youthful sap then decrease. Contemplating this, the Speaker sees the FYM's youth besieged by Time and Decay — and declares: as Time takes from you, I engraft you new.",
+        "speaker_stance": "contemplative, then heroically defiant",
+        "emotional_arc": "cosmic meditation -> natural law -> the FYM endangered -> the poet intervenes",
+        "dramatic_situation": "The PIVOT SONNET of the entire sequence. For the first time, the Speaker offers POETRY rather than children as the means of preservation. 'I engraft you new' — the poet's pen replaces the child. The procreation argument begins its transformation into the immortality-through-verse argument.",
+        "subtext": "The theatrical metaphor ('this huge stage presenteth nought but shows') aligns the poet with the cosmos — both create 'shows.' If the world is a theater, the poet is its author. 'Engraft' is both horticultural (grafting a plant) and literary (writing into being).",
+        "analysis_text": "Sonnet 15 is the structural hinge of the procreation sequence — the first sonnet to suggest that poetry, not children, might preserve the FYM. Q1 presents a cosmic vision: 'everything that grows / Holds in perfection but a little moment.' The theatrical metaphor — 'this huge stage presenteth nought but shows / Whereon the stars in secret influence comment' — makes the world a theater watched by astrological forces. Q2 applies the natural law to human life: men 'as plants increase, / Cheered and checked even by the self-same sky.' The parallel with plants (Sonnet 5's distillation imagery) is deliberate — but here the solution will be different. The volta at line 9 turns to the FYM: 'the conceit of this inconstant stay / Sets you most rich in youth before my sight.' The Speaker SEES the FYM's youth and simultaneously sees Time and Decay debating its destruction. The couplet declares war: 'And all in war with Time for love of you, / As he takes from you, I engraft you new.' 'Engraft' = (1) graft a plant (botanical) and (2) write/inscribe (literary). The poet's pen is now the instrument of preservation. The procreation argument does not end here — Sonnets 16-17 will blend both solutions — but the alternative has been announced."
+      },
+      "directing": {
+        "scene_setting": "The Speaker contemplating the cosmos — possibly at a theater, possibly under the stars — and arriving at a revelation about his own power.",
+        "character_note": "This is the Speaker's eureka moment: I don't need you to have a child to defeat Time. I can do it with my pen. The confidence is new and electric.",
+        "fym_note": "The FYM 'most rich in youth' — the Speaker sees him at his peak and simultaneously sees the threat.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the cosmic meditation (vast, philosophical), narrow to the natural law (men as plants), focus on the FYM at line 9 (the personal stakes), and deliver the couplet's declaration of war against Time.",
+        "key_moments": [
+          {"line": 3, "note": "'This huge stage presenteth nought but shows' — the theatrical metaphor. The world as theater. The poet as its author."},
+          {"line": 7, "note": "'Vaunt in their youthful sap, at height decrease' — the peak is already the beginning of the decline."},
+          {"line": 11, "note": "'Wasteful Time debateth with Decay' — Time and Decay personified, conspiring against the FYM. The enemy is named."},
+          {"line": 14, "note": "'As he takes from you, I engraft you new' — THE declaration. The poet enters the war. Poetry as the weapon against Time."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 3, "emphasis_words": ["huge", "stage", "nought", "shows"], "emotional_note": "The world as theater — cosmic perspective", "delivery_note": "The theatrical metaphor should expand the space: this is a vision of the entire cosmos as a stage.", "gloss": "This vast stage presents nothing but performances", "commentary": "'This huge stage' anticipates 'All the world's a stage' (As You Like It). The world's 'shows' are theatrical performances watched by the stars — astrology and theater merged."},
+        {"line_number": 14, "emphasis_words": ["he", "takes", "I", "engraft", "new"], "emotional_note": "The declaration — the poet enters the war against Time", "delivery_note": "The contrast: 'he takes' (Time) / 'I engraft' (the poet). Stress the first-person 'I' — the Speaker claims a power equal to Time's.", "gloss": "As Time takes from you, I write you into new life", "commentary": "'Engraft' = (1) graft a cutting onto a plant (botanical preservation) and (2) inscribe, write into being (literary preservation). The first time in the sequence that the poet's pen is offered as an alternative to children. The pivot of the entire 154-sonnet sequence."}
+      ],
+      "themes": [
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "immortality", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "theater", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'You most rich in youth,' 'your day of youth' — the FYM as the endangered beauty"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I engraft you new' — the Speaker as warrior-poet, entering the fight against Time"}
+      ],
+      "line_devices": [
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "this huge stage presenteth nought but shows", "explanation": "The world as theater — anticipating 'All the world's a stage.' The cosmic scale makes the poet's role proportionally grand."},
+        {"line_number": 11, "device_id": "PERSONIFICATION", "quotation": "wasteful Time debateth with Decay", "explanation": "Time and Decay as co-conspirators plotting against the FYM's youth. Two personified enemies in council."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "I engraft you new", "explanation": "'Engraft' = (1) graft a plant (botanical) and (2) write/inscribe (literary). The poet's pen as both garden tool and weapon against Time."},
+        {"line_number": 14, "device_id": "VOLTA", "quotation": "As he takes from you, I engraft you new", "explanation": "The couplet is the sequence's structural pivot: poetry replaces procreation as the means of immortality. The entire 154-sonnet arc turns here."}
+      ],
+      "modes": [
+        {"mode_id": "STRUCTURAL", "priority": 3, "rationale": "THE pivot of the entire sequence. The procreation argument yields to the immortality-through-verse argument. Everything after this line is different."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "Stage/shows/stars → plants/sap → Time and Decay debating → engrafting. The image chain moves from cosmic to intimate to active."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker's entrance into the war against Time is a dramatic event — from passive observer to active combatant."}
+      ]
+    },
+    {
+      "number": 16,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "But why don't YOU fight Time more mightily than my barren rhyme can? Children are living flowers, truer to your image than any painted portrait or poem. The lines of life (children) can repair life in ways that Time's pencil or the poet's pen cannot.",
+        "speaker_stance": "self-deprecating, urging action",
+        "emotional_arc": "challenge to the FYM -> superiority of children over art -> self-deprecation of verse -> paradoxical couplet",
+        "dramatic_situation": "The counter-argument to Sonnet 15: if poetry can preserve you, children can do it BETTER. The Speaker calls his own rhyme 'barren' — childless, like the FYM. The diptych 15-16 presents both solutions and lets them compete.",
+        "subtext": "The self-deprecation ('my barren rhyme,' 'my pupil pen') is genuine but also strategic. By diminishing his verse, the Speaker pressures the FYM to act — you can't rely on my poetry alone; you need children too. The couplet paradoxically resolves: giving yourself away IS keeping yourself.",
+        "analysis_text": "Sonnet 16 pushes back against 15's grand claim. The opening is a direct challenge: 'But wherefore do not you a mightier way / Make war upon this bloody tyrant, Time?' If 15 declared war, 16 says the FYM should be fighting too — and his weapon (children) is mightier than the Speaker's (verse). 'My barren rhyme' — the word 'barren' connects to the procreation vocabulary: the Speaker's verse is as childless as the FYM. Q2 introduces 'many maiden gardens, yet unset' — young women waiting to bear the FYM's 'living flowers' (children). These flowers are 'much liker than your painted counterfeit' — more like you than any portrait or poem. The volta at line 9 introduces 'the lines of life' — a pun on (1) lineage/children, (2) lines of a face, (3) lines of verse. Only the first can 'repair' life. 'Time's pencil' (drawing wrinkles) and 'my pupil pen' (writing verse) both fall short. The couplet resolves the paradox: 'To give away yourself, keeps yourself still' — procreation as self-preservation through self-giving."
+      },
+      "directing": {
+        "scene_setting": "The Speaker challenging the FYM directly: I've offered poetry, but YOU should be doing more.",
+        "character_note": "Self-deprecating but strategic. The Speaker deliberately undermines his own verse to make the procreation argument stronger. The humility is real but purposeful.",
+        "fym_note": "'Maiden gardens, yet unset' — young women waiting for the FYM. The imagery is both horticultural and sexual.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the challenge (why don't YOU fight?), present children as superior to art, deprecate the Speaker's own verse, resolve with the paradox of self-giving.",
+        "key_moments": [
+          {"line": 2, "note": "'This bloody tyrant, Time' — Time as a tyrant. The war metaphor from 15 continues but the FYM is drafted."},
+          {"line": 4, "note": "'My barren rhyme' — the Speaker calls his own verse childless. The word 'barren' indicts both poet and FYM."},
+          {"line": 6, "note": "'Many maiden gardens, yet unset' — young women as unplanted gardens. The sexual/horticultural metaphor."},
+          {"line": 9, "note": "'The lines of life' — the triple pun: lineage, facial lines, lines of verse. Only lineage can repair life."},
+          {"line": 13, "note": "'To give away yourself, keeps yourself still' — the paradox: self-giving IS self-preservation."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 4, "emphasis_words": ["barren", "rhyme"], "emotional_note": "Self-deprecation that indicts both poet and FYM", "delivery_note": "'Barren' — the Speaker's verse is childless, just like the FYM. The parallel should sting.", "gloss": "With means more effective than my childless poetry?", "commentary": "'My barren rhyme' — the Speaker calls his verse 'barren,' connecting to the procreation sequence's vocabulary. Poetry without a child to complement it is as fruitless as the FYM's bachelorhood."},
+        {"line_number": 9, "emphasis_words": ["lines", "life", "life", "repair"], "emotional_note": "The triple pun — the line that crystallizes the diptych's argument", "delivery_note": "'Lines of life' — let all three meanings sound: lineage (children), lines on a face, lines of verse. Only lineage can 'repair' life.", "gloss": "So should the lineage of life repair life itself", "commentary": "'Lines of life' = (1) lineage/descendants, (2) lines on a face (cf. the 'deep trenches' of Sonnet 2), (3) lines of verse. Only the first — children — can truly 'repair' (restore) life. The poet's lines (verse) and Time's lines (wrinkles) both fall short."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "art_vs_nature", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'You,' 'yourself,' 'your decay' — the FYM challenged to fight Time with children"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My barren rhyme,' 'my pupil pen' — the Speaker as self-deprecating poet"}
+      ],
+      "line_devices": [
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "my barren rhyme", "explanation": "Poetry as 'barren' — childless verse that cannot reproduce. The word connects the Speaker's art to the FYM's refusal to breed."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "many maiden gardens, yet unset", "explanation": "Young women as unplanted gardens awaiting the FYM's seed. Horticultural and sexual simultaneously."},
+        {"line_number": 9, "device_id": "PUN", "quotation": "the lines of life that life repair", "explanation": "Triple pun: 'lines of life' = (1) lineage/children, (2) facial lines, (3) lines of verse. Only children can truly 'repair' (restore) life."},
+        {"line_number": 13, "device_id": "PARADOX", "quotation": "To give away yourself, keeps yourself still", "explanation": "Self-giving as self-preservation: the procreation paradox. By giving yourself to a child, you keep yourself alive."}
+      ],
+      "modes": [
+        {"mode_id": "STRUCTURAL", "priority": 3, "rationale": "The second half of the 15-16 diptych: 15 offers poetry, 16 counters with children. Together they present the two solutions that Sonnet 17 will synthesize."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "Strategic self-deprecation: the Speaker diminishes his verse to strengthen the procreation argument. The humility is a rhetorical device."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Art vs. nature — the competition between poetry and children as means of immortality. The theme that will define the next 138 sonnets."}
+      ]
+    },
+    {
+      "number": 21,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker distinguishes himself from poets who use extravagant comparisons — sun, moon, gems, flowers. Let me write truly: my love is as fair as any mother's child, not as bright as stars. I will not praise with intent to sell.",
+        "speaker_stance": "polemical, anti-Petrarchan, honest",
+        "emotional_arc": "dismissal of rival poets -> catalogue of their excesses -> the Speaker's alternative: plain truth -> commercial metaphor",
+        "dramatic_situation": "The first poem of the early praise sequence, and a precursor to 130's anti-blazon. The Speaker attacks the Petrarchan tradition of extravagant comparison and claims honest, plain-speaking love instead.",
+        "subtext": "The attack on 'proud compare' is also an attack on the Rival Poet avant la lettre. The commercial metaphor of the couplet ('praise that purpose not to sell') makes poetic flattery a sales pitch — the Speaker refuses to be a huckster of the FYM's beauty.",
+        "analysis_text": "Sonnet 21 is the first anti-Petrarchan manifesto in the sequence, anticipating Sonnet 130's more famous anti-blazon. The opening distinguishes the Speaker from 'that Muse / Stirr'd by a painted beauty' — a rival poet (generic, not the Rival Poet of 78-86) who uses heaven itself for ornament: sun, moon, earth, sea's gems, April's flowers. The catalogue of Q1-Q2 mocks the Petrarchan blazon tradition: every fair thing compared with every other fair thing in 'proud compare.' The volta offers the alternative: 'O! let me, true in love, but truly write.' The word 'true' does the work — true in feeling AND true (accurate) in description. The FYM is 'as fair / As any mother's child' — a deliberately deflated comparison. Not the sun, not a star, just a person — a mother's child, beautiful but human. The couplet's commercial metaphor is sharp: 'Let them say more that like of hearsay well; / I will not praise that purpose not to sell.' The other poets are salesmen; the Speaker is an honest witness. Praise-to-sell is flattery; praise-without-selling is truth."
+      },
+      "directing": {
+        "scene_setting": "The Speaker positioning himself against the literary establishment — claiming authenticity over ornament.",
+        "character_note": "Polemical but warm. The Speaker is genuinely proud of his plain style and genuinely contemptuous of Petrarchan excess.",
+        "fym_note": "The FYM praised by deflation: 'as fair as any mother's child.' The compliment is in the honesty, not the extravagance.",
+        "dl_note": "Absent — but this sonnet's method anticipates 130's anti-blazon of the DL.",
+        "overall_arc": "Open with the attack on rival poets (dismissive), catalogue their excesses (mocking), offer the plain alternative at line 9, and land the commercial metaphor in the couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'So is it not with me' — the distinction. I am NOT like that other poet. The competitive position is staked."},
+          {"line": 5, "note": "'A couplement of proud compare' — the Petrarchan method named and mocked."},
+          {"line": 9, "note": "'O! let me, true in love, but truly write' — the alternative. Truth in feeling produces truth in writing."},
+          {"line": 14, "note": "'I will not praise that purpose not to sell' — the commercial metaphor. Other poets are salesmen; I am not."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 9, "emphasis_words": ["true", "love", "truly", "write"], "emotional_note": "The manifesto — truth in love equals truth in verse", "delivery_note": "The double 'true/truly' is the key: true in feeling, true in expression. Let the parallel register.", "gloss": "Oh, let me, who am genuine in love, write genuinely", "commentary": "'True in love, but truly write' — the double 'true' links sincerity of feeling to accuracy of description. The anti-Petrarchan method: honest love produces honest poetry."},
+        {"line_number": 14, "emphasis_words": ["not", "praise", "purpose", "not", "sell"], "emotional_note": "The commercial metaphor — poetry as honest witness, not salesmanship", "delivery_note": "The double negative ('not... not to sell') = I will praise without intent to profit. Let the commercial contempt come through.", "gloss": "I will not write praise designed to sell the product", "commentary": "'Purpose not to sell' — the other poets' praise is advertising, designed to 'sell' the beloved's beauty for patronage. The Speaker refuses to be a salesman. Praise without commercial motive is the honest alternative."}
+      ],
+      "themes": [
+        {"theme": "anti_petrarchanism", "prominence": "PRIMARY"},
+        {"theme": "sincerity", "prominence": "PRIMARY"},
+        {"theme": "poetic_style", "prominence": "PRIMARY"},
+        {"theme": "rivalry", "prominence": "SECONDARY"},
+        {"theme": "truth_vs_art", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'My love is as fair / As any mother's child' — the FYM praised through deflation"},
+        {"character_id": "RP", "role": "IMPLIED", "evidence": "'That Muse, stirr'd by a painted beauty' — a generic rival poet, precursor to the Rival Poet of 78-86"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Let me, true in love, but truly write' — the Speaker as honest poet against the flattering tradition"}
+      ],
+      "line_devices": [
+        {"line_number": 5, "device_id": "IRONY", "quotation": "Making a couplement of proud compare", "explanation": "'Proud compare' = extravagant comparisons. The Speaker mocks the Petrarchan blazon tradition that pairs beloved with celestial objects."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "I will not praise that purpose not to sell", "explanation": "Poetic praise as commercial transaction — other poets are salesmen; the Speaker is an honest witness who refuses to merchandise beauty."}
+      ],
+      "modes": [
+        {"mode_id": "INTERTEXTUAL", "priority": 3, "rationale": "The entire sonnet is a response to the Petrarchan blazon tradition (Petrarch, Sidney, Spenser). The anti-Petrarchan method anticipates Sonnet 130."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument: ornament = lies, plainness = truth. The rhetorical contrast between the rival's excess and the Speaker's simplicity IS the poem."},
+        {"mode_id": "DRAMATIC", "priority": 1, "rationale": "The Speaker positioning himself in the literary marketplace — staking a claim for his style against the competition."}
+      ]
+    },
+    {
+      "number": 23,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Like an unperfect actor who forgets his lines from stage fright, the Speaker forgets the ceremony of love's rite — overcharged by the weight of his own love. Let his looks speak instead of his tongue; let the FYM learn to read what silent love has written. To hear with eyes belongs to love's fine wit.",
+        "speaker_stance": "tongue-tied, earnest, pleading",
+        "emotional_arc": "stage fright analogy -> the lover's paradox (love too strong to express) -> plea for silent communication -> love's superior perception",
+        "dramatic_situation": "The Speaker confesses his inability to speak his love adequately — excess of feeling produces inarticulation. The theatrical metaphor (unperfect actor) connects to the Speaker's profession and makes tongue-tiedness itself eloquent.",
+        "subtext": "The irony: the Speaker claims he cannot speak, IN a perfectly crafted sonnet. The poem's eloquence proves the tongue-tiedness is only in person — on the page, love speaks perfectly. 'To hear with eyes' asks the FYM to READ the sonnets, where what the Speaker cannot say aloud is beautifully written.",
+        "analysis_text": "Sonnet 23 is the sequence's most self-conscious poem about the relationship between speech and writing, performance and text. The actor analogy (Q1) is Shakespeare writing about his own profession: the 'unperfect actor' forgets his part from fear. 'Some fierce thing replete with too much rage, / Whose strength's abundance weakens his own heart' — the paradox of excess: too much feeling weakens expression. Q2 applies this to the Speaker: 'I, for fear of trust, forget to say / The perfect ceremony of love's rite.' 'Love's rite' puns on (1) ritual ceremony and (2) love's right/due. The volta at line 9 offers the solution: 'let my looks be then the eloquence / And dumb presagers of my speaking breast.' If speech fails, let eyes and face speak. The couplet resolves: 'O! learn to read what silent love hath writ: / To hear with eyes belongs to love's fine wit.' The FYM must learn to READ — to perceive the written sonnets as the true expression of what the Speaker cannot say aloud. The sonnet IS the speech the Speaker's tongue cannot manage."
+      },
+      "directing": {
+        "scene_setting": "The Speaker in the FYM's presence, wanting to speak and failing. The sonnet is what he writes afterward — what he COULD say if speech didn't fail him.",
+        "character_note": "The Speaker's vulnerability is complete. The actor metaphor makes tongue-tiedness an occupational irony — a man of the theater who cannot perform his own love.",
+        "fym_note": "The FYM asked to READ — to perceive love through eyes rather than ears. The sonnets themselves are the solution to the Speaker's inarticulation.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the actor analogy (the fear of performance), deepen into the paradox of love-as-overcharge (Q2), offer the eyes as alternative eloquence (Q3), and resolve with the plea to read.",
+        "key_moments": [
+          {"line": 1, "note": "'As an unperfect actor on the stage' — the professional metaphor. A man of the theater who cannot perform his own feelings."},
+          {"line": 6, "note": "'The perfect ceremony of love's rite' — what should be said but can't. 'Rite' / 'right' — both meanings."},
+          {"line": 13, "note": "'Learn to read what silent love hath writ' — the poem IS the speech. Read this, since I can't say it."},
+          {"line": 14, "note": "'To hear with eyes belongs to love's fine wit' — synesthesia as love's special ability. Eyes can hear."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["unperfect", "actor", "stage"], "emotional_note": "The theatrical metaphor — professional irony", "delivery_note": "'Unperfect' = under-rehearsed, who hasn't learned his lines. The irony: Shakespeare, the actor-playwright, can't perform his own feelings.", "gloss": "Like a poorly prepared actor on stage", "commentary": "'Unperfect actor' = one who hasn't memorized his part. The theatrical metaphor is autobiographical: Shakespeare was an actor. The irony of a professional performer failing at the performance of love is deliberate."},
+        {"line_number": 6, "emphasis_words": ["perfect", "ceremony", "love's", "rite"], "emotional_note": "What should be said — the ritual of love", "delivery_note": "'Love's rite' — let the pun register: (1) love's ritual ceremony and (2) love's rightful due. Both are forgotten.", "gloss": "The proper ceremony of love's ritual/right", "commentary": "'Love's rite' = (1) love's ritual ceremony (wedding? declaration?) and (2) love's right/due (what the FYM deserves to hear). The 'perfect ceremony' exists in the Speaker's mind but cannot reach his tongue."},
+        {"line_number": 14, "emphasis_words": ["hear", "eyes", "love's", "fine", "wit"], "emotional_note": "The synesthetic resolution — eyes that hear", "delivery_note": "The paradox: hearing with eyes. Love's special ability is to perceive through the wrong sense. Let it sound like a revelation.", "gloss": "To perceive through seeing what love has written belongs to love's refined understanding", "commentary": "'To hear with eyes' — synesthesia: eyes performing the function of ears. The FYM must read the sonnets (see with eyes) to 'hear' what the Speaker cannot speak aloud. Love's 'fine wit' is the ability to perceive across senses."}
+      ],
+      "themes": [
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "silence", "prominence": "PRIMARY"},
+        {"theme": "theater", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"},
+        {"theme": "communication", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Learn to read' — the FYM asked to perceive love through the written sonnets"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I, for fear of trust, forget to say' — the Speaker as tongue-tied lover and eloquent writer"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "SIMILE", "quotation": "As an unperfect actor on the stage, / Who with his fear is put beside his part", "explanation": "The Speaker as a bad actor — stage fright as analogy for love's inability to speak. The theatrical comparison is autobiographical."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "The perfect ceremony of love's rite", "explanation": "'Rite' = (1) ritual ceremony and (2) right/entitlement. Love's ceremony and love's due are both lost to inarticulation."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "To hear with eyes belongs to love's fine wit", "explanation": "Synesthesia: hearing through sight. Love possesses a special perception that crosses senses — reading the written word 'hears' what speech cannot manage."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The theatrical metaphor makes the Speaker's inarticulation a performance problem. A man of the theater who cannot perform his own love — the irony is professionally devastating."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Speech vs. writing, performance vs. text — the sonnet argues for the superiority of the written poem over the spoken word."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The paradox: a perfectly eloquent poem about the inability to be eloquent. The sonnet IS the proof that writing succeeds where speech fails."}
+      ]
+    },
+    {
+      "number": 24,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker's eye has painted the FYM's image on his heart; his body is the frame, the FYM's eyes the windows. Eyes serve eyes: the Speaker's draw the FYM's shape, the FYM's become windows to the Speaker's breast. But eyes lack one art: they draw only what they see, not what the heart conceals.",
+        "speaker_stance": "ingenious, then self-correcting",
+        "emotional_arc": "painterly conceit -> reciprocal eye-commerce -> the limitation revealed",
+        "dramatic_situation": "The Speaker develops the eye/heart conceit introduced in 23 but discovers its limitation: eyes can only see surfaces. They cannot know the heart. The couplet introduces the doubt that will grow into the betrayal sonnets.",
+        "subtext": "The limitation of sight — eyes 'draw but what they see, know not the heart' — is a warning that anticipates the sequence's later anxieties about the FYM's hidden feelings (93: 'thy looks with me, thy heart in other place'). Beauty may conceal the heart.",
+        "analysis_text": "Sonnet 24 extends the visual conceit of 23 into a full theory of perception — and then punctures it. Q1: the Speaker's eye has 'play'd the painter' and 'stell'd' (engraved/distilled) the FYM's form 'in table of my heart.' The body is the frame, 'perspective' (correct viewing angle) the painter's art. Q2: the Speaker sees the FYM's 'true image' hanging in his 'bosom's shop' (his chest as an art gallery), with the FYM's eyes as 'windows glazed.' Q3 celebrates the reciprocity: 'eyes for eyes have done' — the Speaker's eyes draw the FYM; the FYM's eyes become windows for the sun to 'peep' through and 'gaze therein on thee.' But the couplet reverses everything: 'Yet eyes this cunning want to grace their art, / They draw but what they see, know not the heart.' Sight can only capture the exterior. The FYM's heart remains invisible — and unknowable. The limitation that seemed minor will become the central crisis of sonnets 33-96."
+      },
+      "directing": {
+        "scene_setting": "The Speaker meditating on the FYM's image — perhaps looking at a portrait or remembering the FYM's face.",
+        "character_note": "The Speaker is intellectually playful through Q1-Q3 but the couplet introduces a genuine worry: I can see your face but not your heart.",
+        "fym_note": "The FYM's beauty perfectly captured by the eye — but the heart behind the beauty remains hidden. This is the seed of the betrayal anxiety.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the playful painterly conceit, develop the reciprocal eye-commerce, then land the couplet's limitation as a quiet warning.",
+        "key_moments": [
+          {"line": 1, "note": "'Mine eye hath play'd the painter' — the eye as artist. The conceit begins."},
+          {"line": 7, "note": "'My bosom's shop is hanging still' — the Speaker's chest as an art gallery. Playful."},
+          {"line": 13, "note": "'Eyes this cunning want to grace their art' — the limitation. Eyes are cunning but lack one skill."},
+          {"line": 14, "note": "'They draw but what they see, know not the heart' — the warning. Sight cannot penetrate to the heart. The FYM's interiority is unknown."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["eye", "painter", "stell'd"], "emotional_note": "The eye as artist — playful, ingenious", "delivery_note": "The conceit is elaborate and should sound like intellectual play — the Speaker enjoying his own invention.", "gloss": "My eye has played the painter and engraved your beauty's form on the canvas of my heart", "commentary": "'Stell'd' = (1) engraved/set and (2) distilled (from 'distill'). The eye-as-painter conceit makes perception an act of artistic creation."},
+        {"line_number": 14, "emphasis_words": ["draw", "see", "know", "not", "heart"], "emotional_note": "The limitation — eyes cannot see the heart", "delivery_note": "The couplet reverses the playful conceit. 'Know not the heart' — four words that introduce the sequence's deepest anxiety.", "gloss": "Eyes can only draw what they see; they cannot know the heart", "commentary": "'Know not the heart' — the limitation that will become the crisis of the sequence. The FYM's beauty is visible; his heart is not. This seed will grow into 93's 'Eve's apple' and the entire betrayal narrative."}
+      ],
+      "themes": [
+        {"theme": "perception", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "appearance_vs_reality", "prominence": "PRIMARY"},
+        {"theme": "art", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'Thy beauty's form,' 'your true image,' 'thine eyes' — the FYM as beautiful surface whose heart is hidden"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Mine eye,' 'my heart,' 'my bosom's shop' — the Speaker as perceiving subject"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "Mine eye hath play'd the painter and hath stell'd, / Thy beauty's form in table of my heart", "explanation": "The eye-as-painter conceit: perception as art, the heart as canvas, the body as frame. Sustained through 12 lines."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "They draw but what they see, know not the heart", "explanation": "See/know — the distinction between visual perception and true understanding. Eyes capture surfaces; hearts remain hidden."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The painter/frame/gallery/window conceit is the most elaborate imagistic construction in the early sonnets. Every image is visual."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Appearance vs. reality — the couplet's limitation ('know not the heart') plants the seed for the entire betrayal arc."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "Paired with 23: speech fails (23), sight fails (24). Both modes of perception are inadequate to love's demands."}
+      ]
+    }
+  ]
+}

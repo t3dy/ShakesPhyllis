@@ -1,0 +1,225 @@
+{
+  "characters": [
+    {
+      "id": "FYM",
+      "name": "Fair Young Man",
+      "aka": ["Fair Youth", "Young Man", "Friend", "Lovely Boy"],
+      "description": "The beautiful young nobleman addressed in Sonnets 1-126. The Speaker urges him to marry and procreate (1-17), praises his beauty, wrestles with jealousy and separation, and confronts the ravages of time. The relationship is intense, possibly erotic, and fraught with betrayal when the FYM sleeps with the Dark Lady.",
+      "sonnets_primary": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126],
+      "candidates": [
+        {
+          "name": "Henry Wriothesley, 3rd Earl of Southampton",
+          "strength": "STRONG",
+          "evidence": "Dedicatee of Venus and Adonis (1593) and Lucrece (1594). Shakespeare's only named patron. The dedications grow from formal to intimate ('the love I dedicate to your lordship is without end'). Southampton was young, beautiful, and resisted marriage — matching the procreation sonnets. Born 1573, making him ~20 during likely composition."
+        },
+        {
+          "name": "William Herbert, 3rd Earl of Pembroke",
+          "strength": "STRONG",
+          "evidence": "The 1623 First Folio is dedicated to him and his brother as 'the greatest that are of your time.' The initials W.H. match the dedication to 'Mr. W.H.' in Thorpe's 1609 Quarto (if reversed from H.W.). Born 1580, resisted marriage to Bridget de Vere. Mary Fitton (a Dark Lady candidate) was his mistress."
+        }
+      ]
+    },
+    {
+      "id": "DL",
+      "name": "Dark Lady",
+      "aka": ["Dark Mistress", "Black Beauty", "Woman Colour'd Ill"],
+      "description": "The dark-featured woman of Sonnets 127-152. The Speaker is sexually obsessed with her despite knowing she is unfaithful and morally questionable. She seduces the Fair Young Man, creating the love triangle that is the dramatic crisis of the sequence. The sonnets addressed to her are more bitter, ironic, and sexually explicit than those to the FYM.",
+      "sonnets_primary": [127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152],
+      "candidates": [
+        {
+          "name": "Emilia Lanier (née Bassano)",
+          "strength": "STRONG",
+          "evidence": "Proposed by A.L. Rowse. Italian-Jewish heritage (Bassano family were court musicians from Venice). Dark complexion fits. Mistress of Lord Hunsdon (patron of Shakespeare's company). Published Salve Deus Rex Judaeorum (1611), making her the first professional female poet in English. Musical (Sonnet 128). Her social position — genteel but not noble — matches the sonnets' tone."
+        },
+        {
+          "name": "Mary Fitton",
+          "strength": "MODERATE",
+          "evidence": "Maid of honour to Elizabeth I. Mistress of William Herbert (Pembroke) — linking FYM and DL candidates. Bore Herbert's illegitimate child in 1601. However, surviving portraits show her as fair-complexioned, undermining the 'dark' identification."
+        },
+        {
+          "name": "Lucy Morgan (Lucy Negro)",
+          "strength": "MODERATE",
+          "evidence": "Proposed by G.B. Harrison. Former gentlewoman of the Queen's chamber, later became a brothel madam in Clerkenwell. The name 'Lucy Negro' appears in Gray's Inn revels (1594). Dark-skinned, possibly of African descent. The bawdy puns in 127-152 would fit a woman in the sex trade."
+        },
+        {
+          "name": "Aline Florio (née Daniel)",
+          "strength": "SPECULATIVE",
+          "evidence": "Wife of John Florio, Shakespeare's probable acquaintance and translator of Montaigne. Sister of poet Samuel Daniel. The Italian connection and intellectual milieu are suggestive but evidence is circumstantial."
+        }
+      ]
+    },
+    {
+      "id": "RP",
+      "name": "Rival Poet",
+      "aka": ["Better Spirit", "Rival"],
+      "description": "A competing poet who also writes verse praising the Fair Young Man. Appears primarily in Sonnets 78-86. The Speaker fears being displaced by this rival's superior style and learning. The rival's identity is debated.",
+      "sonnets_primary": [78, 79, 80, 81, 82, 83, 84, 85, 86],
+      "candidates": [
+        {
+          "name": "Christopher Marlowe",
+          "strength": "MODERATE",
+          "evidence": "Shakespeare's greatest contemporary and rival. 'Was it his spirit, by spirits taught to write / Above a mortal pitch' (86) — the supernatural imagery fits Marlowe's Faustus. Marlowe's Hero and Leander competed with Venus and Adonis. Murdered 1593."
+        },
+        {
+          "name": "George Chapman",
+          "strength": "MODERATE",
+          "evidence": "Proposed by William Minto (1874). Chapman's translation of Homer ('the proud full sail of his great verse' — 86) fits. Chapman's Neoplatonic philosophy and claim to be inspired by Homer's spirit match 'Was it his spirit, by spirits taught to write.' Chapman dedicated poems to various patrons."
+        }
+      ]
+    },
+    {
+      "id": "SPEAKER",
+      "name": "The Speaker",
+      "aka": ["The Poet", "Will", "Shakespeare-as-persona"],
+      "description": "The first-person voice of the sonnets. Whether this is Shakespeare himself or a dramatic persona is a central critical debate. The Speaker is older than the FYM, of lower social station, devoted to the point of self-abasement, sexually entangled with the Dark Lady, and consumed with anxieties about time, death, and poetic immortality. Puns on 'Will' (Sonnets 135-136) invite autobiographical reading.",
+      "sonnets_primary": [],
+      "candidates": [
+        {
+          "name": "William Shakespeare (autobiographical)",
+          "strength": "STRONG",
+          "evidence": "The 'Will' puns in 135-136 directly name the author. The dedication to 'the only begetter' suggests real persons. The emotional specificity and internal chronology imply lived experience. Wordsworth: 'With this key / Shakespeare unlocked his heart.'"
+        },
+        {
+          "name": "Dramatic persona (anti-autobiographical)",
+          "strength": "MODERATE",
+          "evidence": "Shakespeare was a playwright — dramatic impersonation was his art. Browning's reply to Wordsworth: 'If so, the less Shakespeare he.' The sonnets participate in Petrarchan convention. Sidney's Astrophil is not Sidney. The 'I' may be as much a construct as Hamlet."
+        }
+      ]
+    }
+  ],
+
+  "sonnet_groups": [
+    {
+      "id": "PROCREATION",
+      "name": "Procreation Sonnets",
+      "sonnets": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17],
+      "description": "The Speaker urges the Fair Young Man to marry and beget children so his beauty will survive death. Uses economic metaphors (usury, debt, legacy) and natural imagery (seasons, distillation). The argument shifts at Sonnet 15 from procreation to poetry as the means of immortality.",
+      "addressee": "FYM",
+      "themes": ["beauty", "time", "mortality", "procreation", "legacy", "narcissism"]
+    },
+    {
+      "id": "IMMORTALITY",
+      "name": "Poetry as Immortality",
+      "sonnets": [18, 19, 55, 60, 63, 64, 65, 81, 100, 101, 107],
+      "description": "The Speaker claims his verse will immortalize the FYM against time's ravages. 'So long as men can breathe, or eyes can see, / So long lives this, and this gives life to thee.' This is the triumphant countercurrent to the time-anxiety sonnets.",
+      "addressee": "FYM",
+      "themes": ["immortality", "poetry", "time", "art_vs_nature"]
+    },
+    {
+      "id": "BEAUTY_TIME",
+      "name": "Beauty vs. Time",
+      "sonnets": [12, 15, 19, 60, 63, 64, 65, 73, 74, 104, 116, 123, 124, 125, 126],
+      "description": "Meditations on the destructive power of time against beauty and love. Ranges from despair to defiance. Sonnet 126 — the envoi to the FYM sequence — ends with Time's ultimate victory: the parenthetical empty brackets representing the FYM's erasure.",
+      "addressee": "FYM",
+      "themes": ["time", "mortality", "beauty", "decay", "defiance"]
+    },
+    {
+      "id": "ABSENCE_JOURNEY",
+      "name": "Absence and Journey",
+      "sonnets": [27, 28, 29, 30, 43, 44, 45, 46, 47, 48, 50, 51, 56, 97, 98],
+      "description": "The Speaker suffers separation from the FYM. Sleepless nights, melancholy travel, the four elements divided between lovers. The pain of absence paradoxically intensifies the presence of the beloved in imagination.",
+      "addressee": "FYM",
+      "themes": ["absence", "longing", "imagination", "melancholy", "travel"]
+    },
+    {
+      "id": "BETRAYAL_TRIANGLE",
+      "name": "The Love Triangle / Betrayal",
+      "sonnets": [33, 34, 35, 40, 41, 42, 92, 93, 94, 95, 96, 133, 134, 135, 136, 137, 138, 144, 152],
+      "description": "The dramatic crisis of the sequence: the Dark Lady seduces the Fair Young Man. The Speaker forgives the FYM too readily, blames the DL more harshly, and tortures himself with sexual jealousy. Sonnet 144 makes the triangle explicit: 'Two loves I have of comfort and despair.' The 'Will' puns (135-136) are sexually aggressive wordplay on 'will' as desire, genitalia, and the poet's name.",
+      "addressee": "MIXED",
+      "themes": ["betrayal", "jealousy", "forgiveness", "sexuality", "self_deception"]
+    },
+    {
+      "id": "RIVAL_POET",
+      "name": "Rival Poet",
+      "sonnets": [78, 79, 80, 81, 82, 83, 84, 85, 86],
+      "description": "A rival poet competes for the FYM's patronage and affection. The Speaker oscillates between false modesty and genuine anxiety. The rival's 'great verse' threatens to displace Shakespeare's plainer style. The sequence ends with the rival's silence or the Speaker's resignation.",
+      "addressee": "FYM",
+      "themes": ["rivalry", "patronage", "poetic_style", "anxiety", "envy"]
+    },
+    {
+      "id": "DARK_LADY_DESIRE",
+      "name": "Dark Lady: Desire and Disgust",
+      "sonnets": [127, 128, 129, 130, 131, 132, 141, 142, 147, 148, 149, 150, 151],
+      "description": "The Speaker's tortured sexual obsession with the Dark Lady. He knows she is unfaithful and 'black' in the moral sense, yet cannot resist. Sonnet 129 ('Th'expense of spirit in a waste of shame') is the most savage anatomy of lust in English. Sonnet 130 ('My mistress' eyes are nothing like the sun') is anti-Petrarchan comedy that is also a genuine love poem.",
+      "addressee": "DL",
+      "themes": ["lust", "self_disgust", "anti_petrarchanism", "irony", "sexuality", "beauty_standards"]
+    },
+    {
+      "id": "ENVOI_CUPID",
+      "name": "Cupid / Anacreontic Coda",
+      "sonnets": [153, 154],
+      "description": "Two variations on a Greek epigram about Cupid's brand being quenched in a fountain. Often considered appendices or test pieces. They stand outside the main narrative but their placement — after the DL sequence — may imply that desire cannot be cured, only displaced.",
+      "addressee": "NONE",
+      "themes": ["cupid", "mythology", "desire", "bathing", "convention"]
+    }
+  ],
+
+  "rhetorical_devices": [
+    {"id": "METAPHOR", "name": "Metaphor", "description": "Implicit comparison without 'like' or 'as'. Shakespeare's metaphors often operate as conceits sustained across multiple lines or an entire sonnet (e.g., Sonnet 73: autumn, twilight, dying fire as three metaphors for aging)."},
+    {"id": "SIMILE", "name": "Simile", "description": "Explicit comparison using 'like' or 'as'. Less dominant than metaphor in the sonnets but used for pointed effects."},
+    {"id": "PUN", "name": "Pun / Wordplay", "description": "Double or triple meanings exploited simultaneously. Central to Shakespeare's method — 'Will' (135-136) means desire, sexual organ, testament, and the poet's name. 'Lie' means recline, tell falsehoods, and copulate. Puns are a primary vehicle for irony."},
+    {"id": "IRONY", "name": "Irony", "description": "Saying one thing while meaning another, or meaning both simultaneously. Pervasive in the sonnets — the Speaker often undermines his own praise, confesses self-deception while practicing it, or compliments the beloved in terms that reveal corruption."},
+    {"id": "CONCEIT", "name": "Conceit / Extended Metaphor", "description": "A metaphor sustained and elaborated across multiple lines or the entire sonnet. The Petrarchan conceit (beloved as sun, rose, etc.) is both used and subverted. Shakespeare's best conceits are dramatic: the beloved as a summer's day, as a lease, as a monument."},
+    {"id": "PERSONIFICATION", "name": "Personification", "description": "Abstract concepts given human agency. Time is the great personified antagonist of the sonnets — with a scythe, a hand, a brow. Death brags, Love is blind, Nature is a debtor."},
+    {"id": "APOSTROPHE", "name": "Apostrophe", "description": "Direct address to an absent person or abstraction. Many sonnets open with apostrophe: 'O thou, my lovely boy' (126), 'Poor soul' (146), 'O, from what pow'r hast thou this powerful might' (150)."},
+    {"id": "ANTITHESIS", "name": "Antithesis", "description": "Juxtaposition of opposing ideas in parallel structure. Fundamental to the sonnet form's argumentative structure. 'Fair' / 'dark', 'love' / 'hate', 'truth' / 'lies' — the dialectic of the couplet often resolves (or fails to resolve) the antitheses of the quatrains."},
+    {"id": "PARADOX", "name": "Paradox", "description": "Seemingly contradictory statement that reveals a deeper truth. 'When my love swears that she is made of truth, / I do believe her, though I know she lies' (138). The speaker's self-aware self-deception is the master paradox of the sequence."},
+    {"id": "HYPERBOLE", "name": "Hyperbole", "description": "Deliberate exaggeration for emphasis. Often subverted: 'My mistress' eyes are nothing like the sun' (130) deflates Petrarchan hyperbole. But 'Not marble, nor the gilded monuments / Of princes, shall outlive this powerful rhyme' (55) is hyperbole meant seriously."},
+    {"id": "SYNECDOCHE", "name": "Synecdoche", "description": "Part standing for whole, or whole for part. 'Eyes' for the beloved's gaze/attention/judgment. 'Hand' for agency. 'Brow' for the forehead that shows age."},
+    {"id": "METONYMY", "name": "Metonymy", "description": "Substitution of an associated term. 'Pen' for poetry, 'tomb' for death, 'glass' for mirror, 'canker' for corruption."},
+    {"id": "ALLITERATION", "name": "Alliteration", "description": "Repetition of initial consonant sounds. Used for emphasis and sonic texture: 'full fathom five,' 'world's fresh ornament.'"},
+    {"id": "ASSONANCE", "name": "Assonance", "description": "Repetition of vowel sounds. Creates internal music and emotional undertow."},
+    {"id": "ENJAMBMENT", "name": "Enjambment", "description": "Sentence or phrase running over a line break without pause. Creates tension between metrical unit and syntactic unit — the line says one thing, the sentence continues to modify or reverse it."},
+    {"id": "CAESURA", "name": "Caesura", "description": "A pause or break within a line, often marked by punctuation. Creates rhythm within the iambic pentameter. Shakespeare uses mid-line caesura for dramatic emphasis and shifts in tone."},
+    {"id": "VOLTA", "name": "Volta / Turn", "description": "The argumentative shift in a sonnet. In the English/Shakespearean form, the major volta typically occurs at line 9 (the third quatrain) or line 13 (the couplet). Identifying the volta is essential to understanding the sonnet's rhetorical structure."},
+    {"id": "BLAZON", "name": "Blazon / Anti-Blazon", "description": "Catalogue of the beloved's physical features. The Petrarchan blazon (eyes like suns, lips like coral) is famously subverted in Sonnet 130. The anti-blazon is itself a form of praise through deflated honesty."},
+    {"id": "CHIASMUS", "name": "Chiasmus", "description": "Reversal of grammatical structure in successive phrases: ABBA pattern. Creates a sense of balance, closure, or ironic reversal."},
+    {"id": "ANAPHORA", "name": "Anaphora", "description": "Repetition of a word or phrase at the beginning of successive lines or clauses. Creates rhetorical momentum: 'When I...' sonnets, 'So long as...' (18)."}
+  ],
+
+  "analytical_modes": [
+    {"id": "RHETORICAL", "name": "Rhetorical Analysis", "description": "Analysis of how the sonnet persuades: its argument structure, use of figures, volta placement, couplet resolution. Identifies the sonnet's 'move' — what it's trying to do to the listener."},
+    {"id": "DRAMATIC", "name": "Dramatic / Character Analysis", "description": "Reads the sonnets as dramatic utterances by a character in a situation. Who is the Speaker addressing? What does the Speaker want? What is the emotional subtext? How does the Speaker's self-presentation differ from what the reader perceives? This mode is essential for the directing/performance dimension."},
+    {"id": "PROSODIC", "name": "Prosodic / Metrical Analysis", "description": "Analysis of meter, rhythm, sound. Scansion of iambic pentameter: where does Shakespeare break the pattern and why? Stressed syllables, feminine endings, trochaic substitutions, spondees. How sound enacts meaning."},
+    {"id": "IMAGISTIC", "name": "Imagery / Figurative Analysis", "description": "Tracks the sonnet's imagery: its metaphors, similes, conceits, and the semantic fields they draw from (nature, commerce, law, war, theater, alchemy). How images recur and transform across the sequence."},
+    {"id": "STRUCTURAL", "name": "Structural Analysis", "description": "How the sonnet's meaning is organized by its form: three quatrains and a couplet (English) or octave/sestet (Italian). The relationship between quatrain 1, 2, 3, and the couplet: are they parallel, progressive, antithetical? Where is the volta?"},
+    {"id": "INTERTEXTUAL", "name": "Intertextual / Source Analysis", "description": "Connections to other texts: Ovid, Petrarch, Sidney, Spenser, Marlowe, the Bible. How Shakespeare borrows, transforms, and subverts his sources."},
+    {"id": "HISTORICAL", "name": "Historical / Biographical Context", "description": "What the sonnets reveal about Elizabethan patronage, sexuality, social hierarchy, the theater world, and the identities of FYM, DL, and RP. Reading the sonnets against what we know of Shakespeare's life and London in the 1590s-1600s."},
+    {"id": "THEMATIC", "name": "Thematic Analysis", "description": "The sonnet's contribution to the sequence's major themes: time vs. beauty, art vs. nature, love vs. lust, truth vs. deception, self vs. other. How individual sonnets develop, complicate, or reverse the sequence's thematic arguments."}
+  ],
+
+  "scholars": [
+    {"id": "VENDLER", "name": "Helen Vendler", "work": "The Art of Shakespeare's Sonnets (1997)", "approach": "Close reading with attention to 'key words,' structural patterns, and formal innovation. Each sonnet gets its own analysis. Essential reference for rhetorical and structural analysis."},
+    {"id": "BOOTH", "name": "Stephen Booth", "work": "Shakespeare's Sonnets (1977, annotated edition)", "approach": "Exhaustive commentary on every possible meaning, pun, and ambiguity. The maximalist reading — Booth shows how multiple incompatible meanings coexist simultaneously. Essential for puns and irony."},
+    {"id": "DUNCAN_JONES", "name": "Katherine Duncan-Jones", "work": "Shakespeare's Sonnets (Arden, 1997)", "approach": "Historical and editorial. Argues for Southampton as FYM, Emilia Lanier as DL. Attentive to the 1609 Quarto as a deliberately ordered sequence."},
+    {"id": "PEQUIGNEY", "name": "Joseph Pequigney", "work": "Such Is My Love: A Study of Shakespeare's Sonnets (1985)", "approach": "Argues the FYM sonnets describe a fully sexual homosexual relationship. Groundbreaking queer reading."},
+    {"id": "FINEMAN", "name": "Joel Fineman", "work": "Shakespeare's Perjured Eye: The Invention of Poetic Subjectivity in the Sonnets (1986)", "approach": "Deconstructive/psychoanalytic. Argues the sonnets invent modern poetic subjectivity through the crisis of vision (FYM) vs. language (DL)."},
+    {"id": "DUBROW", "name": "Heather Dubrow", "work": "Captive Victors: Shakespeare's Narrative Poems and Sonnets (1987)", "approach": "Genre criticism. Reads the sonnets against Petrarchan conventions — what Shakespeare inherits, transforms, and subverts."},
+    {"id": "DE_GRAZIA", "name": "Margreta de Grazia", "work": "Shakespeare Verbatim (1991); articles on Sonnets", "approach": "Materialist/historicist. Questions modern assumptions about the sonnets' subjectivity and sexuality. Insists on reading them in their early modern context."},
+    {"id": "SCHOENFELDT", "name": "Michael Schoenfeldt", "work": "The Cambridge Introduction to Shakespeare's Poetry (2010)", "approach": "Accessible introduction situating the sonnets within early modern poetics, patronage, and print culture."},
+    {"id": "KERRIGAN", "name": "John Kerrigan", "work": "The Sonnets and A Lover's Complaint (Penguin, 1986)", "approach": "Editorial. Argues for reading the Sonnets and A Lover's Complaint as a unified work, following the 1609 Quarto order."},
+    {"id": "BURROW", "name": "Colin Burrow", "work": "Complete Sonnets and Poems (Oxford, 2002)", "approach": "Editorial and critical. Skeptical of biographical identification. Emphasizes the sonnets as literary artifacts engaged with poetic tradition."},
+    {"id": "HEALY", "name": "Margaret Healy", "work": "Shakespeare, Alchemy and the Creative Imagination (2011)", "approach": "Reads the sonnets through alchemical imagery and early modern natural philosophy. Connects the distillation metaphors (5-6) and transformation language to alchemical practice."},
+    {"id": "ROWSE", "name": "A.L. Rowse", "work": "Shakespeare's Sonnets: The Problems Solved (1973)", "approach": "Biographical-historical. Identifies Emilia Lanier as the Dark Lady based on Forman manuscripts. Controversial but influential."},
+    {"id": "FULLER", "name": "David Fuller", "work": "The Life in the Sonnets (2011)", "approach": "Performance-oriented criticism. How the sonnets work as dramatic utterances to be spoken aloud. Essential for the directing dimension of this project."}
+  ],
+
+  "bibliography": [
+    {"key": "vendler1997", "citation": "Vendler, Helen. The Art of Shakespeare's Sonnets. Harvard UP, 1997."},
+    {"key": "booth1977", "citation": "Booth, Stephen. Shakespeare's Sonnets. Yale UP, 1977."},
+    {"key": "duncan_jones1997", "citation": "Duncan-Jones, Katherine, ed. Shakespeare's Sonnets. Arden Shakespeare, 1997."},
+    {"key": "pequigney1985", "citation": "Pequigney, Joseph. Such Is My Love: A Study of Shakespeare's Sonnets. U of Chicago P, 1985."},
+    {"key": "fineman1986", "citation": "Fineman, Joel. Shakespeare's Perjured Eye: The Invention of Poetic Subjectivity in the Sonnets. U of California P, 1986."},
+    {"key": "dubrow1987", "citation": "Dubrow, Heather. Captive Victors: Shakespeare's Narrative Poems and Sonnets. Cornell UP, 1987."},
+    {"key": "degrazia1991", "citation": "de Grazia, Margreta. Shakespeare Verbatim: The Reproduction of Authenticity and the 1790 Apparatus. Oxford UP, 1991."},
+    {"key": "schoenfeldt2010", "citation": "Schoenfeldt, Michael. The Cambridge Introduction to Shakespeare's Poetry. Cambridge UP, 2010."},
+    {"key": "kerrigan1986", "citation": "Kerrigan, John, ed. The Sonnets and A Lover's Complaint. Penguin, 1986."},
+    {"key": "burrow2002", "citation": "Burrow, Colin, ed. The Complete Sonnets and Poems. Oxford Shakespeare, 2002."},
+    {"key": "healy2011", "citation": "Healy, Margaret. Shakespeare, Alchemy and the Creative Imagination: The Sonnets and A Lover's Complaint. Cambridge UP, 2011."},
+    {"key": "rowse1973", "citation": "Rowse, A.L. Shakespeare's Sonnets: The Problems Solved. Harper & Row, 1973."},
+    {"key": "fuller2011", "citation": "Fuller, David. The Life in the Sonnets. Bloomsbury Arden Shakespeare, 2011."},
+    {"key": "mebane1989", "citation": "Mebane, John S. Renaissance Magic and the Return of the Golden Age: The Occult Tradition and Marlowe, Jonson, and Shakespeare. U of Nebraska P, 1989."},
+    {"key": "crawforth2017", "citation": "Crawforth, Hannah, Elizabeth Scott-Baumann, and Clare Sheridan, eds. The Sonnets: The State of Play. Bloomsbury Arden Shakespeare, 2017."}
+  ]
+}

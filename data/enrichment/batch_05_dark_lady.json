@@ -1,0 +1,280 @@
+{
+  "batch": "05_dark_lady",
+  "description": "The Dark Lady sequence: anti-Petrarchan beauty, tyrannous desire, disease, sexuality, perjury",
+  "sonnets": [
+    {
+      "number": 127,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "Black was not formerly considered beautiful, but now — because cosmetics have made everyone artificially fair — true beauty has been debased. Therefore the DL's naturally dark features are the genuine article, and her black eyes mourn for those who fake beauty.",
+        "speaker_stance": "polemical, witty, subversive",
+        "emotional_arc": "historical argument -> cultural critique -> personal application -> ironic reversal",
+        "dramatic_situation": "The opening salvo of the Dark Lady sequence. The Speaker overturns Petrarchan convention (fair = beautiful) by arguing that cosmetics have devalued fairness. Dark is the new authentic beauty. This is both a cultural argument and a seduction strategy.",
+        "subtext": "The argument that dark equals authentic beauty is itself a form of persuasion — the Speaker is constructing a framework in which the DL's unconventional appearance becomes superior. The flattery is disguised as philosophy.",
+        "analysis_text": "Sonnet 127 announces the Dark Lady sequence with an argument that inverts the entire Petrarchan tradition. 'In the old age black was not counted fair' — historically, dark complexion was not considered beautiful. But 'now is black beauty's successive heir' — darkness has inherited beauty's title. The reason: cosmetics. 'Each hand hath put on Nature's power, / Fairing the foul with Art's false borrowed face' — artificial beauty has debased the currency of fairness, making natural beauty (even dark beauty) more authentic. The volta applies this to 'my mistress' eyes': they are 'raven black,' and their darkness functions as mourning — they mourn for those who fake beauty they weren't born with. The couplet's paradox: the DL's black eyes are so becomingly mournful that 'every tongue says beauty should look so.' Dark becomes the new standard. The word 'bastard' (line 4) is charged: beauty is slandered with illegitimate shame because cosmetics produce 'bastard' versions of it. The sonnet rewrites the rules of beauty to make the DL the exemplar."
+      },
+      "directing": {
+        "scene_setting": "The Speaker making a case — to the DL, to the world, to himself. This is a manifesto: dark beauty is true beauty.",
+        "character_note": "The Speaker is intellectually energized. Unlike the FYM sonnets' emotional turbulence, the DL sequence opens with an argument. The seduction is through ideas.",
+        "fym_note": "Absent — but the FYM's 'fair' beauty is implicitly the old standard being displaced.",
+        "dl_note": "The DL as the new standard of beauty. 'Raven black' eyes, natural complexion. If Emilia Lanier: Italian-Jewish heritage, dark features, not the blonde Petrarchan ideal.",
+        "overall_arc": "Open with the historical argument (authoritative), sharpen the cultural critique in Q2, apply it personally to the DL at line 9, and land the paradox in the couplet.",
+        "key_moments": [
+          {"line": 3, "note": "'Now is black beauty's successive heir' — the thesis. Dark has inherited beauty's crown. Deliver as a proclamation."},
+          {"line": 6, "note": "'Fairing the foul with Art's false borrowed face' — cosmetics attacked. 'False borrowed face' is contemptuous."},
+          {"line": 9, "note": "'Therefore my mistress' eyes are raven black' — the application. The DL enters the sequence. Her darkness is the proof of the argument."},
+          {"line": 14, "note": "'Every tongue says beauty should look so' — the reversal is complete. Dark IS beauty now."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["old", "age", "black", "not", "fair"], "emotional_note": "Historical premise — setting up the reversal", "delivery_note": "Factual, measured. The historical claim is the foundation for the argument.", "gloss": "In former times, dark coloring was not considered beautiful", "commentary": "The opening establishes the Petrarchan premise (fair = beautiful) in order to overturn it. 'Black' = dark-complexioned, the opposite of the sonnet tradition's golden-haired ideal."},
+        {"line_number": 3, "emphasis_words": ["now", "black", "beauty's", "successive", "heir"], "emotional_note": "The thesis — dark beauty inherits the crown", "delivery_note": "Emphatic. 'Now' marks the temporal shift. 'Successive heir' is dynastic language — dark beauty has inherited the throne.", "gloss": "But now dark beauty has inherited beauty's title", "commentary": "'Successive heir' — legal/dynastic: dark beauty is the legitimate inheritor of beauty's title, not a usurper. The language of succession elevates the DL's complexion."},
+        {"line_number": 9, "emphasis_words": ["Therefore", "mistress", "raven", "black"], "emotional_note": "The personal application — the DL as proof", "delivery_note": "'Therefore' — logical consequence. The argument has been building to this: my mistress is the living proof.", "gloss": "Therefore my mistress's eyes are raven black", "commentary": "'Therefore' applies the cultural argument personally. 'Raven black' — the raven is both beautiful and funereal. The DL's eyes are the argument made flesh."}
+      ],
+      "themes": [
+        {"theme": "beauty_standards", "prominence": "PRIMARY"},
+        {"theme": "anti_petrarchanism", "prominence": "PRIMARY"},
+        {"theme": "artifice", "prominence": "SECONDARY"},
+        {"theme": "authenticity", "prominence": "SECONDARY"},
+        {"theme": "race", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'My mistress' eyes are raven black' — the DL enters the sequence"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The argumentative voice constructing a new aesthetic to flatter the DL"}
+      ],
+      "line_devices": [
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "now is black beauty's successive heir", "explanation": "Dynastic metaphor: dark beauty inherits beauty's throne. Legal succession applied to aesthetics."},
+        {"line_number": 4, "device_id": "PUN", "quotation": "beauty slander'd with a bastard shame", "explanation": "'Bastard' = (1) illegitimate and (2) counterfeit. Cosmetic beauty is both illegitimate (not naturally born) and shamefully false."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "Fairing the foul with Art's false borrowed face", "explanation": "Cosmetics as a mask — 'false borrowed face.' Art (artifice) creates counterfeit beauty that debases the genuine article."},
+        {"line_number": 10, "device_id": "PERSONIFICATION", "quotation": "Her eyes so suited, and they mourners seem", "explanation": "The DL's black eyes personified as mourners — dressed in black, grieving for the debasement of true beauty."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is a logical argument: cultural premise → critique of cosmetics → personal application → paradoxical conclusion."},
+        {"mode_id": "HISTORICAL", "priority": 2, "rationale": "Elizabethan beauty standards, cosmetics culture, and the racialized language of 'fair' and 'black' are essential context."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "Overturns the entire Petrarchan blazon tradition (Petrarch's Laura, Sidney's Stella, Spenser's Elizabeth — all fair)."}
+      ]
+    },
+    {
+      "number": 128,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker watches the DL play a keyboard instrument and envies the keys (jacks) that her fingers touch. His lips should reap the harvest of those touches. The couplet proposes a trade: give the keys your fingers, give me your lips.",
+        "speaker_stance": "playful, erotic, envious",
+        "emotional_arc": "sensual observation -> erotic envy -> witty proposition",
+        "dramatic_situation": "One of the few DL sonnets with warmth and genuine pleasure. The Speaker watches the DL make music and desires her through the medium of sound and touch.",
+        "subtext": "The envy of the 'jacks' (keyboard keys) is sexual — they touch her where the Speaker wants to touch. 'Jacks' was also slang for low-class men, adding a class dimension: even these base things get to touch her.",
+        "analysis_text": "Sonnet 128 is the DL sequence's most sensual and lighthearted poem — a voyeuristic scene of music-making charged with erotic energy. The DL plays a virginal (keyboard), and the Speaker envies the 'jacks' (the levers that pluck the strings) that 'nimble leap / To kiss the tender inward of thy hand.' The word 'kiss' makes the mechanical action erotic. 'The tender inward of thy hand' is one of Shakespeare's most intimate physical descriptions — the soft palm, usually hidden, now exposed to the keys' touch. Q2 extends the conceit: the Speaker's lips 'should that harvest reap' — harvest as sexual reward. 'At the wood's boldness by thee blushing stand' — the keys are bolder than the Speaker, who can only blush and watch. The couplet's proposition is charming: 'Give them thy fingers, me thy lips to kiss.' The economy is elegant — fingers for keys, lips for the Speaker. 'Saucy jacks' puns: (1) impudent keyboard keys and (2) presumptuous men. If the DL is Emilia Lanier, a court musician, the scene has biographical resonance."
+      },
+      "directing": {
+        "scene_setting": "A room with a keyboard instrument. The DL plays; the Speaker watches, listens, desires. The scene is intimate, domestic, sensual.",
+        "character_note": "The Speaker is charming here — not tortured, not bitter, just genuinely attracted and witty about it. This is the DL relationship at its most pleasant.",
+        "fym_note": "Absent. This is the DL at her most attractive — before the sequence turns dark.",
+        "dl_note": "The DL as musician — skilled, beautiful at the keyboard, her hands the focus of erotic attention. If Emilia Lanier: she came from the Bassano family of court musicians.",
+        "overall_arc": "Begin with sensual observation (the sound, the sight of her fingers), let the erotic envy build through Q2, and deliver the couplet's proposition as a witty request.",
+        "key_moments": [
+          {"line": 1, "note": "'My music, music play'st' — the double 'music' makes the DL herself the music. She is both performer and instrument."},
+          {"line": 6, "note": "'Kiss the tender inward of thy hand' — the most intimate physical description in the DL sequence. The soft palm."},
+          {"line": 13, "note": "'Saucy jacks' — the pun: impudent keyboard keys AND presumptuous men. Let both meanings land."},
+          {"line": 14, "note": "'Give them thy fingers, me thy lips to kiss' — the proposition. Charming, direct, erotic."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["music", "music", "play'st"], "emotional_note": "Sensual — the DL as music itself", "delivery_note": "The double 'music' should register: she IS the music she plays. The word sounds like what it describes.", "gloss": "How often when you, my music, play music", "commentary": "'My music, music play'st' — the DL is addressed as 'my music,' then plays music. She is both the art and its performer. If Emilia Lanier: a professional musician."},
+        {"line_number": 6, "emphasis_words": ["kiss", "tender", "inward", "hand"], "emotional_note": "The most intimate physical detail — the soft palm", "delivery_note": "Slow down on 'tender inward of thy hand' — this is the erotic center of the sonnet. The palm, usually hidden.", "gloss": "To kiss the soft inner surface of your hand", "commentary": "'The tender inward of thy hand' — the palm, soft, usually private. The keys touch where the Speaker cannot. The intimacy is in the specificity."},
+        {"line_number": 14, "emphasis_words": ["fingers", "me", "lips", "kiss"], "emotional_note": "The proposition — charming, direct", "delivery_note": "Deliver as a request, not a demand. The charm is in the logic: fingers for them, lips for me.", "gloss": "Give the keys your fingers, give me your lips to kiss", "commentary": "The couplet's economy: a trade. Fingers for mechanical things, lips for the lover. The simplicity is the wit."}
+      ],
+      "themes": [
+        {"theme": "music", "prominence": "PRIMARY"},
+        {"theme": "desire", "prominence": "PRIMARY"},
+        {"theme": "envy", "prominence": "SECONDARY"},
+        {"theme": "touch", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "ADDRESSED", "evidence": "'My music,' 'thy sweet fingers,' 'thy hand,' 'thy lips'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Do I envy,' 'my poor lips' — the Speaker as envious watcher"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PUN", "quotation": "thou, my music, music play'st", "explanation": "The DL is 'my music' who plays music — she is both performer and the art form itself."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "those jacks that nimble leap", "explanation": "'Jacks' = (1) keyboard levers and (2) impudent men. The keys are personified as rivals for the DL's touch."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "kiss the tender inward of thy hand", "explanation": "The mechanical action of keys striking the palm is eroticized as a kiss. The keys do what the Speaker cannot."},
+        {"line_number": 7, "device_id": "METAPHOR", "quotation": "my poor lips which should that harvest reap", "explanation": "'Harvest' = sexual reward. The Speaker's lips should reap what the keys enjoy."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The conceit of envying the keyboard keys drives every line. The imagery is tactile and erotic throughout."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "A scene: the DL plays, the Speaker watches and desires. One of the few DL sonnets that can be staged as a domestic scene."},
+        {"mode_id": "HISTORICAL", "priority": 1, "rationale": "If Emilia Lanier: court musician background, virginal performance. The biographical detail makes the scene vivid."}
+      ]
+    },
+    {
+      "number": 141,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker catalogs every sense that finds the DL unattractive — eyes note errors, ears aren't delighted, touch and taste and smell refuse — yet his heart overrules all five senses, enslaving him to serve her as a 'vassal wretch.'",
+        "speaker_stance": "analytically self-aware, helpless",
+        "emotional_arc": "sensory rejection -> accumulating evidence -> the heart's irrational override -> bitter self-diagnosis",
+        "dramatic_situation": "The most clinical anatomy of irrational desire in the sequence. The Speaker knows the DL is not attractive to his senses — every faculty rejects her — but his heart overrides all evidence. This is 129's lust given a diagnostic framework.",
+        "subtext": "The anti-blazon (130) was playful; this is serious. The Speaker genuinely finds the DL unappealing to his senses and is mystified by his own desire. The heart's rebellion against the senses is a philosophical problem he cannot solve.",
+        "analysis_text": "Sonnet 141 systematically dismantles the Speaker's desire to show it has no rational basis. The opening is stark: 'In faith I do not love thee with mine eyes, / For they in thee a thousand errors note.' Eyes — the sense that blazons conventionally celebrate — find a thousand faults. Q2 extends the inventory: ears aren't delighted, touch is 'prone' to 'base' contact, taste and smell refuse any 'sensual feast.' All five senses reject the DL. The volta delivers the paradox: 'But my five wits nor my five senses can / Dissuade one foolish heart from serving thee.' Five wits (common wit, imagination, fantasy, estimation, memory) join five senses — ten rational faculties — and all are powerless against one heart. The heart 'leaves unsway'd the likeness of a man' — the Speaker becomes a hollow shell, his humanity abandoned to become her 'vassal wretch.' The couplet's bitter consolation: 'she that makes me sin awards me pain.' The DL is both the cause of sin and its punishment. The religious language (sin, plague, gain) makes desire a theology of damnation."
+      },
+      "directing": {
+        "scene_setting": "The Speaker conducting an internal audit — testing each sense against the DL and finding them all opposed. This is a clinical self-examination.",
+        "character_note": "The Speaker is mystified by his own desire. The analytical tone is genuine — he really doesn't understand why he wants her. The helplessness is intellectual, not just emotional.",
+        "fym_note": "Absent, but the contrast with the FYM sonnets is implicit: the FYM's beauty was praised by every sense. The DL's appeal is irrational.",
+        "dl_note": "The DL as the object of irrational desire — not beautiful by any conventional standard, yet irresistible. The anti-blazon of 130 made this playful; 141 makes it clinical.",
+        "overall_arc": "Catalog the sensory rejections through Q1-Q2 with increasing frustration, deliver the paradox at line 9 (the heart overrides everything), and land the couplet's bitter theology.",
+        "key_moments": [
+          {"line": 1, "note": "'In faith I do not love thee with mine eyes' — the opening declaration. He does NOT find her attractive. This is not false modesty; it's genuine."},
+          {"line": 2, "note": "'A thousand errors' — the eyes' verdict. A thousand faults. Let the number register."},
+          {"line": 9, "note": "'My five wits nor my five senses' — ten rational faculties, all powerless. The volta's absurdity should land."},
+          {"line": 12, "note": "'Thy proud heart's slave and vassal wretch to be' — the Speaker's self-description. From man to wretch."},
+          {"line": 14, "note": "'She that makes me sin awards me pain' — the DL as both cause and punishment. Theological language."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["faith", "not", "love", "eyes"], "emotional_note": "The opening declaration — sensory rejection", "delivery_note": "'In faith' = truly/honestly. 'I do NOT love thee with mine eyes' — emphatic negation. He means it.", "gloss": "Truly, I do not love you through my eyes", "commentary": "'In faith' = on my honor. The opening contradicts the entire blazon tradition: love begins with the eyes (Petrarch, Sidney). Here the eyes reject the DL."},
+        {"line_number": 9, "emphasis_words": ["five", "wits", "five", "senses"], "emotional_note": "The volta — ten faculties, all powerless", "delivery_note": "Stress the numbers: FIVE wits, FIVE senses. Ten against one heart. The absurdity is the point.", "gloss": "But neither my five mental faculties nor my five physical senses can", "commentary": "Five wits (common wit, imagination, fantasy, estimation, memory) and five senses — the complete rational apparatus of a human being. All ten are powerless against one irrational heart."},
+        {"line_number": 12, "emphasis_words": ["proud", "heart's", "slave", "vassal", "wretch"], "emotional_note": "The degradation — from man to wretch", "delivery_note": "Three descending terms: slave, vassal, wretch. Each lower than the last.", "gloss": "To become your proud heart's slave and wretched subject", "commentary": "'Vassal wretch' — feudal terminology. The Speaker's heart has sworn fealty to the DL's proud heart. The power dynamic mirrors the FYM's 'sovereign/slave' structure (57) but is harsher."},
+        {"line_number": 14, "emphasis_words": ["sin", "awards", "pain"], "emotional_note": "The bitter theology — sin and punishment fused", "delivery_note": "The DL as both temptation and punishment. 'Awards' is ironic — pain as a prize.", "gloss": "That the woman who makes me sin rewards me with pain", "commentary": "'Awards me pain' — the DL is both the cause of sin and its punishment. The theological framework (sin/pain/plague/gain) makes desire a form of damnation. 'Awards' is bitterly ironic: pain as a prize."}
+      ],
+      "themes": [
+        {"theme": "desire", "prominence": "PRIMARY"},
+        {"theme": "irrationality", "prominence": "PRIMARY"},
+        {"theme": "self_disgust", "prominence": "SECONDARY"},
+        {"theme": "servitude", "prominence": "SECONDARY"},
+        {"theme": "senses", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "ADDRESSED", "evidence": "'Thee,' 'thy tongue's tune,' 'thy proud heart' — the DL as irrational object of desire"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Mine eyes,' 'my heart,' 'my five wits' — the Speaker as his own clinical subject"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "BLAZON", "quotation": "I do not love thee with mine eyes... nor ears... nor taste, nor smell", "explanation": "Anti-blazon by sensory catalogue: every sense rejects the DL. The reverse of the traditional blazon's praise."},
+        {"line_number": 9, "device_id": "PARADOX", "quotation": "my five wits nor my five senses can / Dissuade one foolish heart", "explanation": "Ten rational faculties vs. one heart: the paradox of irrational desire quantified."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "she that makes me sin awards me pain", "explanation": "The DL as both temptation and punishment — causing sin and inflicting its consequence simultaneously. 'Awards' makes pain a grotesque prize."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The systematic catalogue of sensory rejection followed by the heart's override is a logical argument that proves the irrationality of desire."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker conducting an internal audit of his own desire and finding it groundless — the clinical tone IS the drama."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Irrational desire as the DL sequence's master theme — all five senses say no, but the heart says yes."}
+      ]
+    },
+    {
+      "number": 147,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "Love is a fever that feeds on what makes it worse. Reason, the physician, has abandoned the Speaker. Past cure, past care, frantic-mad. The couplet delivers the devastating reversal: 'I have sworn thee fair... who art as black as hell, as dark as night.'",
+        "speaker_stance": "feverish, desperate, self-lacerating",
+        "emotional_arc": "medical diagnosis -> physician's abandonment -> frantic madness -> devastating final verdict",
+        "dramatic_situation": "The Speaker's desire for the DL has become a literal sickness. Reason has tried to cure him and failed; now Reason has given up entirely. The couplet's violence ('black as hell, as dark as night') is the fever's delirium turning into clarity.",
+        "subtext": "The medical metaphor makes desire a disease — but the Speaker sought the disease, feeding on what worsened it (line 3). The couplet's 'black as hell' reverses the argument of 127, where 'black' was reframed as beautiful. Here black is damnation again.",
+        "analysis_text": "Sonnet 147 is the DL sequence's most sustained metaphor: love as disease. The opening — 'My love is as a fever, longing still / For that which longer nurseth the disease' — establishes the paradox: the patient craves what makes him sicker. Q2 introduces Reason as a physician who has prescribed treatment, been ignored, and finally abandoned the case: 'Hath left me, and I desperate now approve / Desire is death.' The word 'desperate' is clinical: the patient is past hope. The volta at line 9 delivers the chiasmus: 'Past cure I am, now Reason is past care.' Beyond cure because beyond caring — Reason no longer bothers. Lines 11-12 describe the state: 'My thoughts and my discourse as madmen's are, / At random from the truth vainly express'd.' The Speaker has become a madman whose speech no longer connects to reality. Then the couplet detonates: 'For I have sworn thee fair, and thought thee bright, / Who art as black as hell, as dark as night.' The madness was calling the DL fair. The truth, now recovered in the couplet's clarity, is that she is 'black as hell.' The word 'black' reverses Sonnet 127's argument: there, black was rehabilitated as beautiful; here, it returns to its moral meaning — evil, damned."
+      },
+      "directing": {
+        "scene_setting": "A sickroom — or the Speaker's mind as sickroom. Feverish, disordered, the language breaking down before the couplet's terrible clarity.",
+        "character_note": "The Speaker is genuinely ill with desire. The medical metaphor is not decorative — it describes his actual psychological state. The couplet is a moment of lucidity in the delirium.",
+        "fym_note": "Absent. The sickness is entirely about the DL.",
+        "dl_note": "The DL as disease — the thing that feeds the fever. The couplet calls her 'black as hell, as dark as night' — the harshest words in the entire sequence.",
+        "overall_arc": "Begin with the fever diagnosis (controlled, medical), escalate through Reason's departure (line 7-8 should feel like a doctor walking out), let the madness take over in Q3, then deliver the couplet as a sudden, devastating return to clarity.",
+        "key_moments": [
+          {"line": 1, "note": "'My love is as a fever' — the diagnosis. Medical, precise. The disease is love itself."},
+          {"line": 7, "note": "'Hath left me' — Reason abandons the patient. This is the point of no return."},
+          {"line": 9, "note": "'Past cure I am, now Reason is past care' — the chiasmus. Beyond cure because beyond caring. The symmetry is devastating."},
+          {"line": 13, "note": "'I have sworn thee fair' — the madness identified: calling the DL beautiful was the symptom."},
+          {"line": 14, "note": "'As black as hell, as dark as night' — the truth. The couplet is the fever breaking."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["love", "fever", "longing", "still"], "emotional_note": "The diagnosis — love as disease", "delivery_note": "Clinical precision. 'A fever, longing still' — 'still' = always/continuously. The fever never breaks.", "gloss": "My love is like a fever, always craving", "commentary": "'A fever longing still' — the disease that never remits. 'Still' = perpetually. Love as chronic illness."},
+        {"line_number": 9, "emphasis_words": ["Past", "cure", "Reason", "past", "care"], "emotional_note": "The chiasmus — beyond help because beyond caring", "delivery_note": "The chiasmus should be audible: 'Past cure... past care.' The symmetry enacts the hopelessness.", "gloss": "I am past curing, now that Reason is past caring", "commentary": "Chiasmus: past cure / past care. The patient is beyond treatment because the physician has given up. The double 'past' is relentless."},
+        {"line_number": 14, "emphasis_words": ["black", "hell", "dark", "night"], "emotional_note": "The verdict — devastating, final", "delivery_note": "The couplet is the fever breaking into clarity. 'Black as hell, as dark as night' — two hammer-blows. Each comparison is damnation.", "gloss": "You who are as black as hell, as dark as night", "commentary": "'Black as hell' reverses 127's argument: there, black was beautiful; here, black is moral darkness, damnation. The DL's 'blackness' moves from aesthetic to moral."}
+      ],
+      "themes": [
+        {"theme": "disease", "prominence": "PRIMARY"},
+        {"theme": "desire", "prominence": "PRIMARY"},
+        {"theme": "madness", "prominence": "PRIMARY"},
+        {"theme": "self_disgust", "prominence": "SECONDARY"},
+        {"theme": "truth_vs_illusion", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "ADDRESSED", "evidence": "'Thee fair,' 'thee bright' — then 'as black as hell.' The DL as disease and damnation."},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My love,' 'I desperate,' 'I am past cure' — the Speaker as patient, now mad"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "My love is as a fever", "explanation": "The disease conceit governs the entire sonnet: love as fever, Reason as physician, desire as the diet that worsens the illness."},
+        {"line_number": 9, "device_id": "CHIASMUS", "quotation": "Past cure I am, now Reason is past care", "explanation": "ABBA: past-cure / past-care. The symmetry enacts the hopeless loop: untreatable because untreated, untreated because hopeless."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "I have sworn thee fair... Who art as black as hell", "explanation": "Fair/black, bright/dark, the Speaker's oath vs. reality. The couplet reverses everything the Speaker has said about the DL."},
+        {"line_number": 14, "device_id": "HYPERBOLE", "quotation": "as black as hell, as dark as night", "explanation": "Double comparison to ultimate darkness — hell and night. The DL's moral blackness measured against the universe's extremes."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The disease conceit (fever, physician, cure, care, madman) governs every line. The imagery IS the argument."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The arc from diagnosis to abandonment to madness to clarity is a five-act drama compressed into 14 lines."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "The couplet reverses 127's argument about black beauty — the DL sequence's opening thesis is destroyed by its own sequence."}
+      ]
+    },
+    {
+      "number": 152,
+      "analysis": {
+        "volta_line": 5,
+        "volta_type": "IRONIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker accuses the DL of being twice forsworn (breaking her marriage vow and her vow to him), then realizes he is worse: perjured twenty times over, having sworn she was fair, kind, true when she was none of these. The couplet: 'I have sworn thee fair; more perjured I, / To swear against the truth so foul a lie.'",
+        "speaker_stance": "self-accusing, bitter, terminal",
+        "emotional_arc": "accusation of the DL -> self-accusation that surpasses it -> the perjury catalogue -> final self-condemnation",
+        "dramatic_situation": "The last fully realized sonnet of the DL sequence. The Speaker attempts to accuse the DL of perjury but turns the accusation on himself. Everything he has said about her — fair, kind, true — was a lie, and he knew it. The sequence ends in total self-condemnation.",
+        "subtext": "This is the DL sequence's reckoning. Every compliment the Speaker has paid the DL across 25 sonnets is retroactively revealed as perjury. The sequence that began by redefining beauty (127) ends by admitting the redefinition was a lie.",
+        "analysis_text": "Sonnet 152 is the Dark Lady sequence's devastating conclusion — a poem that turns every preceding DL sonnet into evidence of perjury. The opening accuses the DL: 'In loving thee thou know'st I am forsworn' — the Speaker has broken vows to love the DL. 'But thou art twice forsworn' — she broke her 'bed-vow' (marriage) and her vow to the Speaker. But at line 5, the volta arrives early: 'But why of two oaths' breach do I accuse thee, / When I break twenty?' The Speaker's perjury exceeds hers. Lines 9-12 catalogue his lies: he swore oaths of her 'deep kindness,' her 'love,' her 'truth,' her 'constancy' — and to 'enlighten thee, gave eyes to blindness.' He made his own eyes blind to see her as bright. The couplet is the sequence's last word: 'For I have sworn thee fair; more perjured I, / To swear against the truth so foul a lie.' Every time the Speaker called the DL 'fair' — in Sonnet 127, 130, 131, 132, 147 — he was committing perjury. The sequence's rhetoric of praise was a sustained lie, and the Speaker knows it. This is not a lover's quarrel but an epistemological collapse: the Speaker cannot trust his own speech."
+      },
+      "directing": {
+        "scene_setting": "The final reckoning. The Speaker and DL facing each other — or the Speaker alone, surveying the wreckage of the relationship and his own integrity.",
+        "character_note": "The Speaker has reached the end. There is no more wit, no more clever argument, no more playful anti-blazon. Only the admission that he has been lying — to the DL, to himself, to us — the entire time.",
+        "fym_note": "Absent. The DL relationship ends in isolation — no triangulation, just the Speaker and his perjury.",
+        "dl_note": "The DL as the occasion of perjury — 'twice forsworn' but the Speaker is worse. Her bed-vow broken (she is married), her new vow to the Speaker broken too.",
+        "overall_arc": "Open with the accusation of the DL (1-4), pivot to self-accusation at line 5 (the early volta), catalogue the lies through Q3, and deliver the couplet as final self-condemnation.",
+        "key_moments": [
+          {"line": 1, "note": "'In loving thee thou know'st I am forsworn' — the admission. Both know. No pretense left."},
+          {"line": 3, "note": "'Thy bed-vow broke' — she is married. The DL has a husband. The adultery is named."},
+          {"line": 5, "note": "'But why of two oaths' breach do I accuse thee, / When I break twenty?' — the early volta. Self-accusation surpasses the accusation of the DL."},
+          {"line": 11, "note": "'Gave eyes to blindness' — he blinded himself to see her as fair. The self-deception was deliberate."},
+          {"line": 13, "note": "'I have sworn thee fair; more perjured I' — every compliment in the sequence was perjury. The final word."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["loving", "thee", "know'st", "forsworn"], "emotional_note": "The opening admission — no pretense", "delivery_note": "Direct. 'Thou know'st' — she knows, he knows, everyone knows. The honesty is brutal.", "gloss": "In loving you, you know I have broken my vows", "commentary": "'Forsworn' = having broken an oath. The Speaker has violated some prior commitment (to the FYM? to fidelity? to truth?) by loving the DL. Both parties know it."},
+        {"line_number": 3, "emphasis_words": ["bed-vow", "broke", "new", "faith", "torn"], "emotional_note": "The DL's adultery named — she has a husband", "delivery_note": "'Bed-vow' — the marriage oath. She is married and has broken her vow. The word should register: this is adultery.", "gloss": "You broke your marriage vow, and then broke your new promise to me", "commentary": "'Bed-vow' = marriage vow (specifically the sexual fidelity promised at the wedding bed). The DL is married. This is the clearest reference to her marital status in the sequence."},
+        {"line_number": 6, "emphasis_words": ["I", "break", "twenty", "perjur'd", "most"], "emotional_note": "Self-accusation surpasses the accusation", "delivery_note": "'When I break twenty' — the number shames the DL's 'two.' The Speaker is the greater perjurer.", "gloss": "When I myself break twenty oaths? I am the most perjured of all", "commentary": "The Speaker's twenty broken oaths vs. the DL's two. The quantification makes the self-accusation mathematical — and irrefutable."},
+        {"line_number": 13, "emphasis_words": ["sworn", "thee", "fair", "perjured", "I"], "emotional_note": "The final self-condemnation — every compliment was a lie", "delivery_note": "'I have sworn thee fair' — this indicts every DL sonnet. 'More perjured I' — the final verdict on himself.", "gloss": "For I have sworn you are beautiful; I am the greater perjurer", "commentary": "'Sworn thee fair' retroactively converts the entire DL sequence into perjury. Every anti-blazon, every redefinition of beauty, every compliment — all lies. The Speaker has been lying to himself and to us since Sonnet 127."}
+      ],
+      "themes": [
+        {"theme": "perjury", "prominence": "PRIMARY"},
+        {"theme": "self_accusation", "prominence": "PRIMARY"},
+        {"theme": "truth_vs_lies", "prominence": "PRIMARY"},
+        {"theme": "adultery", "prominence": "SECONDARY"},
+        {"theme": "self_disgust", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "ADDRESSED", "evidence": "'Thou art twice forsworn,' 'thy bed-vow broke' — the DL as married adulteress and oath-breaker"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I am forsworn,' 'I break twenty,' 'more perjured I' — the Speaker as the greater perjurer"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "IRONY", "quotation": "In loving thee thou know'st I am forsworn", "explanation": "The DL sequence that began with a redefinition of beauty ends with the admission that the redefinition was a lie."},
+        {"line_number": 3, "device_id": "PUN", "quotation": "thy bed-vow broke", "explanation": "'Bed-vow' = marriage oath. The DL is married — the adultery is named for the first time."},
+        {"line_number": 5, "device_id": "VOLTA", "quotation": "But why of two oaths' breach do I accuse thee, / When I break twenty?", "explanation": "An early volta at line 5: the accusation of the DL is abandoned for self-accusation. The Speaker turns the prosecution on himself."},
+        {"line_number": 11, "device_id": "PARADOX", "quotation": "to enlighten thee, gave eyes to blindness", "explanation": "To make the DL 'bright' (enlighten), the Speaker blinded his own eyes. Seeing her as fair required not seeing."},
+        {"line_number": 13, "device_id": "IRONY", "quotation": "I have sworn thee fair; more perjured I", "explanation": "The couplet retroactively indicts the entire DL sequence: every compliment was perjury. The Speaker is his own most damning witness."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The legal language (forsworn, oaths, perjured, accuse, breach) makes the sonnet a courtroom self-prosecution. The argument is irrefutable."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "As the DL sequence's conclusion, 152 retroactively reframes every preceding DL sonnet as evidence of perjury. The structural position IS the meaning."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker as self-prosecutor — turning the accusation from the DL onto himself. The dramatic reversal at line 5 is the sonnet's defining moment."}
+      ]
+    }
+  ]
+}

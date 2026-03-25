@@ -1,0 +1,459 @@
+{
+  "batch": "02_triangle",
+  "description": "The love triangle: betrayal, lust, deception, and the dramatic crisis of FYM/DL",
+  "sonnets": [
+    {
+      "number": 40,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "IRONIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker tells the FYM to take all his loves — including the Dark Lady — since everything was already his. The forgiveness is so excessive it becomes its own accusation.",
+        "speaker_stance": "wounded, performing magnanimity",
+        "emotional_arc": "bitter generosity -> tortured logic -> explosive oxymoron",
+        "dramatic_situation": "The FYM has slept with the Dark Lady. The Speaker attempts to forgive but the language betrays him: 'robbery,' 'thief,' 'lascivious.' The forgiveness is a barely controlled scream.",
+        "subtext": "Every line of forgiveness is also an indictment. 'Take all my loves' is a gift that is also an accusation. The Speaker cannot stop loving either the FYM or the DL, and this helplessness is the real subject.",
+        "analysis_text": "Sonnet 40 is the Speaker's first response to the love triangle's consummation, and it is a masterpiece of tortured logic. 'Take all my loves' sounds generous but the second line exposes it: 'What hast thou then more than thou hadst before?' — you already had everything, so the theft is meaningless. The word 'love' appears six times in the first eight lines, each with a different shade of meaning: my beloveds, my affection, my capacity for love, her love, your love, love itself. Q2's reasoning spirals: if you took my love because she was mine, I can't blame you for using what was already yours. But line 7 introduces blame: 'be blam'd, if thou thyself deceivest.' The volta gives us 'thy robbery, gentle thief' — the oxymoron barely containing rage. The couplet's 'Lascivious grace' is one of Shakespeare's most devastating compounds: the FYM's beauty dignifies even his sexual betrayal. 'Kill me with spites yet we must not be foes' — the Speaker cannot bring himself to break with the FYM, even when the FYM has taken his mistress. The helplessness is total."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has just learned of the betrayal — or confronts the FYM after the fact. The composure is a mask. Every polite word costs effort.",
+        "character_note": "The Speaker is trying to be noble and failing. The magnanimity keeps breaking down into accusation. Play the strain between what he wants to say (I forgive you) and what he feels (you destroyed me).",
+        "fym_note": "The FYM's beauty makes even his treachery beautiful — 'lascivious grace.' If Southampton: this is the patron who has slept with the poet's mistress. The power imbalance makes forgiveness obligatory.",
+        "dl_note": "She is 'my love' — possessed, lost, the cause of the crisis. She appears only as an object traded between men.",
+        "overall_arc": "Begin with forced generosity that barely masks pain. Let the logic grow more tortured through Q2. The volta ('robbery, gentle thief') drops the mask. The couplet is desperate pleading.",
+        "key_moments": [
+          {"line": 1, "note": "'Take all my loves' — begin generous, but let 'all' carry bitterness. Everything."},
+          {"line": 9, "note": "'I do forgive thy robbery, gentle thief' — the oxymorons explode. Forgive and accuse in the same breath."},
+          {"line": 13, "note": "'Lascivious grace' — speak it slowly. The beauty of the FYM dignifies even his sexual betrayal."},
+          {"line": 14, "note": "'We must not be foes' — the desperation. The Speaker cannot lose the FYM, even at this cost."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Take", "all", "loves", "love", "all"], "emotional_note": "Forced generosity masking devastation", "delivery_note": "The repetition of 'all' and 'love' is obsessive. Each repetition costs more.", "gloss": "Take all my beloveds, my love — yes, take everything", "commentary": "'My loves' = (1) my beloveds (plural — the DL) and (2) my capacity for love. The Speaker offers everything because he has no power to withhold."},
+        {"line_number": 9, "emphasis_words": ["forgive", "robbery", "gentle", "thief"], "emotional_note": "The mask slips — forgiveness and accusation fused", "delivery_note": "Two oxymorons: 'forgive robbery' and 'gentle thief.' The contradictions should crack.", "gloss": "I forgive your theft, you graceful criminal", "commentary": "The volta drops the pretense of willing gift. This was robbery. The 'gentle' (noble-born) thief stole from a social inferior who cannot fight back."},
+        {"line_number": 13, "emphasis_words": ["Lascivious", "grace", "ill", "well"], "emotional_note": "Awed, pained, admiring despite everything", "delivery_note": "The oxymoron 'lascivious grace' is the key phrase. Let it vibrate with contradiction.", "gloss": "You beautiful sinner, in whom even evil looks good", "commentary": "'Lascivious grace' compresses the sonnet's paradox into two words: sexual corruption (lascivious) dignified by beauty (grace). 'All ill well shows' — evil appears well in him."},
+        {"line_number": 14, "emphasis_words": ["Kill", "spites", "must not", "foes"], "emotional_note": "Desperate, pleading", "delivery_note": "The final plea: even if you kill me, we can't be enemies. The helplessness is absolute.", "gloss": "Destroy me with cruelties, but we must remain friends", "commentary": "The Speaker would rather be killed than estranged from the FYM. The power dynamic — patron/poet — makes this submission both emotional and economic."}
+      ],
+      "themes": [
+        {"theme": "betrayal", "prominence": "PRIMARY"},
+        {"theme": "forgiveness", "prominence": "PRIMARY"},
+        {"theme": "jealousy", "prominence": "SECONDARY"},
+        {"theme": "power", "prominence": "SECONDARY"},
+        {"theme": "self_deception", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address: 'thou,' 'thee,' 'thy robbery'"},
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "'My loves' (plural) — the mistress taken by the FYM"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "First person throughout — the Speaker as victim performing magnanimity"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PUN", "quotation": "Take all my loves, my love", "explanation": "'Loves' = (1) beloveds (the DL) and (2) acts/capacity for love. 'My love' = (1) term of address to FYM and (2) my love itself."},
+        {"line_number": 9, "device_id": "PARADOX", "quotation": "I do forgive thy robbery, gentle thief", "explanation": "Double oxymoron: forgiving robbery, gentle thief. Forgiveness that names the crime is not quite forgiveness."},
+        {"line_number": 13, "device_id": "PARADOX", "quotation": "Lascivious grace, in whom all ill well shows", "explanation": "'Lascivious grace' — sexual corruption beautified. The FYM's beauty transforms even moral ugliness into something attractive."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Kill me with spites yet we must not be foes", "explanation": "Kill/not foes — the antithesis of action and relationship. You can destroy me but we must remain friends."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "This is drama — a character performing forgiveness while every word betrays pain. The gap between what is said and what is felt is the sonnet."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument spirals: gift → logic → accusation → plea. The rhetoric is designed to fail — the Speaker can't convince himself."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Introduces the triangle's central dynamic: the Speaker forgives the FYM and blames the DL (or himself)."}
+      ]
+    },
+    {
+      "number": 42,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "IRONIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker says losing the DL to the FYM is less painful than losing the FYM to the DL, then constructs an absurd logical consolation: if my friend and I are one person, then she's only sleeping with me.",
+        "speaker_stance": "self-deluding, bitterly playful",
+        "emotional_arc": "comparative grief -> tortured excuse-making -> absurd consolation -> self-aware collapse",
+        "dramatic_situation": "The triangle is now explicit. The Speaker knows both have betrayed him. He attempts a logical game to make it bearable and the couplet's 'Sweet flattery!' confesses the game's failure.",
+        "subtext": "The ranking of losses reveals everything: losing the FYM hurts more than losing the DL. The Speaker's primary attachment is to the man, not the woman. The consolation is so ridiculous the Speaker himself calls it flattery.",
+        "analysis_text": "Sonnet 42 is the most psychologically revealing sonnet in the triangle sequence. Line 1 names the fact: 'That thou hast her.' Line 3 reverses the emphasis: 'That she hath thee is of my wailing chief.' The comparative structure is devastating — the Speaker measures his two losses and finds losing the FYM worse. Q2 constructs an elaborate excuse: they each betrayed me for my sake, because they love what I love. The logic is absurd and the Speaker knows it. The volta launches the final consolation: 'If I lose thee, my loss is my love's gain' — a circular logic of shared identity. The couplet delivers the punchline: 'my friend and I are one; / Sweet flattery! then she loves but me alone.' The exclamation 'Sweet flattery!' is Shakespeare's brilliant confession that the Speaker knows his consolation is nonsense. He has talked himself into a position so preposterous that he must flag it as self-deception. The irony is total: the sonnet's argument is designed to comfort, but its execution reveals the Speaker's helplessness."
+      },
+      "directing": {
+        "scene_setting": "The Speaker talking himself through the worst night of his emotional life. This is 3 AM logic — desperate, circular, aware of its own absurdity.",
+        "character_note": "The Speaker is trying to think his way out of pain and failing in real time. The humor of the couplet is gallows humor — he knows the consolation is garbage.",
+        "fym_note": "The FYM is valued above the DL. 'A loss in love that touches me more nearly' — the man matters more. This is the hierarchy that defines the sequence.",
+        "dl_note": "She is 'her' — the object of secondary grief. But 'I loved her dearly' (line 2) is genuine. The Speaker loves both, and loses both.",
+        "overall_arc": "Open with the wound (line 1), reveal the hierarchy of pain (lines 3-4), spiral into increasingly desperate logic (Q2-Q3), then collapse into self-aware absurdity in the couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'That thou hast her' — state the fact flatly. The pain is in the directness."},
+          {"line": 3, "note": "'That she hath thee' — the reversal. Stress 'thee.' This is the greater loss."},
+          {"line": 13, "note": "'My friend and I are one' — the desperate logic. Play it as if you're trying to convince yourself."},
+          {"line": 14, "note": "'Sweet flattery!' — the self-aware collapse. The Speaker knows he's lying to himself. Bitter laugh."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["thou", "hast", "her"], "emotional_note": "Flat statement of fact — the wound", "delivery_note": "Direct. No ornament. The plain statement is the devastation.", "gloss": "That you have her is not my only grief", "commentary": "'Thou hast her' — the brutal monosyllables. The FYM possesses the DL. The verb 'hast' implies ongoing possession, not a single act."},
+        {"line_number": 3, "emphasis_words": ["she", "hath", "thee", "wailing", "chief"], "emotional_note": "The deeper wound revealed", "delivery_note": "Stress 'thee' — this is the real loss. The DL has taken the FYM from the Speaker.", "gloss": "That she has you is my chief cause of weeping", "commentary": "The hierarchy of grief: losing the DL is painful; losing the FYM to the DL is devastating. The Speaker loves the FYM more."},
+        {"line_number": 13, "emphasis_words": ["friend", "I", "are", "one"], "emotional_note": "Desperate assertion — trying to believe it", "delivery_note": "The philosophical claim ('we are one') applied to sexual betrayal. Play the absurdity.", "gloss": "But here's the consolation: my friend and I are one person", "commentary": "The unity of friends was a Renaissance commonplace. Shakespeare applies it grotesquely: if we are one, she's sleeping with me through him."},
+        {"line_number": 14, "emphasis_words": ["Sweet", "flattery", "loves", "me", "alone"], "emotional_note": "Self-aware collapse — the consolation exposed as nonsense", "delivery_note": "'Sweet flattery!' with a bitter laugh. The Speaker catches himself in his own delusion.", "gloss": "What sweet self-deception! Then she loves only me", "commentary": "'Sweet flattery' = self-deception acknowledged. The exclamation mark is rare in the sonnets and marks the moment the Speaker breaks character to admit the logic is absurd."}
+      ],
+      "themes": [
+        {"theme": "betrayal", "prominence": "PRIMARY"},
+        {"theme": "self_deception", "prominence": "PRIMARY"},
+        {"theme": "jealousy", "prominence": "PRIMARY"},
+        {"theme": "sexuality", "prominence": "SECONDARY"},
+        {"theme": "irony", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'Thou hast her,' 'my friend,' 'my better angel'"},
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'Her,' 'she,' 'my love's gain'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "First person throughout — the Speaker as the one who loses both"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ANTITHESIS", "quotation": "That thou hast her... That she hath thee", "explanation": "The chiastic reversal across lines 1/3: he has her / she has him. The Speaker is excluded from both."},
+        {"line_number": 12, "device_id": "METAPHOR", "quotation": "both for my sake lay on me this cross", "explanation": "The cross = Christ's suffering. The Speaker as martyr to love — extravagant but also self-mocking."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "Sweet flattery! then she loves but me alone", "explanation": "The Speaker names his own self-deception. The irony is total: the conclusion is absurd and the Speaker knows it."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The sonnet dramatizes self-deception in real time. We watch the Speaker construct and then demolish his own consolation."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument is deliberately bad — a syllogism designed to comfort that proves its own inadequacy."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Establishes the hierarchy: the FYM matters more than the DL. This determines the arc of the remaining 112 sonnets."}
+      ]
+    },
+    {
+      "number": 93,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "IRONIC",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker will go on believing the FYM is faithful because the FYM's face is incapable of showing his heart's corruption — like a deceived husband who cannot read the truth. The couplet compares the FYM's beauty to Eve's apple: beautiful outside, rotten within.",
+        "speaker_stance": "resigned, analytically self-aware, devastated",
+        "emotional_arc": "resigned diagnosis -> envious contrast with readable faces -> bitter tribute to the FYM's beauty -> devastating biblical comparison",
+        "dramatic_situation": "The Speaker knows the FYM is unfaithful but the FYM's face never shows it. The sonnet is about the torture of loving someone whose beauty is a perfect mask.",
+        "subtext": "The Speaker compares himself to a 'deceived husband' — implying the relationship with the FYM has the intimacy and exclusivity of marriage. The self-awareness is excruciating: he knows he's being deceived and knows he'll go on believing anyway.",
+        "analysis_text": "Sonnet 93 is one of the most psychologically sophisticated poems in the sequence. The opening simile — 'Like a deceived husband' — introduces the domestic metaphor that governs the whole poem: the Speaker and FYM as a married couple where one partner's beauty makes deception undetectable. The cruelty is not the FYM's unfaithfulness but his face's inability to register it. Q2 observes that most people's faces betray their hearts: 'moods, and frowns, and wrinkles strange.' But the FYM's face (Q3) was decreed by heaven to show only sweetness. This is simultaneously a compliment and an indictment — the FYM's beauty is a divinely crafted lie. The couplet's allusion to Eve's apple is devastating: beauty that conceals corruption, the original deception that caused the Fall. The comparison implies that the Speaker's love for the FYM is a second Fall — a temptation through beauty that leads to knowledge of evil."
+      },
+      "directing": {
+        "scene_setting": "The Speaker watching the FYM across a room, studying that beautiful face for any sign of guilt, and finding none.",
+        "character_note": "The Speaker is past anger into a kind of analytical despair. He has become a scholar of his own deception.",
+        "fym_note": "The FYM's beauty is now a weapon — not seduction but concealment. His face is so beautiful it cannot tell the truth. If Southampton: the portrait of a young nobleman whose charm is also his camouflage.",
+        "dl_note": "Absent from the surface but the implied cause of the deception.",
+        "overall_arc": "Open with quiet resignation ('So shall I live'), build through the contrast with readable faces (Q2), return to the FYM's impenetrable beauty (Q3), then land the Eve's apple image as a delayed-action revelation.",
+        "key_moments": [
+          {"line": 2, "note": "'Like a deceived husband' — the domestic metaphor. Let it land. This is a marriage analogy."},
+          {"line": 4, "note": "'Thy looks with me, thy heart in other place' — the split. Face here, heart elsewhere. Devastating simplicity."},
+          {"line": 9, "note": "'But heaven in thy creation did decree' — the bitter tribute. God made you unable to show the truth."},
+          {"line": 13, "note": "'How like Eve's apple' — the biblical comparison arrives. Beauty concealing corruption. The Fall."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["shall", "live", "supposing", "true"], "emotional_note": "Quiet resignation — he'll go on pretending", "delivery_note": "Measured, deliberate. 'Supposing' — knowing it's supposition, not truth.", "gloss": "So I will go on living, assuming you are faithful", "commentary": "'Supposing' — the word does all the work. It means 'pretending to believe,' not 'believing.' The Speaker's self-awareness is total."},
+        {"line_number": 2, "emphasis_words": ["deceived", "husband"], "emotional_note": "The domestic metaphor — a marriage of deception", "delivery_note": "Let 'deceived husband' resonate. This is the Speaker casting himself in the role of cuckold.", "gloss": "Like a husband who has been cheated on", "commentary": "The comparison to a deceived husband implies the relationship has the intimacy and exclusivity of marriage. The Speaker feminizes his position — he is the betrayed spouse."},
+        {"line_number": 4, "emphasis_words": ["looks", "me", "heart", "other"], "emotional_note": "The split — face here, soul elsewhere", "delivery_note": "The antithesis is spatial: looks WITH me / heart in OTHER place. Make the separation physical.", "gloss": "Your face is with me, your heart somewhere else", "commentary": "The simplest and most devastating line in the sonnet. Monosyllabic. The FYM's body is present but his heart is absent."},
+        {"line_number": 13, "emphasis_words": ["Eve's", "apple", "beauty", "grow"], "emotional_note": "The biblical comparison — revelation through allusion", "delivery_note": "Let 'Eve's apple' carry its full weight: the original deception, the Fall, beauty as trap.", "gloss": "How much your beauty resembles Eve's apple", "commentary": "Eve's apple: beautiful outside, knowledge of evil within. The FYM's beauty is a temptation that leads to a Fall — the Speaker's Fall into knowing he is deceived."}
+      ],
+      "themes": [
+        {"theme": "deception", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "self_deception", "prominence": "PRIMARY"},
+        {"theme": "betrayal", "prominence": "SECONDARY"},
+        {"theme": "appearance_vs_reality", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address: 'thou art true,' 'thy face,' 'thy beauty'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'So shall I live' — the Speaker as self-aware cuckold"},
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "The cause of the deception — 'thy heart in other place'"}
+      ],
+      "line_devices": [
+        {"line_number": 2, "device_id": "SIMILE", "quotation": "Like a deceived husband", "explanation": "The domestic simile: the Speaker as cheated spouse. The comparison implies marriage-like intimacy with the FYM."},
+        {"line_number": 4, "device_id": "ANTITHESIS", "quotation": "Thy looks with me, thy heart in other place", "explanation": "Looks/heart, me/other place — the split between appearance and reality mapped onto spatial separation."},
+        {"line_number": 13, "device_id": "SIMILE", "quotation": "How like Eve's apple doth thy beauty grow", "explanation": "Biblical simile: the FYM's beauty as the fruit of the Tree of Knowledge — beautiful, tempting, and concealing evil."},
+        {"line_number": 13, "device_id": "IRONY", "quotation": "How like Eve's apple doth thy beauty grow", "explanation": "The FYM's beauty, praised for 92 sonnets, is now compared to the instrument of the Fall. The praise has turned to indictment."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The Speaker as self-aware cuckold — knowing he is deceived and unable to stop believing. Pure dramatic irony."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Appearance vs. reality — the sequence's deepest theme, reaching its sharpest formulation."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The Eve's apple allusion connects the FYM's beauty to the myth of the Fall — original sin through beautiful temptation."}
+      ]
+    },
+    {
+      "number": 94,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Those who have power to hurt but choose restraint inherit heaven's graces — but if that flower meets 'base infection,' the sweetest thing turns sourest. The lily that festers smells worse than weeds.",
+        "speaker_stance": "cold, analytical, ambiguous",
+        "emotional_arc": "detached philosophical observation -> botanical metaphor -> devastating proverb",
+        "dramatic_situation": "The most enigmatic sonnet in the sequence. Is the Speaker praising the FYM's cold restraint or indicting his emotional unavailability? Scholars have debated for centuries. The ambiguity IS the point.",
+        "subtext": "The 'stone' and 'cold' of line 3 describe the FYM's emotional withholding — the same quality that makes him beautiful makes him cruel. The flower/infection image suggests the FYM has already been corrupted (by the DL? by his own nature?). The final line is proverbial: 'Lilies that fester smell far worse than weeds.'",
+        "analysis_text": "Sonnet 94 is the most debated poem in the sequence because its tone is genuinely undecidable. The first eight lines describe people who 'have power to hurt, and will do none' — who move others while remaining 'as stone, / Unmoved, cold, and to temptation slow.' Is this admiration or accusation? The qualities praised (restraint, cold self-possession, stone-like immobility) are simultaneously virtues and vices. 'They rightly do inherit heaven's graces' — but 'rightly' can mean 'justly' or 'by rights of birth' (privilege, not merit). 'Husband nature's riches from expense' echoes the procreation sonnets' economic language but now applied to emotional hoarding. The volta shifts to a botanical metaphor: a flower is sweet to summer 'Though to itself, it only live and die' — self-contained beauty is acceptable in nature. But 'if that flower with base infection meet' — corruption introduced from outside or revealed from within — then the proverb strikes: 'Lilies that fester, smell far worse than weeds.' The FYM's beauty, if corrupted, becomes not merely ugly but actively repulsive. The sonnet leaves the question open: has the infection already happened?"
+      },
+      "directing": {
+        "scene_setting": "The Speaker stepping back from the intimate turmoil of Sonnets 40-42 to deliver a cold philosophical assessment. This is the Speaker at his most Hamlet-like: analytical, bitter, speaking in generalizations that are transparently about one person.",
+        "character_note": "The cold detachment IS the emotion. The Speaker has moved past the desperate forgiveness of 40 into something harder.",
+        "fym_note": "The FYM as stone, cold, unmoved — these are his actual qualities, praised and condemned simultaneously. The portrait is of a beautiful narcissist.",
+        "dl_note": "The 'base infection' may be the DL — the corruption introduced into the FYM's purity. Or it may be the FYM's own nature revealing itself.",
+        "overall_arc": "Begin with philosophical detachment (lines 1-4), deepen with the inheritance metaphor (5-8), shift to the botanical image (9-12), and land the proverbial couplet with devastating finality.",
+        "key_moments": [
+          {"line": 1, "note": "'Power to hurt, and will do none' — ambiguous. Praise for restraint? Or description of cold indifference?"},
+          {"line": 3, "note": "'As stone, / Unmoved, cold' — the adjectives pile up. Each one is both compliment and accusation."},
+          {"line": 11, "note": "'Base infection' — the corruption arrives. Speak it with disgust. The flower's purity is at stake."},
+          {"line": 14, "note": "'Lilies that fester smell far worse than weeds' — proverbial. Deliver it as a truth that has been earned by the argument. Final."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["power", "hurt", "will", "none"], "emotional_note": "Ambiguous — praise or indictment?", "delivery_note": "Absolutely level. Do not tip your hand. The ambiguity must survive.", "gloss": "Those who have the power to hurt others but choose not to", "commentary": "The opening describes the FYM without naming him. 'Power to hurt' — beauty is a weapon. 'Will do none' — restraint or indifference? The ambiguity is the poem."},
+        {"line_number": 3, "emphasis_words": ["stone", "Unmoved", "cold"], "emotional_note": "The catalogue of coldness — admiring or appalled?", "delivery_note": "Let each adjective land separately: stone. Unmoved. Cold. Each is a small verdict.", "gloss": "Who affect others but are themselves like stone — unmoved, cold, slow to be tempted", "commentary": "'Stone' and 'cold' describe both classical virtue (Stoic restraint) and emotional cruelty. The line is a Rorschach test."},
+        {"line_number": 14, "emphasis_words": ["Lilies", "fester", "worse", "weeds"], "emotional_note": "Proverbial finality — the verdict delivered", "delivery_note": "This is a proverb — speak it as settled truth. The image is olfactory: corruption you can smell.", "gloss": "Rotting lilies smell far worse than common weeds", "commentary": "Proverbial (appears in Edward III, possibly by Shakespeare). The lily is the noblest flower; its corruption is therefore the most offensive. Applied to the FYM: if beauty rots, it becomes worse than plain ugliness."}
+      ],
+      "themes": [
+        {"theme": "power", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "corruption", "prominence": "PRIMARY"},
+        {"theme": "appearance_vs_reality", "prominence": "SECONDARY"},
+        {"theme": "restraint", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "IMPLIED", "evidence": "The entire sonnet describes the FYM without naming him — 'power to hurt,' 'stone,' 'cold,' 'lords and owners of their faces'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The analytical voice observing from a deliberate distance"}
+      ],
+      "line_devices": [
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "are themselves as stone, / Unmoved, cold", "explanation": "The FYM as stone — classical restraint or emotional deadness. The metaphor refuses to resolve."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "husband nature's riches from expense", "explanation": "'Husband' = (1) manage thriftily and (2) echoes the procreation sonnets' marriage argument. These people hoard rather than share."},
+        {"line_number": 9, "device_id": "CONCEIT", "quotation": "The summer's flower is to the summer sweet", "explanation": "The botanical conceit: the FYM as a flower that is beautiful to others but lives and dies alone — self-contained narcissism."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "Lilies that fester, smell far worse than weeds", "explanation": "The corrupted lily: noble beauty rotted is worse than common ugliness. A proverbial image applied devastatingly to the FYM."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet's power lies in its sustained ambiguity — every line can be read as praise or indictment. The rhetorical undecidability IS the meaning."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker's cold detachment after the emotional turbulence of 40-42 is itself a dramatic choice — withdrawal as response to betrayal."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The progression from stone (human) to flower (natural) to festering lily (corrupted natural) drives the argument's escalation."}
+      ]
+    },
+    {
+      "number": 129,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "Lust in action is a waste of spirit in shame. Before satisfaction: murderous, savage, perjured. After: despised. During: bliss. The world knows this, yet no one can resist the heaven that leads to hell.",
+        "speaker_stance": "frenzied, self-lacerating",
+        "emotional_arc": "explosive diagnosis -> accelerating catalogue -> temporal compression -> helpless confession",
+        "dramatic_situation": "The Speaker anatomizes his own lust for the Dark Lady. This is not philosophical abstraction — it is post-coital self-disgust elevated to universal statement.",
+        "subtext": "The frenzy of the rhythm — no pause, no qualification — reveals a speaker in the grip of exactly the compulsion he describes. The sonnet performs the thing it condemns.",
+        "analysis_text": "Sonnet 129 is the most violent poem in the sequence — not depicting physical violence but enacting psychological violence against the self. The opening pun is devastating: 'The expense of spirit in a waste of shame' — 'spirit' means both soul and semen, 'waste' means both expenditure and desert/wasteland, 'shame' means both guilt and genitalia (pudendum). The entire sonnet is packed into that first line. What follows is a headlong catalogue of lust's qualities: 'perjur'd, murderous, bloody, full of blame, / Savage, extreme, rude, cruel, not to trust' — the adjectives pile up without connectives, breathless, out of control. The sonnet's temporal structure is extraordinary: before sex (hunted), during sex (bliss), after sex (despised) — compressed into lines that refuse to settle into any stable tense. 'Mad in pursuit and in possession so' — madness before and after, with no lucid interval. The couplet's chiasmus — 'All this the world well knows; yet none knows well' — turns knowing into not-knowing. Universal knowledge of lust's destructiveness changes nothing. The 'heaven that leads men to this hell' is the orgasm — divine pleasure that delivers damnation."
+      },
+      "directing": {
+        "scene_setting": "Post-coital. The Speaker alone, or in the DL's bed, unable to stop thinking. The poem should feel like it was written in a fever.",
+        "character_note": "The Speaker is not moralizing — he is confessing. He is the lustful person he describes. The universal statements are autobiography in disguise.",
+        "fym_note": "Absent from the surface, but the betrayal with the DL is the context. The lust described here is what drove the triangle.",
+        "dl_note": "She is the 'heaven that leads men to this hell' — the object of the lust anatomized. She is never named but is the gravitational center of the sonnet.",
+        "overall_arc": "Begin with the controlled explosion of line 1, accelerate through the catalogue (Q1-Q2) with increasing breathlessness, attempt synthesis in Q3, and deliver the couplet with the exhaustion of someone who has fought and lost.",
+        "key_moments": [
+          {"line": 1, "note": "The triple pun (spirit/waste/shame) must all be present. Speak slowly enough that the meanings register."},
+          {"line": 4, "note": "'Savage, extreme, rude, cruel, not to trust' — staccato. Each adjective is a blow."},
+          {"line": 9, "note": "'Mad in pursuit and in possession so' — the temporal compression. No escape: mad before, mad during, mad after."},
+          {"line": 14, "note": "'The heaven that leads men to this hell' — 'heaven' = orgasm, 'hell' = consequence. The sacred and profane fused."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["expense", "spirit", "waste", "shame"], "emotional_note": "Controlled explosion — every word is a pun", "delivery_note": "Slow. Every word has double meaning. Let them all register: spirit (soul/semen), waste (expenditure/wasteland), shame (guilt/genitalia).", "gloss": "The expenditure of vital spirit in a wasteland of shame is lust consummated", "commentary": "The most densely punning line in the sonnets. 'Spirit' = semen (common Elizabethan usage). 'Waste' = (1) expenditure, (2) wasteland. 'Shame' = (1) guilt, (2) pudendum. The entire sonnet is folded into this line."},
+        {"line_number": 4, "emphasis_words": ["Savage", "extreme", "rude", "cruel"], "emotional_note": "Frenzied catalogue — each word a separate accusation", "delivery_note": "Staccato delivery. No connectives — the adjectives pile up like blows. Don't smooth them out.", "gloss": "Savage, extreme, crude, cruel, not to be trusted", "commentary": "Nine adjectives in two lines with no coordinating conjunctions (asyndeton). The syntax performs the loss of control it describes."},
+        {"line_number": 9, "emphasis_words": ["Mad", "pursuit", "possession"], "emotional_note": "Temporal compression — no escape", "delivery_note": "'Mad in pursuit AND in possession so' — emphasis on the 'and.' There is no sane moment. Before, during, after: all mad.", "gloss": "Insane while pursuing and insane once having", "commentary": "The temporal structure collapses: pursuit (before) and possession (during/after) are equally mad. No interval of sanity."},
+        {"line_number": 13, "emphasis_words": ["world", "well", "knows", "none", "knows", "well"], "emotional_note": "The chiasmus — knowledge that changes nothing", "delivery_note": "The chiasmus: 'well knows / knows well.' Make both 'well's audible. Universal knowledge fails to become practical wisdom.", "gloss": "Everyone knows this; yet no one knows how to avoid it", "commentary": "The chiasmus turns 'knowing well' into 'not knowing well enough.' The sonnet's entire argument proves itself useless — knowing about lust doesn't prevent lust."},
+        {"line_number": 14, "emphasis_words": ["heaven", "leads", "hell"], "emotional_note": "The final confession — desire as damnation", "delivery_note": "Heaven = the orgasm. Hell = the aftermath. Deliver with the exhaustion of someone who has been through it and will go through it again.", "gloss": "To resist the heavenly pleasure that leads men to this hellish state", "commentary": "'Heaven' = sexual pleasure/orgasm. 'Hell' = (1) post-coital despair, (2) vagina (Elizabethan slang). The sacred and profane are fused. The DL's body is both paradise and damnation."}
+      ],
+      "themes": [
+        {"theme": "lust", "prominence": "PRIMARY"},
+        {"theme": "self_disgust", "prominence": "PRIMARY"},
+        {"theme": "sexuality", "prominence": "PRIMARY"},
+        {"theme": "self_deception", "prominence": "SECONDARY"},
+        {"theme": "irony", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "The 'heaven that leads men to this hell' — the unnamed object of lust"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "The universal 'men' is autobiography — the Speaker is the lustful subject"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PUN", "quotation": "The expense of spirit in a waste of shame", "explanation": "Triple pun: spirit (soul/semen), waste (expenditure/wasteland), shame (guilt/genitalia). The most densely packed line in the sonnets."},
+        {"line_number": 4, "device_id": "ASSONANCE", "quotation": "Savage, extreme, rude, cruel, not to trust", "explanation": "Asyndeton: no conjunctions between adjectives. The breathless piling-up enacts loss of control."},
+        {"line_number": 7, "device_id": "SIMILE", "quotation": "as a swallow'd bait, / On purpose laid to make the taker mad", "explanation": "Lust as a baited hook — the victim swallows and is driven mad. Fishing metaphor for sexual entrapment."},
+        {"line_number": 13, "device_id": "CHIASMUS", "quotation": "All this the world well knows; yet none knows well", "explanation": "ABBA structure: well knows / knows well. Universal knowledge inverted into universal failure."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "the heaven that leads men to this hell", "explanation": "Heaven/hell: sexual pleasure is simultaneously divine and damning. The paradox is irresolvable."}
+      ],
+      "modes": [
+        {"mode_id": "PROSODIC", "priority": 3, "rationale": "The sonnet's rhythm IS its meaning: the breathless catalogue, the temporal compressions, the explosive monosyllables. This is the poem to teach how sound enacts sense."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker as self-lacerating confessor — performing the diagnosis of a disease he cannot cure."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument is a trap: the couplet proves that arguing against lust is futile. The sonnet undermines its own rhetoric."}
+      ]
+    },
+    {
+      "number": 130,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker catalogues everything the Dark Lady is NOT — her eyes aren't like the sun, her lips aren't red as coral, her hair is wires, her breath reeks — then reverses everything in the couplet: she is as rare as any woman falsely praised with such comparisons.",
+        "speaker_stance": "witty, affectionate, subversive",
+        "emotional_arc": "comic deflation -> accumulating anti-blazon -> the delayed turn -> genuine love declaration",
+        "dramatic_situation": "The Speaker mocks Petrarchan convention while simultaneously declaring real love. The anti-blazon is not mockery of the DL but mockery of the poetic tradition that demands false praise.",
+        "subtext": "The sonnet's wit conceals genuine feeling. By refusing to lie about the DL's appearance, the Speaker claims a higher form of love: one grounded in truth rather than convention. This is the opposite of Sonnet 138's knowing mutual deception.",
+        "analysis_text": "Sonnet 130 is the most famous anti-Petrarchan poem in English, and its brilliance lies in making the subversion itself an act of love. Each line of the first twelve takes a standard blazon comparison and denies it: eyes/sun, lips/coral, breasts/snow, hair/wires, cheeks/roses, breath/perfume, voice/music, walk/goddess. The catalogue is comic — 'reeks' in line 8 is the most aggressively unpoetic word in the sequence — but each denial is also an observation. The Speaker has looked at this woman honestly. He knows what she looks like, what she sounds like, how she walks. The delayed volta at line 13 — 'And yet by heaven' — is one of Shakespeare's great reversals. The oath 'by heaven' elevates the tone from comic inventory to genuine declaration. 'I think my love as rare, / As any she belied with false compare' — 'rare' means precious, not common. The DL is as valuable as any woman praised with lying comparisons. The real target is not the DL but the tradition of false praise. The sonnet's argument: I love you more honestly than any Petrarchan poet loves his idealized mistress, because I love you as you are."
+      },
+      "directing": {
+        "scene_setting": "Intimate, playful. The Speaker is with the DL or thinking of her fondly. This is one of the few DL sonnets with genuine warmth.",
+        "character_note": "The Speaker is being funny on purpose. The comedy is generous, not cruel. He is laughing at poetic convention, not at the DL.",
+        "fym_note": "Absent. This is a pure DL sonnet — and one of the rare ones where the Speaker seems to genuinely enjoy her company.",
+        "dl_note": "The DL as real woman, not idealized fantasy. Dark-haired ('black wires'), dark-complexioned ('dun' breasts), mortal (treads on the ground). If Emilia Lanier: Italian-Jewish heritage, musician (Sonnet 128), dark-featured. The anti-blazon is actually an intimate portrait.",
+        "overall_arc": "Play the first 12 lines as comedy — accumulating denials with deadpan timing. The laugh builds. Then line 13 pivots: 'And yet by heaven' should feel like a genuine declaration breaking through the wit.",
+        "key_moments": [
+          {"line": 1, "note": "'Nothing like the sun' — deadpan. The first denial sets the comic premise."},
+          {"line": 4, "note": "'Black wires grow on her head' — the most absurd image. Let the comedy peak."},
+          {"line": 8, "note": "'Reeks' — the most aggressively unpoetic word. It should get a reaction."},
+          {"line": 12, "note": "'Treads on the ground' — after 11 lines of what she ISN'T, this is what she IS: human, mortal, real."},
+          {"line": 13, "note": "'And yet by heaven' — the pivot. The comedy stops. This is the real thing. The oath elevates everything."},
+          {"line": 14, "note": "'As any she belied with false compare' — the target is revealed: not the DL but the lying tradition. She is as rare as any woman praised with lies."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["mistress", "eyes", "nothing", "sun"], "emotional_note": "Deadpan — setting up the anti-blazon", "delivery_note": "Flat, factual. Don't signal comedy yet — the humor builds from accumulation.", "gloss": "My mistress's eyes look nothing like the sun", "commentary": "The opening negation sets the pattern. Every Petrarchan poet compared his beloved's eyes to the sun; Shakespeare begins by denying it."},
+        {"line_number": 4, "emphasis_words": ["black", "wires", "head"], "emotional_note": "Comic peak — the most absurd comparison", "delivery_note": "The image of wire hair is deliberately grotesque. Let it be funny.", "gloss": "If hair can be compared to wires, black wires grow on her head", "commentary": "'Wires' was actually a standard Elizabethan comparison for golden hair (fine gold wire). Shakespeare applies it to black hair, making it absurd and literal."},
+        {"line_number": 8, "emphasis_words": ["reeks"], "emotional_note": "The most aggressively unpoetic word in the sequence", "delivery_note": "'Reeks' should land as a shock. In Elizabethan English it means 'emanates' but Shakespeare uses its more pungent connotation.", "gloss": "Than in the breath that comes from my mistress", "commentary": "'Reeks' in 1609 primarily meant 'rises as vapor/emanates' — less offensive than modern usage. But Shakespeare knew the word's blunter edge."},
+        {"line_number": 12, "emphasis_words": ["treads", "ground"], "emotional_note": "The grounding: she is human, real, mortal", "delivery_note": "After eleven lines of negation, this positive statement is revolutionary. She walks on the actual earth.", "gloss": "My mistress, when she walks, walks on the ground", "commentary": "The only positive physical description in the anti-blazon: she treads on the ground. She is mortal, earthbound, real. This is the foundation of the couplet's reversal."},
+        {"line_number": 13, "emphasis_words": ["yet", "heaven", "love", "rare"], "emotional_note": "The turn — genuine feeling breaking through", "delivery_note": "'And yet by heaven' — the oath signals sincerity. Everything changes here. This is not comedy anymore.", "gloss": "And yet, I swear, I think my love is as precious", "commentary": "The volta arrives at line 13 — the latest possible point. 'By heaven' is an oath: the Speaker swears to the sincerity of what follows. 'Rare' = precious, extraordinary."},
+        {"line_number": 14, "emphasis_words": ["she", "belied", "false", "compare"], "emotional_note": "The target revealed: false praise, not the DL", "delivery_note": "The final line reframes everything: the problem was never the DL but the poetic tradition that demands lying praise.", "gloss": "As any woman misrepresented by false comparisons", "commentary": "'Belied' = lied about, misrepresented. 'False compare' = the Petrarchan tradition of extravagant comparison. The DL is not diminished by the anti-blazon — the tradition is."}
+      ],
+      "themes": [
+        {"theme": "anti_petrarchanism", "prominence": "PRIMARY"},
+        {"theme": "beauty_standards", "prominence": "PRIMARY"},
+        {"theme": "truth_vs_art", "prominence": "PRIMARY"},
+        {"theme": "irony", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'My mistress' — described throughout. Dark hair, dark complexion, mortal. The most detailed physical portrait of the DL in the sequence."},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I have seen,' 'I love to hear,' 'I think my love' — the Speaker as honest observer and genuine lover"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "BLAZON", "quotation": "My mistress' eyes are nothing like the sun", "explanation": "Anti-blazon: the systematic negation of Petrarchan comparisons. The entire sonnet is a blazon in reverse."},
+        {"line_number": 4, "device_id": "IRONY", "quotation": "If hairs be wires, black wires grow on her head", "explanation": "The literal application of a conventional compliment (golden wire = beautiful hair) to black hair makes the convention absurd."},
+        {"line_number": 8, "device_id": "IRONY", "quotation": "Than in the breath that from my mistress reeks", "explanation": "'Reeks' is the most unpoetic word possible in a love poem. Shakespeare uses the word's pungent edge deliberately."},
+        {"line_number": 13, "device_id": "VOLTA", "quotation": "And yet by heaven, I think my love as rare", "explanation": "The volta at line 13 — the latest possible point. Two lines to reverse twelve lines of negation. The oath 'by heaven' signals absolute sincerity."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "As any she belied with false compare", "explanation": "The paradox: honest deflation is more loving than false praise. The anti-blazon is a love poem disguised as mockery."}
+      ],
+      "modes": [
+        {"mode_id": "INTERTEXTUAL", "priority": 3, "rationale": "The entire sonnet is a response to — and subversion of — the Petrarchan blazon tradition (Petrarch, Sidney, Spenser). Impossible to read without that context."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The comic timing (12 lines of setup, 2-line reversal) is theatrical. The Speaker is performing wit for the DL's benefit — and ours."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument: honest love > conventional flattery. The anti-blazon IS the love declaration — truth as the highest compliment."}
+      ]
+    },
+    {
+      "number": 138,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The DL swears she is faithful; the Speaker believes her though he knows she lies. She pretends he is young; he pretends to believe her. They sustain a mutual fiction. The couplet's 'I lie with her' puns lie/copulate — their relationship IS their mutual deception.",
+        "speaker_stance": "wearily self-aware, complicit",
+        "emotional_arc": "mutual deception stated -> reasons explored -> the unasked questions -> rueful acceptance",
+        "dramatic_situation": "The Speaker and DL have reached an accommodation: they lie to each other and know it. This is the most psychologically modern sonnet in the sequence — a portrait of a relationship sustained by agreed-upon falsehood.",
+        "subtext": "The Speaker's acceptance of the arrangement is not peace but exhaustion. He is too old and too wise to fight the lies. The pun on 'lie' in the couplet is the darkest in the sequence: to sleep with someone is to lie with them in every sense.",
+        "analysis_text": "Sonnet 138 is the most psychologically complex poem in the Dark Lady sequence. Its subject is mutual self-deception as the basis of a sexual relationship. The opening paradox is immediately devastating: 'When my love swears that she is made of truth, / I do believe her, though I know she lies.' The Speaker knows the DL is lying about her fidelity and chooses to believe her anyway. But Q2 reveals his motive: he wants her to think him young. So the deception is reciprocal — she lies about fidelity, he lies about age, and both know the other is lying. Line 8 states the result with brutal clarity: 'On both sides thus is simple truth suppressed.' The volta asks the questions they never ask each other: 'Wherefore says she not she is unjust? / And wherefore say not I that I am old?' The answer (line 11) is devastating: 'love's best habit is in seeming trust' — love's most comfortable garment is the appearance of trust. The couplet's pun on 'lie' is the sonnet's crown: 'Therefore I lie with her, and she with me' — lie (recline), lie (copulate), lie (deceive). All three meanings operate simultaneously. Their sexual relationship IS their mutual deception."
+      },
+      "directing": {
+        "scene_setting": "Pillow talk. The Speaker and DL in bed or after bed. The tone is intimate, rueful, world-weary.",
+        "character_note": "The Speaker is not angry — he is past anger into a kind of exhausted acceptance. He and the DL have negotiated a truce based on mutual dishonesty.",
+        "fym_note": "Absent, but the DL's infidelity with the FYM is the lie being suppressed.",
+        "dl_note": "She is active here: she 'swears,' she 'thinks,' she 'knows.' She is a full agent, not just an object. The mutual deception makes them equals in a way the FYM sonnets never achieve.",
+        "overall_arc": "Open with the paradox (believe/know she lies) in a conversational tone. Build through the reciprocal deception. The volta's rhetorical questions should sound genuinely curious — why DON'T we tell the truth? The couplet lands with resigned warmth.",
+        "key_moments": [
+          {"line": 2, "note": "'Though I know she lies' — flat delivery. The knowledge changes nothing. He believes because he chooses to."},
+          {"line": 8, "note": "'On both sides thus is simple truth suppressed' — the diagnosis. Both sides. Both liars. The symmetry is chilling."},
+          {"line": 11, "note": "'Love's best habit is in seeming trust' — the great line. 'Habit' = garment AND custom. Love wears trust like a costume."},
+          {"line": 13, "note": "'I lie with her, and she with me' — the triple pun on 'lie.' Let all three meanings vibrate: recline, copulate, deceive."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["love", "swears", "made", "truth"], "emotional_note": "The premise: she insists on her faithfulness", "delivery_note": "Conversational tone. 'Swears that she is made of truth' — she protests too much.", "gloss": "When my love swears she is entirely truthful", "commentary": "'Made of truth' — constituted of truthfulness. The phrase is ironic: she is made of lies, not truth. But the Speaker pretends otherwise."},
+        {"line_number": 2, "emphasis_words": ["believe", "know", "lies"], "emotional_note": "The paradox stated — belief against knowledge", "delivery_note": "The contradiction should be audible: 'believe' and 'know she lies' in the same breath. Don't try to resolve it.", "gloss": "I believe her, even though I know she's lying", "commentary": "The core paradox: voluntary belief against conscious knowledge. This is not self-deception — it is chosen deception. The Speaker is a willing participant."},
+        {"line_number": 8, "emphasis_words": ["both", "sides", "simple", "truth", "suppressed"], "emotional_note": "The diagnosis — mutual suppression of truth", "delivery_note": "'On both sides' — emphasize the mutuality. This is a collaborative fiction.", "gloss": "And so both of us suppress the plain truth", "commentary": "'Simple truth' = plain, unadorned truth. 'Suppressed' = actively held down. The effort of maintaining the fiction is acknowledged."},
+        {"line_number": 11, "emphasis_words": ["love's", "best", "habit", "seeming", "trust"], "emotional_note": "The aphorism — love's greatest comfort is fake trust", "delivery_note": "Speak it as a discovery — a truth the Speaker has learned the hard way. 'Habit' carries its double meaning.", "gloss": "Love's most comfortable practice is pretending to trust", "commentary": "'Habit' = (1) garment (love wears trust as a costume) and (2) habitual practice. 'Seeming' = appearing to be but not being. The line is an aphorism for the entire DL relationship."},
+        {"line_number": 13, "emphasis_words": ["lie", "her", "she", "me"], "emotional_note": "The triple pun — the sonnet's consummation", "delivery_note": "Let 'lie' vibrate with all three meanings: recline, copulate, deceive. Each meaning is true simultaneously.", "gloss": "Therefore I sleep with her, and she with me / And in our faults we are flattered by lies", "commentary": "'Lie with' = (1) recline beside, (2) have sex with, (3) tell lies to. All three are true. Their sexual relationship IS their mutual deception. The pun is the sonnet's intellectual climax."}
+      ],
+      "themes": [
+        {"theme": "deception", "prominence": "PRIMARY"},
+        {"theme": "self_deception", "prominence": "PRIMARY"},
+        {"theme": "sexuality", "prominence": "SECONDARY"},
+        {"theme": "age", "prominence": "SECONDARY"},
+        {"theme": "irony", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'My love' who 'swears she is made of truth' — active agent in the mutual deception"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I do believe,' 'I know she lies,' 'my days are past the best' — the Speaker as aging, self-aware partner in deception"}
+      ],
+      "line_devices": [
+        {"line_number": 2, "device_id": "PARADOX", "quotation": "I do believe her, though I know she lies", "explanation": "Believing what you know to be false: the core paradox. Not self-deception but chosen deception — worse."},
+        {"line_number": 11, "device_id": "PUN", "quotation": "love's best habit is in seeming trust", "explanation": "'Habit' = (1) garment and (2) habitual practice. Love dresses in the costume of trust and practices deception as routine."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "Therefore I lie with her, and she with me", "explanation": "Triple pun: lie = (1) recline, (2) copulate, (3) deceive. All three meanings operate simultaneously. The relationship is constituted by lying."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "And in our faults by lies we flatter'd be", "explanation": "The final irony: lies as flattery, faults as shared ground. The relationship's foundation is mutual failure."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "Two characters performing a scene of mutual deception — the psychological complexity is theatrical. This is a two-person drama."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument: truth destroys love, so lying preserves it. The logic is impeccable and devastating."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Truth vs. deception, the sequence's deepest theme, reaches its most nuanced formulation. Truth is not superior to lies — it is simply less livable."}
+      ]
+    },
+    {
+      "number": 144,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker has two loves: a fair male angel (the FYM) and a dark female devil (the DL). The devil is tempting the angel. The Speaker suspects the worst but can never know for certain — until the bad angel 'fires' the good one out (infects him with venereal disease).",
+        "speaker_stance": "allegorical, anguished, crude",
+        "emotional_arc": "morality play setup -> seduction narrative -> tortured suspicion -> devastating sexual innuendo",
+        "dramatic_situation": "The love triangle made explicit in allegorical terms: angel, devil, and the soul fought over. The couplet's 'fire out' means infect with VD — the crude material reality beneath the morality play.",
+        "subtext": "The morality-play framework (angel vs. devil) dignifies the situation but the couplet shatters the allegory with sexual disease. The Speaker's real fear is not moral corruption but physical contamination passing from the DL through the FYM back to him.",
+        "analysis_text": "Sonnet 144 makes the love triangle explicit for the first and only time. The allegory is a medieval morality play: 'Two loves I have of comfort and despair' — the better angel (FYM, 'a man right fair') and the worser spirit (DL, 'a woman colour'd ill'). The setup is schematic: good/evil, fair/dark, man/woman, angel/devil. But Shakespeare subverts the morality-play framework immediately: Q2's 'To win me soon to hell, my female evil, / Tempteth my better angel from my side' — the devil is not tempting the Speaker but seducing the angel. The Speaker is sidelined in his own morality play. Q3 shifts to the torture of not-knowing: 'Suspect I may, yet not directly tell.' 'Both to each friend' — 'friend' carrying its sexual connotation. The devastating final couplet: 'Till my bad angel fire my good one out.' 'Fire out' = drive out AND infect with the 'fire' of venereal disease. 'Hell' in line 12 is Elizabethan slang for vagina. The morality play collapses into the crudest possible material reality: the Speaker will only know the FYM has slept with the DL when the FYM gets VD."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone, constructing the allegory as a way to think about the unbearable. The morality-play framework is a coping mechanism.",
+        "character_note": "The Speaker starts in allegorical mode (controlled, distanced) and ends in crude sexual reality (panicked, visceral). The collapse of register IS the drama.",
+        "fym_note": "The FYM as angel: 'a man right fair,' purity threatened by the DL's seduction. The Speaker's concern for the FYM's purity is simultaneously tender and possessive.",
+        "dl_note": "The DL as devil: 'a woman colour'd ill,' 'female evil,' 'foul pride.' The misogyny is intense but the Speaker is projecting: she is 'evil' because she has power over both men.",
+        "overall_arc": "Begin with the allegory in a presentational, almost liturgical tone. Let the seduction narrative in Q2 become more agitated. Q3's uncertainty should be tortured. The couplet drops the allegory entirely — speak the crude reality.",
+        "key_moments": [
+          {"line": 1, "note": "'Two loves I have' — the only line in the sequence that names both loves simultaneously. The triangle stated."},
+          {"line": 4, "note": "'A woman colour'd ill' — 'colour'd ill' means dark-complexioned AND morally corrupt. Both meanings."},
+          {"line": 6, "note": "'Tempteth my better angel from my side' — the DL seducing the FYM. The Speaker watches helplessly."},
+          {"line": 12, "note": "'One angel in another's hell' — 'hell' = vagina. The allegory collapses into sexual slang."},
+          {"line": 14, "note": "'Fire my good one out' — venereal disease. The crudest line in the sequence. The morality play ends in the clinic."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Two", "loves", "comfort", "despair"], "emotional_note": "The triangle named — allegorical framework established", "delivery_note": "Present it formally, almost like a sermon or morality play prologue. Two loves. Comfort and despair.", "gloss": "I have two loves — one that brings comfort, one that brings despair", "commentary": "The only moment in the sequence where the triangle is stated directly. 'Comfort' = the FYM, 'despair' = the DL. The medieval morality-play structure is explicit."},
+        {"line_number": 3, "emphasis_words": ["better", "angel", "man", "fair"], "emotional_note": "The FYM idealized — angel, fair, male", "delivery_note": "Tenderness for the FYM — he is the good angel. 'Right fair' = genuinely beautiful.", "gloss": "The better angel is a handsome man", "commentary": "'Man right fair' — the FYM as male angel. 'Right' = truly, genuinely. The gendering is explicit and important: the good angel is male, the bad one female."},
+        {"line_number": 4, "emphasis_words": ["worser", "spirit", "woman", "colour'd", "ill"], "emotional_note": "The DL demonized — the bad spirit", "delivery_note": "'Colour'd ill' carries both meanings: dark-skinned and evil-natured. Don't soften it.", "gloss": "The worse spirit is a dark-complexioned woman", "commentary": "'Colour'd ill' = (1) dark-complexioned and (2) of evil character. The pun makes appearance and morality identical. The misogyny and racial coding are explicit."},
+        {"line_number": 12, "emphasis_words": ["angel", "another's", "hell"], "emotional_note": "The allegory collapses into sexual slang", "delivery_note": "'Hell' = vagina (Elizabethan slang). Let the word's double meaning register: theological and anatomical.", "gloss": "I suspect one angel is in the other's hell", "commentary": "'Hell' = (1) place of damnation and (2) vagina (common Elizabethan usage, cf. Much Ado About Nothing). The allegory and the anatomy merge."},
+        {"line_number": 14, "emphasis_words": ["bad", "angel", "fire", "good", "out"], "emotional_note": "The crudest line in the sequence — VD as final proof", "delivery_note": "Drop the allegory entirely. 'Fire out' = infect with venereal disease. Speak it with brutal directness.", "gloss": "Until my bad angel infects my good one with venereal disease", "commentary": "'Fire out' = (1) drive out by fire and (2) infect with the 'fire' of syphilis or gonorrhea. The morality play ends with a medical diagnosis. The Speaker will only know the truth through the FYM's body."}
+      ],
+      "themes": [
+        {"theme": "betrayal", "prominence": "PRIMARY"},
+        {"theme": "sexuality", "prominence": "PRIMARY"},
+        {"theme": "jealousy", "prominence": "PRIMARY"},
+        {"theme": "good_vs_evil", "prominence": "SECONDARY"},
+        {"theme": "deception", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'The better angel,' 'a man right fair,' 'my saint,' 'my good one'"},
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'The worser spirit,' 'a woman colour'd ill,' 'my female evil,' 'my bad angel'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Two loves I have' — the Speaker as the soul fought over in the morality play"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ANTITHESIS", "quotation": "Two loves I have of comfort and despair", "explanation": "Comfort/despair — the two loves defined by their opposing effects on the Speaker."},
+        {"line_number": 3, "device_id": "CONCEIT", "quotation": "The better angel is a man right fair, / The worser spirit a woman colour'd ill", "explanation": "The morality-play conceit: the FYM as good angel, the DL as bad spirit. The allegory governs the entire sonnet until the couplet shatters it."},
+        {"line_number": 4, "device_id": "PUN", "quotation": "a woman colour'd ill", "explanation": "'Colour'd ill' = (1) dark-complexioned and (2) of evil character. Appearance and morality are fused."},
+        {"line_number": 12, "device_id": "PUN", "quotation": "I guess one angel in another's hell", "explanation": "'Hell' = (1) damnation and (2) vagina. The theological and anatomical merge."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "Till my bad angel fire my good one out", "explanation": "'Fire out' = (1) drive out by fire and (2) infect with venereal 'fire' (syphilis/gonorrhea). The crudest pun in the sequence."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The morality-play allegory IS drama — and its collapse into crude sexual reality is the dramatic event."},
+        {"mode_id": "INTERTEXTUAL", "priority": 2, "rationale": "The morality-play framework (Everyman, Doctor Faustus's good and bad angels) is subverted by Shakespeare's anatomical crudeness."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The argument: I cannot know the truth through observation (the FYM's face is unreadable — cf. 93), only through physical evidence (disease)."}
+      ]
+    }
+  ]
+}

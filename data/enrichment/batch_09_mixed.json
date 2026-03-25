@@ -1,0 +1,367 @@
+{
+  "batch": "09_mixed",
+  "description": "Astrology sonnet, exchanged hearts, humble station, vassalage, sleeplessness diptych, dead friends, posthumous reading",
+  "sonnets": [
+    {
+      "number": 14,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker disclaims conventional astrology — he cannot predict plagues, weather, or princes' fortunes from the stars. But from the FYM's eyes he reads a different prophecy: truth and beauty will thrive IF the FYM converts to breeding. Otherwise: 'Thy end is truth's and beauty's doom and date.'",
+        "speaker_stance": "witty, prophetic",
+        "emotional_arc": "disclaimer of conventional astrology -> the FYM's eyes as the true stars -> the forking prophecy",
+        "dramatic_situation": "The Speaker replaces celestial astrology with a personal one: the FYM's eyes are his stars, and he reads in them either hope (if the FYM breeds) or doom (if he doesn't). The forking prophecy — thrive or perish — is the procreation argument as horoscope.",
+        "subtext": "The replacement of real stars with the FYM's eyes is extravagant flattery disguised as modesty. The Speaker claims no knowledge of astrology — only knowledge of the FYM's face. The prophecy's conditional structure makes the FYM responsible for his own destiny.",
+        "analysis_text": "Sonnet 14 recasts the procreation argument as a personal astrology. Q1-Q2 systematically disclaim conventional astrological powers: the Speaker cannot predict plagues, dearths, seasons, weather, or political fortunes from the stars. The eight-line disclaimer is the longest negative catalogue in the procreation sequence. The volta redirects everything: 'But from thine eyes my knowledge I derive, / And constant stars in them I read such art.' The FYM's eyes replace the celestial stars as the Speaker's source of prophecy. 'Constant stars' is a paradox — real stars are supposedly constant but astrology reads change in them; the FYM's eyes are 'constant' (beautiful, unchanging) but their prophecy concerns change (beauty's fate). The prophecy itself is conditional: if the FYM 'converts to store' (breeds), truth and beauty thrive. If not: 'Thy end is truth's and beauty's doom and date.' 'Doom' = fate/judgment; 'date' = expiry. The FYM's death without children would be the death sentence for truth and beauty themselves."
+      },
+      "directing": {
+        "scene_setting": "The Speaker as a kind of personal astrologer, reading the FYM's face instead of the sky.",
+        "character_note": "Playful authority — the disclaimed astrology is also a display of learning. The Speaker knows enough to disclaim, which is itself a form of knowing.",
+        "fym_note": "The FYM's eyes as 'constant stars' — the most flattering comparison in the procreation sequence. His face is a horoscope the Speaker reads daily.",
+        "dl_note": "Absent.",
+        "overall_arc": "Build the disclaimer through Q1-Q2 (cataloguing what the Speaker can't do), pivot to what he CAN read at line 9, and deliver the forking prophecy in the couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'Not from the stars do I my judgement pluck' — the disclaimer begins. Eight lines of what the Speaker doesn't claim."},
+          {"line": 9, "note": "'But from thine eyes my knowledge I derive' — the pivot. The FYM's eyes replace the stars."},
+          {"line": 14, "note": "'Thy end is truth's and beauty's doom and date' — the dark prophecy. If the FYM refuses, truth and beauty die with him."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 9, "emphasis_words": ["thine", "eyes", "knowledge", "derive"], "emotional_note": "The pivot — personal astrology replaces celestial", "delivery_note": "Stress 'thine eyes' — these are the Speaker's true stars. The entire eight-line disclaimer was building to this.", "gloss": "But from your eyes I draw my knowledge", "commentary": "'From thine eyes' replaces 'from the stars' — the FYM's face as the only horoscope the Speaker needs. 'Derive' = draw from, as one draws water from a well."},
+        {"line_number": 14, "emphasis_words": ["end", "truth's", "beauty's", "doom", "date"], "emotional_note": "The dark prophecy — total extinction", "delivery_note": "Heavy, final. 'Doom and date' — both fate and expiry. The FYM's death without children kills truth and beauty themselves.", "gloss": "Your death is the death sentence and expiry date of truth and beauty", "commentary": "'Doom' = (1) fate/judgment and (2) doomsday. 'Date' = expiry date. The FYM's individual death becomes cosmic extinction — truth and beauty themselves die with him."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "astrology", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "truth", "prominence": "SECONDARY"},
+        {"theme": "prophecy", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thine eyes,' 'thy end' — the FYM whose eyes are the Speaker's stars"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I my judgement pluck,' 'my knowledge I derive' — the Speaker as personal astrologer"}
+      ],
+      "line_devices": [
+        {"line_number": 10, "device_id": "METAPHOR", "quotation": "constant stars in them I read such art", "explanation": "The FYM's eyes as stars — replacing celestial astrology with personal divination from the beloved's face."},
+        {"line_number": 14, "device_id": "HYPERBOLE", "quotation": "Thy end is truth's and beauty's doom and date", "explanation": "The FYM's death as the death of truth and beauty themselves. Individual mortality elevated to cosmic extinction."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The eight-line disclaimer followed by the two-line claim is a forensic structure: deny conventional knowledge to establish a more personal authority."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "Stars → eyes: the controlling image substitution replaces cosmic with personal, public with intimate."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The astrology disclaimer engages with contemporary debates about judicial astrology and its legitimacy."}
+      ]
+    },
+    {
+      "number": 22,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker's mirror cannot persuade him he is old because the FYM's youth is the measure of his own age. Their hearts are exchanged — the FYM's beauty is the clothing of the Speaker's heart. Therefore: guard yourself as carefully as I guard you, for when my heart dies, don't expect yours back.",
+        "speaker_stance": "tender, possessive, slightly threatening",
+        "emotional_arc": "the mirror defied -> exchanged hearts conceit -> nursing tenderness -> possessive warning",
+        "dramatic_situation": "The Speaker claims age cannot touch him because his heart lives in the FYM's breast, and the FYM's in his. The heart-exchange is both a love conceit and a possessive claim: I keep your heart, and you cannot have it back.",
+        "subtext": "The warning in the couplet is sharper than it appears: 'Presume not on thy heart when mine is slain' — when I die, don't expect emotional independence. You gave me your heart irrevocably. The tenderness of the nursing image (line 11-12) masks possessiveness.",
+        "analysis_text": "Sonnet 22 develops the conceit of exchanged hearts into a startling possessive claim. Q1's opening is defiant: 'My glass shall not persuade me I am old' — the mirror lies because the Speaker's age is measured not by his own face but by the FYM's youth. Q2 makes the exchange: 'all that beauty that doth cover thee / Is but the seemly raiment of my heart.' The FYM's beauty is a garment worn over the Speaker's heart. 'Which in thy breast doth live, as thine in me' — the hearts have been swapped, and with them the ages: 'How can I then be elder than thou art?' The volta introduces the nurse image: 'Bearing thy heart, which I will keep so chary / As tender nurse her babe from faring ill.' The Speaker will guard the FYM's heart as a nurse guards a child. But the couplet's warning is startling: 'Presume not on thy heart when mine is slain, / Thou gav'st me thine not to give back again.' When the Speaker dies, the FYM cannot reclaim his heart — it was given irrevocably. The love conceit becomes a legal claim: the gift is non-returnable."
+      },
+      "directing": {
+        "scene_setting": "The Speaker looking in a mirror, refusing to see old age because the FYM makes him feel young.",
+        "character_note": "Tender but possessive. The nursing image is sweet; the couplet's warning reveals the possessiveness beneath the tenderness.",
+        "fym_note": "The FYM's heart is in the Speaker's keeping — given away, not to be reclaimed. The power dynamic is inverted: the Speaker HOLDS something of the FYM's.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the mirror-defying assertion, develop the heart-exchange conceit, soften into the nurse image, then land the possessive couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'My glass shall not persuade me I am old' — defiant. The mirror is wrong because the FYM's youth is the true measure."},
+          {"line": 7, "note": "'Which in thy breast doth live, as thine in me' — the exchange stated. Hearts swapped."},
+          {"line": 11, "note": "'As tender nurse her babe' — the nursing image. Sweet, protective. But the couplet will reveal possessiveness."},
+          {"line": 13, "note": "'Presume not on thy heart' — the warning. Don't expect it back. The gift is irrevocable."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["glass", "not", "persuade", "old"], "emotional_note": "Defiant — the mirror is wrong", "delivery_note": "The mirror's evidence is rejected. 'Shall not persuade' — the Speaker has made up his mind against the mirror's truth.", "gloss": "My mirror will not convince me I am old", "commentary": "The mirror, which in Sonnet 3 was an instrument of truth ('Look in thy glass'), is here rejected as a liar. The Speaker's age is determined by the FYM's youth, not his own reflection."},
+        {"line_number": 13, "emphasis_words": ["Presume", "not", "thy", "heart", "mine", "slain"], "emotional_note": "The possessive warning — don't expect it back", "delivery_note": "'Presume not' — imperative, sharp. After the tenderness of the nurse image, this warning should feel like a change in temperature.", "gloss": "Don't count on getting your heart back when mine is killed", "commentary": "'Presume not' = do not assume. When the Speaker dies, the FYM's heart dies with him — it was given irrevocably. The love conceit becomes a legal claim: the gift has no return clause."}
+      ],
+      "themes": [
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "age", "prominence": "PRIMARY"},
+        {"theme": "identity", "prominence": "SECONDARY"},
+        {"theme": "possession", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou,' 'thy heart,' 'thy beauty' — the FYM whose heart the Speaker possesses"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My glass,' 'my heart,' 'I will keep so chary' — the Speaker as possessive guardian"}
+      ],
+      "line_devices": [
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "Is but the seemly raiment of my heart", "explanation": "The FYM's beauty as clothing worn over the Speaker's heart. The beloved's body is a garment for the lover's soul."},
+        {"line_number": 11, "device_id": "SIMILE", "quotation": "As tender nurse her babe from faring ill", "explanation": "The Speaker as nurse guarding the FYM's heart like a baby. Tender but also a claim of custody."},
+        {"line_number": 13, "device_id": "IRONY", "quotation": "Presume not on thy heart when mine is slain", "explanation": "The love conceit's dark implication: the FYM's heart, once given, cannot be reclaimed. Death makes the gift permanent."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The tonal shift from tender nursing to possessive warning is the sonnet's dramatic event. The love conceit reveals a darker possessiveness."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "Mirror → garment → nurse/baby → irrevocable gift. Each image deepens the possessive claim."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Age and identity — the Speaker claims the FYM's youth as his own through the heart-exchange. Love as identity merger."}
+      ]
+    },
+    {
+      "number": 25,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Let the fortunate boast of public honor and proud titles. Princes' favorites spread like marigolds at the sun but die at a frown. The warrior, after a thousand victories, is forgotten for one defeat. But the Speaker, who loves and is loved, cannot be removed.",
+        "speaker_stance": "quietly triumphant",
+        "emotional_arc": "concession to the fortunate -> their fragility exposed -> the speaker's quiet superiority",
+        "dramatic_situation": "The Speaker compares his own low-born but secure love with the fragile fortunes of courtiers and warriors. Public honor is precarious; private love is permanent. The social gap between Speaker and FYM is acknowledged but reframed as the Speaker's advantage.",
+        "subtext": "The Speaker's humble station — 'whom fortune of such triumph bars' — is frankly admitted. He cannot compete with courtiers for public glory. But love's permanence ('may not remove nor be remov'd') outweighs worldly favor that can vanish 'at a frown.'",
+        "analysis_text": "Sonnet 25 reframes social inferiority as emotional security. Q1 concedes to the 'stars' (fortune, birth): those with 'public honour and proud titles' can boast. But Q2 reveals their fragility: princes' favorites 'spread but as the marigold at the sun's eye' — they bloom only in royal favor and 'at a frown they in their glory die.' Q3 extends the example: the warrior 'famoused for fight,' after a thousand victories, is 'razed quite' from honor's book by a single defeat. The logic: worldly glory is precarious because it depends on external judgment. The couplet offers the alternative: 'Then happy I, that love and am belov'd, / Where I may not remove nor be remov'd.' Mutual love — 'love and am belov'd' — is secure because it depends on two hearts, not on fortune, princes, or public opinion. 'Remove nor be remov'd' — the Speaker can neither leave nor be expelled. The security is in the reciprocity."
+      },
+      "directing": {
+        "scene_setting": "The Speaker reflecting on his social position — perhaps watching courtiers or hearing news of a fallen favorite.",
+        "character_note": "Quietly confident. The Speaker knows his social station is low but his love is secure. The tone is not bitter but genuinely content.",
+        "fym_note": "The FYM is the source of the Speaker's security — 'am belov'd.' The social gap between them is acknowledged but love bridges it.",
+        "dl_note": "Absent.",
+        "overall_arc": "Concede the advantages of fortune (Q1), expose their fragility (Q2-Q3), and resolve with quiet confidence in the couplet.",
+        "key_moments": [
+          {"line": 3, "note": "'Whom fortune of such triumph bars' — the Speaker's low station admitted frankly."},
+          {"line": 6, "note": "'As the marigold at the sun's eye' — courtiers as flowers that bloom only in royal favor."},
+          {"line": 11, "note": "'Razed quite' — the warrior's thousand victories erased by one defeat. The fragility of public honor."},
+          {"line": 13, "note": "'Then happy I, that love and am belov'd' — the quiet triumph. Mutual love outweighs all worldly glory."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 6, "emphasis_words": ["marigold", "sun's", "eye"], "emotional_note": "Courtiers as flowers — beautiful but dependent on the sun's gaze", "delivery_note": "The marigold opens to the sun and closes without it. Courtiers do the same with royal favor.", "gloss": "They bloom only when the sun (the prince) looks at them", "commentary": "The marigold follows the sun: a traditional emblem of the courtier's dependence on royal favor. 'Sun's eye' = the prince's gaze. The flower is beautiful but has no independent existence."},
+        {"line_number": 13, "emphasis_words": ["happy", "I", "love", "belov'd"], "emotional_note": "Quiet triumph — mutual love as the ultimate security", "delivery_note": "'Love and am belov'd' — the reciprocity is the key. Not just loving (which could be unrequited) but being loved back.", "gloss": "Then I am happy, who both love and am loved in return", "commentary": "'Love and am belov'd' — active and passive, loving and being loved. The reciprocity is what makes the Speaker secure. 'May not remove nor be remov'd' — the relationship is permanent because it is mutual."}
+      ],
+      "themes": [
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "fortune", "prominence": "PRIMARY"},
+        {"theme": "social_station", "prominence": "PRIMARY"},
+        {"theme": "constancy", "prominence": "SECONDARY"},
+        {"theme": "power", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "IMPLIED", "evidence": "'Am belov'd' — the FYM as the source of the Speaker's security, though not directly addressed"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I, whom fortune of such triumph bars' — the Speaker acknowledging his low station but claiming love's superiority"}
+      ],
+      "line_devices": [
+        {"line_number": 6, "device_id": "SIMILE", "quotation": "But as the marigold at the sun's eye", "explanation": "Courtiers as marigolds: they open to the prince's gaze and close without it. Beauty entirely dependent on external favor."},
+        {"line_number": 11, "device_id": "METAPHOR", "quotation": "Is from the book of honour razed quite", "explanation": "Honor as a book from which names can be erased. A thousand victories mean nothing after one defeat."},
+        {"line_number": 13, "device_id": "ANTITHESIS", "quotation": "love and am belov'd... may not remove nor be remov'd", "explanation": "Active/passive reciprocity: loving AND being loved; unable to leave AND unable to be expelled. The double construction enacts mutuality."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "Argument by contrast: courtiers and warriors have precarious glory; the Speaker has secure love. The logic is: fragile public honor < permanent private love."},
+        {"mode_id": "HISTORICAL", "priority": 2, "rationale": "The social gap between Speaker (poet/actor) and FYM (nobleman) is frankly acknowledged. Elizabethan patronage dynamics are the context."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Fortune vs. love — a theme that will recur in 29 (outcast state redeemed) and throughout the FYM sequence."}
+      ]
+    },
+    {
+      "number": 27,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Weary from travel, the Speaker collapses into bed — but then a mental journey begins. His thoughts make a pilgrimage to the FYM, holding his eyes open in the dark. The soul's imaginary sight presents the FYM's shadow like a jewel in the ghastly night. Result: no rest by day (body) or night (mind).",
+        "speaker_stance": "exhausted, haunted, tender",
+        "emotional_arc": "physical collapse -> mental pilgrimage -> the jewel-in-night image -> sleepless conclusion",
+        "dramatic_situation": "The first of the sleeplessness diptych (27-28). The Speaker is traveling away from the FYM and cannot sleep because the beloved's image fills his mind. The body rests but the mind works overtime.",
+        "subtext": "The pilgrimage metaphor sacralizes the FYM — the thought of him is a 'zealous pilgrimage,' a religious journey. 'Ghastly night' made 'beauteous' by the FYM's image inverts the normal darkness/light symbolism: the beloved brings light to the mind's darkness.",
+        "analysis_text": "Sonnet 27 opens the absence sequence with a physical/mental split that will define the next several sonnets. Q1's simplicity is deceptive: 'Weary with toil, I haste me to my bed' — but 'then begins a journey in my head.' The body rests; the mind travels. Q2 develops the pilgrimage: thoughts 'from far where I abide / Intend a zealous pilgrimage to thee.' The religious vocabulary (zealous, pilgrimage) sacralizes the journey — thinking of the FYM is an act of devotion. The paradox of open eyes in darkness ('keep my drooping eyelids open wide, / Looking on darkness which the blind do see') makes the Speaker's inner vision a kind of blindness-that-sees. The volta brings the great image: 'my soul's imaginary sight / Presents thy shadow to my sightless view, / Which, like a jewel hung in ghastly night, / Makes black night beauteous.' The FYM's mental image is a jewel that transforms darkness into beauty. The couplet's epigrammatic summary — 'by day my limbs, by night my mind, / For thee, and for myself, no quiet find' — divides the Speaker's suffering between body (day) and mind (night), both tormented for the FYM's sake."
+      },
+      "directing": {
+        "scene_setting": "A bed in an inn or lodging, far from the FYM. The Speaker is physically exhausted but mentally wired. The room is dark.",
+        "character_note": "The exhaustion is real but the mental journey to the FYM is not a burden — it is a devotion. The Speaker is haunted, but tenderly so.",
+        "fym_note": "The FYM as a jewel in the night — an image that lights the Speaker's mental darkness. The pilgrimage is TO the FYM.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with physical collapse (heavy, tired), transition to the mental journey (lighter, devoted), arrive at the jewel image (luminous), and close with the epigrammatic division of day/night suffering.",
+        "key_moments": [
+          {"line": 1, "note": "'Weary with toil, I haste me to my bed' — physical. Simple. Exhausted. Then the 'But' of line 3 changes everything."},
+          {"line": 6, "note": "'A zealous pilgrimage to thee' — the FYM as shrine. The journey is sacred."},
+          {"line": 11, "note": "'Like a jewel hung in ghastly night' — the image. The FYM's shadow transforms darkness into beauty."},
+          {"line": 13, "note": "'By day my limbs, by night my mind' — the epigrammatic division. No rest in either realm."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Weary", "toil", "haste", "bed"], "emotional_note": "Physical collapse — simple, heavy", "delivery_note": "Slow, tired. The monosyllables enact the exhaustion. 'Haste me to my bed' — the only urgency is for rest.", "gloss": "Exhausted from hard travel, I hurry to bed", "commentary": "The opening is deliberately plain: monosyllabic, physical, heavy with fatigue. The journey from body to mind that follows will transform the sonnet."},
+        {"line_number": 6, "emphasis_words": ["zealous", "pilgrimage", "thee"], "emotional_note": "The sacred journey — thinking of the FYM is devotion", "delivery_note": "'Zealous pilgrimage' sacralizes the mental journey. The FYM is a shrine the Speaker's thoughts visit nightly.", "gloss": "Undertake a fervent pilgrimage to you", "commentary": "'Zealous pilgrimage' — religious vocabulary applied to romantic devotion. The FYM is a saint or sacred site to which the mind makes its nightly journey."},
+        {"line_number": 11, "emphasis_words": ["jewel", "hung", "ghastly", "night"], "emotional_note": "The great image — the FYM as light in darkness", "delivery_note": "Let the image glow: a jewel suspended in terrible darkness. The FYM transforms even the night.", "gloss": "Which, like a jewel hanging in horrible darkness", "commentary": "The FYM's image as a jewel in ghastly night — light in darkness, beauty in horror. The image reverses the normal night/light symbolism: the beloved brings inner illumination."}
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "longing", "prominence": "PRIMARY"},
+        {"theme": "imagination", "prominence": "PRIMARY"},
+        {"theme": "devotion", "prominence": "SECONDARY"},
+        {"theme": "sleeplessness", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'To thee,' 'thy shadow' — the FYM as the object of the Speaker's mental pilgrimage"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I haste me to my bed,' 'my thoughts,' 'my soul's imaginary sight' — the Speaker as weary traveler and devoted lover"}
+      ],
+      "line_devices": [
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "Intend a zealous pilgrimage to thee", "explanation": "The mental journey as religious pilgrimage — thinking of the FYM as an act of sacred devotion."},
+        {"line_number": 11, "device_id": "SIMILE", "quotation": "like a jewel hung in ghastly night", "explanation": "The FYM's mental image as a jewel in darkness — transforming the night from horrible to beautiful."},
+        {"line_number": 13, "device_id": "ANTITHESIS", "quotation": "by day my limbs, by night my mind, / For thee, and for myself, no quiet find", "explanation": "Day/night, limbs/mind — the epigrammatic division of the Speaker's suffering across all waking and sleeping hours."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The jewel-in-night image is the sonnet's crown — the most luminous single image in the absence sequence."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The physical/mental split dramatizes the torment of absence: the body can rest but the mind cannot."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "First half of the 27-28 sleeplessness diptych: 27 is night, 28 will be day. Together they cover 24 hours of suffering."}
+      ]
+    },
+    {
+      "number": 28,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Day and night, natural enemies, have joined forces to torture the Speaker. Day oppresses with toil; night with grief and insomnia. The Speaker flatters each — telling day the FYM is bright, telling night the FYM gilds the evening — but both only lengthen and strengthen his sorrows.",
+        "speaker_stance": "desperate, diplomatically flattering his tormentors",
+        "emotional_arc": "the conspiracy of day and night -> the Speaker's diplomatic flattery -> the flattery fails -> sorrows compounded",
+        "dramatic_situation": "The second half of the sleeplessness diptych. Where Sonnet 27 was the night journey, 28 covers the full 24-hour cycle: day torments with work, night with longing, and neither yields rest.",
+        "subtext": "The Speaker flatters Day and Night as if they were courtiers who might be bribed with compliments about the FYM. The strategy fails: day makes sorrows longer, night makes grief stronger. The FYM's beauty, which should be consolation, only feeds the torment by reminding the Speaker of what he lacks.",
+        "analysis_text": "Sonnet 28 completes the sleeplessness diptych. Where 27 was a nighttime poem, 28 expands to the full cycle. Q1 states the predicament: 'day's oppression is not eas'd by night, / But day by night and night by day oppress'd.' The chiastic structure (day by night / night by day) enacts the trap: there is no escape in either direction. Q2 personifies day and night as enemies who have formed an alliance: 'though enemies to either's reign, / Do in consent shake hands to torture me.' The handshake between natural opposites, united only in tormenting the Speaker, is a vivid image of universal hostility. The volta introduces the Speaker's diplomatic strategy: he flatters each with the FYM's beauty. To Day: 'thou art bright' (the FYM's beauty graces cloudy days). To Night: 'thou gild'st the even' (the FYM's brightness outshines the stars). But the couplet reveals the flattery's failure: 'day doth daily draw my sorrows longer, / And night doth nightly make grief's length seem stronger.' The repetitions (daily/nightly, longer/stronger) are relentless — the suffering only compounds."
+      },
+      "directing": {
+        "scene_setting": "A continuation of 27's vigil — but now extending into the next day and night. The cycle of suffering has no break.",
+        "character_note": "The Speaker is trying to manage his torment through diplomacy — flattering Day and Night as if they could be reasoned with. The failure of the strategy is the point.",
+        "fym_note": "The FYM's brightness is invoked to flatter Day and Night but only reminds the Speaker of the absence.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the trap (day/night conspiring), develop the flattery strategy (Q3), and land the couplet's admission of failure.",
+        "key_moments": [
+          {"line": 4, "note": "'Day by night and night by day oppress'd' — the chiasmus traps the Speaker in a 24-hour cycle of suffering."},
+          {"line": 6, "note": "'Do in consent shake hands to torture me' — the handshake. Natural enemies united against the Speaker."},
+          {"line": 9, "note": "'I tell the day, to please him thou art bright' — the flattery begins. Diplomatic, desperate."},
+          {"line": 13, "note": "'Day doth daily draw my sorrows longer' — the failure. Flattery changes nothing. The suffering only grows."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 4, "emphasis_words": ["day", "night", "night", "day", "oppress'd"], "emotional_note": "The chiastic trap — no escape", "delivery_note": "The ABBA structure (day-night-night-day) should be audible — the Speaker is trapped between them.", "gloss": "But day is oppressed by night and night by day", "commentary": "Chiasmus: day by night / night by day. The reversal traps the Speaker — whichever direction he turns, the other pursues. The 24-hour cycle is a prison."},
+        {"line_number": 6, "emphasis_words": ["consent", "shake", "hands", "torture"], "emotional_note": "The conspiracy — natural enemies allied against the Speaker", "delivery_note": "'Shake hands' — the image of a handshake between Day and Night, united in cruelty. Vivid, almost theatrical.", "gloss": "Agree together, joining forces to torture me", "commentary": "'Do in consent shake hands' — Day and Night, natural enemies, form an alliance. The handshake personifies the conspiracy. 'Torture' is a strong word — not discomfort but deliberate infliction of pain."}
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "sleeplessness", "prominence": "PRIMARY"},
+        {"theme": "longing", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'Thou art bright,' 'thou gild'st the even' — the FYM invoked to flatter Day and Night"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I am debarre'd the benefit of rest' — the Speaker as sleepless sufferer"}
+      ],
+      "line_devices": [
+        {"line_number": 4, "device_id": "CHIASMUS", "quotation": "day by night and night by day oppress'd", "explanation": "ABBA structure: day-night/night-day. The reversal enacts the entrapment — the Speaker cannot escape in either direction."},
+        {"line_number": 6, "device_id": "PERSONIFICATION", "quotation": "Do in consent shake hands to torture me", "explanation": "Day and Night personified as enemies who agree to a truce — united only in tormenting the Speaker."},
+        {"line_number": 13, "device_id": "ANAPHORA", "quotation": "day doth daily... night doth nightly", "explanation": "The repetition (daily/nightly) enacts the relentless cycle. Each word doubles the temporal unit it describes."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The Speaker as diplomat flattering Day and Night — a dramatic scenario with personified antagonists and a failed strategy."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "The chiasmus of line 4 and the repetitions of the couplet (daily/nightly, longer/stronger) create a sonic texture of relentless cycling."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "The second half of the 27-28 diptych: 27 = night, 28 = full cycle. Together they exhaust 24 hours of suffering."}
+      ]
+    },
+    {
+      "number": 31,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The FYM's bosom contains all the hearts the Speaker has loved and lost — dead friends, buried loves, all living in the FYM. The FYM is 'the grave where buried love doth live,' hung with trophies of the Speaker's former lovers. Their images live in the FYM, who has 'all the all of me.'",
+        "speaker_stance": "elegiac, awed, surrendered",
+        "emotional_arc": "discovery that lost loves live in the FYM -> the grave-that-lives paradox -> total surrender of self",
+        "dramatic_situation": "The Speaker discovers that every person he has loved and lost — friends who died, loves who ended — lives on in the FYM. The FYM is a repository of all the Speaker's past affections. This makes the FYM not just a beloved but a living memorial.",
+        "subtext": "The conceit is both flattering and overwhelming: the FYM contains everyone the Speaker has ever loved. This makes him irreplaceable — not one love but ALL loves. The possessive 'all the all of me' suggests the Speaker has nothing left to give anyone else.",
+        "analysis_text": "Sonnet 31 is one of the most psychologically daring poems in the sequence. Q1 announces the discovery: 'Thy bosom is endeared with all hearts, / Which I by lacking have supposed dead.' The Speaker's dead friends and lost loves are not dead — they live in the FYM's breast. 'Endeared' puns: (1) made dear/beloved and (2) literally containing hearts that are 'dear.' Q2 reinterprets the Speaker's past grief: the 'holy and obsequious tear' he shed for the dead was 'interest of the dead' — they were merely 'things remov'd that hidden in thee lie.' The dead have relocated, not died. The volta delivers the paradox: 'Thou art the grave where buried love doth live.' The FYM as a living grave — the contradiction IS the meaning. The grave that houses living love. 'Hung with the trophies of my lovers gone' — the FYM's bosom as a memorial chapel decorated with the Speaker's past relationships. The couplet's 'thou, all they, hast all the all of me' is one of Shakespeare's most total surrenders: the FYM is everyone, and has everything."
+      },
+      "directing": {
+        "scene_setting": "The Speaker looking at the FYM and suddenly seeing all his past loves in that face. A moment of recognition.",
+        "character_note": "The Speaker is awed by his own discovery — the FYM contains multitudes. The tone is elegiac but also wonderstruck.",
+        "fym_note": "The FYM as living memorial — containing all the hearts the Speaker has ever given. This makes the FYM the sum of the Speaker's entire emotional history.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the discovery (Q1), reinterpret past grief as relocation (Q2), deliver the paradox of the living grave (Q3), and close with total surrender.",
+        "key_moments": [
+          {"line": 1, "note": "'Thy bosom is endeared with all hearts' — the discovery. The FYM contains every heart the Speaker has loved."},
+          {"line": 9, "note": "'Thou art the grave where buried love doth live' — the paradox. A grave that houses living love. The oxymoron is the meaning."},
+          {"line": 10, "note": "'Hung with the trophies of my lovers gone' — the FYM's breast as a memorial chapel. The image is both beautiful and slightly eerie."},
+          {"line": 14, "note": "'Thou, all they, hast all the all of me' — total surrender. The FYM is everyone; has everything."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 9, "emphasis_words": ["grave", "buried", "love", "live"], "emotional_note": "The central paradox — the living grave", "delivery_note": "The oxymoron: grave/live, buried/doth live. Let the contradiction vibrate. The FYM is where dead loves are resurrected.", "gloss": "You are the grave where buried love lives on", "commentary": "'The grave where buried love doth live' — the controlling paradox. Graves contain dead things; this grave contains living love. The FYM's body is both tomb and resurrection."},
+        {"line_number": 14, "emphasis_words": ["thou", "all", "they", "all", "all", "me"], "emotional_note": "Total surrender — the Speaker gives everything", "delivery_note": "Three 'all's in one line. The repetition IS the totality. The Speaker has nothing left.", "gloss": "And you, being all of them, possess the entirety of me", "commentary": "'All the all of me' — the triple 'all' is Shakespeare's most extreme statement of surrender. The FYM is 'all they' (every past love); he has 'all the all' (the complete totality) of the Speaker."}
+      ],
+      "themes": [
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "memory", "prominence": "PRIMARY"},
+        {"theme": "grief", "prominence": "SECONDARY"},
+        {"theme": "identity", "prominence": "SECONDARY"},
+        {"theme": "devotion", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thy bosom,' 'thou art the grave,' 'thou, all they' — the FYM as living repository of all the Speaker's loves"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I by lacking,' 'my lovers gone,' 'all the all of me' — the Speaker surrendering his entire emotional history"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PUN", "quotation": "Thy bosom is endeared with all hearts", "explanation": "'Endeared' = (1) made dear/precious and (2) literally containing 'dear' hearts. The pun makes the FYM's body a treasury."},
+        {"line_number": 9, "device_id": "PARADOX", "quotation": "Thou art the grave where buried love doth live", "explanation": "The living grave — the controlling oxymoron. The FYM's body is both tomb and resurrection. Dead loves live in him."},
+        {"line_number": 14, "device_id": "HYPERBOLE", "quotation": "thou, all they, hast all the all of me", "explanation": "Triple 'all' — the most extreme statement of emotional totality in the sonnets. The FYM is everyone; possesses everything."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The living grave, the memorial chapel hung with trophies — the imagery is simultaneously elegiac and romantic, death-haunted and life-affirming."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The moment of recognition — seeing all past loves in the FYM's face — is a dramatic event that reframes the entire relationship."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Love and memory: the FYM as repository of the Speaker's entire emotional past. The theme connects to 30's 'sessions of sweet silent thought.'"}
+      ]
+    },
+    {
+      "number": 32,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "If you outlive me and re-read these poor rude lines, compare them with better poets of the future and judge them outstripped — but keep them for my love, not for their craft. Imagine: 'had my friend's Muse grown with this age, he'd have written better; but since he died, I'll read others for style and his for love.'",
+        "speaker_stance": "modestly anticipatory, resigned, affectionate",
+        "emotional_arc": "imagined posthumous reading -> acknowledged inferiority -> the distinction: love vs. style",
+        "dramatic_situation": "The Speaker imagines the FYM reading these sonnets after the Speaker's death. The poems will be outstripped by better writers, but their value lies in love, not craft. The FYM should read better poets for technique and these for feeling.",
+        "subtext": "The modesty is genuine but also strategic (like Sonnet 78's strategic humility). The distinction between style and love becomes the basis for the Speaker's claim: better poets may exist, but none love more. The imagined FYM quoting the Speaker's words posthumously is deeply moving — the beloved becomes the poem's custodian.",
+        "analysis_text": "Sonnet 32 is the sequence's most explicit meditation on poetic afterlife — not through the poem's immortality (18, 55) but through the beloved's memory of the poet. The opening imagines the FYM surviving the Speaker: 'If thou survive my well-contented day' — 'well-contented' because the Speaker accepts his mortality. The FYM may 're-survey / These poor rude lines of thy deceased lover.' 'Poor rude lines' echoes 78's 'rude ignorance' — the Speaker's consistent self-deprecation of his style. Q2 concedes inferiority: compare these verses 'with the bett'ring of the time' and they will be 'outstripp'd by every pen.' But: 'Reserve them for my love, not for their rhyme.' The volta imagines the FYM voicing a loving thought: 'Had my friend's Muse grown with this growing age, / A dearer birth than this his love had brought.' The conditional is touching: the Speaker would have written better if he'd lived longer. The couplet gives the FYM his own speech: 'since he died and poets better prove, / Theirs for their style I'll read, his for his love.' The distinction — style for others, love for the Speaker — is the sequence's own claim in miniature."
+      },
+      "directing": {
+        "scene_setting": "The Speaker imagining the future — his own death, the FYM reading these poems years later.",
+        "character_note": "Accepting mortality with grace. The Speaker doesn't claim his poems are good — only that they are true. The imagined FYM speaking in the couplet is deeply moving.",
+        "fym_note": "The FYM as the poem's custodian after the Speaker's death. The roles are reversed: the FYM preserves the Speaker through reading, not the Speaker preserving the FYM through writing.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the imagined scenario (my death, your reading), concede artistic inferiority, assert the love/style distinction, and close with the FYM's imagined speech.",
+        "key_moments": [
+          {"line": 1, "note": "'If thou survive my well-contented day' — accepting death with equanimity. 'Well-contented' — he's at peace with it."},
+          {"line": 4, "note": "'These poor rude lines of thy deceased lover' — the Speaker imagining his own absence. 'Deceased lover' should ache."},
+          {"line": 7, "note": "'Reserve them for my love, not for their rhyme' — the distinction. Keep them for feeling, not for craft."},
+          {"line": 14, "note": "'Theirs for their style I'll read, his for his love' — the FYM's imagined verdict. The Speaker's poems win on love, not style."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 4, "emphasis_words": ["poor", "rude", "lines", "deceased", "lover"], "emotional_note": "The Speaker imagining his own death — tender self-deprecation", "delivery_note": "'Thy deceased lover' — the Speaker refers to himself in the third person, already dead. The perspective shift should register.", "gloss": "These poor, rough poems of your dead lover", "commentary": "'Poor rude lines' — consistent with the self-deprecation of 78 and 16's 'barren rhyme.' 'Thy deceased lover' — the Speaker imagines himself as already dead, referring to himself in the third person. The emotional distance makes the tenderness sharper."},
+        {"line_number": 14, "emphasis_words": ["Theirs", "style", "his", "love"], "emotional_note": "The FYM's imagined verdict — others for technique, this for love", "delivery_note": "The FYM speaking: 'Theirs for their style... his for his love.' The distinction is the poem's argument. Give the imagined speech warmth.", "gloss": "I'll read others' poems for their style, but his for the love in them", "commentary": "The couplet gives the FYM a speaking voice — one of the few times in the sequence. The distinction (style/love) is the Speaker's central claim: he may not be the best poet, but he is the most loving one."}
+      ],
+      "themes": [
+        {"theme": "mortality", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "humility", "prominence": "SECONDARY"},
+        {"theme": "poetic_style", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou survive,' 'thy deceased lover' — the FYM as the poem's future reader and custodian"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My well-contented day,' 'my love,' 'his love' — the Speaker imagining his own posthumous status"}
+      ],
+      "line_devices": [
+        {"line_number": 7, "device_id": "ANTITHESIS", "quotation": "Reserve them for my love, not for their rhyme", "explanation": "Love vs. rhyme — the distinction between feeling and craft that is the poem's central argument."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Theirs for their style I'll read, his for his love", "explanation": "Style vs. love — the FYM's imagined verdict gives the Speaker his only victory: not the best poet, but the most loving one."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The imagined scenario (posthumous reading) and the FYM's quoted speech make this a dramatic scene set in the future. The Speaker stages his own afterlife."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Style vs. love — the distinction that defines the Speaker's poetic identity and will recur in the Rival Poet sequence."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "Strategic modesty: by conceding artistic inferiority, the Speaker claims emotional superiority. The argument anticipates the Rival Poet sonnets."}
+      ]
+    }
+  ]
+}

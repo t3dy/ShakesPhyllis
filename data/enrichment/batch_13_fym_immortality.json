@@ -1,0 +1,1362 @@
+{
+  "batch": "13_fym_immortality",
+  "description": "Poetry vs death, immortality through verse (74-77)",
+  "sonnets": [
+    {
+      "number": 74,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker consoles the FYM that death will claim only his body — the spirit, preserved in this verse, remains with the beloved forever.",
+        "speaker_stance": "consoling, testamentary",
+        "emotional_arc": "calm reassurance -> body/spirit partition -> dismissal of the body -> triumphant claim of poetic survival",
+        "dramatic_situation": "Continuing the meditation on death from Sonnet 73, the Speaker now addresses the FYM directly as a kind of last will and testament, bequeathing his verse as the vessel of his spirit.",
+        "subtext": "The Speaker's insistence that the body is worthless betrays an anxiety about physical desire — the body that loved the FYM is dismissed as 'dregs,' but the verse that replaces it is also a substitute for physical presence. The consolation is also a plea: remember me through my words, not my corpse.",
+        "analysis_text": "Sonnet 74 completes the four-sonnet meditation on mortality begun at 71, shifting from the elegiac self-pity of 73 to a bold philosophical claim: death takes the body, but the verse — 'this line' — preserves the spirit. The opening imperative 'But be contented' directly continues the previous sonnet's mood, as if the Speaker catches himself mid-grief and redirects toward consolation. The legal metaphor of 'fell arrest / Without all bail' frames death as an officer of the law executing an inescapable warrant — there is no appeal, no surety that can free the condemned. Yet within this grim framework, the Speaker finds a loophole: 'My life hath in this line some interest.' The pun on 'interest' (legal claim and emotional investment) and 'line' (line of verse and line of descent) compresses the sonnet's entire argument into a single couplet of meaning.\n\nThe second quatrain deepens the body/spirit dualism with theological precision: 'The earth can have but earth, which is his due; / My spirit is thine, the better part of me.' This echoes the burial service ('earth to earth, dust to dust') while asserting a secular immortality through poetry rather than resurrection. The 'better part' (the Aristotelian 'pars melior') is not the soul ascending to God but the spirit dwelling in verse — and specifically in the FYM's act of reading. The volta at line 9 ('So then') draws the logical conclusion with almost mathematical satisfaction: if spirit equals verse and verse remains with the FYM, then the body's loss is merely the loss of 'dregs.' The contemptuous catalogue — 'prey of worms,' 'coward conquest of a wretch's knife' — performs the very dismissal it describes, rendering the body increasingly abject. Death's 'knife' is a 'wretch's' weapon, and its conquest is 'coward' because it attacks only the defenseless flesh.\n\nThe couplet achieves a dazzling circularity: 'The worth of that is that which it contains, / And that is this, and this with thee remains.' The demonstrative pronouns spiral inward — 'that' (the body) contains 'that' (the spirit), which is 'this' (the poem), which stays with 'thee' (the FYM). The poem becomes its own proof: the very act of reading it fulfills the promise it makes. This self-referential closure anticipates the meta-poetic concerns of 76 and makes 74 the sequence's most explicit statement of the immortality-through-verse argument that rivals the procreation argument of the opening seventeen sonnets."
+      },
+      "directing": {
+        "scene_setting": "A continuation of the deathbed meditation from 73, but the mood has shifted from elegy to testament. The Speaker is composing his will — not in legal chambers but on the page.",
+        "character_note": "The Speaker has moved past grief into a kind of philosophical calm. He speaks with the clarity of someone who has accepted death and now arranges what remains. There is quiet pride in the claim that his verse is the 'better part.'",
+        "fym_note": "The FYM is cast as heir and executor — the one who will 'review' the testament. His role is to read, and in reading, to preserve. The power dynamic is complex: the Speaker bequeaths, but the FYM's attention is what activates the gift.",
+        "dl_note": "Absent. This is entirely within the Speaker-FYM dyad.",
+        "overall_arc": "Open with gentle command ('be contented'), build the legal/theological argument through Q1-Q2, dismiss the body with increasing contempt in Q3, then close the circle with the self-proving couplet.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'But be contented' — a continuation from 73. Speak it as if catching the FYM's hand mid-grief. Gentle but firm."
+          },
+          {
+            "line": 3,
+            "note": "'This line' — gesture at the poem itself. The meta-poetic claim begins here. Slight stress on 'this.'"
+          },
+          {
+            "line": 7,
+            "note": "'The earth can have but earth' — deliver with the weight of liturgical echo. This is the burial service secularized."
+          },
+          {
+            "line": 8,
+            "note": "'My spirit is thine' — the emotional center. Quiet, direct, intimate. This is the bequest."
+          },
+          {
+            "line": 10,
+            "note": "'The prey of worms' — the body rendered abject. Speak with deliberate contempt."
+          },
+          {
+            "line": 13,
+            "note": "The couplet's chain of 'that...that...this...this' demands careful articulation. Each pronoun must land precisely."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "contented",
+            "fell",
+            "arrest"
+          ],
+          "emotional_note": "Consoling, but with an undertone of gravity — 'fell arrest' is ominous",
+          "delivery_note": "Begin gently on 'But be contented' — a hand on the shoulder. Then darken on 'fell arrest.'",
+          "gloss": "But be at peace: when that cruel arrest (death)",
+          "commentary": "'Fell arrest' personifies death as a bailiff executing a warrant. 'Fell' means cruel, savage. The legal metaphor will control the entire first quatrain."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "Without",
+            "bail",
+            "carry"
+          ],
+          "emotional_note": "Grim finality — no escape from this arrest",
+          "delivery_note": "'Without all bail' should land with absolute finality. No appeal, no reprieve.",
+          "gloss": "Without any possibility of bail shall take me away",
+          "commentary": "'Without all bail' — death's arrest admits no surety. The legal language ('bail,' 'carry away') makes death a process of law, not an act of violence. The inevitability is procedural."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "life",
+            "this",
+            "line",
+            "interest"
+          ],
+          "emotional_note": "A brightening — the loophole in death's warrant",
+          "delivery_note": "Stress 'this line' — point to the poem. 'Interest' carries legal and emotional weight; let both resonate.",
+          "gloss": "My life has in this verse some legal claim / stake",
+          "commentary": "'This line' puns: (1) this line of verse, (2) this lineage/descendant. 'Interest' means both a legal share and emotional investment. The poem is simultaneously property and feeling."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "memorial",
+            "still",
+            "thee"
+          ],
+          "emotional_note": "Tender, promissory",
+          "delivery_note": "Warm on 'thee' — this is a gift. 'Still' means always, not merely 'yet.'",
+          "gloss": "Which as a memorial will always remain with you",
+          "commentary": "'Memorial' carries the weight of monument, epitaph, remembrance. 'Still' = always (not 'yet'). The verse is a permanent bequest to the FYM."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "thou",
+            "reviewest",
+            "review"
+          ],
+          "emotional_note": "Intimate — the FYM re-reading the poem enacts its promise",
+          "delivery_note": "The repetition of 'review' is deliberate — make the echo audible. The FYM's act of reading is the subject.",
+          "gloss": "When you re-read this, you are reviewing",
+          "commentary": "'Reviewest...review' — the repetition (polyptoton) enacts the process it describes. To review is both to read again and to see again. The FYM's future reading is already anticipated in the present writing."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "very",
+            "consecrate",
+            "thee"
+          ],
+          "emotional_note": "Sacred, devoted — the language is quasi-religious",
+          "delivery_note": "'Consecrate' is the key word — deliver it with the weight of sacrament. This is a dedication.",
+          "gloss": "The very part of me that was dedicated to you",
+          "commentary": "'Consecrate' means made sacred, dedicated. The spirit-in-verse is not merely given but sanctified. The word elevates the poem from bequest to sacrament."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "earth",
+            "earth",
+            "due"
+          ],
+          "emotional_note": "Solemn, liturgical — echoes the burial service",
+          "delivery_note": "The doubled 'earth' demands slow, deliberate delivery. This is the funeral rite compressed into a line.",
+          "gloss": "The earth can claim only the earthly body, which is its rightful due",
+          "commentary": "'Earth to earth' echoes the Book of Common Prayer burial service. The body is rendered as mere element — dust returning to dust. 'His due' assigns death its proper (limited) jurisdiction."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "spirit",
+            "thine",
+            "better"
+          ],
+          "emotional_note": "Triumphant, intimate — the emotional climax of the quatrain",
+          "delivery_note": "This is the bequest itself. Speak 'My spirit is thine' directly, quietly, as a vow. 'The better part of me' — proud but not boastful.",
+          "gloss": "My spirit belongs to you — the better part of me",
+          "commentary": "'The better part of me' echoes Ovid's 'parte meliore mei' (Metamorphoses XV.875) and Horace's claim that his poetry will outlast death. The spirit-verse is the Aristotelian 'better part' — form over matter."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "So",
+            "lost",
+            "dregs"
+          ],
+          "emotional_note": "Dismissive, almost cheerful — the body is nothing",
+          "delivery_note": "'So then' marks the volta — the logical conclusion. 'Dregs' should sound contemptuous, throwaway.",
+          "gloss": "So you have only lost the worthless residue of life",
+          "commentary": "The volta. 'Dregs' — the sediment at the bottom of wine, the least valuable remainder. The body, which in 73 was the subject of elegy, is now refuse."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "prey",
+            "worms",
+            "dead"
+          ],
+          "emotional_note": "Deliberately abject — the body made repulsive",
+          "delivery_note": "Lean into the disgust. 'Prey of worms' should be visceral, not euphemistic.",
+          "gloss": "Food for worms, once my body is dead",
+          "commentary": "'Prey of worms' is a memento mori commonplace, but placed here it serves to make the body's loss seem trivial. The Speaker weaponizes disgust to console."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "coward",
+            "conquest",
+            "wretch's"
+          ],
+          "emotional_note": "Contemptuous — death is demoted from tyrant to petty thief",
+          "delivery_note": "Three contemptuous words in sequence: 'coward conquest...wretch's knife.' Spit them slightly.",
+          "gloss": "The cowardly victory of a miserable attacker's blade",
+          "commentary": "'Coward conquest' — death's victory is contemptible because it attacks only the helpless body. 'Wretch's knife' may allude to the assassin or to the anatomist's scalpel. Either way, death is diminished."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "base",
+            "thee",
+            "remembered"
+          ],
+          "emotional_note": "Protective — the body is unworthy of the FYM's grief",
+          "delivery_note": "'Too base of thee' — the body is beneath the FYM's notice. Speak with protective dismissal.",
+          "gloss": "Too lowly to be worth your memory",
+          "commentary": "'Too base of thee to be remembered' — the body is socially and spiritually beneath the FYM. The word 'base' (low, ignoble) contrasts with the 'better part' of line 8."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "worth",
+            "that",
+            "contains"
+          ],
+          "emotional_note": "Philosophical, precise — the argument tightens",
+          "delivery_note": "Careful articulation: the pronoun chain ('that...that which...it') must be parseable on first hearing.",
+          "gloss": "The value of that body is what it contains (the spirit/verse)",
+          "commentary": "The couplet begins the self-referential spiral. 'That' = the body; 'that which it contains' = the spirit/verse. The body's only value was as a vessel."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "that",
+            "this",
+            "thee",
+            "remains"
+          ],
+          "emotional_note": "Triumphant closure — the poem proves its own claim",
+          "delivery_note": "The chain 'that is this, and this with thee remains' must be delivered with crystalline precision. Each demonstrative shifts reference. End on 'remains' with quiet certainty.",
+          "gloss": "And that spirit is this poem, and this poem stays with you",
+          "commentary": "'That is this' — the spirit is this poem. 'This with thee remains' — the poem remains with the FYM. The circularity is the proof: the poem you are reading now is the spirit that survives. The deixis collapses writer, text, and reader into one act."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "immortality_through_verse",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "death",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "body_spirit_dualism",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "poetic_self-reference",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "legal_metaphor",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'with thee shall stay' (4), 'thou reviewest' (5), 'consecrate to thee' (6), 'with thee remains' (14)"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "SUBJECT",
+          "evidence": "First person throughout: 'My life' (3), 'My spirit' (8), 'my body being dead' (10). The Speaker is both testator and bequest."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "that fell arrest",
+          "explanation": "Death personified as a bailiff executing a warrant — cruel, official, inescapable."
+        },
+        {
+          "line_number": 2,
+          "device_id": "METAPHOR",
+          "quotation": "Without all bail shall carry me away",
+          "explanation": "Extended legal metaphor: death is an arrest from which no bail can secure release."
+        },
+        {
+          "line_number": 3,
+          "device_id": "PUN",
+          "quotation": "My life hath in this line some interest",
+          "explanation": "'Line' puns on line of verse and line of descent. 'Interest' means both legal stake and emotional investment."
+        },
+        {
+          "line_number": 5,
+          "device_id": "POLYPTOTON",
+          "quotation": "thou reviewest this, thou dost review",
+          "explanation": "'Reviewest...review' — repetition with grammatical variation enacts the re-reading it describes."
+        },
+        {
+          "line_number": 7,
+          "device_id": "ALLUSION",
+          "quotation": "The earth can have but earth, which is his due",
+          "explanation": "Echoes the Book of Common Prayer: 'earth to earth, ashes to ashes, dust to dust.' The burial service rendered as property law."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ALLUSION",
+          "quotation": "the better part of me",
+          "explanation": "Echoes Ovid's 'parte meliore mei' (Metamorphoses XV.875) — the poet's claim that his better part will survive death through verse."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ANTITHESIS",
+          "quotation": "The earth can have but earth... My spirit is thine",
+          "explanation": "Earth/spirit, death's claim/love's claim — the dualism is both philosophical and dramatic."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "the dregs of life",
+          "explanation": "The body as wine sediment — the least valuable remainder after the spirit has been decanted."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METONYMY",
+          "quotation": "The coward conquest of a wretch's knife",
+          "explanation": "'Coward' modifies 'conquest' but really describes the conquerer (death). The epithet is transferred to diminish death's achievement."
+        },
+        {
+          "line_number": 14,
+          "device_id": "APOSTROPHE",
+          "quotation": "And that is this, and this with thee remains",
+          "explanation": "The demonstrative pronouns ('that,' 'this') create a self-referential spiral: spirit = poem = what the FYM holds. The poem becomes its own proof."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The sonnet's argument is built on a body/spirit dualism drawn from classical and Christian philosophy, applied to the question of poetic survival."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The testamentary frame — the Speaker composing his will, addressing his heir — gives the philosophical argument dramatic urgency."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 3,
+          "rationale": "The poem is about itself: 'this line,' 'this,' 'this with thee remains.' The self-referential couplet makes the poem its own subject and proof."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The argument moves logically from premise (death arrests) through partition (body/spirit) to conclusion (only dregs are lost) with syllogistic precision."
+        }
+      ]
+    },
+    {
+      "number": 75,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker compares the FYM to food and rain, then to a miser's treasure — oscillating between gluttonous possession and starving absence, never at rest.",
+        "speaker_stance": "confessional, obsessive, self-aware",
+        "emotional_arc": "nourishment -> anxiety of loss -> oscillation between feast and famine -> epigrammatic self-diagnosis",
+        "dramatic_situation": "The Speaker confesses the addictive, unstable quality of his love: the FYM is both sustenance and torment, and the Speaker swings between gorging and starving.",
+        "subtext": "The miser metaphor betrays possessiveness that sits uneasily with the language of devotion. The Speaker knows his love is a kind of mania — the oscillation between possession and loss, display and hoarding, maps onto jealousy and obsession rather than contentment.",
+        "analysis_text": "Sonnet 75 shifts from the testamentary calm of 74 to a feverish confession of emotional dependency. The opening simile — 'So are you to my thoughts as food to life' — is deceptively simple: the FYM is as necessary as food. But the second simile complicates this: 'as sweet-season'd showers are to the ground.' The FYM is not just sustenance but seasonal, intermittent, beyond the Speaker's control. The pivot to the miser metaphor in lines 3-4 transforms the emotional landscape entirely: 'And for the peace of you I hold such strife / As 'twixt a miser and his wealth is found.' The word 'peace' is ironic — there is no peace, only strife. The miser does not enjoy his wealth; he agonizes over it.\n\nThe second quatrain elaborates the miser's oscillation with breathless temporal markers: 'Now...and anon...Now...Then.' The Speaker is 'proud as an enjoyer' one moment, then terrified that 'the filching age will steal his treasure.' He wants to be 'with you alone' but also wants 'the world may see my pleasure.' This is the classic paradox of the lover who wants both exclusive possession and public display — the desire to hoard and the desire to show off are equally consuming and mutually contradictory.\n\nThe volta at line 9 intensifies rather than redirects: 'Sometime all full with feasting on your sight, / And by and by clean starved for a look.' The food metaphor returns, now explicitly pathological — feasting and starving, gluttony and deprivation. The word 'clean' (meaning utterly, completely) before 'starved' is devastating: the starvation is total. Lines 11-12 compress the oscillation into its most abstract form: 'Possessing or pursuing no delight, / Save what is had, or must from you be took.' Pleasure exists only in having or seeking the FYM — there is no state outside this binary.\n\nThe couplet diagnoses the condition with clinical precision: 'Thus do I pine and surfeit day by day, / Or gluttoning on all, or all away.' 'Pine' (waste away) and 'surfeit' (overindulge) are antonyms yoked into a single rhythm. The final line's symmetry — 'all...all' — mirrors the totality of the obsession: everything or nothing, feast or famine, with no middle ground. The sonnet is remarkable for its self-awareness: the Speaker sees his condition clearly but cannot escape it."
+      },
+      "directing": {
+        "scene_setting": "An interior monologue, almost a confession. The Speaker is alone, cataloguing the manic swings of his emotional life. This could be spoken to the FYM or to himself — the effect is the same.",
+        "character_note": "The Speaker is not performing devotion here — he is confessing addiction. The rapid oscillations (now/then, feast/famine, all/nothing) suggest someone caught in a cycle he cannot break. There is no resolution, only diagnosis.",
+        "fym_note": "The FYM is objectified throughout — as food, as rain, as treasure, as sight. He is present only as the object of the Speaker's need, never as an agent. If Southampton: the young earl as the older poet's obsession, always just out of reach or overwhelmingly present.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the apparent calm of the food simile, then build agitation through the miser metaphor, accelerate through the feast/famine oscillation, and land the couplet as a rueful self-diagnosis.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "Deceptively simple opening. The simile sounds like a compliment but will curdle into something more obsessive."
+          },
+          {
+            "line": 4,
+            "note": "'Twixt a miser and his wealth' — the comparison arrives. Let the audience register that the Speaker is comparing himself to a miser, not a lover."
+          },
+          {
+            "line": 5,
+            "note": "'Now proud as an enjoyer' — the rapid temporal shifts begin. Quicken the pace from here."
+          },
+          {
+            "line": 9,
+            "note": "'All full with feasting' — the grotesque return of the food metaphor. The Speaker is gorging."
+          },
+          {
+            "line": 10,
+            "note": "'Clean starved for a look' — sudden reversal. The starvation is instant and total."
+          },
+          {
+            "line": 13,
+            "note": "The couplet is a diagnosis, not a resolution. Speak it with weary self-knowledge."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "you",
+            "thoughts",
+            "food",
+            "life"
+          ],
+          "emotional_note": "Warm, essential — the FYM as necessity",
+          "delivery_note": "Open simply. This is a statement of fact, not yet a confession.",
+          "gloss": "You are to my thoughts what food is to life",
+          "commentary": "The simile is elemental: the FYM sustains the Speaker's inner life as food sustains the body. But 'thoughts' (not 'heart' or 'soul') keeps this in the intellectual/obsessive register."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "sweet-season'd",
+            "showers",
+            "ground"
+          ],
+          "emotional_note": "Gentle, natural — the FYM as seasonal blessing",
+          "delivery_note": "'Sweet-season'd' is a compound that should be savored — both the sweetness and the seasonality matter.",
+          "gloss": "Or as sweetly-timed rain showers are to the earth",
+          "commentary": "'Sweet-season'd' = arriving in due season, pleasantly timed. The rain metaphor introduces intermittency — showers come and go. The FYM's presence is not constant."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "peace",
+            "strife"
+          ],
+          "emotional_note": "The first sign of trouble — peace produces strife",
+          "delivery_note": "Stress the antithesis: 'peace' and 'strife' in the same line. The irony is the point.",
+          "gloss": "And for the sake of inner peace with you I endure such conflict",
+          "commentary": "'For the peace of you' — seeking peace through the FYM produces only strife. The paradox is structural: the object of calm is the source of anguish."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "miser",
+            "wealth"
+          ],
+          "emotional_note": "Uneasy — the comparison is unflattering to the Speaker",
+          "delivery_note": "Let 'miser' land with its full connotation of pathological hoarding. This is not a compliment to the Speaker.",
+          "gloss": "Like the conflict between a miser and his riches",
+          "commentary": "The miser metaphor transforms the beloved from person to property. The miser does not enjoy wealth — he guards it, counts it, fears its loss. The Speaker knows this is what he has become."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "proud",
+            "enjoyer",
+            "anon"
+          ],
+          "emotional_note": "Swelling, then immediately deflating",
+          "delivery_note": "'Now proud' — chest out, expansive. 'And anon' — instant collapse. The oscillation is physical.",
+          "gloss": "Now proud as one who possesses, and soon after",
+          "commentary": "'Enjoyer' = one who possesses (legal) and one who takes pleasure. 'Anon' = soon, immediately — the pleasure cannot last."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "Doubting",
+            "filching",
+            "steal",
+            "treasure"
+          ],
+          "emotional_note": "Anxious, paranoid — the miser's terror",
+          "delivery_note": "'Filching age' is a vivid compound — Time as pickpocket. Deliver with the miser's furtive anxiety.",
+          "gloss": "Fearing that the thieving times will steal his treasure",
+          "commentary": "'Filching age' personifies Time as a thief — an echo of the sequence's larger anxiety about time's depredations. 'Treasure' continues the economic register."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "counting",
+            "best",
+            "alone"
+          ],
+          "emotional_note": "Possessive, hoarding — the desire to keep the FYM private",
+          "delivery_note": "'Alone' should carry the weight of jealous exclusivity.",
+          "gloss": "Now thinking it best to be with you in private",
+          "commentary": "'Counting best' = reckoning, calculating — the miser's arithmetic. 'Alone' is both intimate and possessive."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "better'd",
+            "world",
+            "pleasure"
+          ],
+          "emotional_note": "The opposite impulse — wanting the world to see",
+          "delivery_note": "The contradiction is instant: from private hoarding to public display. Let the reversal be audible.",
+          "gloss": "Then thinking it better that the world should see what I enjoy",
+          "commentary": "'Better'd' = improved upon, corrected. The Speaker contradicts himself within a single couplet: alone, then public. 'Pleasure' puns on both delight and sexual enjoyment."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "full",
+            "feasting",
+            "sight"
+          ],
+          "emotional_note": "Gorging, excessive — the food metaphor returns in its pathological form",
+          "delivery_note": "The volta. 'All full with feasting' should sound glutted, almost nauseated. The excess is the point.",
+          "gloss": "Sometimes completely sated with feasting on the sight of you",
+          "commentary": "'Feasting on your sight' — vision as consumption. The food metaphor from line 1 has become grotesque: the Speaker is not merely nourished but gorging."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "clean",
+            "starved",
+            "look"
+          ],
+          "emotional_note": "Devastated, hollow — instant deprivation",
+          "delivery_note": "'Clean starved' is a gut-punch. Deliver it with the emptiness it describes — hollow, sudden.",
+          "gloss": "And shortly after completely starved for even a glance",
+          "commentary": "'Clean' = utterly, completely (intensive adverb). 'Starved for a look' — reduced from feasting on sight to begging for a glance. The collapse is instantaneous."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "Possessing",
+            "pursuing",
+            "delight"
+          ],
+          "emotional_note": "Abstract, clinical — the Speaker steps back to diagnose",
+          "delivery_note": "More measured than the preceding lines. The Speaker is analyzing his own pattern.",
+          "gloss": "Whether possessing or chasing, no pleasure",
+          "commentary": "The binary of possession and pursuit — having and wanting — maps the only two states the Speaker knows. There is no third option."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "had",
+            "took"
+          ],
+          "emotional_note": "Resigned, trapped — the loop is closed",
+          "delivery_note": "Clipped, economical. The sentence mirrors its meaning: everything reduces to having or taking.",
+          "gloss": "Except what is already possessed, or what must be taken from you",
+          "commentary": "'Had' and 'took' (taken) are the only verbs that matter. The FYM is the sole source of all delight — a totality that is also a prison."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "pine",
+            "surfeit",
+            "day by day"
+          ],
+          "emotional_note": "Weary, self-aware — the epigrammatic diagnosis",
+          "delivery_note": "'Pine and surfeit' — antonyms yoked together. Speak them as a pair, two sides of the same coin.",
+          "gloss": "Thus I waste away and overindulge day after day",
+          "commentary": "'Pine' = wasting from desire; 'surfeit' = sickness from excess. The two states alternate 'day by day' — the cycle never breaks."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "gluttoning",
+            "all",
+            "all",
+            "away"
+          ],
+          "emotional_note": "Final, definitive — the epigram snaps shut",
+          "delivery_note": "The symmetry of 'all...or all away' should ring like a closing door. No escape.",
+          "gloss": "Either gorging on everything, or with everything gone",
+          "commentary": "'Gluttoning' — Shakespeare coins the verb. 'All, or all away' — totality of presence or totality of absence. The sonnet ends without resolution because the condition is chronic."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "obsessive_love",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "feast_and_famine",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "economic_metaphor",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "jealousy",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "time",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'you' (lines 1, 7, 12), 'your sight' (9), 'your sight' (9). The FYM is the object of every verb of possession and desire."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "SUBJECT",
+          "evidence": "First person confessional throughout: 'my thoughts' (1), 'I hold such strife' (3), 'I pine and surfeit' (13). The Speaker is diagnosing his own emotional condition."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "SIMILE",
+          "quotation": "So are you to my thoughts as food to life",
+          "explanation": "The FYM as sustenance — elemental, necessary, but also (as the sonnet will reveal) addictive."
+        },
+        {
+          "line_number": 2,
+          "device_id": "SIMILE",
+          "quotation": "as sweet-season'd showers are to the ground",
+          "explanation": "The FYM as seasonal rain — nourishing but intermittent, beyond the Speaker's control."
+        },
+        {
+          "line_number": 3,
+          "device_id": "ANTITHESIS",
+          "quotation": "for the peace of you I hold such strife",
+          "explanation": "Peace/strife — the pursuit of peace through the FYM produces only conflict. The antithesis is the thesis."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METAPHOR",
+          "quotation": "'twixt a miser and his wealth",
+          "explanation": "The Speaker as miser, the FYM as hoarded wealth. The metaphor introduces possessiveness, anxiety, and the pathology of accumulation."
+        },
+        {
+          "line_number": 6,
+          "device_id": "PERSONIFICATION",
+          "quotation": "the filching age will steal his treasure",
+          "explanation": "Time personified as a pickpocket — nimble, sly, inevitable. 'Filching' is petty theft, adding insult to loss."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "all full with feasting on your sight",
+          "explanation": "Vision as consumption — looking at the FYM is eating. The metaphor makes love a form of appetite."
+        },
+        {
+          "line_number": 10,
+          "device_id": "ANTITHESIS",
+          "quotation": "by and by clean starved for a look",
+          "explanation": "Feasting/starving — the immediate reversal from excess to deprivation mirrors the miser's oscillation."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ANTITHESIS",
+          "quotation": "pine and surfeit day by day",
+          "explanation": "'Pine' (waste from lack) and 'surfeit' (sicken from excess) — perfect antonyms compressed into the Speaker's daily cycle."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PUN",
+          "quotation": "gluttoning on all",
+          "explanation": "Shakespeare coins 'gluttoning' as a verb — the word itself performs the excess it describes, forcing 'glutton' into an active, ongoing form."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANAPHORA",
+          "quotation": "Or gluttoning on all, or all away",
+          "explanation": "The symmetrical 'all...all' with reversed prepositions ('on all' vs 'all away') mirrors the binary totality of the Speaker's condition."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 3,
+          "rationale": "The sonnet is an intimate self-diagnosis: the Speaker catalogues his own obsessive patterns with unflinching honesty."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The image chain (food -> rain -> miser's treasure -> feast/famine -> gluttony) drives the argument. Each image escalates the pathology."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The temporal markers (now/anon/now/then/sometime/by and by) create a rhetorical rhythm of oscillation that enacts the content."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 1,
+          "rationale": "Less dramatically framed than 74 — this is interior monologue rather than direct address, though the FYM is still the interlocutor."
+        }
+      ]
+    },
+    {
+      "number": 76,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker defends his repetitive verse against an implied charge of monotony: he writes always of the FYM because the FYM is his only subject, and like the sun, love renews the same material daily.",
+        "speaker_stance": "self-deprecating, defiant, meta-poetic",
+        "emotional_arc": "self-interrogation -> defensive apology -> proud assertion -> cosmic analogy",
+        "dramatic_situation": "The Speaker anticipates or responds to criticism that his verse lacks novelty and range. He turns the accusation into a declaration of devotion: his verse is monotonous because his love is constant.",
+        "subtext": "The self-deprecation masks a sophisticated literary manifesto. By claiming his verse is 'barren of new pride,' the Speaker actually asserts a poetics of sincerity against the ornamental 'compounds strange' of fashionable verse. The simplicity is a choice, not a limitation — and the sonnet that claims to lack invention is itself a feat of inventive argument.",
+        "analysis_text": "Sonnet 76 is the sequence's most overtly meta-poetic moment, a defense of the Speaker's art that doubles as a love poem. The opening quatrain poses four rhetorical questions in rapid succession, each ostensibly self-critical: why is the verse 'barren of new pride,' why does it avoid 'variation or quick change,' why does it not adopt 'new-found methods' and 'compounds strange'? The questions are loaded: 'pride' means both ornament and vanity, 'compounds strange' suggests the alchemical language and neologistic excesses of contemporaries. The Speaker is positioning himself against the avant-garde — against Marlovian bombast and the metaphysical conceits that were beginning to emerge in the 1590s.\n\nThe second quatrain answers the questions with a paradox: 'Why write I still all one, ever the same, / And keep invention in a noted weed?' 'Invention' (creative imagination) is dressed in 'a noted weed' — a recognizable garment, a familiar style. The clothing metaphor is precise: the Speaker's invention is not absent but dressed plainly, so that 'every word doth almost tell my name.' His style is his signature — so distinctive that authorship is transparent. This is both confession and boast: the verse is identifiable because it is honest.\n\nThe volta at line 9 answers definitively: 'O! know sweet love I always write of you.' The exclamation marks the shift from question to declaration. 'You and love are still my argument' — 'argument' means both subject and reason, theme and cause. The Speaker writes of the FYM because the FYM is all there is to write about. Lines 11-12 offer the meta-poetic thesis: 'So all my best is dressing old words new, / Spending again what is already spent.' This is a theory of poetic creation as renewal rather than invention — recycling rather than manufacturing. The economic metaphor ('spending') links back to the miser of 75.\n\nThe couplet lifts the argument to cosmic scale: 'For as the sun is daily new and old, / So is my love still telling what is told.' The sun rises every day — the same sun, always new. The analogy dignifies repetition as natural law: the Speaker's verse participates in the solar cycle of eternal return. 'Telling what is told' is itself a repetition, the line performing its own thesis. This is Shakespeare's most direct statement of his poetics: not ornamental variety but sincere iteration, the same love made new by each re-saying."
+      },
+      "directing": {
+        "scene_setting": "The Speaker at his desk, or in conversation, responding to an accusation — real or anticipated — that his verse lacks novelty. The tone is initially self-questioning, then shifts to proud self-justification.",
+        "character_note": "The Speaker performs modesty while making a sophisticated argument. The rhetorical questions in Q1-Q2 are not genuine — they are set-ups for the triumphant answer in Q3 and the couplet. The self-deprecation is a rhetorical strategy.",
+        "fym_note": "The FYM is both subject and cause: the reason the verse is 'monotonous' is that the FYM is the only subject worth writing about. This is flattery disguised as apology.",
+        "dl_note": "Absent. This is exclusively about the Speaker-FYM relationship and the verse it produces.",
+        "overall_arc": "Begin with genuine-sounding self-doubt in the questions, build momentum through the accumulating interrogatives, pivot at line 9 to confident declaration, and close with the sun analogy as cosmic vindication.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Why is my verse so barren' — the question should sound sincere at first. The audience should believe the self-doubt before the reversal."
+          },
+          {
+            "line": 5,
+            "note": "'All one, ever the same' — let the repetitiveness of the phrase perform its meaning. The sameness is the point."
+          },
+          {
+            "line": 7,
+            "note": "'Every word doth almost tell my name' — a moment of pride breaking through the modesty. The verse is so personally distinctive it is virtually signed."
+          },
+          {
+            "line": 9,
+            "note": "'O! know sweet love' — the exclamation is the volta. The questions are over. Now comes the answer, and it is a declaration of love."
+          },
+          {
+            "line": 13,
+            "note": "The sun analogy elevates everything. Deliver with expansive confidence — the argument has moved from the desk to the cosmos."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "verse",
+            "barren",
+            "new",
+            "pride"
+          ],
+          "emotional_note": "Apparently self-critical, but the question is rhetorical",
+          "delivery_note": "Begin as if genuinely puzzled. The irony will emerge later.",
+          "gloss": "Why is my poetry so devoid of fresh ornament?",
+          "commentary": "'Barren' = unfruitful (echoing the procreation sonnets' imagery). 'New pride' = novel decoration, fashionable ornamentation. 'Pride' contains both ornament and vanity — the Speaker rejects both."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "variation",
+            "quick",
+            "change"
+          ],
+          "emotional_note": "Continuing the self-interrogation",
+          "delivery_note": "'Quick change' should sound almost frivolous — the rapid shifts the Speaker declines to make.",
+          "gloss": "So far from variety or lively alteration?",
+          "commentary": "'Quick change' suggests the flashy transformations of fashionable verse — perhaps the 'metaphysical' school emerging in the 1590s. The Speaker defines himself against novelty."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "time",
+            "glance",
+            "aside"
+          ],
+          "emotional_note": "Slightly mocking — the Speaker is skeptical of fashion",
+          "delivery_note": "'Glance aside' — the gesture of a wandering eye. The Speaker stays fixed on his subject.",
+          "gloss": "Why do I not look sideways at contemporary fashions?",
+          "commentary": "'With the time' = in keeping with contemporary fashion. 'Glance aside' implies infidelity — looking away from the FYM toward literary trends. Constancy in verse mirrors constancy in love."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "new-found",
+            "methods",
+            "compounds",
+            "strange"
+          ],
+          "emotional_note": "Dismissive of literary fashion",
+          "delivery_note": "'Compounds strange' should be slightly exaggerated — these are the extravagances the Speaker rejects.",
+          "gloss": "To newly invented techniques and exotic verbal compounds?",
+          "commentary": "'Compounds strange' = unusual compound words and conceits. May target the 'inkhorn terms' and Latinate coinages fashionable in 1590s verse. 'Strange' = foreign, unfamiliar."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "still",
+            "all one",
+            "same"
+          ],
+          "emotional_note": "The repetition performs monotony — deliberately",
+          "delivery_note": "Let the line sound repetitive on purpose. 'All one, ever the same' is a mantra.",
+          "gloss": "Why do I always write about the same single subject?",
+          "commentary": "'Still all one, ever the same' — the phrasing is itself monotonous, performing the quality it describes. 'Still' = always. The line is a thesis statement of poetic constancy."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "invention",
+            "noted",
+            "weed"
+          ],
+          "emotional_note": "Self-aware — the Speaker knows his style is recognizable",
+          "delivery_note": "'Noted weed' — a familiar garment. Speak it with a shrug of self-knowledge.",
+          "gloss": "And clothe creative imagination in a well-known garment?",
+          "commentary": "'Invention' = creative imagination (rhetorical term). 'Noted weed' = well-known garment (weed = clothing). The metaphor of dressing invention in familiar clothes makes style a matter of sartorial choice."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "every",
+            "word",
+            "almost",
+            "tell",
+            "name"
+          ],
+          "emotional_note": "Pride breaking through the modesty",
+          "delivery_note": "A moment of quiet satisfaction. 'Almost tell my name' — the verse is a signature.",
+          "gloss": "So that every word practically reveals my identity",
+          "commentary": "The Speaker's style is so distinctive it amounts to a signature. This is both vulnerability (no anonymity) and pride (unmistakable voice). 'Almost' preserves a sliver of deniability."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "Showing",
+            "birth",
+            "proceed"
+          ],
+          "emotional_note": "Confident, transparent — the verse has nothing to hide",
+          "delivery_note": "'Birth' and 'proceed' — the words are organic, genealogical. The verse has parentage.",
+          "gloss": "Revealing their origin and where they came from",
+          "commentary": "'Birth' and 'proceed' give the words a genealogy — they are born from the Speaker and advance toward the FYM. The biological metaphor links poetic creation to procreation."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "O",
+            "know",
+            "sweet",
+            "love",
+            "you"
+          ],
+          "emotional_note": "The volta: from question to declaration, from doubt to certainty",
+          "delivery_note": "'O!' is the turning point. Open up vocally — this is a declaration, not a question. 'Sweet love' is direct address.",
+          "gloss": "Oh, understand, dear love, I always write about you",
+          "commentary": "The exclamatory 'O!' marks the volta from interrogation to declaration. 'Sweet love' may address the FYM or Love itself — the ambiguity is productive. The answer to all four questions is: you."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "you",
+            "love",
+            "still",
+            "argument"
+          ],
+          "emotional_note": "Definitive, settled — the thesis is stated",
+          "delivery_note": "'Argument' is the key word — it means both subject and reason. Give it weight.",
+          "gloss": "And you and love are always my subject and reason",
+          "commentary": "'Argument' = (1) subject matter, (2) reason/cause, (3) logical argument. The FYM is simultaneously what the verse is about, why it exists, and what it proves."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "best",
+            "dressing",
+            "old",
+            "new"
+          ],
+          "emotional_note": "Humble but skillful — the meta-poetic thesis",
+          "delivery_note": "The clothing metaphor returns: 'dressing old words new.' Speak it as a craftsman describing his method.",
+          "gloss": "So the best I can do is clothe old words in new dress",
+          "commentary": "'Dressing old words new' — the Speaker's poetics in a phrase. Not invention but renovation; not creation but re-creation. The sartorial metaphor from line 6 returns, now as method rather than limitation."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "Spending",
+            "again",
+            "already",
+            "spent"
+          ],
+          "emotional_note": "Economic but not depleted — the spending is renewable",
+          "delivery_note": "The repetition of 'spend/spent' should echo the repetition of the verse itself.",
+          "gloss": "Expending again what has already been expended",
+          "commentary": "'Spending again what is already spent' — the economic metaphor suggests exhaustion but also circulation. Money spent re-enters the economy. Words spent re-enter the poem. The spending is not waste but recycling."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "sun",
+            "daily",
+            "new",
+            "old"
+          ],
+          "emotional_note": "Expansive, cosmic — the argument lifts to universal scale",
+          "delivery_note": "Broaden the delivery. The sun analogy is the poem's grandest gesture — give it room.",
+          "gloss": "For just as the sun is every day both new and old",
+          "commentary": "The sun: the same star, yet each sunrise is new. The analogy elevates the Speaker's repetition from limitation to cosmic law. 'Daily new and old' — the paradox of eternal return."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "love",
+            "still",
+            "telling",
+            "told"
+          ],
+          "emotional_note": "Serene, resolved — the couplet closes the circle",
+          "delivery_note": "'Telling what is told' — the repetition within the line performs its own thesis. End with quiet confidence.",
+          "gloss": "So my love keeps saying what has already been said",
+          "commentary": "'Still telling what is told' — the line repeats itself ('telling...told'), enacting the very principle it describes. The couplet is both argument and proof: the poem about repetition is itself a repetition."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "poetic_self-reference",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "constancy",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "artistic_identity",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "fashion_vs_sincerity",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "eternal_return",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address at line 9: 'sweet love I always write of you.' The FYM is both audience and subject — the reason the verse exists."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "SUBJECT",
+          "evidence": "First person throughout: 'my verse' (1), 'I always write' (9), 'my best' (11), 'my love' (14). The Speaker examines his own craft."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "RHETORICAL_QUESTION",
+          "quotation": "Why is my verse so barren of new pride?",
+          "explanation": "The first of four rhetorical questions that structure Q1-Q2. The answers are implied: because the FYM is sufficient subject."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METONYMY",
+          "quotation": "compounds strange",
+          "explanation": "'Compounds' stands for the elaborately compounded words and conceits of fashionable verse — a literary technique standing for an entire aesthetic movement."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANAPHORA",
+          "quotation": "still all one, ever the same",
+          "explanation": "The line's own repetitiveness (still/ever, all one/the same) performs the monotony it describes — form enacting content."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "keep invention in a noted weed",
+          "explanation": "Invention (creative imagination) dressed in a well-known garment — style as clothing, with the implication that plainer dress means greater honesty."
+        },
+        {
+          "line_number": 7,
+          "device_id": "HYPERBOLE",
+          "quotation": "every word doth almost tell my name",
+          "explanation": "The claim that his style is so distinctive every word reveals its author — exaggeration that is also a boast."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "O! know sweet love I always write of you",
+          "explanation": "The exclamatory turn from self-interrogation to declaration. The four questions find their single answer: you."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "you and love are still my argument",
+          "explanation": "'Argument' means (1) subject matter, (2) reason/cause, (3) logical proof. The FYM is all three simultaneously."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "dressing old words new",
+          "explanation": "Poetic creation as re-clothing — not manufacturing new fabric but tailoring familiar material. A theory of art as renovation."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PARADOX",
+          "quotation": "Spending again what is already spent",
+          "explanation": "How can one spend what is already spent? Because poetic currency, unlike financial currency, is renewable. Each re-spending creates new value."
+        },
+        {
+          "line_number": 13,
+          "device_id": "SIMILE",
+          "quotation": "as the sun is daily new and old",
+          "explanation": "The cosmic analogy: the sun is the same every day yet always new. Repetition is natural law, not artistic failure."
+        },
+        {
+          "line_number": 14,
+          "device_id": "POLYPTOTON",
+          "quotation": "still telling what is told",
+          "explanation": "'Telling...told' — the verbal repetition within the line performs the very principle of poetic renewal through re-telling."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 3,
+          "rationale": "The sonnet is explicitly about poetry — about the Speaker's style, his subject, his method. It is the sequence's ars poetica."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The structure is a rhetorical set-piece: four questions (Q1-Q2) answered by a declaration (Q3) and sealed with a cosmic analogy (C)."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The self-examination is genuine even if the self-deprecation is strategic. The Speaker reveals his artistic anxieties."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "The sun analogy invokes the philosophical concept of eternal return — sameness and renewal as cosmic principle."
+        }
+      ]
+    },
+    {
+      "number": 77,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker presents the FYM with a gift — a blank notebook — accompanied by a mirror and sundial, urging him to record his thoughts before time erases them.",
+        "speaker_stance": "avuncular, gift-giving, gently admonitory",
+        "emotional_arc": "memento mori (mirror, dial) -> gift of the notebook -> promise of intellectual offspring -> reassuring close",
+        "dramatic_situation": "This is a gift poem — the Speaker accompanies a physical present (a blank notebook) with instructions for its use. The mirror shows the FYM his aging, the dial shows time passing, and the notebook is the remedy: write it down before it vanishes.",
+        "subtext": "The gift of a notebook is also a gentle command: write. The Speaker, having spent 76 sonnets writing about the FYM, now hands the pen to the FYM himself. The 'children nursed, deliver'd from thy brain' echoes the procreation sonnets — but here the offspring are intellectual, not biological. The Speaker may be acknowledging that the FYM will not produce physical heirs and offering a substitute.",
+        "analysis_text": "Sonnet 77 is the sequence's most material poem — anchored in three physical objects (mirror, sundial, notebook) that the Speaker apparently gives to the FYM. The opening quatrain presents the first two objects as instruments of memento mori: 'Thy glass will show thee how thy beauties wear' and 'Thy dial how thy precious minutes waste.' The mirror and dial are technologies of self-knowledge through decay — they reveal not what you are but what you are becoming. The third and fourth lines introduce the notebook: 'These vacant leaves thy mind's imprint will bear.' Where the mirror and dial record loss, the notebook records thought. It is the antidote to the vanities of the first two objects.\n\nThe second quatrain deepens the memento mori with vivid imagery: 'The wrinkles which thy glass will truly show / Of mouthed graves will give thee memory.' Wrinkles are miniature graves — the word 'mouthed' makes them gaping, hungry, consuming the face. The sundial's shadow becomes 'shady stealth,' making time a burglar creeping through the FYM's life. 'Time's thievish progress to eternity' — progress here means both advance and royal procession, time as both thief and monarch moving inevitably toward death.\n\nThe volta at line 9 shifts from loss to remedy: 'Look! what thy memory cannot contain, / Commit to these waste blanks.' The imperative 'Look!' breaks the meditative mood with urgency. 'Waste blanks' describes the empty pages — 'waste' meaning both unused and destined to record waste/decay. The notebook becomes a prosthetic memory, extending the FYM's mind beyond its natural capacity. Lines 11-12 introduce the most striking image: 'Those children nursed, deliver'd from thy brain, / To take a new acquaintance of thy mind.' The thoughts committed to paper are 'children' — born from the brain, nursed by writing, and eventually re-encountered as strangers. This echoes the procreation sonnets' demand for offspring but redirects it: the FYM's children will be intellectual, not biological.\n\nThe couplet seals the gift with a practical promise: 'These offices, so oft as thou wilt look, / Shall profit thee and much enrich thy book.' 'Offices' means both duties and services — the mirror, dial, and notebook serve the FYM. 'Profit' and 'enrich' return to the economic register, but here the investment yields genuine returns. The sonnet that began with decay ends with enrichment — the notebook transforms loss into gain."
+      },
+      "directing": {
+        "scene_setting": "A gift-giving occasion. The Speaker presents the FYM with a notebook (and perhaps a mirror and sundial, or refers to ones the FYM already owns). The tone is warmly instructive — an older advisor equipping a younger man for the passage of time.",
+        "character_note": "The Speaker is in his most avuncular mode — part teacher, part gift-giver, part mortality counselor. The gentle warnings about aging are softened by the practical remedy of the notebook. There is something touching about the gift's modesty: not jewels or verses, but blank pages.",
+        "fym_note": "The FYM is addressed as someone who needs instruction in self-reflection. The mirror, dial, and notebook are tools for self-knowledge — the implication is that the FYM has not been examining himself closely enough. If Southampton: a young man being taught to take time seriously.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the sober instruction of the mirror and dial (Q1-Q2), shift to urgency and hope at the volta (line 9), and close with the promise that writing transforms loss into enrichment.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Thy glass' — hold up the mirror (literally or figuratively). The tone is gentle but serious."
+          },
+          {
+            "line": 3,
+            "note": "'These vacant leaves' — present the notebook. The physical gesture matters: this is a gift."
+          },
+          {
+            "line": 6,
+            "note": "'Of mouthed graves' — the most vivid image. Wrinkles as hungry graves on the face. Let the horror register."
+          },
+          {
+            "line": 9,
+            "note": "'Look!' — the volta is an imperative. Wake the FYM from contemplation to action."
+          },
+          {
+            "line": 11,
+            "note": "'Those children nursed, deliver'd from thy brain' — the procreation metaphor redirected to intellectual offspring. This is the poem's emotional center."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "glass",
+            "show",
+            "beauties",
+            "wear"
+          ],
+          "emotional_note": "Gently admonitory — the mirror reveals uncomfortable truths",
+          "delivery_note": "Measured, calm. Present the mirror as a tool, not a weapon. 'Wear' = wear away, deteriorate.",
+          "gloss": "Your mirror will show you how your beauty is wearing away",
+          "commentary": "'Glass' = mirror. 'Wear' = deteriorate over time (not 'display'). The mirror is the first of three instruments of self-knowledge. Its lesson is decay."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "dial",
+            "precious",
+            "minutes",
+            "waste"
+          ],
+          "emotional_note": "Sobering — each minute is precious and wasting",
+          "delivery_note": "'Precious minutes waste' — let 'waste' fall with the weight of irreversibility.",
+          "gloss": "Your sundial will show how your valuable minutes are spent/wasted",
+          "commentary": "'Dial' = sundial. 'Waste' puns: (1) pass/expire and (2) are squandered. 'Precious minutes' — the economic language (precious = valuable) recurs."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "vacant",
+            "leaves",
+            "mind's",
+            "imprint"
+          ],
+          "emotional_note": "Hopeful — the notebook is the remedy",
+          "delivery_note": "Present the notebook with warmth. 'Vacant leaves' are potential, not emptiness.",
+          "gloss": "These blank pages will bear the imprint of your mind",
+          "commentary": "'Vacant leaves' = blank pages. 'Mind's imprint' = the impression of thought. The notebook is a technology for extending the mind beyond the body's decay."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "book",
+            "learning",
+            "taste"
+          ],
+          "emotional_note": "Encouraging, promising — the notebook will yield knowledge",
+          "delivery_note": "'Taste' — a gentler word than 'learn.' This is invitation, not instruction.",
+          "gloss": "And from this book, you may sample this wisdom",
+          "commentary": "'This learning' = the wisdom of self-observation. 'Taste' = sample, experience (gustatory metaphor). The notebook will teach the FYM about himself."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "wrinkles",
+            "glass",
+            "truly",
+            "show"
+          ],
+          "emotional_note": "Frank, unflinching — the mirror does not lie",
+          "delivery_note": "'Truly' is pointed — the mirror's honesty contrasts with flattery the FYM may hear elsewhere.",
+          "gloss": "The wrinkles that your mirror will honestly reveal",
+          "commentary": "'Truly show' — the mirror is an honest counselor (unlike the flatterers around a young nobleman). 'Wrinkles' returns to the aging imagery of the early sonnets."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "mouthed",
+            "graves",
+            "memory"
+          ],
+          "emotional_note": "Macabre, vivid — wrinkles become open graves",
+          "delivery_note": "'Mouthed graves' is the poem's most disturbing image. Let it land with visual force.",
+          "gloss": "Will remind you of gaping graves",
+          "commentary": "'Mouthed graves' — wrinkles as open-mouthed graves on the face. The image is startlingly visceral: each wrinkle is a little death, a miniature tomb hollowed into the skin."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "dial's",
+            "shady",
+            "stealth"
+          ],
+          "emotional_note": "Sinister — time moves by stealth, like a thief",
+          "delivery_note": "'Shady stealth' — whisper-like. Time is a burglar, moving in shadow.",
+          "gloss": "By your sundial's shadowy creeping you may know",
+          "commentary": "'Shady stealth' — the sundial's shadow moves imperceptibly, like a thief (connecting to 'thievish' in line 8). 'Shady' puns on shadow and moral shadiness."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "Time's",
+            "thievish",
+            "progress",
+            "eternity"
+          ],
+          "emotional_note": "Grand, ominous — time as both thief and monarch",
+          "delivery_note": "'Progress' is key — it means both advance and royal procession. Time processes toward eternity like a king through his domain.",
+          "gloss": "Time's stealthy advance toward eternity",
+          "commentary": "'Thievish progress' — 'progress' means both movement forward and a royal procession (a monarch's progress through the realm). Time is simultaneously pickpocket and sovereign. 'To eternity' — the destination is absolute."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "Look",
+            "memory",
+            "contain"
+          ],
+          "emotional_note": "Urgent, practical — the volta shifts from observation to action",
+          "delivery_note": "'Look!' is a wake-up call. Break the meditative mood with imperative force.",
+          "gloss": "Look! What your memory cannot hold",
+          "commentary": "The volta. 'Look!' is the most abrupt imperative in the sonnet — a physical command. 'What thy memory cannot contain' acknowledges the limits of the mind, preparing the argument for the notebook as prosthetic memory."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "Commit",
+            "waste",
+            "blanks",
+            "find"
+          ],
+          "emotional_note": "Practical, directive — write it down",
+          "delivery_note": "'Commit' — entrust, confide. 'Waste blanks' — the empty pages that will record what time wastes.",
+          "gloss": "Write down in these blank pages, and you will find",
+          "commentary": "'Waste blanks' puns: (1) empty/unused pages, (2) pages destined to record waste/decay. 'Commit' = entrust, as in committing something to memory — but here, to paper."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "children",
+            "nursed",
+            "deliver'd",
+            "brain"
+          ],
+          "emotional_note": "Tender, parental — thoughts as children born from the mind",
+          "delivery_note": "The procreation metaphor returns transformed. 'Deliver'd from thy brain' — speak with the tenderness of the birth it describes.",
+          "gloss": "Those mental children nurtured and delivered from your mind",
+          "commentary": "'Children nursed, deliver'd from thy brain' — the procreation metaphor from sonnets 1-17 redirected to intellectual creation. The FYM's thoughts are offspring, and the notebook is the nursery. 'Deliver'd' = both born and handed over."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "new",
+            "acquaintance",
+            "mind"
+          ],
+          "emotional_note": "Wonder — re-reading your own old thoughts as if meeting a stranger",
+          "delivery_note": "'New acquaintance' — the surprise of rediscovery. Old thoughts become new encounters.",
+          "gloss": "Will become reacquainted with your mind as something new",
+          "commentary": "'Take a new acquaintance of thy mind' — when you re-read old notes, you meet your former self as a stranger. The notebook enables self-encounter across time."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "offices",
+            "oft",
+            "look"
+          ],
+          "emotional_note": "Practical, reassuring — regular use yields regular returns",
+          "delivery_note": "'Offices' = duties, services. The mirror, dial, and notebook serve the FYM faithfully.",
+          "gloss": "These services, as often as you consult them",
+          "commentary": "'Offices' = (1) duties, (2) services performed by the three instruments. 'So oft as thou wilt look' — the return is proportional to the investment of attention."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "profit",
+            "enrich",
+            "book"
+          ],
+          "emotional_note": "Warm, conclusive — the gift bears fruit",
+          "delivery_note": "End with confidence and warmth. The economic metaphor is positive here: genuine enrichment, not miser's hoarding.",
+          "gloss": "Will benefit you and greatly enrich your notebook",
+          "commentary": "'Profit' and 'enrich' return to the sequence's economic vocabulary, but here the returns are genuine. The notebook transforms time's waste into intellectual wealth. 'Thy book' — the FYM's own text, not the Speaker's."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "time",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "memory",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "intellectual_offspring",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "memento_mori",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "gift_giving",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "self-knowledge",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'Thy glass' (1), 'thy dial' (2), 'thy mind's imprint' (3), 'thy brain' (11), 'thy book' (14). The FYM is the recipient of the gift and instruction."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "The Speaker is present as gift-giver and instructor but uses no first-person pronouns. His presence is felt in the imperative mood and the act of giving."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "METONYMY",
+          "quotation": "Thy glass will show thee how thy beauties wear",
+          "explanation": "'Glass' (mirror) stands for the practice of self-examination. The mirror is both literal object and symbol of honest self-scrutiny."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PUN",
+          "quotation": "thy precious minutes waste",
+          "explanation": "'Waste' means both (1) pass/expire and (2) are squandered. The minutes are simultaneously spent and misspent."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "Of mouthed graves will give thee memory",
+          "explanation": "Wrinkles as open-mouthed graves — each facial line is a miniature tomb, gaping and hungry. The face becomes a landscape of tiny deaths."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PERSONIFICATION",
+          "quotation": "thy dial's shady stealth",
+          "explanation": "The sundial's shadow personified as a stealthy thief — moving imperceptibly, stealing time through its very invisibility."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PUN",
+          "quotation": "Time's thievish progress to eternity",
+          "explanation": "'Progress' means both (1) forward movement and (2) a royal procession. Time is simultaneously a common thief and a sovereign making a regal progress through life."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "these waste blanks",
+          "explanation": "'Waste' = (1) empty/unused and (2) destined to record waste/decay. The blank pages mirror the emptiness they will fill with records of loss."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "Those children nursed, deliver'd from thy brain",
+          "explanation": "Thoughts as children — born from the brain, nursed by writing. The procreation metaphor from sonnets 1-17 redirected from biological to intellectual reproduction."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PERSONIFICATION",
+          "quotation": "To take a new acquaintance of thy mind",
+          "explanation": "Written thoughts personified as strangers who re-introduce themselves to the writer — the notebook enables self-encounter across time."
+        },
+        {
+          "line_number": 14,
+          "device_id": "METAPHOR",
+          "quotation": "much enrich thy book",
+          "explanation": "The economic metaphor turned positive: time's decay, recorded faithfully, becomes wealth. The notebook transforms loss into intellectual capital."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is instruction — the Speaker teaches the FYM how to use the mirror, dial, and notebook as tools for self-knowledge."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "Three concrete objects (mirror, sundial, notebook) anchor the argument. The imagery of mouthed graves and shady stealth is among the sequence's most vivid."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The poem is a gift-giving scene: the Speaker hands the FYM a notebook and explains its use. The physical act underlies the verse."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Connects the procreation theme (children from the brain) with the immortality-through-writing theme, bridging the sequence's two major arguments."
+        }
+      ]
+    }
+  ]
+}

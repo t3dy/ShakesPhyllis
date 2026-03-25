@@ -1,0 +1,493 @@
+{
+  "batch": "07_procreation_remaining",
+  "description": "Remaining procreation sonnets: the full economic/natural argument for breeding",
+  "sonnets": [
+    {
+      "number": 2,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "When forty winters besiege your brow and beauty becomes a tattered weed, answering 'my beauty is in my own sunken eyes' would be shame. But answering 'this fair child shall sum my count' would prove beauty lives by succession.",
+        "speaker_stance": "prophetic, urgent",
+        "emotional_arc": "dire prophecy -> imagined interrogation -> triumphant answer -> warm resolution",
+        "dramatic_situation": "The Speaker projects the FYM forward forty years and imagines an interrogation: where did your beauty go? Without a child, the answer is nowhere — an 'all-eating shame.' With a child, beauty lives by succession.",
+        "subtext": "The military metaphor ('besiege,' 'trenches') makes time a literal enemy laying siege to the FYM's face. The economic language ('treasure,' 'thriftless,' 'sum my count') connects to Sonnet 4's usury imagery. The urgency suggests the Speaker has already failed to persuade with Sonnet 1's gentler approach.",
+        "analysis_text": "Sonnet 2 escalates from Sonnet 1's philosophical opening to a visceral prophecy of aging. The military conceit is immediate: 'forty winters shall besiege thy brow, / And dig deep trenches in thy beauty's field.' Wrinkles as trenches dug by an invading army — the FYM's face as a battlefield. 'Thy youth's proud livery so gazed on now, / Will be a tatter'd weed' — the gorgeous clothing of youth will become rags. The volta imagines a future interrogation: asked where his beauty went, the FYM can only point to 'thine own deep sunken eyes' — the eyes that were once 'bright' (Sonnet 1) now sunken in an aged face. The alternative is a child: 'This fair child of mine / Shall sum my count, and make my old excuse.' The accounting metaphor makes the child a balance sheet entry — beauty as capital invested in an heir. The couplet's warmth is earned: 'see thy blood warm when thou feel'st it cold' — the child's warmth will counteract the parent's coldness in old age. The physical specificity (warm blood, cold body) grounds the abstract argument in the body."
+      },
+      "directing": {
+        "scene_setting": "The Speaker forcing the FYM to look into the future — holding up a mirror that shows not the present but forty years hence.",
+        "character_note": "More urgent than Sonnet 1. The Speaker has dropped the philosophical tone and is now prophesying — almost threatening the FYM with his own future face.",
+        "fym_note": "The FYM at twenty, imagined at sixty. The gap is the argument: beauty is temporary, only a child preserves it.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the military prophecy (grim, vivid), deepen through the imagined interrogation (Q2), offer the child as answer (Q3), resolve with the warm couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'Forty winters' — not years but winters. The harsh season stands for aging. 'Besiege thy brow' — the forehead under siege."},
+          {"line": 4, "note": "'A tatter'd weed' — from proud livery to rags. The transformation should shock."},
+          {"line": 7, "note": "'Thine own deep sunken eyes' — the beautiful eyes of youth now hollow. The physical horror of aging."},
+          {"line": 10, "note": "'This fair child of mine' — the imagined answer. The tone lifts from prophecy to hope."},
+          {"line": 14, "note": "'See thy blood warm when thou feel'st it cold' — the child's warmth against the parent's cold. Physical, tender."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["forty", "winters", "besiege", "brow"], "emotional_note": "Military prophecy — time as invading army", "delivery_note": "'Forty winters' — stress the number. 'Besiege' makes the forehead a fortress under attack.", "gloss": "When forty winters lay siege to your forehead", "commentary": "'Besiege' and 'trenches' (line 2) create a military conceit: Time as an army attacking the FYM's beauty. 'Forty winters' = forty years measured by the harshest season."},
+        {"line_number": 2, "emphasis_words": ["dig", "deep", "trenches", "beauty's", "field"], "emotional_note": "Wrinkles as battle scars", "delivery_note": "The alliterative d's (dig, deep) create the sound of digging. 'Beauty's field' — the face as a field both agricultural and military.", "gloss": "And dig deep wrinkles in the field of your beauty", "commentary": "'Trenches' = wrinkles. 'Beauty's field' = (1) the face and (2) a battlefield. The military conceit makes aging violent, not gradual."},
+        {"line_number": 7, "emphasis_words": ["deep", "sunken", "eyes"], "emotional_note": "The horror of aged eyes — once bright, now hollow", "delivery_note": "The eyes that Sonnet 1 called 'bright' are now 'deep sunken.' Let the contrast with youth register.", "gloss": "Within your own deep-set, hollow eyes", "commentary": "'Deep sunken eyes' — the physical specificity of aging. The eyes that were the FYM's glory (and the Speaker's obsession) become evidence of decay."},
+        {"line_number": 14, "emphasis_words": ["blood", "warm", "feel'st", "cold"], "emotional_note": "Tender resolution — warmth against cold", "delivery_note": "The warmth/cold contrast is physical: the child's living blood against the parent's cooling body. End with warmth.", "gloss": "And see your blood running warm when your own body feels cold", "commentary": "The couplet resolves in the body: warm blood (the child's vitality) and cold blood (the parent's aging). The argument moves from abstract (legacy, beauty) to physical (blood, warmth)."}
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thy brow,' 'thy beauty,' 'thou' throughout"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The prophetic voice imagining the FYM's future"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "forty winters shall besiege thy brow, / And dig deep trenches in thy beauty's field", "explanation": "Military conceit: aging as siege warfare. Wrinkles are trenches; the face is a fortification under attack."},
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "Will be a tatter'd weed of small worth held", "explanation": "'Livery' (fine clothing) becomes 'tatter'd weed' (rags). Beauty as garment that decays."},
+        {"line_number": 8, "device_id": "PARADOX", "quotation": "an all-eating shame, and thriftless praise", "explanation": "Praising your own beauty without a child to show for it is both shameful and wasteful — 'thriftless' echoing the economic theme."},
+        {"line_number": 11, "device_id": "METAPHOR", "quotation": "Shall sum my count, and make my old excuse", "explanation": "The child as a financial sum — 'sum my count' = balance my books. Beauty as capital, the child as its dividend."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The military conceit (besiege, trenches, field) and the economic imagery (treasure, thriftless, sum, count) are the twin engines of the sonnet."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The imagined future interrogation (lines 5-8) dramatizes the argument: the FYM must face a question he cannot yet answer."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The argument by future projection: imagine yourself old, then choose your answer now."}
+      ]
+    },
+    {
+      "number": 4,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The FYM is an unthrifty miser of beauty — spending on himself what Nature lent to be shared. A profitless usurer, having traffic with himself alone. When Nature calls you to be gone, what audit can you leave? Your unused beauty will be tombed with you.",
+        "speaker_stance": "prosecutorial, economically precise",
+        "emotional_arc": "accusation -> economic catalogue -> audit demand -> tomb image",
+        "dramatic_situation": "The most purely economic sonnet in the procreation sequence. The FYM is charged with financial crimes against Nature: hoarding beauty that was a loan, not a gift. Every line uses commercial vocabulary.",
+        "subtext": "The economic language dehumanizes: the FYM is not a person but a bad debtor, a profitless usurer, a miser. The Speaker's frustration with the procreation argument is showing — after three sonnets of gentle persuasion, he becomes a prosecutor.",
+        "analysis_text": "Sonnet 4 is the sequence's most relentlessly economic poem — every significant word belongs to the vocabulary of commerce: 'unthrifty,' 'spend,' 'legacy,' 'bequest,' 'lend,' 'frank,' 'free,' 'niggard,' 'abuse,' 'largess,' 'usurer,' 'use,' 'sum,' 'traffic,' 'audit,' 'executor.' The FYM is addressed as a financial entity who has mismanaged Nature's investment. Q1 establishes the premise: beauty is a 'legacy' that Nature 'lends,' not gives — the FYM is a tenant, not an owner (echoing 18's 'summer's lease'). Q2 escalates: 'beauteous niggard,' 'profitless usurer' — oxymorons that make beauty itself a form of economic perversion. 'Having traffic with thyself alone' is both financial (trading only with yourself) and sexual (masturbatory self-enclosure). The volta demands an audit: 'What acceptable audit canst thou leave?' — when death comes, what accounts can the FYM present? The couplet's 'tombed' is the grave image, but 'executor' flips it: beauty 'used' (invested in a child) becomes its own executor — the child administers beauty's estate. The pun on 'use' (invest / enjoy / have sex) runs throughout."
+      },
+      "directing": {
+        "scene_setting": "The Speaker as prosecutor, presenting the case against the FYM to an economic tribunal. Every charge is financial.",
+        "character_note": "The Speaker has lost patience with gentle persuasion. This is an indictment. The tone is sharp, the vocabulary technical, the judgment severe.",
+        "fym_note": "The FYM as bad debtor: beauty was lent to him by Nature to share, and he hoards it. If Southampton: the young earl resisting the marriage market.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with accusation ('Unthrifty loveliness'), build the economic indictment through Q1-Q2 with escalating charges, demand the audit at line 12, and seal the tomb in the couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'Unthrifty loveliness' — the oxymoron. Beauty that is wasteful. The accusation in two words."},
+          {"line": 7, "note": "'Profitless usurer' — the most cutting charge. A usurer who makes no profit is the worst kind of failure."},
+          {"line": 9, "note": "'Having traffic with thyself alone' — the financial AND sexual self-enclosure. Masturbatory narcissism as bad economics."},
+          {"line": 12, "note": "'What acceptable audit canst thou leave?' — the audit demand. What will death's accountants find?"},
+          {"line": 13, "note": "'Tombed with thee' — beauty buried in the grave. The image is final."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Unthrifty", "loveliness", "spend"], "emotional_note": "The indictment opens — oxymoron as accusation", "delivery_note": "'Unthrifty loveliness' should land as a contradiction: how can beauty be wasteful? That's the charge.", "gloss": "Wasteful beauty, why do you spend your beauty's inheritance on yourself?", "commentary": "'Unthrifty' = wasteful, failing to save/invest. 'Loveliness' is the subject addressed directly. The compound 'unthrifty loveliness' is an oxymoron: beauty should create abundance, not waste."},
+        {"line_number": 7, "emphasis_words": ["Profitless", "usurer", "use"], "emotional_note": "The sharpest charge — a usurer with no profit", "delivery_note": "A usurer exists to make profit from loans. A 'profitless usurer' is the worst kind of failure. Let the contempt land.", "gloss": "You profitless moneylender, why do you invest such great sums yet cannot thrive?", "commentary": "'Profitless usurer' — the ultimate economic oxymoron. Usury is lending at interest; doing it without profit is absurd. 'Use' = (1) invest at interest, (2) employ, (3) have sex with. The FYM 'uses' his beauty without producing returns."},
+        {"line_number": 9, "emphasis_words": ["traffic", "thyself", "alone"], "emotional_note": "Self-enclosed commerce — financial and sexual", "delivery_note": "'Traffic with thyself alone' — both financial (trading only with yourself) and sexual (self-pleasure). Let the double meaning register.", "gloss": "For trading only with yourself", "commentary": "'Traffic' = commerce/trade. 'With thyself alone' = the FYM is a closed economic system, producing nothing for the wider market. The sexual undertone (self-pleasure rather than procreation) is unmistakable."},
+        {"line_number": 12, "emphasis_words": ["acceptable", "audit", "leave"], "emotional_note": "The demand — what accounts can you present to death?", "delivery_note": "Rhetorical question with weight. 'Audit' is a formal accounting. Death is the auditor.", "gloss": "What acceptable account of yourself can you leave behind?", "commentary": "'Audit' = formal examination of accounts. Death as auditor demanding to see the FYM's books. If the FYM has 'spent' his beauty on himself alone, the accounts show only loss."}
+      ],
+      "themes": [
+        {"theme": "economic_metaphor", "prominence": "PRIMARY"},
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "narcissism", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Unthrifty loveliness,' 'beauteous niggard,' 'profitless usurer' — the FYM as financial criminal"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The prosecutorial voice demanding an economic accounting"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "Unthrifty loveliness", "explanation": "Beauty that wastes is a contradiction — beauty should generate abundance, not scarcity."},
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "Nature's bequest gives nothing, but doth lend", "explanation": "Beauty as a loan from Nature, not a gift. The FYM is a borrower with obligations to repay."},
+        {"line_number": 7, "device_id": "PARADOX", "quotation": "Profitless usurer", "explanation": "A moneylender who makes no profit — the supreme economic absurdity applied to narcissistic beauty."},
+        {"line_number": 9, "device_id": "PUN", "quotation": "having traffic with thyself alone", "explanation": "'Traffic' = (1) commerce and (2) sexual intercourse. Self-dealing and self-pleasure merged."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "used, lives th' executor to be", "explanation": "'Used' = (1) invested and (2) sexually employed. 'Executor' = administrator of an estate — the child manages beauty's legacy."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "Every line is a prosecution brief. The economic vocabulary IS the argument — the FYM is tried and convicted by commerce."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The economic image system (spend, legacy, lend, niggard, usurer, traffic, audit, executor) is total — no image escapes the financial frame."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "The economic theme reaches its densest expression. This sonnet defines the sequence's commercial vocabulary."}
+      ]
+    },
+    {
+      "number": 5,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The same hours that shaped the FYM's beauty will become tyrants destroying it — summer led to hideous winter, sap frozen, beauty snowed over. But if summer's essence is distilled (a child, a perfume), the substance survives even when the show is gone.",
+        "speaker_stance": "philosophical, patient",
+        "emotional_arc": "gentle observation -> seasonal darkening -> the distillation solution -> sweet substance preserved",
+        "dramatic_situation": "The Speaker shifts from economic argument (4) to natural philosophy. The distillation conceit — essence preserved in a vial while the flower perishes — is the procreation argument's most elegant formulation.",
+        "subtext": "The distillation image is also alchemical: extracting the quinta essentia from base matter. The 'liquid prisoner pent in walls of glass' is both perfume in a bottle and a child in a womb — beauty's essence confined in a new vessel.",
+        "analysis_text": "Sonnet 5 introduces the distillation conceit that will pair with Sonnet 6. Q1 presents Time as a craftsman turned tyrant: the same 'hours' that 'with gentle work did frame / The lovely gaze' will 'play the tyrants to the very same.' Time creates and destroys with the same hands. Q2 narrates the seasonal decline: summer → winter, lusty leaves → bareness, beauty → snow. The vocabulary is physical: 'sap checked with frost,' 'beauty o'er-snowed.' The volta offers the solution: 'summer's distillation' — the flower's essence extracted into perfume, 'a liquid prisoner pent in walls of glass.' The image is simultaneously scientific (distillation), domestic (perfumery), and procreative (essence preserved in a new vessel). The couplet distinguishes 'show' (appearance) from 'substance' (essence): 'flowers distill'd... Leese but their show; their substance still lives sweet.' The child preserves the FYM's substance (genetic beauty) even when the show (youth's appearance) is lost. 'Leese' = lose (archaic). The quiet ending ('lives sweet') after the winter imagery is the gentlest resolution in the procreation sequence."
+      },
+      "directing": {
+        "scene_setting": "The Speaker observing seasonal change — perhaps in a garden or looking at flowers — and drawing the analogy to the FYM's beauty.",
+        "character_note": "The gentlest tone since Sonnet 1. After the sharpness of 4's economic indictment, the Speaker returns to nature and patient observation.",
+        "fym_note": "The FYM as summer flower — beautiful but seasonal, needing distillation to survive winter.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with gentle observation of time's work (Q1), darken through the seasonal imagery (Q2), offer the distillation as hope (Q3), and resolve sweetly in the couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'Those hours, that with gentle work did frame' — Time as gentle craftsman. The gentleness will turn tyrannical."},
+          {"line": 6, "note": "'Hideous winter' — the season that destroys. Let the adjective 'hideous' carry its full weight."},
+          {"line": 10, "note": "'A liquid prisoner pent in walls of glass' — the perfume image. Essence captured, beauty preserved."},
+          {"line": 14, "note": "'Their substance still lives sweet' — the quiet triumph. Substance over show. Essence survives."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 3, "emphasis_words": ["play", "tyrants", "very", "same"], "emotional_note": "The turn — gentle creator becomes destroyer", "delivery_note": "'Play the tyrants' — the same hands that made the beauty will destroy it. The betrayal is in the continuity.", "gloss": "Will become tyrants to that very same beauty", "commentary": "Time's dual nature: creator and destroyer. The word 'play' is theatrical — Time performs the role of tyrant, as if staging beauty's fall."},
+        {"line_number": 10, "emphasis_words": ["liquid", "prisoner", "pent", "walls", "glass"], "emotional_note": "The distillation — essence captured in glass", "delivery_note": "Beautiful, precise. 'Liquid prisoner' — the perfume is both free (liquid) and confined (prisoner). The paradox should register.", "gloss": "A liquid prisoner confined in glass walls", "commentary": "'Liquid prisoner pent in walls of glass' — perfume in a bottle, essence in a womb, beauty preserved in a child. The image is simultaneously scientific, domestic, and generative. 'Pent' = confined (cognate with 'penitentiary')."}
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "PRIMARY"},
+        {"theme": "distillation", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "IMPLIED", "evidence": "'The lovely gaze where every eye doth dwell' — the FYM as the beauty under discussion, though not directly addressed until the paired Sonnet 6"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The observing philosophical voice"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PERSONIFICATION", "quotation": "Those hours, that with gentle work did frame", "explanation": "Time's hours personified as craftsmen — first gentle, then tyrannical. The same hands that create, destroy."},
+        {"line_number": 3, "device_id": "ANTITHESIS", "quotation": "Will play the tyrants to the very same", "explanation": "Gentle work → tyrants. The antithesis between creation and destruction is enacted within Time's single agency."},
+        {"line_number": 10, "device_id": "METAPHOR", "quotation": "A liquid prisoner pent in walls of glass", "explanation": "Perfume as prisoner — beauty's essence confined in a new vessel. The metaphor bridges distillation, perfumery, and procreation."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Leese but their show; their substance still lives sweet", "explanation": "Show (appearance) vs. substance (essence). The child preserves substance; only the show is lost to time."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The distillation conceit IS the poem: summer → winter → perfume. The progression from natural to alchemical imagery drives the argument."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Show vs. substance — the distinction between appearance and essence that will recur throughout the sequence."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "Sonnet 5 is the first half of a diptych with 6 — the distillation argument is completed there."}
+      ]
+    },
+    {
+      "number": 6,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Don't let winter deface your summer — distill yourself, fill some vial, treasure some place. The usury of breeding is lawful and happy. Ten children would make you ten times happier. Don't be self-willed: you're too fair to be death's conquest and make worms your heir.",
+        "speaker_stance": "urgent, persuasive, witty",
+        "emotional_arc": "urgent command -> economic justification -> arithmetical fantasy -> devastating couplet image",
+        "dramatic_situation": "The companion to Sonnet 5: the distillation argument applied directly to the FYM. 'Make sweet some vial' = father a child. The economic argument returns with the usury metaphor, but here 'use' (breeding) is explicitly endorsed as lawful and happy — not the 'profitless' usury of Sonnet 4.",
+        "subtext": "The arithmetic of 'ten times happier, be it ten for one' is absurdly optimistic — but the hyperbole reveals the Speaker's desperation. The couplet's 'make worms thine heir' is the sequence's most visceral death image: without a child, worms inherit your beauty.",
+        "analysis_text": "Sonnet 6 completes the distillation diptych begun in 5, now addressed directly to the FYM: 'let not winter's ragged hand deface, / In thee thy summer, ere thou be distill'd.' The command is explicit: distill yourself before winter arrives. 'Make sweet some vial' = impregnate a woman (the vial is the womb). Q2 rehabilitates usury: 'That use is not forbidden usury, / Which happies those that pay the willing loan.' Breeding is a loan that makes everyone happy — unlike the hoarding condemned in Sonnet 4. The arithmetic becomes playful: ten children ('ten for one') would make the FYM ten times happier, and 'ten of thine ten times refigur'd thee' — a hundred copies of your beauty. The fantasy is extravagant but reveals the urgency. The couplet lands the death threat: 'Be not self-will'd' (pun: self-willed/stubborn AND self-Willed/containing only your own Will/desire), 'for thou art much too fair / To be death's conquest and make worms thine heir.' The final image — worms as heirs — makes the abstract argument viscerally physical: without a child, the only thing that inherits the FYM's beauty is decomposition."
+      },
+      "directing": {
+        "scene_setting": "A continuation of 5's argument but now directly addressed: the philosophical observation becomes personal command.",
+        "character_note": "The Speaker is more direct than in 5 — imperative mood, specific commands ('make sweet some vial'). The arithmetic of children is playful but the couplet is deadly serious.",
+        "fym_note": "The FYM addressed directly: 'thee,' 'thy summer,' 'thyself.' The distillation is personal now.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the urgent command (distill yourself), make the economic case (lawful usury), indulge the arithmetic fantasy (ten children!), then slam the couplet's worm image home.",
+        "key_moments": [
+          {"line": 2, "note": "'Ere thou be distill'd' — before you are distilled (before you have children). The clock is ticking."},
+          {"line": 5, "note": "'That use is not forbidden usury' — usury rehabilitated. Breeding is the good kind of lending at interest."},
+          {"line": 8, "note": "'Ten times happier, be it ten for one' — the arithmetic fantasy. Playful, extravagant."},
+          {"line": 14, "note": "'Make worms thine heir' — the devastating image. Without a child, worms inherit your beauty. Visceral."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 3, "emphasis_words": ["sweet", "vial", "treasure", "place"], "emotional_note": "The command — father a child", "delivery_note": "'Make sweet some vial' — the vial is the womb. 'Treasure thou some place' — fill a woman with your beauty's treasure. The sexual meaning should register.", "gloss": "Fill some vessel with your sweetness; store your beauty's treasure somewhere", "commentary": "'Vial' = womb (the distillation vessel from Sonnet 5 now made personal). 'Treasure' = (1) beauty and (2) semen. The sexual command is barely veiled by the alchemy metaphor."},
+        {"line_number": 5, "emphasis_words": ["use", "not", "forbidden", "usury"], "emotional_note": "Economic rehabilitation — breeding as lawful usury", "delivery_note": "After Sonnet 4 condemned the FYM as 'profitless usurer,' this line rehabilitates usury: breeding is the GOOD kind.", "gloss": "That kind of investment is not forbidden usury", "commentary": "'Use' = (1) usury/lending at interest and (2) sexual employment. Sonnet 4 condemned profitless use; Sonnet 6 endorses profitable use. The sequence argues: invest your beauty in children, and the interest is legitimate."},
+        {"line_number": 14, "emphasis_words": ["death's", "conquest", "worms", "heir"], "emotional_note": "The visceral threat — worms as your only inheritors", "delivery_note": "'Make worms thine heir' — the most physically disgusting image in the procreation sequence. Let it land.", "gloss": "To become death's trophy and make worms your inheritors", "commentary": "'Worms thine heir' — without a child, the only things that inherit the FYM's body are grave-worms. The legal language ('heir') applied to decomposition is deliberately revolting. The image makes the abstract argument (you need an heir) visceral."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "distillation", "prominence": "PRIMARY"},
+        {"theme": "economic_metaphor", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'In thee thy summer,' 'thou be distill'd,' 'thyself' — direct address throughout"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The commanding voice with its urgent imperatives"}
+      ],
+      "line_devices": [
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "Make sweet some vial; treasure thou some place", "explanation": "The vial = womb, the treasure = beauty's essence/semen. The distillation metaphor from Sonnet 5 becomes a direct command to procreate."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "That use is not forbidden usury", "explanation": "'Use' = (1) lending at interest and (2) sexual employment. Breeding rehabilitated as lawful investment."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "Be not self-will'd", "explanation": "'Self-will'd' = (1) stubborn and (2) containing only your own Will/desire. The pun anticipates the 'Will' sonnets 135-136."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "make worms thine heir", "explanation": "Legal inheritance applied to decomposition. Without a human heir, grave-worms inherit the FYM's beauty. The most visceral image in the procreation sequence."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The argument builds on Sonnet 5's natural philosophy: distillation → command → economic justification → death threat. The couplet's worm image is the rhetorical climax."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "The second half of the 5-6 diptych: philosophical observation (5) → personal application (6)."},
+        {"mode_id": "IMAGISTIC", "priority": 1, "rationale": "The distillation-to-worms image chain: perfume vial → womb → treasure → death → worms. Natural philosophy becomes physical horror."}
+      ]
+    },
+    {
+      "number": 7,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The sun rises in the orient, worshipped by every eye; at noon, still adored; but when it descends in the west, weary and feeble, eyes turn away. So too the FYM: outgoing in his noon, he will die unlooked-on unless he gets a son.",
+        "speaker_stance": "allegorical, measured, prophetic",
+        "emotional_arc": "sunrise worship -> noon glory -> evening abandonment -> the application strikes",
+        "dramatic_situation": "The sun's daily arc as an allegory for the FYM's lifespan. The crowd worships the rising sun, ignores the setting one — just as the world will turn away from the aging FYM. Only a son (sun) extends the cycle.",
+        "subtext": "The son/sun pun in the couplet makes the allegory complete: a son IS a new sun, a new rise after the old sun sets. The fickleness of the crowd ('eyes, 'fore duteous, now converted') prefigures the sequence's later anxieties about the FYM's faithlessness.",
+        "analysis_text": "Sonnet 7 deploys the oldest metaphor in poetry — life as a day, the sun as human glory — with structural precision. Q1: sunrise. The sun 'lifts up his burning head' and every eye 'doth homage to his new-appearing sight.' The language is feudal: 'homage,' 'sacred majesty,' 'serving.' Q2: noon. The sun has 'climb'd the steep-up heavenly hill,' resembling 'strong youth in his middle age.' Even at noon, 'mortal looks adore his beauty still.' Q3: sunset. 'From highmost pitch, with weary car, / Like feeble age, he reeleth from the day.' The sun as a drunk old man reeling. The crowd — 'fore duteous' (formerly obedient) — looks away. The couplet's application is brutal in its concision: 'So thou, thyself outgoing in thy noon: / Unlook'd on diest unless thou get a son.' 'Outgoing' = past your peak AND outshining yourself. The final word 'son' puns on 'sun' — get a son/sun to continue the cycle. The entire allegory is built to land this pun."
+      },
+      "directing": {
+        "scene_setting": "The Speaker pointing at the sky — or describing a sunset — and drawing the moral for the FYM.",
+        "character_note": "The Speaker as preacher or astrologer, reading the heavens for the FYM's fortune. The tone is measured, almost liturgical, until the couplet's sharp application.",
+        "fym_note": "The FYM at 'noon' — the peak of his beauty. The allegory warns that the decline has already begun.",
+        "dl_note": "Absent.",
+        "overall_arc": "Trace the sun's full arc: radiant sunrise (Q1), glorious noon (Q2), pathetic sunset (Q3), then snap the allegory shut with the couplet's pun.",
+        "key_moments": [
+          {"line": 1, "note": "'Lo! in the orient' — grand opening. The sun rising. Liturgical."},
+          {"line": 6, "note": "'Resembling strong youth in his middle age' — the sun at noon IS the FYM at his peak."},
+          {"line": 10, "note": "'Like feeble age, he reeleth from the day' — the sun drunk, old, stumbling. The pathos should land."},
+          {"line": 14, "note": "'Unless thou get a son' — the son/sun pun. The entire sonnet was built for this word."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Lo", "orient", "gracious", "light"], "emotional_note": "Grand, liturgical — the sunrise as theophany", "delivery_note": "'Lo!' — the biblical exclamation. 'The gracious light' = the sun as divine presence. Begin with worship.", "gloss": "Look! In the east when the gracious sun", "commentary": "'Orient' = east. 'Gracious light' = the sun, but the language is religious — 'sacred majesty' (line 4), 'homage,' 'serving.' The sunrise is a secular worship service."},
+        {"line_number": 10, "emphasis_words": ["feeble", "age", "reeleth"], "emotional_note": "The sun as drunk old man — pathos and disgust", "delivery_note": "'Reeleth' — the sun staggers like a drunk. The word choice is deliberately undignified. The god of Q1 is now a stumbling fool.", "gloss": "Like feeble old age, he staggers away from the day", "commentary": "'Reeleth' = staggers, lurches. The sun that was 'sacred majesty' in Q1 is now a feeble drunk. The deliberate degradation mirrors what will happen to the FYM's beauty."},
+        {"line_number": 14, "emphasis_words": ["Unlook'd", "diest", "get", "son"], "emotional_note": "The pun strikes — son/sun", "delivery_note": "'Son' is the final word — and it means 'sun.' The pun should be audible but not hammered. Let the listener catch it.", "gloss": "You'll die unnoticed unless you father a son", "commentary": "'Son' / 'sun' — the pun that the entire sonnet was constructed to deliver. A son is a new sun, continuing the cycle. Without one, the FYM's sunset is final."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "worship", "prominence": "SECONDARY"},
+        {"theme": "abandonment", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'So thou' in the couplet — the allegory applies to the FYM directly"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The allegorizing voice pointing to the sky and reading the lesson"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "Lo! in the orient when the gracious light / Lifts up his burning head", "explanation": "The sun's daily arc as an allegory for the FYM's lifespan: rise, peak, fall. The conceit governs the entire sonnet."},
+        {"line_number": 4, "device_id": "PERSONIFICATION", "quotation": "Serving with looks his sacred majesty", "explanation": "The sun personified as a king receiving feudal homage. Every eye serves the rising sun's sacred authority."},
+        {"line_number": 10, "device_id": "SIMILE", "quotation": "Like feeble age, he reeleth from the day", "explanation": "The setting sun as a feeble old man staggering — the dignified comparison to youth (line 6) reversed."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "unless thou get a son", "explanation": "'Son' / 'sun' — the pun that resolves the allegory. A son is a new sunrise after the father's sunset."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The sun allegory IS the sonnet — one sustained image from orient to west, mapped onto the FYM's lifespan."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "The three quatrains map perfectly to sunrise/noon/sunset, with the couplet as application. The structure enacts the argument."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The argument by allegory: what happens to the sun will happen to you. The pun seals it."}
+      ]
+    },
+    {
+      "number": 8,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "If you are music to hear, why does music make you sad? Because harmony of well-tuned strings — married unions — chides your singleness. One string is husband to another; together they resemble sire, child, and happy mother singing one note. Their song to you: 'thou single wilt prove none.'",
+        "speaker_stance": "gentle, playful, pedagogical",
+        "emotional_arc": "paradoxical question -> musical conceit -> family harmony image -> proverbial warning",
+        "dramatic_situation": "The Speaker catches the FYM listening to music sadly and diagnoses the cause: the harmony of married strings reproaches his bachelorhood. Music as an argument for marriage.",
+        "subtext": "The musical conceit personalizes the procreation argument through the FYM's emotional response. If the FYM finds harmony painful, the Speaker suggests, it's because harmony represents what he refuses: union, family, multiplicity. 'None' in the couplet puns: (1) nothing and (2) no-one — a single note is not music.",
+        "analysis_text": "Sonnet 8 is the sequence's most musical poem — literally about music and formally about harmony. The opening paradox is immediate: 'Music to hear, why hear'st thou music sadly?' The FYM is himself 'music to hear' (beautiful to perceive) but finds actual music distressing. Q2 diagnoses the cause: 'the true concord of well-tuned sounds, / By unions married, do offend thine ear.' The strings' harmony reproaches the FYM's singleness — 'who confounds / In singleness the parts that thou shouldst bear.' 'Parts' = (1) musical parts and (2) roles (husband, father). The volta brings the family image: 'one string, sweet husband to another, / Strikes each in each by mutual ordering; / Resembling sire and child and happy mother.' The string family — sire, child, mother — sings 'one pleasing note.' The couplet's proverb is devastating: 'Thou single wilt prove none.' The proverb 'one is no number' (unus non est numerus) was proverbial; applied to music, a single unaccompanied note is not a harmony but a silence."
+      },
+      "directing": {
+        "scene_setting": "The FYM listening to music — a consort, a lute song — and looking sad. The Speaker observes and interprets.",
+        "character_note": "The gentlest and most playful of the procreation sonnets. The Speaker is diagnosing, not accusing. The tone is affectionate, almost teasing.",
+        "fym_note": "The FYM responds to music emotionally — he is not cold. His sadness reveals that he unconsciously recognizes what he refuses: the harmony of family.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the paradox (music to hear, why sad?), develop the diagnosis (harmony reproaches singleness), present the family-as-harmony image, and land the proverbial couplet.",
+        "key_moments": [
+          {"line": 1, "note": "'Music to hear' — the FYM IS music. The compliment is the setup: if you are harmony, why do you reject it?"},
+          {"line": 6, "note": "'By unions married' — the strings are married. Let the word 'married' carry weight."},
+          {"line": 9, "note": "'One string, sweet husband to another' — the string-family. Tender, domestic, musical."},
+          {"line": 14, "note": "'Thou single wilt prove none' — the proverbial punchline. One is no number; one note is not music."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Music", "hear", "music", "sadly"], "emotional_note": "The paradox — you ARE music, yet music makes you sad", "delivery_note": "The double 'music' echoes like a melody. The question is genuine: why does something so like you make you sad?", "gloss": "You who are music to listen to, why do you listen to music sadly?", "commentary": "'Music to hear' addresses the FYM as a form of music — his beauty is harmony perceived. The paradox: the embodiment of music finds music painful."},
+        {"line_number": 9, "emphasis_words": ["string", "sweet", "husband", "another"], "emotional_note": "The string-family image — tender, domestic", "delivery_note": "The domestic image: one string married to another. 'Sweet husband' — the tenderness should come through.", "gloss": "Notice how one string, sweet husband to another, strikes each in turn", "commentary": "'Sweet husband to another' — the string relationship as marriage. The conceit makes instrumental harmony a model for human family. 'Strikes each in each' = sympathetic vibration — each string activates the other."},
+        {"line_number": 14, "emphasis_words": ["single", "prove", "none"], "emotional_note": "The proverbial conclusion — singleness = nothingness", "delivery_note": "The proverb 'one is no number' should land as a warning. 'None' = (1) nothing and (2) no-one.", "gloss": "You, remaining single, will amount to nothing", "commentary": "'Thou single wilt prove none' — the proverb 'unus non est numerus' (one is no number) applied to music: a single unaccompanied note is silence, not harmony. Applied to the FYM: unmarried, he is nothing."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "music", "prominence": "PRIMARY"},
+        {"theme": "harmony", "prominence": "SECONDARY"},
+        {"theme": "marriage", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Music to hear,' 'thou,' 'thine ear' — the FYM as the musical person who refuses harmony"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The diagnosing voice that interprets the FYM's sadness"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "Music to hear, why hear'st thou music sadly?", "explanation": "The embodiment of musical beauty finds music painful — the paradox reveals unconscious self-reproach."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "By unions married, do offend thine ear", "explanation": "'Unions married' = (1) musical notes joined in harmony and (2) people joined in marriage. The strings' marriage reproaches the FYM's singleness."},
+        {"line_number": 8, "device_id": "PUN", "quotation": "the parts that thou shouldst bear", "explanation": "'Parts' = (1) musical parts (harmony) and (2) roles/responsibilities (husband, father). The FYM refuses both."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "Thou single wilt prove none", "explanation": "Proverbial: 'one is no number.' A single note is not music; a single person is nothing. Singleness = erasure."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The musical conceit governs every line: strings as spouses, harmony as family, singleness as silence. The most sustained image-system in the procreation sequence."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The scene: the FYM listening to music and looking sad. The Speaker reads the sadness as unconscious self-reproach. Intimate, observational."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "Argument by analogy: if strings married make harmony, then you married would too. The proverb seals it."}
+      ]
+    },
+    {
+      "number": 9,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Are you staying single to avoid leaving a widow? If you die childless, the whole world becomes your widow. A private widow's children keep her husband's image in her eyes; but beauty wasted is beauty destroyed. No love sits in the bosom that commits such self-murder.",
+        "speaker_stance": "argumentative, sharpening",
+        "emotional_arc": "rhetorical question -> world-as-widow conceit -> economic distinction -> moral verdict",
+        "dramatic_situation": "The Speaker tries yet another angle: the widow argument. If the FYM dies single, the world itself is widowed. The tone sharpens toward the couplet's accusation of 'murd'rous shame.'",
+        "subtext": "The 'murd'rous shame' of the couplet recasts narcissistic bachelorhood as a form of self-murder — and, by extension, murder of the beauty the world deserves. The Speaker's patience is wearing thinner with each sonnet.",
+        "analysis_text": "Sonnet 9 opens with a sardonic rhetorical question: 'Is it for fear to wet a widow's eye, / That thou consum'st thyself in single life?' The FYM's excuse for not marrying — avoiding a future widow's grief — is immediately undermined. Q2 expands the conceit: if the FYM dies childless, 'The world will be thy widow and still weep.' The world itself becomes the bereaved spouse. But private widows have consolation: 'By children's eyes, her husband's shape in mind.' Children preserve the husband's image in the wife's vision — the same argument as Sonnet 3's mirror. The volta shifts to economic language: 'what an unthrift in the world doth spend / Shifts but his place, for still the world enjoys it.' When wealth is spent in the world, it merely changes hands — the total stays the same. 'But beauty's waste hath in the world an end' — beauty wasted is beauty destroyed, not redistributed. The couplet delivers the moral verdict: 'No love toward others in that bosom sits / That on himself such murd'rous shame commits.' Self-consumption is self-murder, and self-murder proves lovelessness."
+      },
+      "directing": {
+        "scene_setting": "A continuation of the persuasion campaign. The Speaker is running through arguments, getting sharper.",
+        "character_note": "More aggressive than 8's gentle music conceit. The Speaker is losing patience — the couplet's 'murd'rous shame' is an accusation, not a suggestion.",
+        "fym_note": "The FYM as the world's potential widower — his death without children would bereave all of humanity.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the sardonic question, expand to the world-as-widow, make the economic distinction (wealth recirculates but beauty doesn't), and deliver the moral verdict.",
+        "key_moments": [
+          {"line": 1, "note": "'Is it for fear to wet a widow's eye' — sardonic. The FYM's excuse is being mocked."},
+          {"line": 5, "note": "'The world will be thy widow' — the conceit expands. Not one widow but the entire world."},
+          {"line": 11, "note": "'Beauty's waste hath in the world an end' — beauty, unlike money, is destroyed when wasted. No redistribution."},
+          {"line": 13, "note": "'No love toward others' — the accusation. Refusing to breed proves you love no one."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["fear", "wet", "widow's", "eye"], "emotional_note": "Sardonic — mocking the FYM's excuse", "delivery_note": "The question is rhetorical and slightly contemptuous. The FYM's 'fear' of making a widow is a cover for narcissism.", "gloss": "Is it because you're afraid of making a widow cry that you stay single?", "commentary": "The opening hypothesizes the FYM's excuse for bachelorhood: not wanting to leave a widow grieving. The Speaker will demolish this excuse."},
+        {"line_number": 5, "emphasis_words": ["world", "widow", "weep"], "emotional_note": "The conceit expands — the whole world widowed", "delivery_note": "Alliterative w's: world, will, widow, weep. The sound enacts the weeping.", "gloss": "The entire world will be your widow, forever weeping", "commentary": "The widow conceit escalates: not one woman but the whole world becomes the FYM's bereaved spouse. The hyperbole is the argument: your beauty belongs to everyone."},
+        {"line_number": 14, "emphasis_words": ["murd'rous", "shame", "commits"], "emotional_note": "The moral verdict — self-murder", "delivery_note": "'Murd'rous' — the accusation sharpens from waste to murder. The couplet is a sentence, not a suggestion.", "gloss": "That commits such murderous waste upon himself", "commentary": "'Murd'rous shame' = self-consumption reframed as self-murder. The Speaker has moved from gentle persuasion (1) through philosophical argument (5-6) to moral condemnation (9)."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "PRIMARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"},
+        {"theme": "narcissism", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou consum'st thyself,' 'thy widow' — the FYM as self-consumer"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The prosecuting voice, sharpening the accusation"}
+      ],
+      "line_devices": [
+        {"line_number": 5, "device_id": "HYPERBOLE", "quotation": "The world will be thy widow and still weep", "explanation": "The entire world widowed by the FYM's childless death — the individual loss made universal."},
+        {"line_number": 11, "device_id": "ANTITHESIS", "quotation": "beauty's waste hath in the world an end", "explanation": "Money wasted merely changes hands; beauty wasted is destroyed. The economic distinction makes beauty unique — a non-renewable resource."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "murd'rous shame commits", "explanation": "Narcissistic bachelorhood as self-murder — the sharpest moral accusation in the procreation sequence so far."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The argument: (1) demolish the widow excuse, (2) expand to the world-as-widow, (3) distinguish beauty from wealth, (4) deliver the moral verdict."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The economic theme deepens: beauty as non-renewable resource, unlike money which merely circulates."},
+        {"mode_id": "DRAMATIC", "priority": 1, "rationale": "The Speaker's growing frustration across the sequence: from gentle (1) to sharp (4) to sardonic (9). The couplet's 'murd'rous' marks a tonal escalation."}
+      ]
+    },
+    {
+      "number": 10,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "For shame! You love no one — you are so possessed with murderous hate that you conspire against yourself, seeking to ruin the beautiful house you should repair. Change your thought so I may change my mind. Make another self — for love of me.",
+        "speaker_stance": "frustrated, then suddenly personal",
+        "emotional_arc": "accusation -> incredulity -> personal plea -> the first 'love of me'",
+        "dramatic_situation": "The Speaker drops the philosophical distance of earlier sonnets and becomes personally invested: 'Make thee another self for love of me.' This is the first time the Speaker asks for something on his own behalf — not for nature, the world, or posterity, but for ME.",
+        "subtext": "The shift from 'the world needs your beauty' to 'do it for love of me' reveals the Speaker's personal attachment. The procreation argument was always partly a vehicle for desire. Now the desire surfaces.",
+        "analysis_text": "Sonnet 10 marks a crucial shift in the procreation sequence: the Speaker stops arguing for the world's sake and starts arguing for his own. 'For shame!' — the opening exclamation is raw frustration after nine sonnets of argument. Q1 accuses: 'thou art so possess'd with murderous hate, / That 'gainst thyself thou stick'st not to conspire.' The narcissism of Sonnet 1 has been reframed as 'murderous hate' — self-love inverted into self-destruction. 'Seeking that beauteous roof to ruinate / Which to repair should be thy chief desire' — the FYM's beauty as a house he is tearing down instead of maintaining. The volta at line 9 shifts everything: 'O! change thy thought, that I may change my mind.' The Speaker admits he is forming a negative opinion of the FYM. 'Shall hate be fairer lodg'd than gentle love?' — will the FYM host hatred (self-destruction) in a fairer body than love deserves? The couplet delivers the personal plea: 'Make thee another self for love of me.' 'For love of me' — four words that transform the entire procreation sequence. The argument is no longer about duty to nature or the world; it is about the Speaker's love."
+      },
+      "directing": {
+        "scene_setting": "The Speaker directly confronting the FYM — not philosophizing but arguing, face to face, with real frustration.",
+        "character_note": "The mask of philosophical detachment drops. The Speaker is angry, pleading, and for the first time openly possessive.",
+        "fym_note": "The FYM accused of self-hatred masquerading as self-love. The 'beauteous roof' he ruins is his own body/lineage.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with frustration ('For shame!'), build the accusation through Q1-Q2, soften into personal plea at line 9, and deliver the couplet's 'for love of me' as the sequence's first confession of personal desire.",
+        "key_moments": [
+          {"line": 1, "note": "'For shame!' — the exclamation. Nine sonnets of argument have failed. The Speaker is done being polite."},
+          {"line": 5, "note": "'Murderous hate' — the narcissism of Sonnet 1 reframed as violence. The FYM hates himself."},
+          {"line": 9, "note": "'O! change thy thought, that I may change my mind' — the personal turn. The Speaker admits the FYM's behavior is changing how he feels."},
+          {"line": 13, "note": "'Make thee another self for love of me' — THE line. The first personal plea. The procreation argument becomes a love argument."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["shame", "deny", "love", "any"], "emotional_note": "Frustrated eruption — the mask drops", "delivery_note": "'For shame!' is an exclamation of exasperation. Nine sonnets in, the Speaker has had enough of polite argument.", "gloss": "For shame! Deny that you love anyone at all", "commentary": "'For shame!' — the strongest opening in the procreation sequence. The Speaker has exhausted philosophical arguments and now confronts the FYM with raw frustration."},
+        {"line_number": 9, "emphasis_words": ["O", "change", "thy", "thought", "I", "change", "my", "mind"], "emotional_note": "The personal turn — the Speaker's feelings at stake", "delivery_note": "The symmetry: 'change thy thought / change my mind.' The Speaker admits the FYM's behavior affects him personally.", "gloss": "Oh, change your thinking so that I can change my opinion of you", "commentary": "The volta: the argument becomes personal. 'That I may change my mind' — the Speaker is developing a negative opinion of the FYM. This is the first threat of emotional withdrawal."},
+        {"line_number": 13, "emphasis_words": ["Make", "another", "self", "love", "me"], "emotional_note": "The first personal plea in the sequence — for love of ME", "delivery_note": "'For love of me' — four words that change everything. The procreation argument is now a love argument. Deliver with genuine feeling.", "gloss": "Create another version of yourself, out of love for me", "commentary": "'For love of me' — the first time the Speaker asks for something on his own behalf. Nine sonnets argued for the world's sake; now the Speaker reveals his personal stake. The procreation argument was always disguised desire."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "narcissism", "prominence": "SECONDARY"},
+        {"theme": "self_destruction", "prominence": "SECONDARY"},
+        {"theme": "frustration", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou bear'st love to any,' 'thyself,' 'thy thought' — direct confrontation"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I may change my mind,' 'for love of me' — the Speaker reveals personal investment for the first time"}
+      ],
+      "line_devices": [
+        {"line_number": 7, "device_id": "METAPHOR", "quotation": "Seeking that beauteous roof to ruinate / Which to repair should be thy chief desire", "explanation": "The FYM's beauty/lineage as a house he is demolishing instead of maintaining. Architecture as procreation."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "O! change thy thought, that I may change my mind", "explanation": "The personal turn: the Speaker admits the FYM's behavior is affecting his own feelings. The argument shifts from duty to love."},
+        {"line_number": 13, "device_id": "IRONY", "quotation": "Make thee another self for love of me", "explanation": "The procreation argument revealed as disguised desire. Nine sonnets of duty-arguments end with 'for love of me' — the real motive all along."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The Speaker drops the philosophical mask and becomes personal. The shift from duty to desire is the sonnet's dramatic event — and the procreation sequence's turning point."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The frustration after nine failed arguments becomes itself an argument: if you won't do it for the world, do it for me."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "The transition from procreation-as-duty to procreation-as-love-gift. 'For love of me' opens the door to the love sonnets that follow."}
+      ]
+    },
+    {
+      "number": 11,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "As fast as you age, you grow in your child. Without children: folly, cold decay, the world's extinction. Let the ugly perish childless — but Nature endowed you above all. She carved you as her seal: you should print more copies, not let the original die.",
+        "speaker_stance": "authoritative, almost cosmic",
+        "emotional_arc": "paradox of renewal -> apocalyptic thought experiment -> Nature's special endowment -> the seal/print image",
+        "dramatic_situation": "The Speaker argues from Nature's perspective: if everyone refused to breed, the world would end in sixty years. The FYM has been singled out by Nature for reproduction — he is her 'seal,' her stamp, her template. To refuse is to defy cosmic purpose.",
+        "subtext": "The 'harsh, featureless, and rude' who should 'barrenly perish' introduces an uncomfortable eugenics-adjacent argument: only the beautiful SHOULD breed. The Speaker flatters the FYM by making him Nature's elect — but the logic is cold.",
+        "analysis_text": "Sonnet 11 presents the procreation argument at its most cosmically scaled. Q1 offers the paradox of generational renewal: 'As fast as thou shalt wane, so fast thou grow'st, / In one of thine.' You decline in yourself but grow in your child — aging and renewal are simultaneous. Q2 makes the thought experiment: 'If all were minded so, the times should cease / And threescore year would make the world away.' If everyone refused to breed, humanity would be extinct in sixty years. The reductio ad absurdum makes the FYM's choice a threat to the species. The volta introduces Nature's selective principle: 'Let those whom nature hath not made for store, / Harsh, featureless, and rude, barrenly perish.' The ugly can die childless — they were not 'made for store' (designed for reproduction). But the FYM was specially endowed: 'she gave thee more.' The couplet's image is the sonnet's crown: 'She carv'd thee for her seal, and meant thereby, / Thou shouldst print more, not let that copy die.' The FYM is Nature's seal — a carved stamp that should impress copies of itself. Refusing to 'print' (have children) lets the original matrix die without offspring."
+      },
+      "directing": {
+        "scene_setting": "The Speaker speaking with almost divine authority — channeling Nature's intention for the FYM.",
+        "character_note": "The Speaker has moved from personal plea (10) back to cosmic argument, but now with the authority of Nature's spokesperson. The tone is grander than before.",
+        "fym_note": "The FYM as Nature's masterwork — her seal, her template, designed for reproduction. The flattery is extreme but the logic is rigorous.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the paradox of renewal, escalate to the extinction thought experiment, grant exemption to the ugly, and deliver the seal/print image as the climax.",
+        "key_moments": [
+          {"line": 1, "note": "'As fast as thou shalt wane, so fast thou grow'st' — the paradox. Aging and renewal are simultaneous through a child."},
+          {"line": 7, "note": "'The times should cease' — if everyone refused, humanity ends. The stakes are cosmic."},
+          {"line": 10, "note": "'Harsh, featureless, and rude, barrenly perish' — the ugly exempted from the duty to breed. Uncomfortable but pointed flattery."},
+          {"line": 13, "note": "'She carv'd thee for her seal' — the image. The FYM as Nature's stamp, designed to make copies. 'Print more' = have children."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["fast", "wane", "fast", "grow'st"], "emotional_note": "The paradox — simultaneous decline and renewal", "delivery_note": "The double 'fast' creates urgency. As quickly as you age, your child grows. The balance should be audible.", "gloss": "As quickly as you decline, you grow equally fast in your offspring", "commentary": "The paradox of generational renewal: the parent wanes but grows simultaneously in the child. 'Wane' and 'grow'st' are opposites made simultaneous."},
+        {"line_number": 10, "emphasis_words": ["Harsh", "featureless", "rude", "barrenly", "perish"], "emotional_note": "The ugly exempted — cold, eugenic logic", "delivery_note": "Three adjectives: harsh, featureless, rude. Blunt. The exemption should feel uncomfortable — only the beautiful have the duty to breed.", "gloss": "Let those whom Nature did not design for reproduction perish childlessly", "commentary": "'Made for store' = designed for breeding stock. 'Harsh, featureless, and rude' = ugly people. The argument is proto-eugenic: only the beautiful should reproduce. Shakespeare uses this to flatter the FYM, but the logic is cold."},
+        {"line_number": 13, "emphasis_words": ["carv'd", "seal", "print", "more"], "emotional_note": "The crown image — the FYM as Nature's stamp", "delivery_note": "'Seal' and 'print' are both from the world of printing/stamping. The FYM is the mold; children are the impressions. Let the image's precision land.", "gloss": "Nature carved you as her seal, meaning you should stamp out copies", "commentary": "'Seal' = a carved stamp used to make wax impressions. 'Print more' = produce copies (children). The image is from printmaking/sealing: the FYM is Nature's matrix, designed to reproduce. 'Copy' = (1) the impression from a seal and (2) abundance ('nature's copy' = reproductive capacity, cf. Macbeth III.ii.38)."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "eugenics", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou,' 'thine,' 'thee' — the FYM as Nature's chosen template"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The voice of Nature's spokesperson, arguing from cosmic duty"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "As fast as thou shalt wane, so fast thou grow'st", "explanation": "Aging and growing simultaneously — the paradox of generational continuity through a child."},
+        {"line_number": 7, "device_id": "HYPERBOLE", "quotation": "the times should cease / And threescore year would make the world away", "explanation": "If everyone refused to breed, humanity extinct in 60 years. Reductio ad absurdum making the FYM's choice apocalyptic."},
+        {"line_number": 13, "device_id": "CONCEIT", "quotation": "She carv'd thee for her seal, and meant thereby, / Thou shouldst print more", "explanation": "The FYM as Nature's seal-stamp: a carved matrix designed to produce copies (children). The printmaking conceit makes reproduction mechanical and purposeful."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The argument by reductio (if all refused, extinction) + argument from design (Nature made you for this purpose). The rhetoric is at its most logically rigorous."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The seal/print image is the sonnet's contribution to the sequence's imagery: the FYM as a carved stamp, children as impressions."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Nature's intention as moral obligation — the strongest form of the procreation argument's natural-law foundation."}
+      ]
+    }
+  ]
+}

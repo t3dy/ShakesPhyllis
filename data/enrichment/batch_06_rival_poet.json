@@ -1,0 +1,168 @@
+{
+  "batch": "06_rival_poet",
+  "description": "The Rival Poet sequence: competition for the FYM's patronage, anxiety of influence, silence vs. eloquence",
+  "sonnets": [
+    {
+      "number": 78,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Other poets now invoke the FYM as their Muse too, and the FYM's inspiration improves everyone's verse. But the Speaker claims priority: you improve their style, but you ARE my art. My crude verse owes everything to you.",
+        "speaker_stance": "competitive, strategically humble",
+        "emotional_arc": "generous concession -> praise of the FYM's universal inspiration -> possessive counterclaim",
+        "dramatic_situation": "The opening of the Rival Poet sequence. Other poets are dedicating work to the FYM, and the Speaker feels threatened. His strategy: concede the FYM improves everyone, but claim a deeper, more total dependence.",
+        "subtext": "The 'humble' self-deprecation ('my rude ignorance') is a competitive strategy: by claiming total dependence on the FYM, the Speaker makes himself the FYM's purest mirror. The rivals merely improve their craft; the Speaker IS nothing without the FYM.",
+        "analysis_text": "Sonnet 78 opens the Rival Poet sequence with a territorial claim disguised as humility. The Speaker has 'invoked thee for my Muse' so successfully that now 'every alien pen hath got my use' — other poets have adopted his strategy of dedicating verse to the FYM. Q2 praises the FYM's power to inspire all poets: he teaches the dumb to sing, makes ignorance fly, adds feathers to the learned's wing. But at the volta, the Speaker asserts priority: 'Yet be most proud of that which I compile.' The distinction is crucial: other poets use the FYM to 'mend the style' — to polish what they already have. But 'thou art all my art' — the Speaker claims no independent artistic identity. This total dependence is paradoxically a stronger claim than the rivals' partial debt. The couplet states it plainly: the FYM advances the Speaker's 'rude ignorance' as high as others' 'learning.' The word 'rude' (rough, unpolished) will become the Rival Poet sequence's master motif — the Speaker's plain style against the rival's ornamented verse."
+      },
+      "directing": {
+        "scene_setting": "The Speaker aware that other poets are circling the FYM. The competitive atmosphere of Elizabethan patronage is palpable.",
+        "character_note": "The Speaker is calculating: the humility is strategic. By making himself the FYM's creature entirely, he claims a more intimate relationship than any rival can.",
+        "fym_note": "The FYM as patron and Muse — his favor bestows inspiration on multiple poets. If Southampton or Pembroke: a wealthy young nobleman sought by many dedicators.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin by conceding the FYM's universal power (generous), sharpen the possessive claim at line 9 (strategic), and deliver the couplet's self-deprecation as a trump card.",
+        "key_moments": [
+          {"line": 3, "note": "'Every alien pen' — other poets have copied the Speaker's strategy. 'Alien' = foreign, intrusive. Resentment under the magnanimity."},
+          {"line": 9, "note": "'Yet be most proud of that which I compile' — the counterclaim. My verse deserves your greatest pride."},
+          {"line": 13, "note": "'Thou art all my art' — the totality claim. Others are improved by you; I am MADE by you."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 3, "emphasis_words": ["alien", "pen", "got", "use"], "emotional_note": "Resentment masked as generosity — other poets have stolen the strategy", "delivery_note": "'Alien' — the word is not neutral. These are invaders in the Speaker's territory.", "gloss": "That every other poet has adopted my practice of invoking you", "commentary": "'Alien pen' = foreign/outside poets. 'Got my use' = adopted my habit. The Speaker's strategy of dedicating to the FYM has been imitated, diluting his exclusive claim."},
+        {"line_number": 13, "emphasis_words": ["thou", "art", "all", "my", "art"], "emotional_note": "The total claim — you ARE my art, not just its inspiration", "delivery_note": "Stress 'all' — complete dependence. 'Thou art all my art' is five monosyllables, each weighted. The pun on 'art' (you are / artistic skill) should register.", "gloss": "You are the entirety of my artistic ability", "commentary": "The pun: 'thou art all my art' — you are (existence) all my art (skill). Total identification of the beloved with the poetry. Unlike the rivals, who have independent talent improved by the FYM, the Speaker claims zero independent capacity."}
+      ],
+      "themes": [
+        {"theme": "rivalry", "prominence": "PRIMARY"},
+        {"theme": "patronage", "prominence": "PRIMARY"},
+        {"theme": "poetic_style", "prominence": "SECONDARY"},
+        {"theme": "inspiration", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thee for my Muse,' 'thou art all my art' — the FYM as patron and source of all inspiration"},
+        {"character_id": "RP", "role": "IMPLIED", "evidence": "'Every alien pen' — the rival poets (unnamed) who compete for the FYM's patronage"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My rude ignorance' — the Speaker as humble original claimant"}
+      ],
+      "line_devices": [
+        {"line_number": 13, "device_id": "PUN", "quotation": "thou art all my art", "explanation": "'Art' = (1) you are and (2) artistic skill. The FYM is identical with the Speaker's artistic identity."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "As high as learning, my rude ignorance", "explanation": "Learning/ignorance, high/rude — the Speaker's plain style against the rivals' education. The antithesis IS the competitive strategy."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The argument by strategic humility: total dependence as a stronger claim than partial improvement. Competitive rhetoric disguised as self-deprecation."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The patronage competition is a drama with real stakes: the Speaker's livelihood and artistic identity depend on the FYM's favor."},
+        {"mode_id": "HISTORICAL", "priority": 1, "rationale": "Elizabethan literary patronage — the real-world competition among poets for noble patrons' favor and financial support."}
+      ]
+    },
+    {
+      "number": 80,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker faints when writing about the FYM because a 'better spirit' (the rival) uses the FYM's name too. The ocean metaphor: the FYM's worth is an ocean that bears both the rival's proud ship and the Speaker's 'saucy bark.' If the Speaker sinks, his love was his ruin.",
+        "speaker_stance": "self-deprecating, anxious, resigned",
+        "emotional_arc": "awestruck anxiety -> oceanic metaphor -> imagined shipwreck -> love as doom",
+        "dramatic_situation": "The Speaker directly names the rival as 'a better spirit' — a superior poet. The nautical conceit imagines the FYM as an ocean on which both poets sail, but the rival's ship is tall and proud while the Speaker's is a 'saucy bark' (cheeky little boat).",
+        "subtext": "The Speaker's self-deprecation is genuine here, not strategic. He really fears the rival is better. The couplet's 'my love was my decay' is devastating: loving the FYM has destroyed him, not through the FYM's cruelty but through the competition love has created.",
+        "analysis_text": "Sonnet 80 introduces the Rival Poet most directly: 'a better spirit doth use your name.' The rival is explicitly superior — 'better' is not ironic. The oceanic conceit that follows is one of Shakespeare's most sustained: the FYM's 'worth, wide as the ocean is,' bears both poets' vessels. The rival rides 'upon your soundless deep' (the unfathomable depths of the FYM's worth), while the Speaker floats on 'your shallowest help.' The contrast is spatial: deep vs. shallow, tall building vs. worthless boat. 'Soundless' puns: (1) unfathomably deep and (2) without sound — the rival's verse plumbs depths the Speaker cannot reach. The couplet's resignation is total: 'Then if he thrive and I be cast away, / The worst was this: my love was my decay.' Love itself has undone the Speaker — not by making him suffer but by drawing him into a competition he cannot win. The word 'decay' echoes the time sonnets: here it is not Time but Love that destroys."
+      },
+      "directing": {
+        "scene_setting": "The Speaker at his desk, trying to write, paralyzed by the knowledge that a better poet is writing for the same patron.",
+        "character_note": "The anxiety is real. This is not performed humility but genuine artistic fear. The Speaker believes the rival may be better.",
+        "fym_note": "The FYM as ocean — vast, deep, able to bear multiple vessels. His worth exceeds any single poet's capacity to describe it.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the confession of weakness ('I faint'), develop the oceanic conceit with increasing self-diminishment, and land the couplet's devastating acceptance: love itself has destroyed me.",
+        "key_moments": [
+          {"line": 1, "note": "'O how I faint' — physical collapse. The Speaker cannot write. The rival has paralyzed him."},
+          {"line": 2, "note": "'A better spirit' — the rival named. 'Better' is not ironic. The Speaker means it."},
+          {"line": 7, "note": "'My saucy bark' — the Speaker's verse as a cheeky little boat. Self-deprecation with a hint of defiance ('saucy')."},
+          {"line": 14, "note": "'My love was my decay' — love as the cause of destruction. Not the FYM's cruelty but the competition love created."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 2, "emphasis_words": ["better", "spirit", "your", "name"], "emotional_note": "The rival named — genuinely superior", "delivery_note": "'A better spirit' — stress 'better.' The Speaker is not being coy; he means the rival is more talented.", "gloss": "Knowing that a more talented poet also writes about you", "commentary": "'Better spirit' = a poet of greater genius. 'Spirit' = (1) soul/talent and (2) possibly a supernatural familiar (anticipating Sonnet 86's 'spirits taught to write'). The rival is genuinely threatening."},
+        {"line_number": 7, "emphasis_words": ["saucy", "bark", "inferior"], "emotional_note": "Self-deprecation with defiance — a small boat but a brave one", "delivery_note": "'Saucy' — impudent, cheeky. The little boat has nerve even if it lacks size. A hint of pride in the humility.", "gloss": "My impudent little boat, far inferior to his ship", "commentary": "'Saucy bark' = impudent small vessel. 'Bark' is the smallest class of ship. The Speaker's verse is outmatched but refuses to withdraw — 'wilfully appear' on the FYM's ocean."},
+        {"line_number": 14, "emphasis_words": ["love", "was", "my", "decay"], "emotional_note": "The devastating conclusion — love as destruction", "delivery_note": "'My love was my decay' — four monosyllables. Let each one land. This is not blame but acceptance.", "gloss": "The worst outcome was this: my love for you was what destroyed me", "commentary": "'My love was my decay' — not the FYM's cruelty but the Speaker's own love. Loving the FYM drew him into a competition he cannot win. The word 'decay' links to the time sonnets: here love, not time, is the destroyer."}
+      ],
+      "themes": [
+        {"theme": "rivalry", "prominence": "PRIMARY"},
+        {"theme": "anxiety", "prominence": "PRIMARY"},
+        {"theme": "patronage", "prominence": "SECONDARY"},
+        {"theme": "self_worth", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'You,' 'your name,' 'your worth, wide as the ocean' — the FYM as vast patron"},
+        {"character_id": "RP", "role": "MENTIONED", "evidence": "'A better spirit,' 'his great verse,' 'he of tall building' — the rival as superior ship"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'I faint,' 'my saucy bark,' 'my love was my decay' — the Speaker as outmatched but persistent"}
+      ],
+      "line_devices": [
+        {"line_number": 5, "device_id": "CONCEIT", "quotation": "your worth, wide as the ocean is", "explanation": "The FYM's worth as ocean — vast enough to bear both poets' vessels. The conceit governs lines 5-12."},
+        {"line_number": 10, "device_id": "PUN", "quotation": "upon your soundless deep doth ride", "explanation": "'Soundless' = (1) unfathomably deep (cannot be sounded/measured) and (2) silent. The rival plumbs depths the Speaker cannot reach."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "my love was my decay", "explanation": "Love as the cause of destruction — not through rejection but through the competition that love creates. The beloved is not cruel; the situation is impossible."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The oceanic conceit (ocean, sail, bark, deep, wrack, boat, building) governs the entire sonnet. The imagery maps the power dynamic spatially."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The rivalry is a drama with real stakes — patronage, artistic identity, livelihood. The Speaker's fear is genuine."},
+        {"mode_id": "HISTORICAL", "priority": 1, "rationale": "The Rival Poet's identity (Marlowe? Chapman?) and the patronage competition are essential historical context."}
+      ]
+    },
+    {
+      "number": 86,
+      "analysis": {
+        "volta_line": 7,
+        "volta_type": "LOGICAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "Was it the rival's great verse that silenced me? His supernatural inspiration? No — neither he nor his ghostly helpers struck me dumb. What silenced me was when the FYM gave HIM his countenance. The FYM's favor, not the rival's talent, is what enfeebled the Speaker.",
+        "speaker_stance": "defiant, then devastated",
+        "emotional_arc": "rhetorical questions (challenging) -> defiant denial -> the devastating truth revealed in the couplet",
+        "dramatic_situation": "The climax and conclusion of the Rival Poet sequence. The Speaker asks what killed his verse — the rival's talent? his supernatural inspiration? — and answers: none of that. What destroyed the Speaker was losing the FYM's favor to the rival. The rival's talent is irrelevant; the patron's love is everything.",
+        "subtext": "The Speaker's defiance ('No, neither he, nor his compeers by night... my verse astonished') is genuine — he is not intimidated by the rival's art. But the couplet reveals what does intimidate him: the FYM's emotional shift. Poetry can compete with poetry, but the Speaker cannot compete for the FYM's heart.",
+        "analysis_text": "Sonnet 86 is the Rival Poet sequence's dramatic climax, and its power comes from the delayed revelation in the couplet. The first 12 lines are rhetorical questions: was it the 'proud full sail of his great verse' (line 1)? Was it 'his spirit, by spirits taught to write / Above a mortal pitch' (lines 5-6)? The rival is described in supernatural terms: spirits (ghosts or demons) teach him to write; an 'affable familiar ghost' (a personal demon or Muse) feeds him 'intelligence' nightly. If the rival is Chapman, this fits his claim to be inspired by Homer's ghost. If Marlowe, it fits the Faustian pact with supernatural powers. But at line 7, the Speaker denies all of it: 'No, neither he, nor his compeers by night / Giving him aid, my verse astonished.' The rival didn't silence the Speaker. Then the couplet delivers the real cause: 'But when your countenance fill'd up his line, / Then lacked I matter; that enfeebled mine.' The FYM's 'countenance' (face + favor) went to the rival. Not the rival's talent but the patron's love is what destroyed the Speaker's ability to write. The Rival Poet sequence ends not with artistic defeat but with emotional abandonment."
+      },
+      "directing": {
+        "scene_setting": "The Speaker confronting the question that has haunted the entire sequence: what silenced you? The answer, when it comes, is not what anyone expects.",
+        "character_note": "The first 12 lines should feel genuinely defiant — the Speaker is NOT afraid of the rival's talent. The couplet should feel like a confession he didn't plan to make.",
+        "fym_note": "The FYM's countenance — his face, his favor, his attention — is the prize. When the FYM gave it to the rival, the Speaker's poetry died. The patron's love is more important than artistic competition.",
+        "dl_note": "Absent.",
+        "overall_arc": "Build through the rhetorical questions (1-6) with increasing intensity, deliver the defiant denial (7-12) with real force, then let the couplet drop as an unexpected confession.",
+        "key_moments": [
+          {"line": 1, "note": "'The proud full sail of his great verse' — the rival's poetry as a ship under full sail. Magnificent but not what silenced the Speaker."},
+          {"line": 5, "note": "'His spirit, by spirits taught to write' — the supernatural claim. Ghosts, demons, Homer's shade. Let the occult imagery register."},
+          {"line": 7, "note": "'No' — the denial. Short, defiant. The rival's talent did NOT silence the Speaker."},
+          {"line": 13, "note": "'When your countenance fill'd up his line' — the real cause. The FYM's favor went to the rival. This is what matters."},
+          {"line": 14, "note": "'Then lacked I matter; that enfeebled mine' — without the FYM's love, the Speaker has nothing to write about. The confession."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["proud", "full", "sail", "great", "verse"], "emotional_note": "The rival's poetry described with grudging admiration", "delivery_note": "'Proud full sail' — the image is magnificent. The Speaker acknowledges the rival's grandeur even as he questions its power over him.", "gloss": "Was it the magnificent sweep of his great poetry", "commentary": "'Proud full sail' — the rival's verse as a ship under full sail, magnificent and intimidating. 'His great verse' — the Speaker concedes the rival's talent is 'great.' This is not ironic."},
+        {"line_number": 5, "emphasis_words": ["spirit", "spirits", "taught", "write"], "emotional_note": "The supernatural claim — the rival has occult assistance", "delivery_note": "The double 'spirit/spirits' should create an uncanny echo. The rival's genius is attributed to supernatural aid.", "gloss": "Was it his genius, taught to write by spirits, beyond mortal ability", "commentary": "'Spirit, by spirits taught' — the rival's genius aided by supernatural beings. If Chapman: he claimed Homer's ghost inspired him. If Marlowe: the Faustian bargain. 'Above a mortal pitch' = beyond human capacity."},
+        {"line_number": 7, "emphasis_words": ["No", "neither", "he"], "emotional_note": "The defiant denial — the rival did NOT silence me", "delivery_note": "'No' — a single syllable of defiance. Pause after it. The denial should feel hard-won and genuine.", "gloss": "No, neither he nor his nighttime companions stunned my verse", "commentary": "The pivot: the Speaker denies that the rival's talent or supernatural aid silenced him. The defiance is real — the Speaker is not afraid of the rival as a poet."},
+        {"line_number": 13, "emphasis_words": ["your", "countenance", "fill'd", "his", "line"], "emotional_note": "The real cause revealed — the FYM's favor went elsewhere", "delivery_note": "'Your countenance' — stress 'your.' It's not the rival's poetry but YOUR face/favor that matters. 'Fill'd up his line' — the FYM's presence fills the rival's verse.", "gloss": "But when your face/favor appeared in his verse", "commentary": "'Countenance' = (1) face and (2) favor/patronage. When the FYM gave his countenance to the rival, the Speaker lost his subject matter. The patronage relationship is more important than artistic competition."},
+        {"line_number": 14, "emphasis_words": ["lacked", "matter", "enfeebled", "mine"], "emotional_note": "The confession — without you, I have nothing to write", "delivery_note": "'Lacked I matter' — without the FYM, the Speaker has no subject. 'Enfeebled mine' — his verse weakened. Let the vulnerability land.", "gloss": "Then I had nothing to write about; that weakened my verse", "commentary": "'Lacked I matter' = I had no subject matter. The Speaker's entire poetic enterprise depends on the FYM's favor. Without it, he cannot write — not because the rival is better, but because the Muse has withdrawn."}
+      ],
+      "themes": [
+        {"theme": "rivalry", "prominence": "PRIMARY"},
+        {"theme": "patronage", "prominence": "PRIMARY"},
+        {"theme": "silence", "prominence": "PRIMARY"},
+        {"theme": "supernatural", "prominence": "SECONDARY"},
+        {"theme": "love", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Your countenance,' 'all too precious you' — the FYM as the prize both poets seek"},
+        {"character_id": "RP", "role": "MENTIONED", "evidence": "'His great verse,' 'his spirit, by spirits taught,' 'that affable familiar ghost' — the rival described in supernatural terms"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My ripe thoughts,' 'my verse,' 'my silence' — the Speaker as the one who lost the competition for the FYM's favor"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "the proud full sail of his great verse", "explanation": "The rival's verse as a ship under full sail — magnificent, powerful, commanding the wind. The maritime imagery echoes Sonnet 80's oceanic conceit."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "his spirit, by spirits taught to write", "explanation": "'Spirit' = (1) genius/soul and (2) supernatural being. The rival's talent is both innate and supernaturally aided."},
+        {"line_number": 9, "device_id": "PERSONIFICATION", "quotation": "that affable familiar ghost / Which nightly gulls him with intelligence", "explanation": "The rival's Muse as a 'familiar ghost' — a personal demon or spirit (like Marlowe's Mephistopheles) that feeds him material nightly."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "your countenance fill'd up his line", "explanation": "'Countenance' = (1) face and (2) favor/patronage/approval. The FYM's favor, not the rival's talent, is the real currency."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The Rival Poet sequence's climax: 12 lines of defiant questioning resolved by a couplet that reveals the real cause of silence. The dramatic reversal is devastating."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The rhetorical question structure (Was it X? Was it Y? No.) builds to the couplet's unexpected answer: it was the FYM's favor, not the rival's skill."},
+        {"mode_id": "INTERTEXTUAL", "priority": 2, "rationale": "The rival's supernatural inspiration (spirits, familiar ghost) points to specific candidates: Chapman's claimed inspiration by Homer, or Marlowe's Faustian associations."}
+      ]
+    }
+  ]
+}

@@ -1,8 +1,7 @@
-# Database (generated)
-db/*.db
-
-# Generated site
-site/
+# PDFs and ebooks (research corpus — too large for git)
+*.pdf
+*.epub
+corpus/
 
 # Python
 __pycache__/
@@ -10,9 +9,6 @@ __pycache__/
 *.pyo
 .venv/
 venv/
-
-# Corpus PDFs (too large for git)
-corpus/*.pdf
 
 # OS
 .DS_Store
@@ -22,5 +18,11 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Claude
+# Claude internals
 .claude/
+
+# Swarm temp files
+data/swarm_*.json
+
+# Node
+node_modules/

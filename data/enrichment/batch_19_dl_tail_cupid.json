@@ -1,0 +1,1604 @@
+{
+  "batch": "19_dl_tail_cupid",
+  "description": "Dark Lady final sonnets and Cupid coda (148-154)",
+  "sonnets": [
+    {
+      "number": 148,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker interrogates his own perception, asking whether Love has replaced his real eyes with false ones. He builds a logical chain: if the Dark Lady is fair, why does the world deny it? If she is not, then Love's eye is unreliable. The couplet personifies Love as a cunning strategist who uses tears to keep the Speaker blind to the DL's faults.",
+        "speaker_stance": "self-interrogating, bewildered, ruefully self-aware",
+        "emotional_arc": "bewilderment -> logical analysis -> defeated self-knowledge -> bitter accusation of Love",
+        "dramatic_situation": "The Speaker, deep in the Dark Lady affair, attempts to reason his way out of delusion. He knows his perception is distorted but cannot correct it. This is the companion sonnet to 137 ('Thou blind fool, Love'), returning to the same epistemological crisis.",
+        "subtext": "The Speaker already knows the answer to every question he asks. The interrogative form is a performance of helplessness. He is not seeking truth but dramatizing his inability to act on truth he already possesses.",
+        "analysis_text": "Sonnet 148 stages an epistemological crisis in the form of a logical inquiry. The opening exclamation 'O me!' signals emotional distress before the intellectual apparatus engages. The first quatrain poses the central dilemma as an either/or: either Love has given the Speaker false eyes, or his eyes see truly but his judgment is corrupt. Both options are devastating. The second quatrain extends the logic outward, testing the Speaker's perception against the world's consensus. If the Dark Lady is fair, why does everyone else say otherwise? If she is not fair, then 'Love's eye is not so true as all men's' -- a devastating admission couched in understatement. The word 'no' at the end of line 8, set off by a colon, functions as both a logical conclusion and an emotional collapse. At line 9, the volta shifts from logical inquiry to something closer to lament. The rhetorical questions give way to the image of Love's eye 'vexed with watching and with tears' -- an eye that cannot see clearly because it has been crying. This is both literal (the lover weeps) and figurative (desire distorts perception). The sun analogy in line 12 offers momentary consolation: even the sun cannot see through clouds. But the couplet demolishes this comfort. Love is not a victim of circumstance but a 'cunning' strategist who deliberately uses tears as a blinding agent to prevent the Speaker from seeing 'thy foul faults.' The final word 'find' carries forensic weight -- the truth is there to be discovered, but Love actively prevents discovery. The sonnet's companion, 137, addressed Love as 'thou blind fool'; here Love is promoted to cunning manipulator. The progression across the DL sequence is from blaming the beloved, to blaming Love, to blaming himself -- and back again in endless circuit. The word 'eyes' or its variants appears seven times, creating a claustrophobic echo chamber of failed sight. The entire sonnet is built on the eye/I pun that pervades the sequence: the Speaker's identity ('I') is inseparable from his distorted perception ('eye')."
+      },
+      "directing": {
+        "scene_setting": "Late in the affair. The Speaker has been confronted -- by friends, by his own conscience -- with evidence that the Dark Lady is not what he claims. He is trying to think his way out of a trap he does not want to escape.",
+        "character_note": "The Speaker is performing rationality while knowing that reason cannot save him. Every question is rhetorical -- he knows the answers. The intellectual framework is a defense mechanism.",
+        "fym_note": "Absent. The FYM belongs to a different crisis. Here the Speaker is alone with his distorted perception.",
+        "dl_note": "Present only as the object whose 'foul faults' the Speaker cannot see. She is both the cause of the blindness and the thing hidden by it. Her physical presence is implied by the repeated focus on what the Speaker's eyes see.",
+        "overall_arc": "Begin with bewildered exclamation, build through increasingly desperate logical questions, arrive at the defeated sun analogy, then land the couplet as a bitter revelation.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'O me!' -- genuine distress before the intellectual machinery engages. Do not rush past this."
+          },
+          {
+            "line": 5,
+            "note": "The pivot from internal crisis to external evidence. 'If that be fair whereon my false eyes dote' -- the word 'false' is an admission."
+          },
+          {
+            "line": 8,
+            "note": "'No' at the end of the line should land as a separate beat -- a one-word verdict after the preceding clause."
+          },
+          {
+            "line": 9,
+            "note": "The volta: 'How can it?' -- the logical chain breaks into emotional exclamation. Repeat the question with different emphasis."
+          },
+          {
+            "line": 12,
+            "note": "The sun image offers brief consolation. Deliver with a slightly warmer tone before the couplet reverses it."
+          },
+          {
+            "line": 13,
+            "note": "'O cunning Love!' -- the final accusation. Love is no longer blind but deliberately malicious."
+          },
+          {
+            "line": 14,
+            "note": "'Foul faults' -- the alliterative f's spit contempt. The Speaker finally names what he has been unable to see."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["eyes", "Love", "head"],
+          "emotional_note": "Anguished, bewildered",
+          "delivery_note": "'O me!' is a genuine cry. Pause after it. Then the question unfolds with gathering force.",
+          "gloss": "What kind of eyes has Love placed in my head?",
+          "commentary": "Love personified as a surgeon or trickster who has replaced the Speaker's natural eyes. 'Put in my head' suggests implantation -- alien organs of perception."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["no", "correspondence", "true"],
+          "emotional_note": "Analytical, distressed",
+          "delivery_note": "Stress 'no correspondence' -- this is the diagnosis. 'True sight' carries philosophical weight.",
+          "gloss": "Eyes that have no relationship to accurate seeing",
+          "commentary": "'Correspondence' is both optical (matching reality) and epistolary (communication). The eyes send false reports. 'True sight' opposes Love's distorted vision."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["judgement", "fled"],
+          "emotional_note": "Searching, self-accusing",
+          "delivery_note": "The alternative hypothesis: maybe his eyes work but his mind doesn't. 'Fled' suggests judgment has abandoned him.",
+          "gloss": "Or if they do see truly, where has my judgment gone?",
+          "commentary": "The either/or structure: bad eyes or bad judgment. Either way, the Speaker cannot trust himself. 'Fled' personifies judgment as a deserter."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["censures", "falsely", "aright"],
+          "emotional_note": "Paradoxical frustration",
+          "delivery_note": "The paradox of judging falsely what is seen rightly. Let the contradiction register.",
+          "gloss": "That judges wrongly what the eyes actually see correctly",
+          "commentary": "'Censures falsely what they see aright' -- the eyes are accurate but the mind misreads the data. A sophisticated epistemological distinction."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["fair", "false", "dote"],
+          "emotional_note": "Testing, probing",
+          "delivery_note": "Begin the outward test. 'False eyes' is an admission buried in a conditional.",
+          "gloss": "If what my deluded eyes fixate on is truly beautiful",
+          "commentary": "'False eyes dote' -- 'dote' means to be excessively fond (with connotation of senility). The Speaker admits his gaze is both false and obsessive."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["world", "not so"],
+          "emotional_note": "Appealing to external authority",
+          "delivery_note": "The world's judgment invoked as a corrective. 'Not so' should be delivered flatly -- the world's verdict is blunt.",
+          "gloss": "Why does everyone else say she is not beautiful?",
+          "commentary": "The Speaker pits his private perception against public consensus. The entire Dark Lady subsequence hinges on this gap between private desire and public judgment."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["not", "well", "denote"],
+          "emotional_note": "Conceding ground",
+          "delivery_note": "The logical consequence: if she is not fair, then love itself proves that love's perception is false.",
+          "gloss": "If she is not fair, then love proves that",
+          "commentary": "'Love doth well denote' -- love itself provides the evidence of its own unreliability. A self-consuming argument."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["Love's eye", "true", "no"],
+          "emotional_note": "Defeated, the conclusion forced",
+          "delivery_note": "The colon before 'no' creates a pause. 'No' is the verdict -- deliver it as a separate, heavy monosyllable.",
+          "gloss": "Love's eye is not as reliable as ordinary men's eyes. No.",
+          "commentary": "'Love's eye' puns on 'Love's I' -- the identity of the lover is constituted by distorted seeing. The terminal 'no' functions as both logical conclusion and emotional collapse."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["How", "can", "true"],
+          "emotional_note": "Anguished, rhetorical",
+          "delivery_note": "The volta. Repeat the question ('O! how can') with escalating frustration. The logic breaks into feeling.",
+          "gloss": "How could it possibly be true?",
+          "commentary": "The repeated question marks the breakdown of the logical inquiry into emotional exclamation. The volta turns from argument to lament."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["vexed", "watching", "tears"],
+          "emotional_note": "Pitying, exhausted",
+          "delivery_note": "'Watching' means both observing and lying awake. The line should feel weary.",
+          "gloss": "An eye tormented by sleepless vigilance and weeping",
+          "commentary": "'Watching' carries the Elizabethan sense of lying awake at night (keeping watch). The lover's eye is vexed by both obsessive looking and constant weeping -- it cannot see because it is always crying."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "blindness_and_sight",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "self_deception",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "love_as_disease",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "appearance_vs_reality",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker interrogates himself throughout: 'what eyes hath Love put in my head,' 'where is my judgement fled'"
+        },
+        {
+          "character_id": "DL",
+          "role": "IMPLIED",
+          "evidence": "Never named but present as the object of distorted perception: 'thy foul faults' in the couplet"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "what eyes hath Love put in my head",
+          "explanation": "Love personified as an agent who physically replaces the Speaker's eyes with defective substitutes."
+        },
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "O me!",
+          "explanation": "The Speaker addresses himself in exclamation -- an apostrophe to his own wretched condition."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANTITHESIS",
+          "quotation": "fair whereon my false eyes dote",
+          "explanation": "'Fair' against 'false' -- the antithesis between beauty and deception compressed into adjacent words with alliterative linking."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PARADOX",
+          "quotation": "love doth well denote / Love's eye is not so true",
+          "explanation": "Love proves its own unreliability -- a self-refuting proposition. If love can accurately diagnose its own blindness, it is not entirely blind."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PUN",
+          "quotation": "Love's eye",
+          "explanation": "Eye/I pun: Love's 'eye' (organ of perception) is also Love's 'I' (identity). The lover's self is constituted by distorted seeing."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "How can it? O! how can Love's eye be true",
+          "explanation": "The volta breaks the logical structure into emotional repetition. The question is asked twice with escalating intensity."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "vexed with watching",
+          "explanation": "'Watching' means both (1) observing obsessively and (2) lying awake at night. The lover's eye is tortured by both."
+        },
+        {
+          "line_number": 12,
+          "device_id": "SIMILE",
+          "quotation": "The sun itself sees not, till heaven clears",
+          "explanation": "The Speaker compares his tear-blinded sight to the sun obscured by clouds -- a consolation that the couplet will revoke."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PERSONIFICATION",
+          "quotation": "O cunning Love! with tears thou keep'st me blind",
+          "explanation": "Love upgraded from blind fool (sonnet 137) to cunning strategist who weaponizes the Speaker's own tears."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ALLITERATION",
+          "quotation": "foul faults should find",
+          "explanation": "Triple f-alliteration spits contempt -- the sounds enact the disgust the Speaker cannot quite allow himself to feel."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The entire sonnet is structured as a chain of logical questions -- if/then propositions that build toward a forced conclusion."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The eye imagery dominates: eyes, sight, watching, tears, sun, blindness. Seven uses of 'eye/eyes' create a claustrophobic visual field."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The breakdown from logic to exclamation at the volta (line 9) is a dramatic event -- the Speaker's intellectual defense fails."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "Central to the DL sequence's preoccupation with self-deception, false seeing, and the gap between knowledge and action."
+        }
+      ]
+    },
+    {
+      "number": 149,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "IRONIC",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker enumerates proofs of his masochistic devotion to the Dark Lady: he sides with her against himself, hates her enemies, fawns on those she favors, punishes himself when she frowns. The couplet reverses from self-defense to self-knowledge: she loves those who can see, and he is blind.",
+        "speaker_stance": "supplicant, masochistic, bitterly self-aware by the end",
+        "emotional_arc": "indignant defense -> catalog of self-abasement -> bitter revelation -> self-condemning punchline",
+        "dramatic_situation": "The Dark Lady has accused the Speaker of not loving her. He responds with a catalog of proofs that amounts to a confession of complete self-annihilation in her service.",
+        "subtext": "The litany of devotion is simultaneously a catalog of humiliation. Every proof of love is also evidence of degradation. The Speaker knows this but cannot stop performing his subjection.",
+        "analysis_text": "Sonnet 149 is structured as a legal defense that turns into a confession. The opening question 'Canst thou, O cruel! say I love thee not' positions the Dark Lady as accuser and the Speaker as defendant. But the evidence he marshals in his own defense is uniformly self-damaging. The first quatrain establishes the pattern: he 'partakes' with her against himself, he forgets his own identity 'for thy sake.' The word 'tyrant' -- applied to the DL -- sits inside a clause that describes his own willing subjection. The second quatrain intensifies the masochism through paired questions. He hates whoever she hates, fawns on whoever she favors. When she frowns on him, he turns that displeasure into self-punishment: 'do I not spend / Revenge upon myself with present moan?' The economic metaphor of 'spend' links to the sequence's broader language of emotional cost. The third quatrain reaches the nadir: 'all my best doth worship thy defect.' This is the sonnet's most devastating line -- his highest qualities are devoted to her lowest. 'Worship' elevates degradation to religious devotion, while 'defect' refuses to soften the DL's faults. The image of being 'commanded by the motion of thine eyes' returns to the eye-imagery of 148 but now the DL's eyes are instruments of power rather than objects of misperception. The couplet performs a remarkable double turn. 'But, love, hate on' -- the Speaker surrenders. The imperative 'hate on' grants the DL permission to continue her cruelty. Then the devastating final line: 'Those that can see thou lov'st, and I am blind.' This reverses the entire argument. He cannot prove his love because his blindness disqualifies him from the DL's affection -- she loves those with sight, those who see her clearly and presumably do not worship her. The irony is scalding: the very devotion he cites as proof of love is proof of a blindness that makes him unlovable. The sonnet thus connects to 148's epistemological crisis but translates it into relational catastrophe."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has been stung by an accusation from the Dark Lady -- she has told him he does not love her, or does not love her enough. He responds with wounded outrage that curdles into self-knowledge.",
+        "character_note": "The Speaker oscillates between indignation and abjection. Each proof of love is also an act of self-exposure. By the couplet, the defense has collapsed into admission.",
+        "fym_note": "Absent. The Speaker is wholly consumed by the DL dynamic. The FYM's world feels impossibly distant.",
+        "dl_note": "Cast as both accuser and tyrant. 'O cruel!' in line 1 sets the tone. She frowns, she despises, she commands with her eyes. Her power is total and her reciprocation is zero.",
+        "overall_arc": "Open with wounded protest, build through increasingly abject proofs of devotion, pause at 'worship thy defect' for the full weight of that admission, then deliver the couplet as a self-inflicted wound.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'O cruel!' is parenthetical but essential. It names her nature even as he begs for recognition."
+          },
+          {
+            "line": 4,
+            "note": "'All tyrant, for thy sake' -- the possessive 'thy' makes her tyranny something he serves willingly."
+          },
+          {
+            "line": 7,
+            "note": "'Do I not spend / Revenge upon myself' -- the enjambment creates surprise. 'Spend' suggests both emotional expenditure and self-destruction."
+          },
+          {
+            "line": 11,
+            "note": "'All my best doth worship thy defect' -- the sonnet's most devastating line. Pause before it. Let it land."
+          },
+          {
+            "line": 13,
+            "note": "'But, love, hate on' -- surrender. The shift from defense to permission. He gives up."
+          },
+          {
+            "line": 14,
+            "note": "The punchline: blindness disqualifies him from her love. Everything he has argued collapses."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["cruel", "love", "not"],
+          "emotional_note": "Wounded, indignant",
+          "delivery_note": "'O cruel!' is an interjection -- deliver it as a separate burst before the question resumes.",
+          "gloss": "Can you, cruel one, claim that I do not love you?",
+          "commentary": "The DL has apparently accused the Speaker of insufficient love. The opening is a defense against this charge, but 'cruel' already names the dynamic: she is the tyrant, he the supplicant."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["against", "myself", "thee"],
+          "emotional_note": "Self-sacrificing, desperate",
+          "delivery_note": "Stress the opposition: 'against myself' versus 'with thee.' He sides with her at his own expense.",
+          "gloss": "When I take your side against my own interests?",
+          "commentary": "'Partake' means to take sides. The Speaker takes her side against himself -- the first proof of devotion, which is simultaneously proof of self-destruction."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["tyrant", "thy sake"],
+          "emotional_note": "Anguished, accusatory toward her",
+          "delivery_note": "'All tyrant' should cut. He calls her a tyrant in the middle of proving his devotion to her.",
+          "gloss": "Completely forgotten by myself, all because of you, tyrant",
+          "commentary": "'All tyrant' -- the DL is named as absolute tyrant, but this is embedded within a clause about his own self-forgetting. Her tyranny is the condition of his identity loss."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["hateth", "friend"],
+          "emotional_note": "Servile, listing proofs",
+          "delivery_note": "Begin the catalog of paired behaviors. Each line mirrors her action with his reaction.",
+          "gloss": "Anyone who hates you, I call my friend no longer",
+          "commentary": "The Speaker has reorganized his social world around the DL's preferences. Her enemies become his enemies."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["Revenge", "myself", "moan"],
+          "emotional_note": "Masochistic, pained",
+          "delivery_note": "'Revenge upon myself' -- stress the reflexive violence. He is his own victim.",
+          "gloss": "I take revenge on myself by suffering immediately",
+          "commentary": "'Spend revenge upon myself' -- 'spend' is economic (cost) and martial (unleash). The Speaker is both executioner and condemned."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["best", "worship", "defect"],
+          "emotional_note": "Devastating, the nadir",
+          "delivery_note": "The sonnet's key line. Slow down. Let 'worship' and 'defect' stand in full antithesis.",
+          "gloss": "My finest qualities are devoted to worshipping your flaws",
+          "commentary": "'Worship thy defect' is the sonnet's moral center -- religious devotion applied to acknowledged imperfection. 'All my best' versus 'thy defect' is the clearest statement of the DL sonnets' central paradox."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["commanded", "motion", "eyes"],
+          "emotional_note": "Controlled, puppet-like",
+          "delivery_note": "'Commanded' is military. He is a soldier following orders from her eyes.",
+          "gloss": "Directed by every movement of your eyes",
+          "commentary": "'Motion of thine eyes' connects to 148's eye-obsession but here the DL's eyes are instruments of command, not objects of misperception. The Speaker is a marionette."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["love", "hate on"],
+          "emotional_note": "Surrendered, bitter",
+          "delivery_note": "The volta. 'Hate on' is permission -- he gives up defending himself and grants her the right to continue.",
+          "gloss": "Go on then, love -- keep hating me, because now I understand your mind",
+          "commentary": "'Love, hate on' -- the oxymoronic address (calling her 'love' while telling her to hate) compresses the entire relationship. 'For now I know thy mind' signals a shift to bitter clarity."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["see", "lov'st", "blind"],
+          "emotional_note": "Self-condemning, final",
+          "delivery_note": "The punchline: she loves the sighted, and he is blind. Deliver with quiet devastation, not rage.",
+          "gloss": "You love those who can see clearly, and I am blind",
+          "commentary": "The couplet reverses the entire argument. His blindness (established in 148) is not just epistemological but relational -- it disqualifies him from her love. The logic is cruelly circular: he loves her because he is blind; she does not love him because he is blind."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "masochism",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "blindness_and_sight",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "power_and_subjection",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "self_deception",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "DL",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'Canst thou, O cruel!' -- the DL is both accuser and tyrant"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker addresses himself indirectly through the catalog of self-abasement: 'against myself,' 'revenge upon myself'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "Canst thou, O cruel!",
+          "explanation": "Direct address to the DL, who is named only by her defining quality: cruelty."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PARADOX",
+          "quotation": "I against myself with thee partake",
+          "explanation": "The paradox of taking sides against oneself -- devotion as self-betrayal."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METAPHOR",
+          "quotation": "all tyrant, for thy sake",
+          "explanation": "The DL as absolute tyrant -- political metaphor for erotic subjection."
+        },
+        {
+          "line_number": 7,
+          "device_id": "ENJAMBMENT",
+          "quotation": "do I not spend / Revenge upon myself",
+          "explanation": "The enjambment delays the object of 'spend,' creating surprise when 'Revenge' arrives at the start of line 8."
+        },
+        {
+          "line_number": 11,
+          "device_id": "ANTITHESIS",
+          "quotation": "all my best doth worship thy defect",
+          "explanation": "'Best' against 'defect,' 'worship' against the implied unworthiness -- the sonnet's central antithesis."
+        },
+        {
+          "line_number": 11,
+          "device_id": "IRONY",
+          "quotation": "all my best doth worship thy defect",
+          "explanation": "The irony of religious worship ('worship') directed at acknowledged fault ('defect'). Devotion that knows its object is unworthy."
+        },
+        {
+          "line_number": 12,
+          "device_id": "METONYMY",
+          "quotation": "Commanded by the motion of thine eyes",
+          "explanation": "The DL's eyes stand for her entire will -- metonymy reducing her personhood to the organ of command."
+        },
+        {
+          "line_number": 13,
+          "device_id": "VOLTA",
+          "quotation": "But, love, hate on, for now I know thy mind",
+          "explanation": "The couplet volta: from defense to surrender. 'Hate on' is both permission and defeat."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "Those that can see thou lov'st, and I am blind",
+          "explanation": "The devastating paradox: his love (which is blindness) is exactly what makes him unlovable to her."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANTITHESIS",
+          "quotation": "can see / I am blind",
+          "explanation": "Sight against blindness, the loved against the unloved -- the couplet's final opposition."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is structured as a forensic defense -- a series of rhetorical questions marshaling evidence. The couplet inverts the verdict."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 3,
+          "rationale": "Intensely dramatic: the Speaker responds to an accusation, performs his abjection, and arrives at devastating self-knowledge."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Central to the DL sequence's themes of masochistic devotion and the blindness of desire."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The accumulation of rhetorical questions creates rhythmic insistence -- the beat of a man cataloging his own humiliation."
+        }
+      ]
+    },
+    {
+      "number": 150,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker marvels at the Dark Lady's paradoxical power: her insufficiency compels him, her worst deeds exceed all others' best. He asks who taught her this alchemy of making hate produce love. The couplet turns the argument: if her unworthiness raised love in him, then he is more worthy of her love -- a logical trap that is also a plea.",
+        "speaker_stance": "awestruck, bewildered, attempting to forge a bargain from his own degradation",
+        "emotional_arc": "wonder at her power -> catalog of paradoxes -> plea for reciprocity -> ironic bargain",
+        "dramatic_situation": "The Speaker has moved beyond questions of sight and blindness (148-149) to a direct confrontation with the DL's paradoxical allure. He cannot explain why her worst qualities attract him most, and he attempts to leverage this very irrationality into a claim on her affection.",
+        "subtext": "The Speaker is trying to convert his humiliation into currency. If his irrational devotion to her faults proves something about the power of love, then she owes him something in return. It is a desperate gambit.",
+        "analysis_text": "Sonnet 150 confronts the central paradox of the Dark Lady subsequence: the Speaker is attracted precisely by what should repel him. The opening lines frame this as a question of power -- 'from what power hast thou this powerful might' -- with the repetition of 'power/powerful' emphasizing the DL's inexplicable force. 'Insufficiency' is a word of remarkable precision: it names her deficiency while acknowledging its effect. The first quatrain establishes the epistemological dimension: her power makes him 'give the lie to my true sight' and 'swear that brightness doth not grace the day.' This connects directly to 148's crisis of perception, but here the Speaker does not merely suffer distorted vision -- he actively perjures himself, choosing to deny what he sees. The second quatrain intensifies the paradox through the remarkable phrase 'becoming of things ill' -- her ability to make ugly things attractive, to give faults a kind of grace. 'In the very refuse of thy deeds' is bracingly honest: 'refuse' means garbage, waste. And yet 'strength and warrantise of skill' inhabit even this refuse. The progression from 'insufficiency' to 'refuse' to 'worst' charts a descent that is simultaneously an ascent of rhetorical power. The volta at line 9 shifts from description to direct question: 'Who taught thee how to make me love thee more, / The more I hear and see just cause of hate?' This formulation is the DL sequence's most concentrated expression of its governing paradox. The more evidence of her unworthiness, the more his love increases. The couplet attempts an audacious logical reversal. If her unworthiness raised love in him, then by the same paradoxical logic, he -- being devoted to the unworthy -- is himself worthy of being loved. The argument is a syllogistic trap, but its emotional register is closer to a plea than a proof. The sonnet dramatizes the moment when the masochistic lover tries to make his degradation work for him, converting suffering into a claim. The attempt is touching and doomed."
+      },
+      "directing": {
+        "scene_setting": "A direct confrontation, possibly the Speaker thinking aloud in the DL's presence. He is trying to understand -- and to leverage -- his own irrational attraction.",
+        "character_note": "The Speaker is more analytical than in 149, less abject. He is attempting to reason with the paradox rather than simply suffer it. But the couplet reveals that reason serves desire, not the other way around.",
+        "fym_note": "Absent. The DL has wholly occupied the Speaker's attention.",
+        "dl_note": "Her power is the subject but she is not asked to speak. She is a force, not a person -- her 'deeds,' her 'insufficiency,' her 'unworthiness' are catalogued but she remains opaque.",
+        "overall_arc": "Open with genuine wonder at her paradoxical power, build through increasingly frank admissions of her faults, arrive at the bold couplet argument with something close to desperate hope.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'O!' opens with wonder, not pain. This sonnet is more marveling than anguished."
+          },
+          {
+            "line": 5,
+            "note": "'Becoming of things ill' -- a key phrase. Her faults become her. Deliver with a note of reluctant admiration."
+          },
+          {
+            "line": 8,
+            "note": "'Thy worst all best exceeds' -- the paradox at its starkest. Let the antithesis ring."
+          },
+          {
+            "line": 9,
+            "note": "The volta: 'Who taught thee' -- the Speaker seeks an origin for her power, as if it must have been learned."
+          },
+          {
+            "line": 10,
+            "note": "'The more I hear and see just cause of hate' -- complete honesty. He sees the cause of hate and it increases his love."
+          },
+          {
+            "line": 13,
+            "note": "The couplet turn: the logical gambit. Deliver with a note of desperate cleverness -- he is trying to win an argument he knows he has already lost."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["power", "powerful", "might"],
+          "emotional_note": "Awestruck, searching",
+          "delivery_note": "The triple emphasis on power/powerful/might should build. She is a force beyond explanation.",
+          "gloss": "From what source do you draw this overwhelming power?",
+          "commentary": "The repetition of power-words (power, powerful, might) hammers the point: her force is inexplicable and total. 'Hast thou' frames it as a possession she carries."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["insufficiency", "sway"],
+          "emotional_note": "Paradoxical wonder",
+          "delivery_note": "'Insufficiency' is a remarkable word -- give it room. It names her deficiency precisely while acknowledging its power.",
+          "gloss": "Using your very inadequacy to rule my heart?",
+          "commentary": "'Insufficiency' is clinical, almost legal -- a formal acknowledgment of deficiency that coexists with absolute emotional submission. 'Sway' means to rule."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["becoming", "things ill"],
+          "emotional_note": "Reluctant admiration",
+          "delivery_note": "'Becoming' is a pun -- deliver both senses (attractive + the act of transformation).",
+          "gloss": "Where did you get this ability to make ugly things attractive?",
+          "commentary": "'Becoming of things ill' -- 'becoming' means both (1) attractiveness and (2) the process of transformation. She makes bad things beautiful. This is the DL's essential alchemy."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["refuse", "deeds"],
+          "emotional_note": "Brutally honest",
+          "delivery_note": "'Refuse' means garbage. Do not soften it.",
+          "gloss": "Even in the very garbage of your actions",
+          "commentary": "'Refuse of thy deeds' -- 'refuse' is waste, trash. The Speaker acknowledges that her behavior is refuse and still finds power in it."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["worst", "best", "exceeds"],
+          "emotional_note": "Paradox fully stated",
+          "delivery_note": "The antithesis should be sharp: worst against best. This is the sonnet's thesis in one line.",
+          "gloss": "So that in my mind, your worst surpasses everyone else's best",
+          "commentary": "The paradox at maximum compression: her worst exceeds all best. The phrase 'in my mind' is a crucial qualifier -- he knows this is subjective, possibly delusional."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["taught", "love", "more"],
+          "emotional_note": "Searching, the volta",
+          "delivery_note": "The volta turns from description to inquiry. 'Who taught thee' implies her power was acquired, not innate.",
+          "gloss": "Who taught you the art of making me love you more?",
+          "commentary": "The volta asks for an origin story. 'Who taught thee' implies instruction, apprenticeship -- as if her power over him required training."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["more", "just cause", "hate"],
+          "emotional_note": "Helpless honesty",
+          "delivery_note": "'Just cause of hate' -- stress 'just.' The cause is legitimate. And it makes him love more.",
+          "gloss": "The more I encounter legitimate reasons to hate you?",
+          "commentary": "'Just cause of hate' -- legally precise. The evidence against her is admissible. Yet evidence of hate produces more love. The paradox is irreducible."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["love", "abhor"],
+          "emotional_note": "Defiant, isolated",
+          "delivery_note": "'Abhor' is a strong word -- let it carry its full weight against 'love.'",
+          "gloss": "Though I love what everyone else finds repulsive",
+          "commentary": "The Speaker positions himself against the world: he loves what others abhor. This is both defiance and confession of his isolation."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["unworthiness", "love"],
+          "emotional_note": "Desperately clever",
+          "delivery_note": "The logical gambit: deliver with a note of ingenuity, as if he has found a loophole.",
+          "gloss": "If your unworthiness created love in me",
+          "commentary": "The couplet's argument: if unworthiness generates love, then his devotion to the unworthy makes him worthy. A syllogistic trap that is also a plea."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["worthy", "belov'd"],
+          "emotional_note": "Pleading beneath the logic",
+          "delivery_note": "Beneath the clever argument is a plea: love me back. Let the vulnerability show through the logic.",
+          "gloss": "Then I am all the more deserving of your love",
+          "commentary": "The final line converts degradation into a claim. 'More worthy I to be belov'd of thee' -- the syntax is inverted for emphasis, placing 'More worthy I' first. The argument is logically valid and emotionally desperate."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "paradoxical_attraction",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "power_and_subjection",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "appearance_vs_reality",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "self_deception",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "DL",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'hast thou this powerful might,' 'thy worst all best exceeds'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "Self-referential throughout: 'my heart to sway,' 'my true sight,' 'in my mind'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "O! from what power hast thou this powerful might",
+          "explanation": "Direct exclamatory address to the DL, opening with 'O!' as a marker of genuine wonder."
+        },
+        {
+          "line_number": 1,
+          "device_id": "ALLITERATION",
+          "quotation": "power... powerful",
+          "explanation": "The repetition of 'power/powerful' hammers the DL's inexplicable force through phonetic insistence."
+        },
+        {
+          "line_number": 3,
+          "device_id": "METAPHOR",
+          "quotation": "give the lie to my true sight",
+          "explanation": "'Give the lie' is a legalistic metaphor -- the Speaker perjures his own perception, actively contradicting what he sees."
+        },
+        {
+          "line_number": 4,
+          "device_id": "HYPERBOLE",
+          "quotation": "swear that brightness doth not grace the day",
+          "explanation": "Hyperbolic denial: he would swear that daylight is not bright. Her power makes him deny the most obvious truths."
+        },
+        {
+          "line_number": 5,
+          "device_id": "PUN",
+          "quotation": "becoming of things ill",
+          "explanation": "'Becoming' means both (1) attractiveness/comeliness and (2) the process of transformation. She makes ugly things beautiful."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "the very refuse of thy deeds",
+          "explanation": "'Refuse' as garbage or waste -- her actions are trash, yet they contain power. The metaphor is deliberately degrading."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ANTITHESIS",
+          "quotation": "thy worst all best exceeds",
+          "explanation": "The governing antithesis: worst against best, defect against excellence. The entire sonnet's argument in five words."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "Who taught thee how to make me love thee more",
+          "explanation": "The volta shifts from describing her paradoxical power to asking its origin, implying it was learned or conferred."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PARADOX",
+          "quotation": "If thy unworthiness rais'd love in me, / More worthy I to be belov'd of thee",
+          "explanation": "The couplet's syllogistic paradox: unworthiness generates love, therefore loving the unworthy makes one worthy. Logically valid, emotionally desperate."
+        },
+        {
+          "line_number": 14,
+          "device_id": "CHIASMUS",
+          "quotation": "unworthiness... love / worthy... belov'd",
+          "explanation": "The couplet reverses the terms: unworthy/love in line 13 becomes worthy/beloved in line 14 -- a chiastic inversion of the argument."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a sustained interrogation culminating in a syllogistic couplet. The rhetorical structure is the argument."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Addresses the DL sequence's central theme: the paradox of attraction to acknowledged unworthiness."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The Speaker confronts the DL's power directly and attempts to convert his subjection into a claim -- a dramatic gambit."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 1,
+          "rationale": "The three quatrains progress logically (power -> paradox -> inquiry) before the couplet attempts a reversal."
+        }
+      ]
+    },
+    {
+      "number": 151,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker argues that Love is too young (too innocent, too much like Cupid the child) to understand conscience, yet conscience is born from love. He warns the DL not to accuse him, since her betrayal drives him to betray his soul for his body's desires. The sonnet then descends into sustained sexual double entendre: his flesh 'rises' at her name, 'stands' in her affairs, 'falls' by her side. The couplet redefines 'love' as both the woman and the erotic act.",
+        "speaker_stance": "sardonic, sexually frank, self-mocking, defiant",
+        "emotional_arc": "philosophical defense -> mutual accusation -> sexual confession -> bawdy resignation",
+        "dramatic_situation": "The most sexually explicit sonnet in the sequence. The Speaker abandons the pretense of Petrarchan idealism and speaks frankly about physical desire. The DL has accused him of lacking conscience; he responds that conscience and love are intertwined, then demonstrates how his body overrules his mind.",
+        "subtext": "The entire sonnet operates on double entendre. Every reference to 'flesh,' 'rising,' 'standing,' 'falling,' and 'pride' carries sexual meaning alongside its surface sense. The Speaker is both confessing and boasting -- the bawdy humor is a form of defiance against the shame the DL sequence has been building.",
+        "analysis_text": "Sonnet 151 is the most sexually explicit poem in the sequence and marks a dramatic shift in register from the anguished self-interrogation of 148-150. The opening proposition is deceptively philosophical: 'Love is too young to know what conscience is.' 'Love' here is Cupid, the child-god, but also the erotic impulse itself -- too primal to understand moral scruple. The second line reverses this: 'Yet who knows not conscience is born of love?' Conscience (with its pun on 'con-science,' carnal knowledge) emerges from erotic experience. The argument is circular and deliberately so: love produces conscience, but love is too young for conscience. The first quatrain warns the DL ('gentle cheater') not to press the accusation of sin ('my amiss'), since her own betrayal implicates her equally. The second quatrain performs the soul-body split that Renaissance poetry inherited from Pauline theology. The Speaker's soul tells his body that it may 'triumph in love,' and the body -- 'flesh' -- 'stays no farther reason.' The word 'flesh' inaugurates the sustained sexual pun: flesh is both the body generally and the penis specifically. From line 9 onward, every verb carries double meaning. 'Rising at thy name' is both emotional arousal and erection. 'Doth point out thee' is both indicating and, more crudely, pointing physically. 'Proud of this pride' is both emotional satisfaction and tumescence ('pride' as erection was standard Elizabethan slang). 'He is contented thy poor drudge to be' -- the body as willing sexual servant. 'To stand in thy affairs' means both to participate in her business and to maintain an erection during intercourse. 'Fall by thy side' means both to collapse in exhaustion and post-coital detumescence. The couplet crowns the double entendre: 'No want of conscience hold it that I call / Her love, for whose dear love I rise and fall.' 'Rise and fall' completes the cycle of erection and detumescence. 'Her love' is both the woman he loves and the sexual act itself. The final word 'fall' echoes the Fall of Man -- the Speaker's bodily desire recapitulating original sin. The sonnet's brilliance lies in sustaining philosophical argument and bawdy comedy simultaneously. It is not merely dirty; it is a serious meditation on the war between conscience and desire, conducted entirely through sexual metaphor. The body wins, and the Speaker accepts his defeat with sardonic grace."
+      },
+      "directing": {
+        "scene_setting": "The bedroom, or at least the bedroom's proximity. The philosophical veneer is thin -- this is pillow talk elevated to poetry. The Speaker is post- or pre-coital, reflecting on the body's triumph over the mind.",
+        "character_note": "The Speaker is at his most sardonic and self-aware. He has abandoned the anguished questioning of 148-149 and the paradoxical reasoning of 150 for frank sexual confession. There is liberation in the admission, even as it confirms his subjection.",
+        "fym_note": "Absent. The sexual explicitness is reserved entirely for the DL relationship. The FYM sonnets, whatever their erotic subtext, never approach this register.",
+        "dl_note": "Called 'gentle cheater' -- an oxymoron that captures her dual nature. She has betrayed the Speaker (with the FYM? with others?) but she is 'gentle' in the sense of well-born and soft-spoken. Her accusation of the Speaker's moral failure provokes his defense.",
+        "overall_arc": "Open with philosophical misdirection (Love and conscience), warn the DL of mutual guilt, then let the sexual puns build from line 8 through the couplet. The tone should shift from serious to bawdy to resigned.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "Philosophical opening. 'Love is too young' -- Cupid as child. This is the setup before the bawdy turn."
+          },
+          {
+            "line": 3,
+            "note": "'Gentle cheater' -- an oxymoron. Address it to the DL with affection and accusation mixed."
+          },
+          {
+            "line": 6,
+            "note": "'My nobler part to my gross body's treason' -- the soul-body split stated plainly before the puns begin."
+          },
+          {
+            "line": 8,
+            "note": "'Flesh stays no farther reason' -- the hinge. From here on, every word carries double meaning."
+          },
+          {
+            "line": 9,
+            "note": "'Rising at thy name' -- the first unmistakable sexual pun. The audience should register the shift."
+          },
+          {
+            "line": 12,
+            "note": "'To stand in thy affairs, fall by thy side' -- erection and detumescence in a single line. The bawdy peak."
+          },
+          {
+            "line": 14,
+            "note": "'Rise and fall' -- the final iteration of the sexual cycle, echoing the Fall of Man."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["Love", "young", "conscience"],
+          "emotional_note": "Philosophical, mischievous",
+          "delivery_note": "Begin with apparent seriousness. 'Love is too young' -- Cupid as a child, innocence as defense.",
+          "gloss": "Love (Cupid, the child-god) is too young to understand moral scruple",
+          "commentary": "'Love' is Cupid personified as a child, but also the erotic impulse. 'Conscience' carries its Elizabethan double sense: (1) moral awareness and (2) carnal knowledge ('con-science,' knowing carnally). The line is philosophical surface over sexual substrate."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["knows", "conscience", "born", "love"],
+          "emotional_note": "Wry, reversing the proposition",
+          "delivery_note": "The reversal: conscience comes from love. Stress the circular logic.",
+          "gloss": "Yet everyone knows that conscience is born from the experience of love",
+          "commentary": "The circular argument: love is too innocent for conscience, yet conscience is produced by love. 'Born of love' also carries a procreative echo -- conscience as the offspring of erotic experience."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["gentle", "cheater", "amiss"],
+          "emotional_note": "Affectionate accusation",
+          "delivery_note": "'Gentle cheater' is an oxymoron -- deliver with a smile that has teeth.",
+          "gloss": "Then, my well-born deceiver, do not press my wrongdoing",
+          "commentary": "'Gentle cheater' -- gentle (well-born, soft) and cheater (betrayer) combined. 'Urge not my amiss' -- don't emphasize my sin. The Speaker pre-empts her moral accusation."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["guilty", "faults", "prove"],
+          "emotional_note": "Warning, turning the accusation",
+          "delivery_note": "The counter-accusation: if you accuse me, you implicate yourself.",
+          "gloss": "Lest you prove yourself guilty of the same faults",
+          "commentary": "'Thy sweet self prove' guilty -- the warning is that her moral accusation rebounds. If love and conscience are intertwined, her betrayal implicates her own conscience."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["betraying", "betray"],
+          "emotional_note": "Escalating, the chain of betrayal",
+          "delivery_note": "The repeated 'betray/betraying' creates a chain reaction. Each betrayal causes the next.",
+          "gloss": "Because you betray me, I in turn betray",
+          "commentary": "'Thou betraying me, I do betray' -- mutual betrayal. Her infidelity drives his moral collapse. The parallel syntax makes the chain of causation explicit."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["nobler part", "gross body's", "treason"],
+          "emotional_note": "Self-condemning, frank",
+          "delivery_note": "The soul-body split stated plainly. 'Nobler part' is the soul; 'gross body's treason' is carnal desire overruling it.",
+          "gloss": "My soul to the rebellion of my crude body",
+          "commentary": "'Nobler part' (soul) versus 'gross body' (flesh) -- the Pauline split between spirit and flesh. 'Treason' elevates bodily desire to political rebellion against the soul's sovereignty."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["soul", "body", "may"],
+          "emotional_note": "The soul surrendering",
+          "delivery_note": "The soul grants permission. 'He may' -- the body is given leave to act.",
+          "gloss": "My soul tells my body that it may",
+          "commentary": "The soul's capitulation: it tells the body 'he may triumph.' The soul becomes an enabler rather than a restrainer. 'He' -- the body personified as masculine agent."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["flesh", "no farther reason"],
+          "emotional_note": "The hinge into bawdy",
+          "delivery_note": "'Flesh' is the pivot word. From here, every term carries double meaning. Mark the transition.",
+          "gloss": "The flesh needs no further argument",
+          "commentary": "'Flesh' inaugurates the sustained sexual double entendre. As body, flesh needs no further rational justification. As penis, the 'flesh' requires no further persuasion to act. 'Stays no farther reason' -- stops waiting for logic."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["rising", "thy name", "point out"],
+          "emotional_note": "Bawdy, triumphant",
+          "delivery_note": "The first unmistakable sexual pun. 'Rising at thy name' -- erection triggered by her name. Let the audience register it.",
+          "gloss": "But rising at the mention of your name, pointing toward you",
+          "commentary": "'Rising at thy name' -- (1) emotionally stirred at her name and (2) achieving erection. 'Doth point out thee' -- (1) indicates her and (2) the erect penis directed toward her. The double meanings are inseparable."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["triumphant", "prize", "Proud", "pride"],
+          "emotional_note": "Boastful, self-mocking",
+          "delivery_note": "'Proud of this pride' -- pride as both emotional satisfaction and tumescence. The repetition is deliberate.",
+          "gloss": "As his triumphant prize. Swollen with this pride,",
+          "commentary": "'Triumphant prize' -- the DL as the body's trophy. 'Proud of this pride' -- 'proud' meant swollen/tumescent in Elizabethan English; 'pride' was slang for erection. The doubling is both boast and self-mockery."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["contented", "poor drudge"],
+          "emotional_note": "Self-deprecating, servile",
+          "delivery_note": "'Poor drudge' -- the body as willing menial servant. Sexual servitude accepted with something like satisfaction.",
+          "gloss": "He is content to be your lowly servant",
+          "commentary": "'Contented thy poor drudge to be' -- the body willingly accepts servitude. 'Drudge' is a menial worker, but in sexual context, the body as instrument of another's pleasure."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["stand", "affairs", "fall"],
+          "emotional_note": "The bawdy peak, sardonic",
+          "delivery_note": "'Stand' and 'fall' are the sonnet's most concentrated puns. Deliver with awareness that the audience will hear both meanings.",
+          "gloss": "To stand ready in your business, and collapse by your side",
+          "commentary": "'Stand in thy affairs' -- (1) participate in her business and (2) maintain erection during intercourse ('affairs' as sexual liaisons). 'Fall by thy side' -- (1) collapse from exhaustion, loyalty, or defeat and (2) post-coital detumescence. The entire sexual arc in one line."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["conscience", "call"],
+          "emotional_note": "Resolving, circling back to the opening",
+          "delivery_note": "Return to the philosophical register of line 1, but now loaded with the sexual meanings that have accrued.",
+          "gloss": "Do not consider it a lack of conscience that I call",
+          "commentary": "'No want of conscience' circles back to line 1's meditation on conscience. But now 'conscience' carries all the carnal weight the sonnet has accumulated. 'Hold it' -- consider it, judge it."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["love", "rise", "fall"],
+          "emotional_note": "Epigrammatic, resigned, defiant",
+          "delivery_note": "The final line completes the sexual cycle. 'Rise and fall' -- erection and detumescence, the Fall of Man, the body's eternal rhythm. Deliver as a closing epigram.",
+          "gloss": "Her 'love' -- the woman for whose dear love I experience erection and detumescence",
+          "commentary": "'Rise and fall' completes the double entendre arc: erection and detumescence, aspiration and collapse. 'Her love' is both the DL and the sexual act. The line also echoes the Fall of Man -- bodily desire as original sin. The sonnet ends where the body always ends: in the cycle of rising and falling."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "sexuality",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "conscience_and_desire",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "soul_body_conflict",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "masochism",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "mutual_guilt",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "DL",
+          "role": "ADDRESSED",
+          "evidence": "'Gentle cheater' (line 3); 'thou betraying me' (line 5); 'thy name' (line 9)"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "Self-referential throughout: 'my nobler part,' 'my gross body's treason,' 'I rise and fall'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Love is too young to know what conscience is",
+          "explanation": "Love as Cupid, the child-god -- personified as literally too young to understand moral scruple."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PARADOX",
+          "quotation": "Yet who knows not conscience is born of love?",
+          "explanation": "Love is too young for conscience, yet conscience is born from love. The circular logic is deliberate."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PUN",
+          "quotation": "conscience",
+          "explanation": "'Conscience' puns on 'con-science' -- carnal knowledge, sexual awareness. The moral term carries an erotic substrate throughout."
+        },
+        {
+          "line_number": 3,
+          "device_id": "PUN",
+          "quotation": "gentle cheater",
+          "explanation": "Oxymoron: 'gentle' (wellborn, kind) and 'cheater' (deceiver, unfaithful lover). She is both."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANAPHORA",
+          "quotation": "betraying me, I do betray",
+          "explanation": "The repeated 'betray' creates a chain of causation: her betrayal causes his, in an echo structure."
+        },
+        {
+          "line_number": 6,
+          "device_id": "ANTITHESIS",
+          "quotation": "My nobler part to my gross body's treason",
+          "explanation": "Soul (noble) versus body (gross) -- the Pauline antithesis that structures the entire sonnet."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "my gross body's treason",
+          "explanation": "Bodily desire as political treason against the soul's sovereignty -- the body as rebel against its rightful ruler."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PUN",
+          "quotation": "flesh stays no farther reason",
+          "explanation": "'Flesh' as both (1) the body generally and (2) the penis specifically. The pivot word that launches the sustained double entendre."
+        },
+        {
+          "line_number": 9,
+          "device_id": "PUN",
+          "quotation": "rising at thy name doth point out thee",
+          "explanation": "'Rising' as both emotional arousal and erection. 'Point out' as both indicating and the erect penis directed toward her."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "Proud of this pride",
+          "explanation": "'Proud' = swollen/tumescent (Elizabethan usage). 'Pride' = erection (standard slang). Emotional satisfaction and physical tumescence in one phrase."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PUN",
+          "quotation": "To stand in thy affairs, fall by thy side",
+          "explanation": "'Stand' = maintain erection; 'affairs' = sexual liaisons; 'fall' = detumescence. The entire sexual arc compressed into one line."
+        },
+        {
+          "line_number": 12,
+          "device_id": "ANTITHESIS",
+          "quotation": "stand... fall",
+          "explanation": "Stand/fall as physical antithesis, moral antithesis (virtue/sin), and sexual antithesis (erection/detumescence)."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PUN",
+          "quotation": "for whose dear love I rise and fall",
+          "explanation": "'Rise and fall' = (1) emotional fluctuation, (2) erection and detumescence, (3) echo of the Fall of Man. The most layered pun in the sequence."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "for whose dear love I rise and fall",
+          "explanation": "The couplet functions as a self-contained witticism: the entire sexual and moral drama of the sonnet compressed into a five-word conclusion."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "PROSODIC",
+          "priority": 3,
+          "rationale": "The double entendres depend on precise word-stress and the interplay between surface and substrate meaning. Every word from line 8 onward carries two registers."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 3,
+          "rationale": "The sonnet stages a dramatic shift from philosophical argument to sexual confession. The body's triumph over the soul is performed in real time."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The opening syllogism (love/conscience) provides the argumentative frame that the bawdy content both fulfills and explodes."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The soul-body conflict, conscience versus desire, and the DL's power over the Speaker's flesh are central sequence themes brought to their most explicit expression."
+        }
+      ]
+    },
+    {
+      "number": 153,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Cupid laid aside his torch and fell asleep. A votary of Diana stole the torch and quenched it in a cold fountain, which became a perpetually hot healing bath. But Love relit his torch from the Speaker's mistress's eye, and when the Speaker sought the bath for his love-sickness, he found no cure -- the only remedy lies where Cupid got new fire: his mistress's eyes.",
+        "speaker_stance": "wry, self-deprecating, mythologically detached",
+        "emotional_arc": "mythological narrative -> personal application -> failed cure -> epigrammatic conclusion",
+        "dramatic_situation": "The Speaker retells an Anacreontic epigram, applying it to his own condition. After the emotional intensity of 148-151, the shift to classical myth creates an oddly distanced tone. The Speaker is no longer agonizing over his blindness or confessing his lust -- he is telling a story about Cupid, with himself as a rueful footnote.",
+        "subtext": "The mythological frame provides distance from the raw emotions of the preceding sonnets. Whether this represents emotional exhaustion, artistic exercise, or deliberate deflection is one of the great open questions of the sequence. The sonnet reads as a retreat from confession into convention.",
+        "analysis_text": "Sonnet 153 retells a Greek Anacreontic epigram, one of several attributed to Marianus Scholasticus in the Greek Anthology. The myth is simple: Cupid's torch, quenched by a chaste nymph in a cold spring, heats the water into a perpetual bath. Shakespeare adapts this by adding a personal coda: the Speaker, love-sick, seeks the bath but finds no cure because his mistress's eyes are the real source of the fire. The first quatrain narrates with storybook simplicity: Cupid sleeps, a maid of Diana seizes the opportunity. 'Love-kindling fire' names the torch's function; 'cold valley-fountain' provides the chaste antidote. The opposition between Venus and Diana -- desire and chastity -- structures the myth. The second quatrain describes the transformation: the cold fountain 'grew a seething bath,' borrowing 'dateless lively heat' from Love's fire. The word 'dateless' (eternal) elevates the event from anecdote to cosmological transformation. The bath 'which yet men prove / Against strange maladies a sovereign cure' introduces the therapeutic motif -- love-sickness as a disease requiring treatment, a theme that pervades the DL sonnets. The volta at line 9 brings the myth crashing into the Speaker's personal experience. 'But at my mistress' eye Love's brand new-fired' -- the DL's eyes relight Cupid's extinguished torch. The chaste nymph's victory over desire is reversed by the DL's more powerful fire. The Speaker, 'sick withal,' seeks the bath as a 'sad distemper'd guest,' but the cure fails. The couplet delivers the epigrammatic punch: the bath cannot heal because the heat's source is not Cupid's original torch but the DL's eyes, and no water can extinguish that fire. The sonnet is lighter and more conventionally witty than the preceding DL poems. Its companion, 154, retells the same myth with minor variations, suggesting that both may be exercises -- perhaps Shakespeare experimenting with how to close the sequence, or perhaps early work positioned here by the 1609 editor. The mythological displacement is itself significant: after the anguished self-interrogation of 148-151, the sequence ends not with resolution but with retreat into classical convention. The DL's eyes, which in 148 were instruments of delusion and in 151 were triggers of erection, become here the impersonal fire of myth."
+      },
+      "directing": {
+        "scene_setting": "A tale told at a distance. The Speaker is the storyteller now, not the sufferer. He narrates a myth and applies it to himself with wry detachment.",
+        "character_note": "The Speaker has shifted register entirely. Gone is the masochistic intensity of 149, the philosophical wrestling of 150, the bawdy confession of 151. He is playing the role of classical narrator with himself as the punchline.",
+        "fym_note": "Absent. The Cupid sonnets exist outside the interpersonal dynamics of the main sequence.",
+        "dl_note": "Present only as 'my mistress' -- the possessive is intimate but the mythological frame keeps her at arm's length. Her eyes are the source of fire, but she is not addressed or accused.",
+        "overall_arc": "Tell the myth with clarity and pace through Q1-Q2. At the volta, bring it home to the Speaker's own experience. Deliver the couplet as a witty conclusion -- the failed cure.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "Story mode: 'Cupid laid by his brand and fell asleep.' Simple, clear narrative opening."
+          },
+          {
+            "line": 5,
+            "note": "'Holy fire of Love' -- the torch becomes sacred. The transformation of the fountain is a kind of miracle."
+          },
+          {
+            "line": 9,
+            "note": "The volta: 'But at my mistress' eye' -- the myth meets the personal. The Speaker enters his own story."
+          },
+          {
+            "line": 11,
+            "note": "'Sick withal' -- the Speaker as patient. His love-sickness drives him to seek the bath."
+          },
+          {
+            "line": 13,
+            "note": "'But found no cure' -- the failure. The bath cannot heal what the mistress's eyes have inflamed."
+          },
+          {
+            "line": 14,
+            "note": "The epigrammatic close: 'my mistress' eyes.' The fire's source is named for the last time in the sequence."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["Cupid", "brand", "asleep"],
+          "emotional_note": "Narrative, calm",
+          "delivery_note": "Storytelling mode. 'Once upon a time' energy. Clear and unhurried.",
+          "gloss": "Cupid set down his torch and fell asleep",
+          "commentary": "'Brand' is torch or firebrand -- Cupid's traditional weapon. 'Laid by' suggests carelessness. The god of love is vulnerable when he sleeps."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["maid", "Dian's", "advantage"],
+          "emotional_note": "Opportunistic, chaste",
+          "delivery_note": "'Advantage' is tactical -- the maid sees her chance. Diana's votary seizes the opportunity to defeat desire.",
+          "gloss": "A virgin attendant of Diana saw her opportunity",
+          "commentary": "'Maid of Dian's' -- a nymph sworn to chastity under Diana, goddess of the moon and virginity. She represents the principle of chastity opposing Cupid's desire."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["love-kindling", "steep"],
+          "emotional_note": "Purposeful, quenching",
+          "delivery_note": "'Love-kindling fire' names the torch's power. 'Steep' is deliberate immersion -- drowning desire.",
+          "gloss": "And quickly plunged his love-igniting fire",
+          "commentary": "'Love-kindling' is a compound adjective that names the torch's function: it kindles love. 'Steep' means to soak or immerse -- a deliberate act of extinguishing."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["cold", "valley-fountain"],
+          "emotional_note": "Cool, pastoral",
+          "delivery_note": "'Cold valley-fountain' should evoke a specific place -- a spring in a sheltered vale.",
+          "gloss": "In a cold spring in a nearby valley",
+          "commentary": "'Cold valley-fountain' opposes Cupid's hot torch with chaste coldness. The landscape is allegorical: the valley-fountain is Diana's territory, virginal and cool."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["holy fire", "Love"],
+          "emotional_note": "Transformative, sacred",
+          "delivery_note": "'Holy fire of Love' elevates the torch to something sacred. The water's transformation is a miracle.",
+          "gloss": "Which borrowed from this sacred fire of Love",
+          "commentary": "'Holy fire of Love' -- the torch is not merely hot but sacred. 'Borrow'd' implies the heat is on loan from a higher power, not permanently transferred."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["dateless", "lively", "endure"],
+          "emotional_note": "Eternal, marveling",
+          "delivery_note": "'Dateless' means without end. The heat is permanent. Deliver with a note of wonder.",
+          "gloss": "An eternal, vital heat that would endure forever",
+          "commentary": "'Dateless' -- without a date of expiry, eternal (cf. Sonnet 30: 'dateless bargain'). 'Lively heat' -- the heat is animate, alive. 'Still to endure' -- perpetual."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["seething bath", "prove"],
+          "emotional_note": "Transformative, utilitarian",
+          "delivery_note": "The fountain becomes a bath. 'Seething' means boiling. 'Prove' means test or experience.",
+          "gloss": "And became a boiling bath, which men still use",
+          "commentary": "'Seething bath' -- boiling water. 'Which yet men prove' -- which men still try or test. The mythological origin of thermal baths -- a classical etiology."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["strange maladies", "sovereign cure"],
+          "emotional_note": "Medicinal, authoritative",
+          "delivery_note": "'Sovereign cure' -- the highest form of remedy. The bath works for all diseases except the Speaker's.",
+          "gloss": "As a supreme remedy for strange diseases",
+          "commentary": "'Strange maladies' are unusual or foreign diseases. 'Sovereign cure' means supreme remedy. The bath heals everything -- except, as the couplet will reveal, love-sickness."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["mistress' eye", "new-fired"],
+          "emotional_note": "The volta -- myth meets reality",
+          "delivery_note": "The turn: the story becomes personal. 'My mistress' eye' is the DL's eye relighting Cupid's extinguished torch.",
+          "gloss": "But Love's torch was relit by my mistress's eye",
+          "commentary": "The volta brings the myth home. 'Love's brand new-fired' -- the extinguished torch reignited. The chaste nymph's victory is undone by the DL's more powerful fire. 'My mistress' eye' echoes 148's obsessive eye-imagery."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["boy", "trial", "breast"],
+          "emotional_note": "Tested, victimized",
+          "delivery_note": "Cupid tests his relit torch on the Speaker. 'The boy' is affectionate/diminutive but the trial is real.",
+          "gloss": "The boy needed to test his relit torch on my breast",
+          "commentary": "'The boy' -- Cupid, diminutively named. 'For trial' -- as a test subject. The Speaker is Cupid's experimental victim. 'Touch my breast' -- to brand him with love."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["sick", "help", "bath", "desired"],
+          "emotional_note": "Suffering, seeking cure",
+          "delivery_note": "The Speaker as patient: sick with love, seeking the therapeutic bath.",
+          "gloss": "I, sickened by this, desired the help of the bath",
+          "commentary": "'Sick withal' -- sick from the love-brand's touch. 'The help of bath desired' -- seeking the cure that the myth promises. Love-sickness as a medical condition."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["sad", "distemper'd", "guest"],
+          "emotional_note": "Pathetic, pilgrim-like",
+          "delivery_note": "'Sad distemper'd guest' -- the Speaker as a pathetic figure arriving at the bath seeking healing.",
+          "gloss": "And hurried there, a sad, ill-tempered visitor",
+          "commentary": "'Distemper'd' -- disordered in temperament, unwell (medical term from humoral theory). 'Guest' implies transience -- he is a visitor to the bath, not a resident of the cure."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["no cure", "help", "lies"],
+          "emotional_note": "Defeated, turning to the punch",
+          "delivery_note": "'But found no cure' -- flat, factual. The remedy fails. Then pivot to the explanation.",
+          "gloss": "But found no cure; the bath that could help me lies",
+          "commentary": "'Found no cure' -- the bath fails because the source of heat is not the original torch but the mistress's eyes. The cure lies elsewhere."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["Cupid", "new fire", "mistress' eyes"],
+          "emotional_note": "Epigrammatic, resigned",
+          "delivery_note": "The punch line: the cure is where the disease started. 'My mistress' eyes' -- the final two words of the penultimate sonnet.",
+          "gloss": "Where Cupid got his new fire: my mistress's eyes",
+          "commentary": "The epigram resolves the myth into circularity: the cure lies at the source of the disease. The DL's eyes, which reignited Cupid's torch, are both the cause of sickness and the only possible cure. The sequence's eye-obsession receives its mythological formulation."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "love_as_disease",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "desire_vs_chastity",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "classical_mythology",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "fire_and_water",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "blindness_and_sight",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "DL",
+          "role": "MENTIONED",
+          "evidence": "'My mistress' eye' (line 9) and 'my mistress' eyes' (line 14) -- present only as a source of fire, not addressed"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "MENTIONED",
+          "evidence": "Enters the myth as 'a sad distemper'd guest' (line 12) seeking the bath for his love-sickness"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Cupid laid by his brand and fell asleep",
+          "explanation": "Cupid as a character in a narrative -- the god of love personified as a careless boy who falls asleep at his post."
+        },
+        {
+          "line_number": 2,
+          "device_id": "ANTITHESIS",
+          "quotation": "A maid of Dian's this advantage found",
+          "explanation": "Diana (chastity) opposing Cupid (desire) -- the mythological antithesis that structures the entire sonnet."
+        },
+        {
+          "line_number": 5,
+          "device_id": "METAPHOR",
+          "quotation": "holy fire of Love",
+          "explanation": "Cupid's torch elevated to sacred fire -- love's power as something transcendent and inextinguishable."
+        },
+        {
+          "line_number": 6,
+          "device_id": "HYPERBOLE",
+          "quotation": "A dateless lively heat, still to endure",
+          "explanation": "'Dateless' -- eternal. The heat will never expire. Hyperbolic elevation of the myth's transformative power."
+        },
+        {
+          "line_number": 7,
+          "device_id": "CONCEIT",
+          "quotation": "grew a seething bath, which yet men prove / Against strange maladies a sovereign cure",
+          "explanation": "The etiology of hot springs as a mythological conceit -- Cupid's torch explaining the existence of thermal baths."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "But at my mistress' eye Love's brand new-fired",
+          "explanation": "The volta brings the myth into the personal: the DL's eyes relight the extinguished torch, undoing chastity's victory."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "my mistress' eye Love's brand new-fired",
+          "explanation": "The DL's eyes as a source of fire more powerful than Cupid's original torch -- the fire of desire reignited from human rather than divine source."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "sick withal, the help of bath desired",
+          "explanation": "Love-sickness as literal disease requiring therapeutic treatment -- the medical metaphor that pervades the DL subsequence."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PARADOX",
+          "quotation": "found no cure, the bath for my help lies / Where Cupid got new fire",
+          "explanation": "The cure lies at the source of the disease. The paradox of desire: the only remedy is more of what caused the affliction."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "my mistress' eyes",
+          "explanation": "The sonnet's concluding punch: after 14 lines of mythological narration, the answer to everything is two words -- her eyes."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 3,
+          "rationale": "The sonnet directly adapts a Greek Anacreontic epigram from the Greek Anthology. Its meaning depends on the classical source and the transformation Shakespeare performs on it."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The fire/water opposition structures the entire sonnet: torch, fountain, bath, brand, eyes. The imagery carries the argument."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The bipartite structure (myth in Q1-Q2, personal application in Q3-C) is the sonnet's defining formal feature."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "Continues the DL sequence's themes of love-sickness and the power of the mistress's eyes, but in a markedly different register."
+        }
+      ]
+    },
+    {
+      "number": 154,
+      "analysis": {
+        "volta_line": 12,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The same Anacreontic myth retold: Cupid sleeps, nymphs approach, the fairest votary quenches his torch in a well, creating a hot bath. The Speaker, enslaved to his mistress, seeks the bath for a cure but discovers that love's fire heats water while water cannot cool love. The final epigram is the sequence's closing statement.",
+        "speaker_stance": "detached, epigrammatic, resigned",
+        "emotional_arc": "narrative distance -> personal application -> epigrammatic closure",
+        "dramatic_situation": "Sonnet 154 is the virtual twin of 153, retelling the same myth with slightly different details. Where 153 has 'a maid of Dian's,' 154 has 'many nymphs' and 'the fairest votary.' Where 153 ends with 'my mistress' eyes,' 154 ends with a more abstract epigram about fire and water. The sonnet is the final poem in the 1609 Quarto sequence.",
+        "subtext": "As the last sonnet in the sequence, 154 provides no closure, no farewell, no resolution. The sequence ends with a classical exercise, not a personal confession. Whether this is deliberate (the displacement of private feeling into public myth) or accidental (editorial arrangement of miscellaneous poems) is an open question that defines how we read the sequence as a whole.",
+        "analysis_text": "Sonnet 154, the final poem in the 1609 Quarto, retells the same Anacreontic myth as 153 with minor but telling variations. 'Cupid laid by his brand' becomes 'The little Love-god lying once asleep' -- a slightly more elaborate, more literary opening that emphasizes Cupid's smallness and vulnerability. Where 153 has a single maid of Diana, 154 presents 'many nymphs that vow'd chaste life to keep,' with 'the fairest votary' singling herself out from the group. This multiplication of nymphs makes the scene more ceremonial, more classical. The torch's power is described in military terms: 'many legions of true hearts had warm'd' makes Cupid a general whose weapon has conquered armies. His disarming by 'a virgin hand' is therefore a greater defeat: 'the general of hot desire / Was, sleeping, by a virgin hand disarm'd.' The militaristic conceit gives the myth more grandeur than 153's simpler narrative. The quenching in 'a cool well' and the creation of the perpetual bath occupy the third quatrain rather than 153's second, compressing the personal application into the couplet alone. 'But I, my mistress' thrall' -- the Speaker enters the poem as an enslaved subject, not merely a sick patient (153's 'distemper'd guest'). 'Thrall' is stronger than 'guest'; it names bondage. The couplet delivers the sequence's final epigram: 'Love's fire heats water, water cools not love.' This is more abstract than 153's closing ('my mistress' eyes'), trading the personal for the universal. The chiastic structure (fire/water, water/love) gives it the ring of a proverb -- a closing maxim rather than a personal confession. As the final statement of 154 sonnets, this epigram is strikingly impersonal. The sequence that began with an intimate address to the Fair Young Man and descended through jealousy, betrayal, and sexual confession ends with a classical commonplace about the inextinguishability of desire. There is no farewell to the FYM, no reckoning with the DL, no resolution. The mythological frame provides a kind of closure by refusing closure -- the fire of love cannot be quenched, and the poem simply stops."
+      },
+      "directing": {
+        "scene_setting": "The final poem. Whether the Speaker knows this is the end or not, the audience does. The mythological tale should be told with an awareness that it is the sequence's last word.",
+        "character_note": "The Speaker is at maximum distance from his own experience. He is a storyteller, and when he enters the story ('But I, my mistress' thrall'), it is almost as an afterthought. The emotional intensity of the DL sonnets has been sublimated into classical exercise.",
+        "fym_note": "Absent. The FYM received no farewell. His story simply stopped at sonnet 126.",
+        "dl_note": "Present only as 'my mistress' -- a possessive that names a relationship without addressing a person. She is reduced to a function: the source of inextinguishable desire.",
+        "overall_arc": "Tell the myth with slightly more ceremony than 153. Introduce the Speaker late and briefly. Deliver the final couplet as the sequence's closing maxim -- a proverb, not a confession.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "The last sonnet begins. 'The little Love-god' -- diminutive, affectionate. This is storytelling, not suffering."
+          },
+          {
+            "line": 5,
+            "note": "'The fairest votary' -- she is the best of them, the most devoted to chastity. Her act is significant."
+          },
+          {
+            "line": 7,
+            "note": "'The general of hot desire' -- Cupid as a military commander. His disarming by a virgin hand is a defeat of epic proportions."
+          },
+          {
+            "line": 12,
+            "note": "'But I, my mistress' thrall' -- the Speaker enters his own story as a slave. The volta from myth to personal."
+          },
+          {
+            "line": 14,
+            "note": "The final line of the entire sequence. 'Love's fire heats water, water cools not love.' Let it ring as an ending."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["little", "Love-god", "asleep"],
+          "emotional_note": "Narrative, tender",
+          "delivery_note": "'Little Love-god' is affectionate. The diminutive 'little' makes Cupid vulnerable. This is a bedtime-story register.",
+          "gloss": "The little god of Love lay sleeping one day",
+          "commentary": "'The little Love-god' -- Cupid named not by his Roman name but by his function and his size. 'Lying once asleep' has a fairy-tale quality: 'once' = once upon a time."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["heart-inflaming", "brand"],
+          "emotional_note": "Descriptive, powerful",
+          "delivery_note": "'Heart-inflaming brand' -- the compound adjective names the torch's function. It inflames hearts.",
+          "gloss": "He set aside his heart-inflaming torch",
+          "commentary": "'Heart-inflaming brand' -- a more elaborate description than 153's 'brand.' The compound adjective names the torch's specific power: it targets hearts."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["nymphs", "chaste", "keep"],
+          "emotional_note": "Ceremonial, chaste",
+          "delivery_note": "Multiple nymphs, unlike 153's single maid. The scene is more populated, more ritualistic.",
+          "gloss": "While many nymphs who had vowed to remain chaste",
+          "commentary": "'Many nymphs' -- the plural expands the scene from 153's single maid. 'Vow'd chaste life to keep' -- their vow of chastity is active, maintained. They are Diana's devotees."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["tripping", "maiden hand"],
+          "emotional_note": "Lively, innocent",
+          "delivery_note": "'Came tripping by' suggests lightness, innocence. 'But in her maiden hand' -- the fairest one acts.",
+          "gloss": "Came dancing past; but one, in her virgin hand",
+          "commentary": "'Tripping' -- light, quick steps, suggesting innocence and gaiety. 'Maiden hand' -- the hand that has never known sexual touch. The enjambment separates the group from the individual who acts."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["fairest", "votary", "fire"],
+          "emotional_note": "Singling out, decisive",
+          "delivery_note": "'The fairest votary' -- she is the best among the nymphs. Her beauty and her chastity coincide.",
+          "gloss": "The most beautiful devotee took up that fire",
+          "commentary": "'The fairest votary' -- the most beautiful of the chaste nymphs. 'Fairest' echoes the sequence's opening word ('From fairest creatures'). 'Votary' means one who has taken a vow -- specifically of chastity."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["legions", "true hearts", "warm'd"],
+          "emotional_note": "Military, grand",
+          "delivery_note": "'Many legions' -- the torch has conquered armies of lovers. Give this line its full martial weight.",
+          "gloss": "Which had warmed many armies of faithful hearts",
+          "commentary": "'Many legions of true hearts' -- the military metaphor: love's torch has conquered vast armies. 'True hearts' are sincere lovers, now victims of Cupid's fire."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["general", "hot desire"],
+          "emotional_note": "Grand, ironic",
+          "delivery_note": "'The general of hot desire' -- Cupid as military commander. The title is both grand and slightly comic.",
+          "gloss": "And so the commander of burning desire",
+          "commentary": "'The general of hot desire' -- Cupid elevated to military rank. 'Hot desire' is his army's banner. The epithet is grand but the situation (a sleeping boy disarmed by a girl) is comic."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["sleeping", "virgin hand", "disarm'd"],
+          "emotional_note": "Triumphant for chastity, comic for Cupid",
+          "delivery_note": "The reversal: the great general is disarmed in his sleep by a virgin. Let the comedy of the image register.",
+          "gloss": "Was disarmed while sleeping by a virgin's hand",
+          "commentary": "'By a virgin hand disarm'd' -- the general defeated not in battle but in sleep, not by a warrior but by a virgin. The passive construction emphasizes his helplessness."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["brand", "quenched", "cool well"],
+          "emotional_note": "Decisive, extinguishing",
+          "delivery_note": "'Quenched' is definitive -- the fire is out. 'Cool well' opposes 'heart-inflaming brand.'",
+          "gloss": "She quenched this torch in a cool well nearby",
+          "commentary": "'Quenched' -- definitively extinguished. 'Cool well' -- the antithesis of the 'heart-inflaming brand.' Fire and water in direct opposition."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["Love's fire", "heat perpetual"],
+          "emotional_note": "Transformative, eternal",
+          "delivery_note": "The paradox: the quenching heats the water permanently. Desire cannot be extinguished, only transferred.",
+          "gloss": "Which took eternal heat from Love's fire",
+          "commentary": "'Heat perpetual' -- the water absorbs what it was meant to destroy. Love's fire is inextinguishable; it merely changes medium. This is the myth's central paradox."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["bath", "healthful", "remedy"],
+          "emotional_note": "Medicinal, hopeful",
+          "delivery_note": "The heated water becomes a cure. But the hope is false, as the couplet will reveal.",
+          "gloss": "Becoming a healing bath and therapeutic remedy",
+          "commentary": "'Healthful remedy' -- the hot spring as medicine. The myth explains thermal baths as products of love's inextinguishable fire."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["mistress'", "thrall"],
+          "emotional_note": "The volta -- personal, enslaved",
+          "delivery_note": "'My mistress' thrall' -- the Speaker names himself as a slave. He enters his own myth at its end.",
+          "gloss": "For sick men; but I, enslaved to my mistress,",
+          "commentary": "'My mistress' thrall' -- 'thrall' means slave, one in bondage. Stronger than 153's 'distemper'd guest.' The Speaker is not a patient seeking treatment but a slave seeking escape from bondage."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["cure", "prove"],
+          "emotional_note": "Transitional, setting up the epigram",
+          "delivery_note": "'Came there for cure' -- the Speaker sought the bath's healing. 'By that I prove' -- and this is what I learned.",
+          "gloss": "Came there seeking a cure, and by this experience I prove",
+          "commentary": "'This by that I prove' -- 'prove' means demonstrate through experience. The Speaker's failure to find a cure proves the couplet's thesis."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["Love's fire", "heats", "water", "cools", "not", "love"],
+          "emotional_note": "Epigrammatic, final, universal",
+          "delivery_note": "The last line of the last sonnet. Deliver as a maxim, a universal truth. Let it ring with finality.",
+          "gloss": "Love's fire can heat water, but water cannot cool love",
+          "commentary": "The sequence's final line. Chiastic structure: fire/water in the first clause, water/love in the second. The inextinguishability of desire is the final word -- not a personal confession but a universal proverb. The sequence ends not with resolution but with a statement of love's permanent, unrequitable fire."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "desire_vs_chastity",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "classical_mythology",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "love_as_disease",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "fire_and_water",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "inextinguishable_desire",
+          "prominence": "PRIMARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "DL",
+          "role": "MENTIONED",
+          "evidence": "'My mistress' thrall' (line 12) -- present only as the possessor of the enslaved Speaker"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "MENTIONED",
+          "evidence": "'But I, my mistress' thrall' -- enters the myth late as a slave seeking impossible cure"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "The little Love-god lying once asleep",
+          "explanation": "Cupid as a narrative character -- diminutive ('little'), divine ('Love-god'), vulnerable ('asleep')."
+        },
+        {
+          "line_number": 2,
+          "device_id": "METAPHOR",
+          "quotation": "his heart-inflaming brand",
+          "explanation": "The torch as a weapon that specifically targets hearts -- love's fire as cardiac inflammation."
+        },
+        {
+          "line_number": 5,
+          "device_id": "IRONY",
+          "quotation": "The fairest votary took up that fire",
+          "explanation": "The most beautiful virgin seizes the torch of desire -- irony that beauty and chastity are aligned against love."
+        },
+        {
+          "line_number": 7,
+          "device_id": "CONCEIT",
+          "quotation": "the general of hot desire / Was, sleeping, by a virgin hand disarm'd",
+          "explanation": "Extended military conceit: Cupid as a general, desire as an army, the virgin as the conqueror who disarms him in his sleep."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "the general of hot desire",
+          "explanation": "Cupid promoted from boy-god to military commander -- the metaphor elevates the stakes of the nymph's act."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ANTITHESIS",
+          "quotation": "sleeping, by a virgin hand disarm'd",
+          "explanation": "The contrast between the martial 'general' and the passive 'sleeping,' between armed power and virgin innocence."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PARADOX",
+          "quotation": "from Love's fire took heat perpetual",
+          "explanation": "The paradox: quenching the torch transfers rather than destroys its heat. Desire cannot be extinguished, only relocated."
+        },
+        {
+          "line_number": 12,
+          "device_id": "VOLTA",
+          "quotation": "but I, my mistress' thrall",
+          "explanation": "The volta brings the myth into the personal. 'Thrall' (slave) is the strongest word the Speaker uses for his condition in the Cupid sonnets."
+        },
+        {
+          "line_number": 12,
+          "device_id": "METAPHOR",
+          "quotation": "my mistress' thrall",
+          "explanation": "The Speaker as slave -- the love-as-bondage metaphor that has pervaded the DL sonnets receives its final, starkest expression."
+        },
+        {
+          "line_number": 14,
+          "device_id": "CHIASMUS",
+          "quotation": "Love's fire heats water, water cools not love",
+          "explanation": "Chiastic inversion: fire-water / water-love. The reversal of terms enacts the failed reversal of desire -- the symmetry of the sentence belies the asymmetry of its truth."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "Love's fire heats water, water cools not love",
+          "explanation": "The sequence's final statement is a self-contained proverb: balanced, impersonal, universal. The most private sequence in English poetry ends with a public maxim."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANTITHESIS",
+          "quotation": "heats water / cools not love",
+          "explanation": "Fire heats but water does not cool -- the expected symmetry is broken. Love is stronger than the element that should defeat it."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 3,
+          "rationale": "Like 153, directly adapts the Anacreontic epigram. The two versions together suggest compositional experiment or editorial arrangement."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The fire/water binary structures every line. The imagery is the argument: desire as fire that no water can quench."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The bipartite structure is even more pronounced than in 153: myth fills three full quatrains, with the personal appearing only in the final couplet and line 12."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "As the sequence's final poem, 154 inevitably carries the weight of closure -- or its refusal. The choice to end with impersonal myth rather than personal address is the sequence's final thematic statement."
+        }
+      ]
+    }
+  ]
+}

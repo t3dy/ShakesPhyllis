@@ -1,0 +1,1948 @@
+{
+  "batch": "15_fym_estrangement",
+  "description": "FYM estrangement and self-abasement sonnets 88-96",
+  "sonnets": [
+    {
+      "number": 88,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "IRONIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker promises that if the FYM chooses to reject him, he will actively argue against himself, cataloguing his own faults to make the FYM's abandonment look justified. This self-abasement is reframed as a paradoxical gain: injuring himself for the FYM's sake doubles his own advantage through love.",
+        "speaker_stance": "masochistic, strategically self-abasing, rhetorically cunning",
+        "emotional_arc": "anticipatory submission -> self-accusation -> paradoxical consolation -> total surrender",
+        "dramatic_situation": "The Speaker anticipates the FYM's rejection and preemptively offers to serve as his own prosecutor. This is not mere groveling but a sophisticated rhetorical strategy: by volunteering to destroy himself, the Speaker makes the FYM's cruelty visible while binding the beloved through guilt.",
+        "subtext": "The Speaker's willingness to fight against himself is both genuine devotion and emotional manipulation. By volunteering to catalogue his own faults, he implicitly highlights the FYM's disloyalty ('though thou art forsworn'). The 'double-vantage' logic is specious but emotionally compelling: love so total that self-destruction becomes self-enrichment. The subtext is that the FYM is already contemplating departure, and the Speaker knows it.",
+        "analysis_text": "Sonnet 88 opens the estrangement sub-sequence with a devastating premise: 'When thou shalt be dispos'd to set me light.' The conditional 'when' rather than 'if' signals the Speaker's certainty that rejection is coming. The first quatrain establishes the central paradox: the Speaker will fight on the FYM's side against himself, proving the beloved 'virtuous, though thou art forsworn.' That parenthetical concession is crucial -- it acknowledges the FYM's guilt even as the Speaker offers to obscure it. The legal language ('merit,' 'scorn,' 'fight,' 'prove,' 'forsworn') frames the situation as a trial in which the Speaker serves simultaneously as defendant and opposing counsel. The second quatrain deepens the self-accusation: the Speaker claims intimate knowledge of his own hidden faults ('faults conceal'd, wherein I am attainted'). The word 'attainted' carries both its legal sense (convicted, stripped of rights) and its heraldic sense (stained, corrupted). He will write a 'story' of these faults -- transforming private shame into public narrative for the FYM's benefit. The volta at line 9 introduces the paradox of 'double-vantage': because all his loving thoughts are bent toward the FYM, any injury to himself that advantages the beloved also advantages the Speaker, since his identity is entirely invested in the relationship. This is the logic of total absorption -- the lover who has so completely merged with the beloved that self-harm becomes self-help. The couplet crystallizes this with epigrammatic force: 'Such is my love, to thee I so belong, / That for thy right, myself will bear all wrong.' The antithesis of 'right' and 'wrong' is absolute. But the very extremity of this devotion functions as a mirror for the FYM's behavior: if the Speaker must bear ALL wrong, it is because the FYM is inflicting it. The sonnet's masochism is thus both genuine and accusatory -- a rhetorical strategy that binds through guilt while appearing to submit. Shakespeare's brilliance here is in making the Speaker's abjection simultaneously sincere and manipulative, a tone that will persist through sonnets 89-92."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has sensed a chill in the FYM's manner -- perhaps avoided glances, shorter conversations, a growing distance. He addresses this preemptively, offering surrender before the blow falls.",
+        "character_note": "The Speaker should be played with quiet intensity, not pathetic weeping. This is a calculated offer, delivered with the composure of someone who has rehearsed it. The pain is real but the rhetoric is controlled.",
+        "fym_note": "The FYM is contemplating departure, perhaps drawn to new company or tiring of the Speaker's devotion. His beauty and social position give him the power to discard people without consequence -- or so he believes.",
+        "dl_note": "Absent. The estrangement here is between Speaker and FYM only.",
+        "overall_arc": "Begin with resigned calm at the conditional premise, build through the self-accusation with increasing intensity, pivot at line 9 to the paradoxical consolation, and land the couplet as a quiet but devastating statement of total belonging.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'When' not 'if' -- the Speaker has already accepted the inevitability. Deliver with a slight weariness, as though this conversation has been rehearsed internally many times."
+          },
+          {
+            "line": 3,
+            "note": "'Upon thy side, against myself I'll fight' -- the martial metaphor. The Speaker positions himself as a traitor to his own cause. Stress 'against myself.'"
+          },
+          {
+            "line": 4,
+            "note": "'Though thou art forsworn' -- this is the blade hidden in the submission. The Speaker concedes the FYM's guilt even while offering to cover it. Let this phrase land with quiet precision."
+          },
+          {
+            "line": 7,
+            "note": "'Attainted' -- pause slightly on this word. It carries the weight of legal conviction and personal stain."
+          },
+          {
+            "line": 9,
+            "note": "The volta: 'And I by this will be a gainer too.' The logic pivots to paradox. Deliver with a fragile brightness -- the Speaker trying to convince himself."
+          },
+          {
+            "line": 12,
+            "note": "'Double-vantage me' -- the economic metaphor. The compound verb is Shakespeare's coinage. Let it resonate as both clever and desperate."
+          },
+          {
+            "line": 13,
+            "note": "'Such is my love' -- the couplet's opening is declarative, almost liturgical. This is a vow, not a complaint."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "thou",
+            "dispos'd",
+            "light"
+          ],
+          "emotional_note": "Resigned anticipation -- the Speaker has foreseen this moment",
+          "delivery_note": "Measured, calm. 'Set me light' means to value me cheaply. Stress 'light' as the key word.",
+          "gloss": "When you decide to treat me as worthless",
+          "commentary": "'Set me light' -- to make light of, to undervalue. The commercial metaphor (setting a price) continues the sequence's economic language. The conditional 'when' rather than 'if' is devastating in its certainty."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "merit",
+            "eye",
+            "scorn"
+          ],
+          "emotional_note": "The public dimension of rejection -- being scorned before others",
+          "delivery_note": "The 'eye of scorn' is a personification -- let 'scorn' carry its full weight as a gazing, judging presence.",
+          "gloss": "And expose my worth to contemptuous scrutiny",
+          "commentary": "'The eye of scorn' personifies public judgment. The Speaker's 'merit' is to be placed before this hostile tribunal. The image anticipates the legal framework of the quatrain."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "thy side",
+            "against",
+            "myself"
+          ],
+          "emotional_note": "Perverse loyalty -- fighting for the beloved means fighting against oneself",
+          "delivery_note": "Stress the antithesis: 'thy side' against 'myself.' The line breaks naturally at the caesura after 'side.'",
+          "gloss": "I will take your side and argue against myself",
+          "commentary": "The martial metaphor: the Speaker becomes a soldier fighting for the enemy. 'Upon thy side' places him in the FYM's camp; 'against myself' makes him his own opponent. The self-division is complete."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "prove",
+            "virtuous",
+            "forsworn"
+          ],
+          "emotional_note": "The sharpest line in the quatrain -- submission laced with accusation",
+          "delivery_note": "The parenthetical 'though thou art forsworn' should land as a quiet correction, not a shout. Understatement is more devastating here.",
+          "gloss": "And prove you virtuous, even though you have broken your vows",
+          "commentary": "'Forsworn' -- having broken an oath. This single word acknowledges the FYM's guilt while the rest of the line offers to obscure it. The gap between 'virtuous' and 'forsworn' is the sonnet's moral chasm."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "thy part",
+            "set down",
+            "story"
+          ],
+          "emotional_note": "The Speaker as narrator of his own destruction",
+          "delivery_note": "'Set down a story' -- the language of writing, testimony. The Speaker will compose a formal account. Deliver with the gravity of a deposition.",
+          "gloss": "On your behalf I can write a detailed account",
+          "commentary": "'Set down a story' transforms the Speaker into an author of his own indictment. 'Upon thy part' -- on your behalf, as your advocate. The legal deposition metaphor deepens."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "faults",
+            "conceal'd",
+            "attainted"
+          ],
+          "emotional_note": "Intimate vulnerability -- revealing hidden shames",
+          "delivery_note": "'Attainted' deserves a slight pause. It is a legal term meaning convicted and stripped of civil rights, carrying the weight of public disgrace.",
+          "gloss": "Of hidden faults for which I stand convicted",
+          "commentary": "'Faults conceal'd' -- the Speaker claims knowledge of secret shames he will make public for the FYM's sake. 'Attainted' means both legally convicted and morally stained (from heraldry, a corrupted coat of arms)."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "gainer",
+            "too"
+          ],
+          "emotional_note": "The volta: forced brightness, the Speaker grasping at consolation",
+          "delivery_note": "This is the turn. Deliver 'gainer too' with a kind of desperate cheerfulness -- the Speaker is trying to reframe his abjection as profit.",
+          "gloss": "And I will profit from this arrangement too",
+          "commentary": "The volta introduces the paradox of mutual advantage. The economic language ('gainer') continues: self-destruction reframed as investment. The logic is specious but emotionally real."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "bending",
+            "all",
+            "loving"
+          ],
+          "emotional_note": "Total devotion -- every thought directed at the beloved",
+          "delivery_note": "'All my loving thoughts' -- stress 'all' to convey the completeness of the Speaker's absorption in the FYM.",
+          "gloss": "Because I direct all my loving thoughts toward you",
+          "commentary": "'Bending' -- directing, inclining. The image is of a body or a bow bending entirely toward one point. The totality ('all') is the key to the paradox that follows."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "double-vantage"
+          ],
+          "emotional_note": "Intellectual triumph within emotional defeat",
+          "delivery_note": "The compound 'double-vantage' is a coinage -- speak it with the relish of someone who has found the perfect word for an impossible situation.",
+          "gloss": "Doing you a service doubly advantages me",
+          "commentary": "'Double-vantage' -- Shakespeare's compound verb. The logic: because my identity is invested in you, any advantage to you is an advantage to me, doubled because it comes through self-sacrifice. The accounting is precise but the emotion is desperate."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "Such",
+            "love",
+            "belong"
+          ],
+          "emotional_note": "Declarative, almost liturgical -- a vow of total possession",
+          "delivery_note": "Begin the couplet with weight and gravity. 'Such is my love' is a summing-up, a credo.",
+          "gloss": "My love is of such a nature, I belong to you so completely",
+          "commentary": "'To thee I so belong' -- the Speaker as the FYM's property. The possessive relationship is complete: the Speaker does not merely love the FYM, he belongs to him."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "thy right",
+            "myself",
+            "all wrong"
+          ],
+          "emotional_note": "Total surrender, but the antithesis illuminates the FYM's cruelty",
+          "delivery_note": "The antithesis 'right/wrong' must be clean and final. End the sonnet with quiet conviction, not self-pity.",
+          "gloss": "That for your sake I will endure every injustice",
+          "commentary": "The epigrammatic couplet: 'right' and 'wrong' are absolute antitheses. The Speaker takes ALL wrong upon himself for the FYM's 'right.' But the very extremity of the claim makes the FYM's position morally untenable."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "self-abasement",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "devotion",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "estrangement",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "legal_metaphor",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "economic_metaphor",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'When thou shalt be dispos'd to set me light'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker is both speaker and subject -- he addresses the FYM but the content is entirely about his own self-destruction"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "METAPHOR",
+          "quotation": "set me light",
+          "explanation": "Commercial metaphor: to 'set light' is to assign a low price. The Speaker's value is a commodity the FYM controls."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PERSONIFICATION",
+          "quotation": "the eye of scorn",
+          "explanation": "Scorn personified as a gazing eye -- public judgment given a body and a scrutinizing gaze."
+        },
+        {
+          "line_number": 3,
+          "device_id": "ANTITHESIS",
+          "quotation": "Upon thy side, against myself I'll fight",
+          "explanation": "The antithesis of 'thy side' and 'against myself' dramatizes the Speaker's self-division. Loyalty to the beloved requires treason against the self."
+        },
+        {
+          "line_number": 4,
+          "device_id": "IRONY",
+          "quotation": "prove thee virtuous, though thou art forsworn",
+          "explanation": "The parenthetical concession undermines the very offer being made. The Speaker will prove the FYM virtuous while simultaneously acknowledging his perjury."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "faults conceal'd, wherein I am attainted",
+          "explanation": "'Attainted' is a legal metaphor: convicted, stripped of civil rights. The Speaker casts himself as a condemned man whose crimes are on record."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PARADOX",
+          "quotation": "thou in losing me shalt win much glory",
+          "explanation": "Losing becomes winning -- the paradox of the Speaker's self-abasement turning the FYM's cruelty into a triumph."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PARADOX",
+          "quotation": "Doing thee vantage, double-vantage me",
+          "explanation": "Self-injury as double profit. The logic is that total identification with the beloved converts every advantage given to him into an advantage for the Speaker."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ANTITHESIS",
+          "quotation": "for thy right, myself will bear all wrong",
+          "explanation": "The absolute antithesis of 'right' and 'wrong' compresses the sonnet's argument into a single epigrammatic line."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "for thy right, myself will bear all wrong",
+          "explanation": "The couplet functions as a compressed moral statement -- a vow that doubles as an accusation by making the FYM's wrongness legible through the Speaker's willingness to absorb it."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a sustained forensic argument: the Speaker offers to serve as both defense attorney for the FYM and prosecutor of himself. Legal language pervades every quatrain."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The dramatic situation -- anticipating rejection and preemptively offering submission -- creates tension between the Speaker's surface humility and his strategic deployment of guilt."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Opens the estrangement sub-sequence's central theme: the paradox of self-abasement as both genuine devotion and rhetorical weapon."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 1,
+          "rationale": "The imagery is primarily legal and economic rather than sensory, subordinated to the argumentative structure."
+        }
+      ]
+    },
+    {
+      "number": 89,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker escalates the offer of Sonnet 88: not only will he argue against himself, he will physically enact the FYM's rejection by feigning lameness, avoiding familiar places, and ceasing to speak the beloved's name. The couplet vows perpetual enmity toward himself as the price of aligning with the FYM's hatred.",
+        "speaker_stance": "masochistic, performatively obedient, achingly tender underneath",
+        "emotional_arc": "eager compliance -> physical self-deformation -> withdrawal from shared spaces -> self-silencing -> vow of self-hatred",
+        "dramatic_situation": "Continuing from 88, the Speaker now offers to perform his own disgrace bodily. If the FYM accuses him of any fault -- even lameness -- the Speaker will immediately adopt that fault as his own. He will vanish from the FYM's world: avoid his walks, stop speaking his name, strangle their acquaintance.",
+        "subtext": "The escalation from legal metaphor (88) to physical performance (89) reveals increasing desperation. The offer to 'halt' (limp) at the accusation of 'lameness' may encode a real anxiety about the Speaker's social or physical status relative to the younger, more beautiful FYM. 'Knowing thy will' carries a secondary echo of the Will puns that pervade the sequence. The Speaker's willingness to erase the FYM's name from his tongue is the most painful sacrifice: it means silencing the very love poetry that connects them.",
+        "analysis_text": "Sonnet 89 escalates the self-abasement of 88 from legal metaphor into physical performance. The opening imperative, 'Say that thou didst forsake me for some fault,' invites the FYM to compose a narrative of justified rejection. The Speaker's response is immediate and grotesque: 'Speak of my lameness, and I straight will halt.' The word 'lameness' may operate on multiple levels -- physical defect, poetic inadequacy, social impairment. The Speaker offers to embody whatever fault the FYM names, transforming accusation into physical reality. The second quatrain's 'I will acquaintance strangle, and look strange' is one of the most violent images in the sequence. 'Strangle' applied to a relationship is shocking: the Speaker will murder their intimacy with his own hands. 'Look strange' -- to adopt the expression of a stranger, to unrecognize the person you love most -- is the emotional counterpart to this violence. The tonal shift at line 9 moves from performative compliance to concrete withdrawal: 'Be absent from thy walks.' The Speaker will physically remove himself from the spaces the FYM inhabits. The 'walks' are both literal (gardens, promenades) and metaphorical (the paths of the FYM's life). The most devastating detail is the silencing of the name: 'in my tongue / Thy sweet beloved name no more shall dwell.' For a poet, to cease speaking the beloved's name is to cease writing poetry -- it is professional suicide as well as emotional self-annihilation. The word 'profane' (line 11) adds a religious dimension: the FYM's name is sacred, and the Speaker fears contaminating it with his unworthiness. The couplet completes the circle with paradoxical logic: 'For I must ne'er love him whom thou dost hate.' Since the FYM hates the Speaker, and the Speaker must align with the FYM's every judgment, the Speaker must hate himself. The pronoun shift from 'thee' to 'him' (referring to the Speaker in the third person) enacts the self-alienation the poem describes. Shakespeare achieves something extraordinary here: a poem about self-erasure that, by its very existence as a poem, proves the Speaker cannot actually perform the silence he promises."
+      },
+      "directing": {
+        "scene_setting": "A continuation of the scene from 88. The Speaker, having offered to argue against himself, now offers to physically perform his own disgrace. The tone should shift from legal argument to something more bodily and urgent.",
+        "character_note": "The Speaker is increasingly desperate. The offers escalate -- from argument to bodily deformation to self-exile to silence. Each offer reveals a deeper layer of need. Play the escalation as genuine, not theatrical.",
+        "fym_note": "The FYM's silence is eloquent. He has not yet spoken -- the Speaker is filling the silence with preemptive surrenders, which suggests the FYM's power is exercised through withdrawal rather than confrontation.",
+        "dl_note": "Absent.",
+        "overall_arc": "Build from the eagerness of the opening command through increasingly painful sacrifices, with the emotional peak at the silencing of the name (lines 9-12), then land the couplet as a logical conclusion that is also an emotional abyss.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Say that thou didst forsake me' -- an imperative that paradoxically gives the FYM permission. The Speaker is scripting his own abandonment."
+          },
+          {
+            "line": 3,
+            "note": "'I straight will halt' -- the physical embodiment of accusation. If you call me lame, I will limp. The grotesque willingness should register."
+          },
+          {
+            "line": 8,
+            "note": "'I will acquaintance strangle' -- the most violent verb in the poem. Deliver with controlled force. This is murder of intimacy."
+          },
+          {
+            "line": 10,
+            "note": "'Thy sweet beloved name no more shall dwell' -- the emotional climax. For a poet to silence the beloved's name is the ultimate sacrifice. Let 'sweet beloved' carry its tenderness."
+          },
+          {
+            "line": 14,
+            "note": "'For I must ne'er love him whom thou dost hate' -- the pronoun shift to 'him' is the Speaker referring to himself in the third person. He has become a stranger to himself."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "Say",
+            "forsake",
+            "fault"
+          ],
+          "emotional_note": "Imperative: the Speaker invites the FYM to compose his rejection",
+          "delivery_note": "Open with brisk energy -- this is an offer, not a lament. 'Say' is a command to the FYM to speak the rejection aloud.",
+          "gloss": "Declare that you abandoned me because of some fault",
+          "commentary": "'Say' -- imperative mood, giving the FYM permission to narrate the rejection. 'For some fault' -- the vagueness is deliberate; the Speaker will accept any accusation."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "comment",
+            "offence"
+          ],
+          "emotional_note": "Scholarly eagerness to confirm his own guilt",
+          "delivery_note": "'Comment upon' carries the sense of glossing a text -- the Speaker as literary critic of his own failings.",
+          "gloss": "And I will elaborate on that offense with supporting evidence",
+          "commentary": "'Comment upon' -- to annotate, to provide exegesis. The Speaker will not merely accept the accusation but expand upon it, providing a scholarly apparatus for his own conviction."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "lameness",
+            "straight",
+            "halt"
+          ],
+          "emotional_note": "Grotesque compliance -- physical deformation as proof of obedience",
+          "delivery_note": "The shift from metaphor to body is sudden. 'Halt' means to limp. Let the physicality register -- the Speaker is offering to cripple himself.",
+          "gloss": "Accuse me of lameness and I will immediately begin to limp",
+          "commentary": "'Lameness' may be physical, social, or poetic. 'Halt' (to limp) transforms a verbal accusation into bodily reality. The Speaker's body becomes a text the FYM can rewrite."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "canst not",
+            "disgrace",
+            "half so ill"
+          ],
+          "emotional_note": "Competitive self-destruction -- the Speaker outdoes the FYM in shaming himself",
+          "delivery_note": "A perverse boast: you cannot disgrace me as thoroughly as I can disgrace myself. Deliver with grim pride.",
+          "gloss": "You cannot shame me by withdrawing love half as badly as I can shame myself",
+          "commentary": "The Speaker claims superior expertise in his own degradation. 'Half so ill' -- a competitive claim. No one knows how to destroy the Speaker better than the Speaker himself."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "myself",
+            "disgrace",
+            "thy will"
+          ],
+          "emotional_note": "Self-knowledge turned into self-destruction",
+          "delivery_note": "'Knowing thy will' -- stress 'will' with awareness of the pun (desire, volition, and the name William). Let the ambiguity resonate.",
+          "gloss": "I will disgrace myself worse than you could; knowing your desire",
+          "commentary": "'Knowing thy will' -- (1) understanding your wishes, (2) the Will pun that recurs throughout the sequence. The Speaker's self-knowledge ('knowing') is weaponized against himself."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "acquaintance",
+            "strangle",
+            "strange"
+          ],
+          "emotional_note": "Violence directed at intimacy itself",
+          "delivery_note": "The word 'strangle' is shocking in context. It should land with physical force. 'Look strange' -- the etymological echo with 'strangle' (both from Latin extraneus) should be felt.",
+          "gloss": "I will kill our familiarity and adopt the face of a stranger",
+          "commentary": "'Strangle' -- to choke to death. Applied to 'acquaintance,' it transforms social withdrawal into murder. 'Look strange' plays on the same root: to become a stranger (Latin extraneus). The sound-echo strangle/strange binds the two acts."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "absent",
+            "walks"
+          ],
+          "emotional_note": "Concrete withdrawal -- leaving shared physical spaces",
+          "delivery_note": "The tonal shift: from violent metaphor to quiet, concrete action. 'Be absent from thy walks' is devastating in its simplicity.",
+          "gloss": "I will stay away from the places where you walk",
+          "commentary": "'Thy walks' -- both literal paths (gardens, promenades) and the course of the FYM's life. The Speaker will remove himself from the geography of the beloved's existence."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "sweet",
+            "beloved",
+            "name",
+            "dwell"
+          ],
+          "emotional_note": "The emotional peak: silencing the beloved's name",
+          "delivery_note": "Slow down. 'Thy sweet beloved name' is the tenderest phrase in the poem. 'No more shall dwell' -- the name is being evicted from the Speaker's tongue, which was its home.",
+          "gloss": "Your sweet beloved name will no longer live on my tongue",
+          "commentary": "'Dwell' -- the name has been a resident of the Speaker's tongue, living there. To silence it is to evict a beloved inhabitant. For a poet, this is the ultimate sacrifice: the end of poetry itself."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "profane",
+            "wrong"
+          ],
+          "emotional_note": "Religious awe: the FYM's name is sacred, the Speaker unworthy to speak it",
+          "delivery_note": "'Profane' carries its full Latin weight: pro fano, outside the temple. The Speaker is ritually unclean.",
+          "gloss": "Lest I, being too profane, should desecrate it by speaking it",
+          "commentary": "'Profane' elevates the FYM's name to sacred status. The Speaker fears contaminating a holy word with his unworthy mouth. The religious register adds a devotional layer to the estrangement."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "ne'er",
+            "love",
+            "him",
+            "hate"
+          ],
+          "emotional_note": "Logical conclusion as emotional abyss: self-hatred as loyalty",
+          "delivery_note": "The pronoun shift to 'him' is crucial -- the Speaker refers to himself in the third person, enacting the self-alienation the poem describes. End with conviction, not pathos.",
+          "gloss": "For I must never love the man you hate -- meaning myself",
+          "commentary": "The shift from 'myself' to 'him' is the poem's most disorienting move. The Speaker has become a third person to himself, viewed through the FYM's hostile gaze. The logic is airtight: if I align with your every judgment, and you hate me, I must hate myself."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "self-abasement",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "estrangement",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "identity_dissolution",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "silence",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "performance",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'Say that thou didst forsake me for some fault'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker addresses himself in the third person at line 14: 'him whom thou dost hate' -- referring to himself as seen through the FYM's eyes"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 3,
+          "device_id": "METAPHOR",
+          "quotation": "Speak of my lameness, and I straight will halt",
+          "explanation": "Accusation transformed into physical reality. The Speaker's body becomes a text the FYM can author -- whatever fault is named will be bodily performed."
+        },
+        {
+          "line_number": 5,
+          "device_id": "HYPERBOLE",
+          "quotation": "Thou canst not love disgrace me half so ill",
+          "explanation": "The Speaker claims to be a more effective agent of his own destruction than the FYM could ever be. Self-degradation as competitive sport."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PUN",
+          "quotation": "knowing thy will",
+          "explanation": "'Will' means (1) desire/intention, (2) the name William -- anticipating the Will sonnets (135-136) and embedding the poet's identity in the beloved's volition."
+        },
+        {
+          "line_number": 8,
+          "device_id": "METAPHOR",
+          "quotation": "I will acquaintance strangle",
+          "explanation": "'Strangle' transforms social withdrawal into an act of violence. The Speaker will murder their intimacy with his own hands."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ALLITERATION",
+          "quotation": "strangle, and look strange",
+          "explanation": "The phonetic echo of 'strangle' and 'strange' (both from Latin extraneus) binds the act of killing acquaintance with the state of being a stranger."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Thy sweet beloved name no more shall dwell",
+          "explanation": "The name personified as a resident of the Speaker's tongue -- it 'dwells' there like an inhabitant. Silencing the name is eviction."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "too much profane",
+          "explanation": "Religious metaphor: 'profane' (pro fano, outside the temple) casts the FYM's name as sacred and the Speaker as ritually unclean."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ANTITHESIS",
+          "quotation": "For thee, against my self I'll vow debate",
+          "explanation": "'For thee' / 'against myself' -- the same antithesis from 88 line 3, now formalized as a 'vow.' Repetition between sonnets binds them as a single argument."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "For I must ne'er love him whom thou dost hate",
+          "explanation": "The logical paradox: aligning with the FYM's hatred requires hating oneself. The pronoun 'him' enacts self-alienation -- the Speaker becomes a third person."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 3,
+          "rationale": "The sonnet is a dramatic monologue of escalating self-sacrifice, moving from verbal agreement to physical deformation to exile to silence. Each offer raises the stakes."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The imperative opening ('Say that...') and the logical conclusion ('For I must ne'er...') frame the poem as an argument, though the argument leads to self-annihilation."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The alliterative pairing strangle/strange and the rhythmic disruption at 'I straight will halt' (where the meter itself seems to stumble) make prosody expressive of content."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 1,
+          "rationale": "The images are physical and concrete: halting, strangling, walking, dwelling on the tongue. The body is the poem's medium."
+        }
+      ]
+    },
+    {
+      "number": 90,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Having offered in 88-89 to accept and perform the FYM's rejection, the Speaker now makes a pragmatic request: if rejection is inevitable, let it come now, at the worst of times, rather than later when the Speaker has recovered from other sorrows. Get the worst over with first.",
+        "speaker_stance": "stoic, pragmatic, anguished beneath the composure",
+        "emotional_arc": "urgent plea -> military metaphor for ambush -> weather metaphor for prolonged suffering -> pragmatic logic -> resigned acceptance",
+        "dramatic_situation": "The Speaker is already suffering from other unspecified misfortunes ('the world is bent my deeds to cross'). He asks the FYM to add rejection to the pile now rather than saving it for later, when it would arrive as an 'after-loss' and destroy recovery. The logic is: let me taste the worst at once.",
+        "subtext": "The 'other sorrows' remain unspecified but may refer to the poet's declining social standing, professional setbacks, or the general miseries of an aging man in an unequal relationship. The military imagery ('onset,' 'rearward,' 'conquer'd woe') frames love as warfare. The Speaker's pragmatism is itself a form of dignity: unable to prevent rejection, he tries to control its timing.",
+        "analysis_text": "Sonnet 90 pivots from the masochistic compliance of 88-89 to a pragmatic negotiation of timing. The opening line, 'Then hate me when thou wilt; if ever, now,' begins with concession ('when thou wilt') but immediately sharpens to urgent demand ('if ever, now'). The semicolon marks a rhetorical acceleration: from resigned permission to active plea. The first quatrain introduces the military imagery that structures the argument: the world is already attacking ('bent my deeds to cross'), and the FYM should 'join with the spite of fortune' now rather than arriving as an 'after-loss.' The military metaphor deepens in the second quatrain: 'Come in the rearward of a conquer'd woe' imagines the FYM as a soldier attacking from behind after the battle is won -- a cowardly ambush rather than an honest assault. The weather metaphor ('Give not a windy night a rainy morrow') adds natural inevitability: don't pile storm upon storm. 'Linger out a purpos'd overthrow' suggests the FYM is deliberately prolonging the Speaker's destruction, which transforms suffering into cruelty. The volta at line 9 restates the plea in the plainest terms: 'If thou wilt leave me, do not leave me last.' The repetition of 'leave me' is rhythmically insistent, the simplicity of diction cutting through the quatrains' elaborate imagery. 'Do not leave me last' -- the fear is not of being left but of being left after all other consolations have been stripped away, so that the loss of the FYM falls on a self already depleted. The couplet resolves with characteristic paradoxical logic: other sorrows that 'now seem woe' will not seem so when compared with losing the FYM. This is both a compliment (you are worth more than all other goods) and an accusation (your loss is worse than any fortune's malice). The sonnet completes the movement from 88's legal argument to 89's physical performance to 90's strategic negotiation. The Speaker cannot prevent rejection but seeks to manage its devastation."
+      },
+      "directing": {
+        "scene_setting": "The Speaker is beleaguered -- professional troubles, social embarrassments, the general miseries of a life under pressure. Into this context, he senses the FYM's growing distance and makes his plea.",
+        "character_note": "This is the most emotionally direct of the three opening sonnets (88-90). The Speaker drops the legal cleverness and physical performance in favor of raw pragmatic appeal. Play it with the exhausted dignity of someone who has run out of clever moves.",
+        "fym_note": "The FYM's rejection is still anticipated, not yet enacted. But the Speaker's urgency suggests the signs are unmistakable. The FYM may be delaying, keeping the Speaker in suspense -- which is itself a form of cruelty.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the explosive imperative of line 1, build military and weather imagery through the quatrains, strip back to bare simplicity at line 9, and close with the resigned logic of the couplet.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Then hate me when thou wilt; if ever, now' -- the most direct opening in the sub-sequence. The semicolon is a pivot from permission to demand. Hit 'now' hard."
+          },
+          {
+            "line": 4,
+            "note": "'Do not drop in for an after-loss' -- the image of the FYM casually 'dropping in' to deliver devastation. The informality of 'drop in' contrasts with the magnitude of the loss."
+          },
+          {
+            "line": 6,
+            "note": "'Come in the rearward of a conquer'd woe' -- military metaphor: attacking from behind after the battle. The cowardice implied is the closest the Speaker comes to accusing the FYM directly."
+          },
+          {
+            "line": 9,
+            "note": "'If thou wilt leave me, do not leave me last' -- the simplest, most devastating line. The repetition of 'leave me' is a rhythmic heartbeat. Strip away all ornament here."
+          },
+          {
+            "line": 11,
+            "note": "'But in the onset come' -- military term for the initial charge. The Speaker asks for a frontal assault rather than an ambush. There is dignity in this request."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "hate",
+            "wilt",
+            "now"
+          ],
+          "emotional_note": "Explosive directness -- permission and demand compressed into one line",
+          "delivery_note": "The semicolon divides concession from demand. 'When thou wilt' is resigned; 'if ever, now' is urgent. Hit 'now' as a stressed monosyllable.",
+          "gloss": "Hate me whenever you choose; but if you are going to, do it now",
+          "commentary": "The opening 'Then' connects to 88-89: having offered to accept any rejection, the Speaker now negotiates timing. 'When thou wilt' concedes the FYM's absolute power; 'if ever, now' seizes what little agency remains."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "world",
+            "bent",
+            "cross"
+          ],
+          "emotional_note": "Embattled -- the Speaker is already under siege from other misfortunes",
+          "delivery_note": "The world personified as an adversary. 'Bent my deeds to cross' -- the world is determined to thwart him. Deliver with weary acknowledgment.",
+          "gloss": "Now, while the world is determined to obstruct everything I do",
+          "commentary": "'Bent...to cross' -- the world as deliberate antagonist. The Speaker's other misfortunes are unspecified but real. The FYM's rejection would be one more blow in an ongoing assault."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "drop in",
+            "after-loss"
+          ],
+          "emotional_note": "The casual cruelty of delayed rejection",
+          "delivery_note": "'Drop in' is devastatingly informal -- as though the FYM might wander by to deliver a death blow. Contrast the lightness of the phrase with the weight of 'after-loss.'",
+          "gloss": "And don't arrive casually later to deliver an additional loss",
+          "commentary": "'Drop in' -- to visit casually. The informality is the point: the FYM's rejection would be delivered without ceremony, as though it were a minor errand. 'After-loss' is Shakespeare's compound: a loss that comes after other losses, amplifying them."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "rearward",
+            "conquer'd"
+          ],
+          "emotional_note": "Military imagery -- the FYM as a cowardly attacker from behind",
+          "delivery_note": "'Rearward' is a military term for the rear guard. The image is of being attacked from behind after the main battle is over. Let the implied accusation of cowardice register.",
+          "gloss": "Don't attack from behind after my grief has already been defeated",
+          "commentary": "'Rearward' -- the rear guard of an army. The FYM is imagined as a soldier who waits until the battle is over to strike from behind. 'Conquer'd woe' -- grief that has been vanquished, only to be ambushed by new loss."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "windy",
+            "rainy"
+          ],
+          "emotional_note": "Natural imagery of compounded suffering",
+          "delivery_note": "The weather metaphor: storm following storm. Keep the pace measured -- this is an image of slow, grinding misery rather than sudden catastrophe.",
+          "gloss": "Don't follow a stormy night with a rainy morning",
+          "commentary": "Weather as emotional state: a 'windy night' followed by a 'rainy morrow' is suffering prolonged beyond endurance. The natural imagery contrasts with the preceding military metaphor, broadening the register."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "linger",
+            "purpos'd",
+            "overthrow"
+          ],
+          "emotional_note": "The accusation emerges: the FYM is deliberately prolonging destruction",
+          "delivery_note": "'Purpos'd overthrow' -- this is intentional. The word 'linger' carries cruelty: to drag out suffering for sport.",
+          "gloss": "To prolong a destruction you have already planned",
+          "commentary": "'Purpos'd overthrow' -- the rejection is premeditated. 'Linger out' suggests the FYM is enjoying the Speaker's slow destruction. This is the strongest accusation in the sonnet, buried in a subordinate clause."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "leave",
+            "leave",
+            "last"
+          ],
+          "emotional_note": "The simplest, most devastating line -- stripped of all rhetoric",
+          "delivery_note": "The repetition of 'leave me' is the poem's heartbeat. Deliver with naked directness. All ornamentation falls away at the volta.",
+          "gloss": "If you are going to leave me, don't leave me as the final blow",
+          "commentary": "The volta strips away military and weather imagery for bare statement. The repetition of 'leave me' creates rhythmic insistence. 'Last' is the feared position: the final loss after all others, when no resilience remains."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "onset",
+            "come",
+            "taste"
+          ],
+          "emotional_note": "Stoic courage: bring the worst first, let me face it head-on",
+          "delivery_note": "'Onset' is a military charge. 'Taste' is visceral -- suffering as something ingested. Deliver with the determination of someone bracing for impact.",
+          "gloss": "But come at the beginning: let me experience immediately",
+          "commentary": "'Onset' -- the initial military charge, the first clash. The Speaker asks for frontal assault rather than ambush. 'Taste' makes suffering bodily, something the mouth encounters."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "other",
+            "strains",
+            "woe"
+          ],
+          "emotional_note": "The paradoxical consolation: all other sorrows diminished by comparison",
+          "delivery_note": "The couplet's logic is clear: once you lose the greatest thing, lesser losses pale. Deliver with the calm of someone who has thought this through.",
+          "gloss": "And other varieties of suffering that now seem terrible",
+          "commentary": "'Strains of woe' -- varieties, kinds. The musical metaphor ('strains') is subtle: woe has multiple melodies, but the loss of the FYM would drown them all out."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "loss",
+            "thee",
+            "not seem so"
+          ],
+          "emotional_note": "Resignation and compliment fused: losing you is the ultimate loss",
+          "delivery_note": "End on 'not seem so' with quiet finality. The comparative logic contains both devastation (losing you is the worst) and flattery (you are worth more than everything).",
+          "gloss": "Compared with losing you, will no longer seem like suffering at all",
+          "commentary": "The couplet's resolution: the FYM's loss recalibrates all other suffering downward. It functions simultaneously as compliment (you are my greatest good), accusation (your loss is the greatest evil), and pragmatic strategy (so let the worst come first)."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "estrangement",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "suffering",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "time",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "fortune",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "military_metaphor",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'Then hate me when thou wilt'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker is the subject of his own plea, negotiating the terms of his own suffering"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "CAESURA",
+          "quotation": "Then hate me when thou wilt; if ever, now",
+          "explanation": "The semicolon creates a dramatic caesura that pivots the line from resigned permission to urgent demand. The two halves are formally balanced but emotionally opposed."
+        },
+        {
+          "line_number": 3,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Join with the spite of fortune, make me bow",
+          "explanation": "Fortune personified as a spiteful enemy. The FYM is invited to join this personified malice as an ally -- aligning the beloved with hostile fate."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METAPHOR",
+          "quotation": "do not drop in for an after-loss",
+          "explanation": "The casual 'drop in' transforms devastating rejection into a social call. The dissonance between the phrase's lightness and its emotional weight is the device."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "Come in the rearward of a conquer'd woe",
+          "explanation": "Military metaphor: the FYM as a soldier attacking from the rear guard after the main battle is over. Implies cowardice and opportunism in the timing of rejection."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "Give not a windy night a rainy morrow",
+          "explanation": "Weather metaphor for compounded suffering: storm following storm. The shift from military to natural imagery broadens the register of the complaint."
+        },
+        {
+          "line_number": 8,
+          "device_id": "IRONY",
+          "quotation": "linger out a purpos'd overthrow",
+          "explanation": "'Purpos'd' reveals that the rejection is premeditated, and 'linger out' suggests deliberate prolongation. The Speaker accuses the FYM of cruelty while appearing to make a reasonable request."
+        },
+        {
+          "line_number": 9,
+          "device_id": "ANAPHORA",
+          "quotation": "do not leave me last",
+          "explanation": "The repetition of 'leave me' (from 'If thou wilt leave me, do not leave me last') creates rhythmic insistence that strips away the quatrains' elaborate imagery."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "so shall I taste / At first the very worst",
+          "explanation": "'Taste' makes suffering bodily and sensory. Combined with the alliteration of 'taste' and 'first'/'worst,' the line has percussive force."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PARADOX",
+          "quotation": "other strains of woe, which now seem woe, / Compar'd with loss of thee, will not seem so",
+          "explanation": "The paradox: things that are woe will cease to seem like woe. Losing the FYM so completely redefines suffering that lesser sorrows are annihilated by comparison."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a sustained argument about the optimal timing of rejection. The logic is impeccable: get the worst over first so that lesser pains are diminished by comparison."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "Three overlapping image systems -- military (rearward, onset, conquer'd), weather (windy night, rainy morrow), and bodily (taste, bow) -- give the argument vivid concrete form."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The dramatic urgency of the plea ('if ever, now') and the vulnerability of the exposed Speaker create immediate theatrical tension."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The caesura in line 1, the alliterative patterns (windy/woe, taste/first/worst), and the rhythmic simplicity of the volta contribute to the poem's emotional impact."
+        }
+      ]
+    },
+    {
+      "number": 91,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker catalogues the worldly goods that others treasure -- birth, skill, wealth, strength, fashion, hawks, hounds, horses -- and declares that the FYM's love surpasses them all. But the couplet reverses the triumph: possessing the greatest treasure means risking the greatest loss.",
+        "speaker_stance": "initially boastful, then vulnerable, ultimately terrified",
+        "emotional_arc": "catalogue of worldly goods -> dismissal of all competitors -> boastful claim of superiority -> sudden reversal into vulnerability",
+        "dramatic_situation": "The Speaker compares himself to other men who prize material goods and social status. His sole treasure is the FYM's love, which he claims is greater than any of theirs. But the couplet's devastating turn reveals the trap: having staked everything on one possession, the Speaker is the most vulnerable man alive.",
+        "subtext": "The catalogue of worldly goods may reflect the Speaker's actual social position: he has no high birth, no wealth, no horses -- only poetry and the FYM's affection. The list of things he dismisses may be things he envies. The 'one general best' that encompasses all 'particulars' uses scholastic philosophical language (general vs. particular) to argue that the FYM is a Platonic ideal containing all lesser goods. But the couplet reveals this as a catastrophic investment strategy: all eggs in one basket.",
+        "analysis_text": "Sonnet 91 takes the form of a competitive catalogue -- a rhetorical device Shakespeare uses in several sonnets to establish value by comparison. The first quatrain surveys what other men prize: birth, skill, wealth, bodily strength, fashionable clothing, hawks, hounds, horses. The list is deliberately varied, mixing aristocratic pastimes (hawking, horsemanship) with bourgeois concerns (wealth, fashion), creating a panorama of masculine self-regard. The second quatrain dismisses all these 'particulars' in favor of one 'general best.' The philosophical vocabulary is notable: 'particulars' and 'general' are terms from scholastic logic, where the universal (general) is ontologically superior to the specific (particular). The FYM's love is thus positioned as a Platonic universal that contains and surpasses all earthly goods. The third quatrain makes the comparison explicit and personal: the FYM's love is 'better than high birth,' 'richer than wealth,' 'prouder than garments' costs.' The anaphoric structure (richer, prouder, of more delight) builds cumulative force. 'Having thee, of all men's pride I boast' is the summit of confidence -- and therefore the setup for the fall. The couplet executes one of the most devastating reversals in the sequence: 'Wretched in this alone, that thou mayst take / All this away, and me most wretched make.' The word 'wretched' frames the couplet, appearing first as a qualifier ('wretched in this alone') and then as a superlative ('most wretched'). The Speaker's supreme happiness is simultaneously his supreme vulnerability. Having established that the FYM's love exceeds all other goods, the Speaker must confront the corollary: losing it would be worse than losing everything. The catalogue that began as a boast becomes a list of things the Speaker does NOT have as consolation. The sonnet's structure is a trap the Speaker builds for himself: every claim of the FYM's superiority tightens the noose of dependence. This makes 91 the pivotal sonnet in the estrangement group: it explains why the self-abasement of 88-90 is not merely rhetorical but existential. The Speaker has nothing else."
+      },
+      "directing": {
+        "scene_setting": "The Speaker, perhaps among other courtiers or in the company of men boasting of their achievements, reflects on what he possesses versus what they possess.",
+        "character_note": "The first twelve lines should radiate genuine confidence, even smugness. The Speaker truly believes he has the better bargain. The couplet's reversal must land as a sudden recognition -- the smile freezing as the implications sink in.",
+        "fym_note": "The FYM is present in the Speaker's mind as an absolute good -- a treasure that makes all other treasures irrelevant. But the FYM is also a person with agency, who can choose to leave. The sonnet's tragedy is in this gap between possession as emotional fact and the beloved's freedom.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with expansive, almost dismissive cataloguing of others' goods. Build through the third quatrain with increasing pride. Then shatter everything with the couplet's reversal.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Some glory in their birth' -- begin casually, as though surveying a room of lesser men. The catalogue should have an almost breezy confidence."
+          },
+          {
+            "line": 7,
+            "note": "'But these particulars are not my measure' -- the pivot from survey to self. 'Particulars' is philosophical -- speak it with intellectual precision."
+          },
+          {
+            "line": 12,
+            "note": "'And having thee, of all men's pride I boast' -- the summit. Maximum confidence. This is the last moment of happiness before the fall."
+          },
+          {
+            "line": 13,
+            "note": "'Wretched in this alone' -- the couplet hits like a trapdoor opening. The realization is sudden. The word 'wretched' should arrive with physical force."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "Some",
+            "glory",
+            "birth",
+            "skill"
+          ],
+          "emotional_note": "Expansive, slightly dismissive survey of what others value",
+          "delivery_note": "The anaphoric 'Some...some' creates a rhythmic catalogue. Keep the pace brisk, almost list-like. These are other men's treasures, not the Speaker's.",
+          "gloss": "Some men take pride in their noble lineage, others in their abilities",
+          "commentary": "The opening establishes the catalogue form. 'Glory' is stronger than 'pride' -- it implies boasting, display. 'Birth' and 'skill' represent inherited versus earned status."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "wealth",
+            "body's force"
+          ],
+          "emotional_note": "Continuing the survey with faint condescension",
+          "delivery_note": "Keep the catalogue moving. 'Body's force' (physical strength) is spoken as though it were a merely animal attribute.",
+          "gloss": "Some in their riches, some in their physical strength",
+          "commentary": "The catalogue extends from social capital (birth, skill) to material wealth and the body. The progression from mind to body to possessions covers the full range of masculine self-regard."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "garments",
+            "new-fangled",
+            "ill"
+          ],
+          "emotional_note": "Disdainful amusement at fashion-followers",
+          "delivery_note": "'New-fangled ill' -- fashionable but ugly. The compound carries contempt. Let the disdain show.",
+          "gloss": "Some in their fashionable though ugly clothes",
+          "commentary": "'New-fangled ill' -- fashionable but tasteless. 'Ill' modifies the garments, not the pride. The Speaker's dismissal of fashion may encode class consciousness: the truly noble don't need costumes."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "hawks",
+            "hounds",
+            "horse"
+          ],
+          "emotional_note": "Aristocratic pastimes catalogued and dismissed",
+          "delivery_note": "The triple alliteration (hawks, hounds, horse) gives the line percussive energy. These are the toys of the aristocracy.",
+          "gloss": "Some in their hunting birds and dogs, some in their horses",
+          "commentary": "Hawks, hounds, and horses are the classic aristocratic triad. The alliteration binds them as a single category of privileged leisure. The Speaker may be acknowledging goods he cannot afford."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "particulars",
+            "not",
+            "my measure"
+          ],
+          "emotional_note": "Intellectual superiority -- the Speaker transcends the catalogue",
+          "delivery_note": "'Particulars' is a philosophical term -- speak it with precision. 'Not my measure' -- calm, definitive rejection of the entire list.",
+          "gloss": "But these specific goods are not how I measure my worth",
+          "commentary": "'Particulars' (specific, individual goods) versus the 'general best' of line 8 -- scholastic terminology elevated to emotional argument. The Speaker claims to have transcended material competition."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "better",
+            "one",
+            "general",
+            "best"
+          ],
+          "emotional_note": "Triumphant: one thing outweighs everything",
+          "delivery_note": "'One general best' -- the philosophical climax. The FYM as universal good. Deliver with quiet triumph.",
+          "gloss": "All these I surpass with one all-encompassing treasure",
+          "commentary": "'One general best' -- the FYM as a Platonic universal that subsumes all particular goods. The philosophical language dignifies the emotional claim and makes it sound logically necessary rather than merely sentimental."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "Thy love",
+            "better",
+            "high birth"
+          ],
+          "emotional_note": "Personal declaration: the FYM's love surpasses all worldly goods",
+          "delivery_note": "The third quatrain makes the comparison explicit. Each line should build on the last, accumulating confidence.",
+          "gloss": "Your love is worth more to me than noble lineage",
+          "commentary": "The catalogue now returns, but transformed: each worldly good is measured against the FYM's love and found wanting. 'High birth' -- the Speaker may lack noble lineage, making this comparison both philosophical and personal."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "having thee",
+            "all men's",
+            "pride",
+            "boast"
+          ],
+          "emotional_note": "The summit of confidence -- and therefore the edge of the abyss",
+          "delivery_note": "Maximum confidence. 'Of all men's pride I boast' -- the Speaker claims superiority over every man alive. Let this ring with genuine triumph before the couplet destroys it.",
+          "gloss": "And possessing you, I boast a pride greater than any man's",
+          "commentary": "'Having thee' -- the language of possession, which will be the couplet's undoing. 'All men's pride' -- the Speaker's claim is universal, absolute. The higher the boast, the harder the fall."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "Wretched",
+            "alone",
+            "take"
+          ],
+          "emotional_note": "The reversal: supreme happiness is supreme vulnerability",
+          "delivery_note": "'Wretched' arrives like a blow. The couplet should feel like a trapdoor opening beneath the confident structure of the preceding twelve lines.",
+          "gloss": "Miserable only in this: that you have the power to take",
+          "commentary": "'Wretched in this alone' -- the qualifier 'alone' is devastating: there is only ONE source of wretchedness, but it is total. 'Thou mayst take' -- the FYM's agency, the beloved's freedom to leave, is the source of all terror."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "All",
+            "away",
+            "most wretched"
+          ],
+          "emotional_note": "Total vulnerability: the greatest treasure is the greatest risk",
+          "delivery_note": "'All this away' -- gesture at everything that came before. 'Most wretched' -- the superlative that frames the couplet with its opposite. End in stillness, not self-pity.",
+          "gloss": "All this away from me, making me the most miserable of men",
+          "commentary": "'Wretched' frames the couplet (lines 13 and 14), moving from qualifier to absolute. The Speaker who boasted of surpassing 'all men's pride' now faces becoming the most wretched of all men. The symmetry is perfect and devastating."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "devotion",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "vulnerability",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "estrangement",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "social_status",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "fortune",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'Thy love is better than high birth to me'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker is the subject of his own boast and his own vulnerability, occupying both the summit and the abyss"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "ANAPHORA",
+          "quotation": "Some glory in their birth, some in their skill",
+          "explanation": "The repeated 'Some...some' structure creates a catalogue effect, surveying masculine self-regard across four lines before dismissing it all."
+        },
+        {
+          "line_number": 4,
+          "device_id": "ALLITERATION",
+          "quotation": "hawks and hounds, some in their horse",
+          "explanation": "The triple alliteration of h-sounds binds these aristocratic pastimes into a single category of privileged leisure."
+        },
+        {
+          "line_number": 7,
+          "device_id": "ANTITHESIS",
+          "quotation": "these particulars are not my measure / All these I better in one general best",
+          "explanation": "'Particulars' versus 'general' -- scholastic terminology turned into emotional argument. The philosophical antithesis elevates the Speaker's claim from sentiment to logical necessity."
+        },
+        {
+          "line_number": 9,
+          "device_id": "ANAPHORA",
+          "quotation": "Thy love is better...Richer than wealth, prouder than garments' costs",
+          "explanation": "The comparative structure (better, richer, prouder, of more delight) builds cumulative force, each line topping the last."
+        },
+        {
+          "line_number": 13,
+          "device_id": "VOLTA",
+          "quotation": "Wretched in this alone, that thou mayst take",
+          "explanation": "The delayed volta at the couplet is devastating: twelve lines of triumph reversed in two lines of terror. The structural expectation of a line-9 turn is deliberately violated."
+        },
+        {
+          "line_number": 13,
+          "device_id": "IRONY",
+          "quotation": "Wretched in this alone",
+          "explanation": "The irony of 'alone' -- there is only one source of wretchedness, but it is sufficient to annihilate all the happiness that preceded it."
+        },
+        {
+          "line_number": 14,
+          "device_id": "CHIASMUS",
+          "quotation": "Wretched...thou mayst take / All this away, and me most wretched make",
+          "explanation": "The couplet is framed by 'wretched' (line 13 opening, line 14 closing), creating a chiastic enclosure that traps the Speaker in his own vulnerability."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The catalogue structure is a classic rhetorical device (comparatio) used to establish value through systematic comparison. The delayed reversal at the couplet depends on the rhetorical buildup."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The delayed volta (couplet rather than line 9) is the poem's structural innovation. The three quatrains build a unified argument that the couplet then demolishes."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The emotional arc from triumph to terror, with the pivot at the couplet, creates a dramatic shape that mirrors tragedy in miniature: hubris followed by catastrophic recognition."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "The sonnet articulates the central paradox of the estrangement group: total devotion creates total vulnerability."
+        }
+      ]
+    },
+    {
+      "number": 92,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "IRONIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker discovers a paradoxical consolation: since his life depends entirely on the FYM's love, he will die the moment the FYM withdraws, meaning he will never have to endure the knowledge of being abandoned. But the couplet's devastating ironic twist asks: what if the FYM is false without the Speaker knowing it?",
+        "speaker_stance": "initially consoled, then triumphant, finally undermined by his own logic",
+        "emotional_arc": "defiant challenge -> paradoxical comfort -> fragile happiness -> ironic collapse",
+        "dramatic_situation": "Following 91's revelation of total vulnerability, the Speaker attempts consolation through logic: if his life depends on the FYM's love, then losing that love means death, which means he will never consciously experience abandonment. This logic is simultaneously comforting and terrifying. The couplet's ironic twist introduces a worse possibility: the FYM could be unfaithful while the Speaker lives on in ignorance.",
+        "subtext": "The 'happy title' the Speaker claims is a deed of ownership that is also a death warrant. The legal language ('term of life,' 'title,' 'assured') frames love as a property arrangement with lethal terms. The couplet's turn toward the possibility of undetected infidelity anticipates the anxieties of the Dark Lady sonnets and suggests the Speaker may already suspect the FYM's faithlessness.",
+        "analysis_text": "Sonnet 92 begins with a defiant imperative: 'But do thy worst to steal thyself away.' The word 'steal' is crucial -- the FYM's departure would be a theft, the stealing of a self that the Speaker has come to regard as his possession. The first quatrain establishes the paradoxical premise: the Speaker's life is 'assured' for the 'term of life,' meaning the FYM's love and the Speaker's life are coterminous. One cannot end without the other. This is both consolation and logical trap. The second quatrain develops the paradox: if the smallest withdrawal of love kills the Speaker, then he need never fear the 'worst of wrongs' because any wrong at all will end his life before he can suffer. 'I see a better state to me belongs / Than that which on thy humour doth depend' -- the 'better state' is death, which is free from the volatility of the FYM's 'humour' (changeable mood). The third quatrain pushes the logic to its ecstatic conclusion: 'O! what a happy title do I find, / Happy to have thy love, happy to die!' The triple repetition of 'happy' marks the summit of the Speaker's paradoxical contentment. He has found a way to be happy regardless of outcome: loved, he lives; unloved, he dies before knowing it. But the couplet detonates this entire structure with devastating economy: 'But what's so blessed-fair that fears no blot? / Thou mayst be false, and yet I know it not.' The consolation depended on the premise that the FYM's departure would be detectable -- that the Speaker would KNOW and therefore die. But what if the FYM is secretly false? What if he maintains the appearance of love while being unfaithful? The Speaker would then live on in ignorance, deprived of even the mercy of death. This couplet is one of the most unsettling in the sequence: it introduces the possibility of a love that is a perfect lie, undetectable and therefore inescapable. The 'blessed-fair' that 'fears no blot' echoes the imagery of 95, where the FYM's beauty covers his sins. The fear of invisible infidelity haunts the rest of the sequence."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone, working through the implications of his own dependence. This is private reasoning -- the FYM may or may not be present. The tone is of someone talking himself into comfort and then having that comfort collapse.",
+        "character_note": "Play the arc: defiant challenge in Q1, growing comfort in Q2, ecstatic triumph in Q3, then the couplet's devastating collapse. The 'happy' repetition in line 11-12 should feel genuinely joyful before the turn destroys it.",
+        "fym_note": "The FYM is addressed but may not be present. The couplet's fear of undetected infidelity suggests the FYM's capacity for deception -- beautiful enough to maintain a perfect facade.",
+        "dl_note": "Absent, but the fear of secret infidelity anticipates the Dark Lady triangle. The 'falseness' the Speaker fears may already have a specific object.",
+        "overall_arc": "Build from defiance through logical consolation to ecstatic triumph, then collapse everything with the couplet's ironic twist.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Do thy worst' -- a challenge, almost swaggering. The Speaker has found his logical shield and is testing it."
+          },
+          {
+            "line": 7,
+            "note": "'I see a better state to me belongs' -- the moment of insight. The 'better state' is death, but the Speaker presents this as genuine discovery."
+          },
+          {
+            "line": 11,
+            "note": "'O! what a happy title do I find' -- the exclamation is genuine. The Speaker has convinced himself. Let this joy be real."
+          },
+          {
+            "line": 13,
+            "note": "'But what's so blessed-fair that fears no blot?' -- the couplet's rhetorical question destroys everything. The pause before this line is the most important pause in the poem."
+          },
+          {
+            "line": 14,
+            "note": "'Thou mayst be false, and yet I know it not' -- the final line should land as a whisper, not a shout. The horror is in the quietness of the realization."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "worst",
+            "steal",
+            "away"
+          ],
+          "emotional_note": "Defiant -- the Speaker dares the FYM to try",
+          "delivery_note": "'Do thy worst' is a challenge. 'Steal thyself away' -- the FYM's departure is framed as theft. Open with bravado.",
+          "gloss": "Go ahead, do your worst to take yourself from me",
+          "commentary": "'Steal thyself away' -- the FYM is simultaneously the thief and the stolen property. The reflexive construction captures the paradox: the beloved steals himself from the lover."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "term of life",
+            "assured"
+          ],
+          "emotional_note": "Legal confidence -- a contract has been signed",
+          "delivery_note": "'Term of life' is a legal phrase meaning 'for the duration of life.' 'Assured' means both guaranteed and insured. Deliver with contractual certainty.",
+          "gloss": "For as long as I live, you are guaranteed to be mine",
+          "commentary": "'Term of life' -- a legal phrase for the duration of a life estate. 'Assured mine' -- legally secured. The Speaker frames the FYM's love as a property arrangement with binding terms."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "life",
+            "longer",
+            "love",
+            "stay"
+          ],
+          "emotional_note": "The key premise: life and love are coterminous",
+          "delivery_note": "The alliteration of l-sounds (life, longer, love) creates a binding musicality. This line is the logical foundation of the entire poem.",
+          "gloss": "And my life will last no longer than your love endures",
+          "commentary": "The premise that makes the paradox work: the Speaker's life depends on the FYM's love so completely that the withdrawal of love means death. This is presented as metaphysical fact, not mere hyperbole."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "least",
+            "life",
+            "end"
+          ],
+          "emotional_note": "Grim comfort: even the smallest withdrawal kills",
+          "delivery_note": "'The least of them my life hath end' -- the logic is tight but chilling. The smallest wrong is lethal. Deliver with the calm of someone who finds this reassuring.",
+          "gloss": "Since even the slightest wrong from you would end my life",
+          "commentary": "'The least of them' -- the logical extreme: not just major betrayal but the slightest cooling of affection would kill. The Speaker has built a system in which any disturbance is fatal."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "thy humour",
+            "depend"
+          ],
+          "emotional_note": "Death as liberation from the FYM's changeable moods",
+          "delivery_note": "'Humour' -- changeable mood, temperament. The 'better state' of death frees the Speaker from the tyranny of the FYM's volatility.",
+          "gloss": "Than a state that depends on your changeable moods",
+          "commentary": "'Humour' -- Elizabethan psychology's term for temperamental disposition, also carrying the sense of caprice. The FYM's love is unreliable because it depends on 'humour' rather than fixed commitment."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "life",
+            "thy revolt",
+            "lie"
+          ],
+          "emotional_note": "The paradox restated: the Speaker's life rests on the FYM's potential betrayal",
+          "delivery_note": "'Revolt' is a strong word -- rebellion, betrayal. 'My life on thy revolt doth lie' -- life balanced on the edge of treason.",
+          "gloss": "Since my life hangs upon the moment of your betrayal",
+          "commentary": "'Revolt' -- to rebel, to turn traitor. The FYM's potential departure is framed as political treason. 'Doth lie' carries a secondary sense: the life 'lies' (is deceptive) because the consolation will prove false."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "happy",
+            "title"
+          ],
+          "emotional_note": "Ecstatic discovery -- the Speaker has found his paradoxical comfort",
+          "delivery_note": "The triple 'happy' (lines 11-12) should build with genuine joy. 'Title' is a legal term for deed of ownership.",
+          "gloss": "Oh, what a fortunate claim I discover is mine",
+          "commentary": "'Happy title' -- a legal metaphor: a deed of ownership that guarantees either possession or death. The exclamation 'O!' marks the emotional climax before the couplet's reversal."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "Happy",
+            "love",
+            "happy",
+            "die"
+          ],
+          "emotional_note": "The summit: happiness in love or in death, either way immune to suffering",
+          "delivery_note": "The parallelism of 'happy to have...happy to die' should be delivered with the reckless joy of someone who believes they have escaped an impossible situation.",
+          "gloss": "Happy to possess your love, or happy to die before losing it",
+          "commentary": "The chiastic structure (happy/love, happy/die) presents love and death as equally desirable outcomes. This is the peak of the Speaker's paradoxical logic -- and therefore the setup for the fall."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "blessed-fair",
+            "fears",
+            "blot"
+          ],
+          "emotional_note": "The couplet's first line: rhetorical question that introduces doubt",
+          "delivery_note": "Pause before this line. The shift from triumph to question should be sudden. 'Blessed-fair' describes the FYM; 'blot' introduces impurity.",
+          "gloss": "But what thing so beautifully blessed is immune to stain?",
+          "commentary": "'Blessed-fair' -- the FYM's beauty elevated to the sacred. 'Blot' -- stain, defect. The rhetorical question destabilizes twelve lines of carefully constructed consolation."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "false",
+            "know it not"
+          ],
+          "emotional_note": "Quiet devastation: the worst possibility is invisible betrayal",
+          "delivery_note": "Deliver as a whisper, not a shout. The horror is in the realization's quietness: 'I know it not' -- the unknowability is the torment.",
+          "gloss": "You may be unfaithful, and I would never know",
+          "commentary": "The couplet's ironic twist demolishes the consolation: the Speaker's logic assumed he would KNOW when the FYM withdrew love and therefore die. But if the FYM is secretly false, the Speaker lives on in ignorance, deprived of even the mercy of death."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "betrayal",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "self-deception",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "devotion",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "death",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "legal_metaphor",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'But do thy worst to steal thyself away'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "The Speaker constructs and then demolishes his own consolation, serving as both architect and victim of his logic"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "METAPHOR",
+          "quotation": "steal thyself away",
+          "explanation": "The FYM as both thief and stolen property. The reflexive construction captures the paradox that the beloved can rob the lover simply by exercising his own freedom."
+        },
+        {
+          "line_number": 2,
+          "device_id": "METAPHOR",
+          "quotation": "For term of life thou art assured mine",
+          "explanation": "Legal metaphor: 'term of life' is a property law phrase for a life estate. The FYM's love is framed as a lease that expires at death."
+        },
+        {
+          "line_number": 3,
+          "device_id": "ALLITERATION",
+          "quotation": "And life no longer than thy love will stay",
+          "explanation": "The l-alliteration (life, longer, love) creates a musical chain binding life and love as inseparable quantities."
+        },
+        {
+          "line_number": 7,
+          "device_id": "IRONY",
+          "quotation": "I see a better state to me belongs",
+          "explanation": "The 'better state' is death -- grimly ironic that death is preferable to living without the FYM's love. The Speaker presents this as genuine comfort."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "my life on thy revolt doth lie",
+          "explanation": "'Lie' means both (1) to rest/depend and (2) to deceive. The Speaker's life 'lies' on the FYM's revolt in both senses -- it depends on it and is deceived by it."
+        },
+        {
+          "line_number": 11,
+          "device_id": "ANAPHORA",
+          "quotation": "Happy to have thy love, happy to die",
+          "explanation": "The repeated 'happy' creates parallel euphoria: love and death presented as equally desirable. The anaphora builds to the poem's false summit."
+        },
+        {
+          "line_number": 13,
+          "device_id": "VOLTA",
+          "quotation": "But what's so blessed-fair that fears no blot?",
+          "explanation": "The delayed couplet volta demolishes twelve lines of consolation with a single rhetorical question. The 'But' signals total reversal."
+        },
+        {
+          "line_number": 14,
+          "device_id": "IRONY",
+          "quotation": "Thou mayst be false, and yet I know it not",
+          "explanation": "The ultimate ironic twist: the consolation assumed the Speaker would know when love was withdrawn. Secret infidelity makes the entire logical structure collapse, leaving the Speaker worse off than before."
+        },
+        {
+          "line_number": 13,
+          "device_id": "METAPHOR",
+          "quotation": "blessed-fair that fears no blot",
+          "explanation": "Beauty as a white surface vulnerable to staining. 'Blot' carries both moral (sin) and visual (ink stain on vellum) associations, anticipating the imagery of 95."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a sustained logical argument: premise (life depends on love) -> deduction (loss of love = death) -> consolation (death prevents suffering) -> ironic refutation (secret infidelity escapes the system)."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The delayed volta at the couplet (as in 91) is the poem's structural innovation. Twelve lines of consolation are demolished in two, making the structure itself ironic."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The arc from defiance to comfort to ecstasy to devastation creates a complete dramatic trajectory within fourteen lines -- a tragedy in miniature."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "Introduces the fear of invisible infidelity that haunts the rest of the sequence, anticipating the Dark Lady's deceptions and the anxiety of 93-96."
+        }
+      ]
+    },
+    {
+      "number": 95,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The FYM's beauty is so powerful that it transforms his sins into ornaments: gossip about his behavior becomes a form of praise, and his vices choose him as their residence because his beauty cloaks everything. The couplet delivers a sharp warning: beauty used as a cover for corruption will eventually lose its edge, like a knife misused.",
+        "speaker_stance": "admiring, disturbed, increasingly admonitory",
+        "emotional_arc": "fascinated observation -> disturbed recognition of beauty's power to conceal -> architectural metaphor of vice housed in beauty -> sharp moral warning",
+        "dramatic_situation": "The Speaker observes the FYM from a slight distance, watching how the world responds to his behavior. Gossip about the FYM's sexual adventures ('lascivious comments on thy sport') cannot become actual criticism because his beauty converts everything to praise. The Speaker is both seduced by this power and alarmed by it.",
+        "subtext": "The sonnet marks a shift in the Speaker's stance: from the self-abasement of 88-92 to something approaching moral authority. The Speaker sees clearly that the FYM's beauty is being used as a license for bad behavior, and the couplet's warning ('The hardest knife ill-us'd doth lose his edge') carries a threat: beauty is not inexhaustible. The phallic connotation of the knife image has been noted by many editors -- the 'edge' that will be lost through misuse carries sexual implications. The canker-in-the-rose image directly echoes Sonnet 54 and anticipates the moral corruption theme of the Dark Lady sonnets.",
+        "analysis_text": "Sonnet 95 pivots from the self-abasement of 88-92 to direct moral observation. The opening line, 'How sweet and lovely dost thou make the shame,' establishes the central paradox: shame itself becomes attractive when the FYM wears it. 'Sweet and lovely' are not merely decorative adjectives -- they are the properties that perform the alchemical transformation of vice into grace. The canker-rose image of line 2 is one of Shakespeare's most resonant: a canker (worm, disease) hidden within a fragrant rose. The beauty is real ('fragrant'), the corruption is real ('canker'), and they coexist -- neither cancels the other. The second quatrain shifts to the social dimension: the 'tongue that tells the story of thy days' is the voice of gossip, which 'cannot dispraise, but in a kind of praise.' The FYM's beauty has corrupted even language itself: criticism becomes involuntary admiration, and 'naming thy name blesses an ill report.' The name functions as a talisman that sanctifies whatever context it appears in. The architectural metaphor of the third quatrain is the sonnet's most striking image: 'O! what a mansion have those vices got / Which for their habitation chose out thee.' Vices are personified as tenants who have chosen the finest house available -- the FYM's beauty as a stately home where corruption lives in luxury. 'Beauty's veil doth cover every blot' transforms the earlier image: the rose concealed the canker; now a veil conceals blots on a mansion's walls. The couplet shifts abruptly from admiration to warning: 'Take heed, dear heart, of this large privilege; / The hardest knife ill-us'd doth lose his edge.' The address 'dear heart' preserves tenderness, but 'take heed' is an imperative. The knife metaphor carries multiple valences: beauty as a tool that loses its sharpness through misuse, with possible phallic undertones (the FYM's sexual attractiveness as a 'knife' that will dull). The warning is that beauty's power to transfigure sin is finite -- a capital that can be spent. This sonnet marks the Speaker's recovery of moral authority after the self-abasement of 88-92. Having prostrated himself, he now stands upright long enough to deliver a warning."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has been hearing gossip about the FYM -- perhaps reports of his sexual adventures, his reputation at court. He addresses the FYM with the mixture of admiration and concern that a parent might feel for a reckless child.",
+        "character_note": "The Speaker here recovers authority. After the self-abasement of 88-92, this is the first sonnet where he speaks from a position of moral clarity. But the admiration is genuine: the Speaker is genuinely astonished by the FYM's power to transform vice into grace.",
+        "fym_note": "The FYM is at the height of his powers: young, beautiful, sexually adventurous, and socially untouchable. His beauty functions as an immune system against moral judgment. But the Speaker sees the limit that the FYM cannot see.",
+        "dl_note": "Not explicitly present, but the FYM's 'sport' and 'lascivious' behavior may involve the Dark Lady or other sexual partners.",
+        "overall_arc": "Begin in fascinated observation, build through the social and architectural metaphors with growing concern, and land the couplet as a sharp, loving warning.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'How sweet and lovely dost thou make the shame' -- open with genuine wonder. The Speaker is astonished, not disgusted."
+          },
+          {
+            "line": 2,
+            "note": "'Like a canker in the fragrant rose' -- the central image. Let 'canker' and 'fragrant' sit in tension. Neither cancels the other."
+          },
+          {
+            "line": 6,
+            "note": "'Making lascivious comments on thy sport' -- the gossip is both scandalous and admiring. 'Lascivious' should carry its full sexual charge."
+          },
+          {
+            "line": 9,
+            "note": "'O! what a mansion have those vices got' -- the architectural metaphor. The exclamation is genuine: the Speaker marvels at the accommodation vice has found."
+          },
+          {
+            "line": 13,
+            "note": "'Take heed, dear heart' -- the shift to direct warning. 'Dear heart' is tender; 'take heed' is urgent. Both must register."
+          },
+          {
+            "line": 14,
+            "note": "'The hardest knife ill-us'd doth lose his edge' -- the epigrammatic close. Deliver with quiet authority, not anger. This is counsel, not condemnation."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "sweet",
+            "lovely",
+            "shame"
+          ],
+          "emotional_note": "Fascinated paradox: shame made beautiful",
+          "delivery_note": "'Sweet and lovely' should be genuinely admiring before 'shame' introduces the moral dissonance. Let the paradox register.",
+          "gloss": "How attractively you transform what should be shameful",
+          "commentary": "The opening paradox: shame should repel, but the FYM's beauty makes it attractive. 'Sweet and lovely' are sensory (taste, sight), grounding the moral observation in physical experience."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "canker",
+            "fragrant",
+            "rose"
+          ],
+          "emotional_note": "The central image: beauty and corruption coexisting",
+          "delivery_note": "Give equal weight to 'canker' and 'fragrant.' Neither cancels the other. The rose is genuinely fragrant; the canker is genuinely destructive.",
+          "gloss": "Which, like a worm in a sweet-smelling rose",
+          "commentary": "The canker-rose image recurs throughout the sonnets (35, 54, 70). 'Canker' -- a worm that eats roses from within. The fragrance persists even as the corruption spreads. This is the FYM's condition: externally perfect, internally compromised."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "spot",
+            "beauty",
+            "budding",
+            "name"
+          ],
+          "emotional_note": "Youth and reputation stained but not yet destroyed",
+          "delivery_note": "'Budding name' -- the FYM's reputation is still growing, still young. 'Spot' is a small stain on something still developing.",
+          "gloss": "Stains the beauty of your developing reputation",
+          "commentary": "'Budding name' -- the FYM's reputation is still in formation, like a bud not yet fully open. 'Spot' -- a stain, but a small one. The diminutive scale suggests the damage is still reversible, which makes the warning timely."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "lascivious",
+            "comments",
+            "sport"
+          ],
+          "emotional_note": "The sexual dimension: gossip about the FYM's adventures",
+          "delivery_note": "'Lascivious' carries its full sexual charge. 'Sport' is a euphemism for sexual play. The gossip is both scandalized and titillated.",
+          "gloss": "Making sexually suggestive remarks about your escapades",
+          "commentary": "'Lascivious comments on thy sport' -- the social world gossips about the FYM's sexual behavior, but even their criticism is tinged with admiration. 'Sport' normalizes the behavior as play, recreation."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "Cannot",
+            "dispraise",
+            "praise"
+          ],
+          "emotional_note": "Language itself corrupted: criticism becomes compliment",
+          "delivery_note": "The paradox: criticism transforms into praise in the FYM's vicinity. 'Cannot dispraise, but in a kind of praise' -- stress the impossibility.",
+          "gloss": "Cannot criticize you without the criticism becoming a form of praise",
+          "commentary": "The FYM's beauty corrupts the function of language: dispraise becomes praise, ill reports become blessings. The tongue that means to condemn finds itself admiring instead."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "Naming",
+            "name",
+            "blesses",
+            "ill report"
+          ],
+          "emotional_note": "The name as talisman: sanctifying whatever it touches",
+          "delivery_note": "'Naming thy name' -- the repetition is deliberate. The name is a magical word that transforms its context. 'Blesses an ill report' -- sacralizes scandal.",
+          "gloss": "Simply speaking your name converts a bad report into a blessing",
+          "commentary": "The FYM's name functions as a sacred word that consecrates any context. 'Blesses an ill report' -- the religious register (blessing) applied to scandal creates a deeply unsettling image of beauty as a secularized sacrament."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "mansion",
+            "vices"
+          ],
+          "emotional_note": "Architectural metaphor: vice housed in beauty's mansion",
+          "delivery_note": "The exclamation 'O!' carries genuine astonishment. 'Mansion' should evoke grandeur -- the FYM's beauty as a stately home.",
+          "gloss": "Oh, what a grand dwelling those vices have found",
+          "commentary": "'Mansion' -- a great house. Vices personified as tenants who have found the finest residence available. The architectural metaphor transforms beauty from a quality into a structure that houses its opposite."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "beauty's veil",
+            "cover",
+            "blot"
+          ],
+          "emotional_note": "Beauty as concealment: a veil over corruption",
+          "delivery_note": "'Beauty's veil' shifts the metaphor from mansion to fabric. The covering is deliberate -- beauty deployed as camouflage.",
+          "gloss": "Where beauty's covering hides every blemish",
+          "commentary": "'Beauty's veil' -- beauty as fabric that covers 'every blot.' The veil image implies deliberate concealment: beauty is not merely present but actively deployed to hide corruption. 'All things turns to fair' -- the grammatical irregularity ('turns' for 'turn') may be deliberate, suggesting the distorting power of beauty over even grammar."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "Take heed",
+            "dear heart",
+            "large privilege"
+          ],
+          "emotional_note": "The shift to warning: tenderness combined with urgency",
+          "delivery_note": "'Dear heart' preserves the love; 'take heed' introduces the warning. Both must be felt. 'Large privilege' -- beauty is a privilege that can be abused.",
+          "gloss": "Be careful, my darling, of this great advantage you possess",
+          "commentary": "'Take heed' -- imperative mood, the Speaker reclaiming moral authority. 'Dear heart' maintains tenderness. 'Large privilege' -- beauty as a social privilege, a license that could be revoked."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "hardest",
+            "knife",
+            "ill-us'd",
+            "edge"
+          ],
+          "emotional_note": "Epigrammatic warning: even the strongest tool dulls through misuse",
+          "delivery_note": "The final line is a proverb, delivered with quiet authority. The phallic undertone (knife/edge) should be felt but not overplayed.",
+          "gloss": "Even the hardest blade loses its sharpness when misused",
+          "commentary": "The knife metaphor: beauty as a cutting instrument that dulls through misuse. The phallic connotation (sexual attractiveness as a blade that loses its edge) has been widely noted. The warning is temporal: beauty is finite, and misuse accelerates its decline."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "beauty",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "corruption",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "moral_warning",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "appearance_vs_reality",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "time",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'How sweet and lovely dost thou make the shame'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "The Speaker adopts the role of moral counselor, observing the FYM's effect on the world and delivering a warning"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PARADOX",
+          "quotation": "How sweet and lovely dost thou make the shame",
+          "explanation": "Shame made sweet and lovely is a moral paradox: beauty transforms a negative moral quality into something attractive, violating the expected relationship between appearance and morality."
+        },
+        {
+          "line_number": 2,
+          "device_id": "SIMILE",
+          "quotation": "like a canker in the fragrant rose",
+          "explanation": "The canker-rose simile: corruption hidden within beauty. The canker (worm) eats the rose from inside while the fragrance persists. Neither quality cancels the other."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PARADOX",
+          "quotation": "Cannot dispraise, but in a kind of praise",
+          "explanation": "Dispraise that becomes praise -- the FYM's beauty corrupts the function of critical language, making it impossible to speak ill without speaking well."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PARADOX",
+          "quotation": "Naming thy name, blesses an ill report",
+          "explanation": "The FYM's name as talisman: it sanctifies ('blesses') even negative contexts ('ill report'). The name has a quasi-magical power to transform its surroundings."
+        },
+        {
+          "line_number": 9,
+          "device_id": "PERSONIFICATION",
+          "quotation": "what a mansion have those vices got / Which for their habitation chose out thee",
+          "explanation": "Vices personified as tenants who actively 'chose' the FYM as their dwelling. The vices have agency; the FYM is their chosen residence rather than their author."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "what a mansion have those vices got",
+          "explanation": "The FYM as a mansion: beauty as architectural grandeur that houses corruption in luxury. The scale of the 'mansion' reflects the scale of the beauty."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "beauty's veil doth cover every blot",
+          "explanation": "Beauty as a veil: a fabric that conceals stains. The image implies deliberate covering rather than innocent absence of fault."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "The hardest knife ill-us'd doth lose his edge",
+          "explanation": "Proverbial wisdom deployed as moral warning. The knife metaphor compresses the temporal argument: beauty, like a blade, dulls through misuse. Phallic connotation adds sexual dimension."
+        },
+        {
+          "line_number": 14,
+          "device_id": "METAPHOR",
+          "quotation": "The hardest knife ill-us'd doth lose his edge",
+          "explanation": "Beauty as knife: a tool with an 'edge' (sharpness, effectiveness) that degrades through improper use. The metaphor transforms beauty from a passive attribute into an active instrument."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The image chain (canker-rose -> mansion -> veil -> knife) drives the argument. Each image presents a different aspect of beauty's relationship to corruption."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The sonnet moves from observation through analysis to warning, structured as moral counsel. The couplet's epigrammatic advice is the rhetorical destination of the entire poem."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The beauty-corruption paradox is a master theme of the FYM sonnets, and this sonnet gives it its most sustained and vivid treatment."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 1,
+          "rationale": "The shift from the Speaker's self-abasement (88-92) to moral authority marks a significant dramatic development in the relationship."
+        }
+      ]
+    },
+    {
+      "number": 96,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "Others debate whether the FYM's faults stem from youth or wantonness, but either way his faults become graces. Like a base jewel on a queen's finger, his errors are transmuted by the setting. The Speaker warns: if a wolf could look like a lamb, think how much damage he could do -- and the FYM has that power. The couplet asks him not to use it, and shares its final two lines identically with Sonnet 36.",
+        "speaker_stance": "observational, increasingly alarmed, finally vulnerable",
+        "emotional_arc": "social observation -> alchemical transmutation of fault to grace -> menacing analogy of wolf and lamb -> personal plea and claim of mutual identity",
+        "dramatic_situation": "The Speaker reports public opinion about the FYM: some call his behavior youthful high spirits, others call it wantonness. Both camps end up admiring him. The Speaker then introduces a darker analogy: the FYM's beauty is like a wolf disguised as a lamb, capable of leading others astray. The final plea is personal: don't use that power, because your reputation is my reputation.",
+        "subtext": "The shared couplet with Sonnet 36 is one of the most discussed textual features of the sequence. Sonnet 36 argued for necessary separation ('Let me confess that we two must be twain'); 96 argues against the misuse of beauty's power. The identical couplet ('But do not so; I love thee in such sort, / As, thou being mine, mine is thy good report') creates an echo that spans sixty sonnets, linking the themes of separation and moral warning. The wolf-lamb analogy is the most threatening image the Speaker has yet used for the FYM: it acknowledges predatory potential that the earlier sonnets only implied.",
+        "analysis_text": "Sonnet 96 continues the moral observation of 95 but shifts from private address to public report. The opening, 'Some say thy fault is youth, some wantonness,' presents the FYM's behavior as a matter of public debate. The chiastic second line ('Some say thy grace is youth and gentle sport') mirrors the first, transforming 'fault' into 'grace' and 'wantonness' into 'gentle sport.' This verbal alchemy -- in which the same behavior is simultaneously fault and grace -- is the sonnet's subject. The first quatrain's conclusion, 'Thou mak'st faults graces that to thee resort,' identifies the FYM as the active agent of this transformation: faults become graces not in themselves but by association with him. The second quatrain introduces the jewel simile: a base jewel on a queen's finger is elevated by its setting. 'Errors that in thee are seen / To truths translated' is a striking formulation: 'translated' means both transformed and carried across (its Latin root), suggesting that the FYM's beauty functions as a medium of transubstantiation, converting the base metal of error into the gold of truth. The volta at line 9 introduces the sonnet's most dangerous image: 'How many lambs might the stern wolf betray, / If like a lamb he could his looks translate!' The wolf-in-sheep's-clothing is a biblical allusion (Matthew 7:15), and 'translate' echoes line 8, now applied to predatory deception rather than merely social charm. The FYM's beauty is reframed as a wolf's disguise -- his power to 'translate' his looks making him capable of betraying 'lambs' (innocent victims, potential lovers, perhaps the Speaker himself). 'How many gazers mightst thou lead away, / If thou wouldst use the strength of all thy state!' The conditional 'if' introduces uncertainty: is the FYM using his full power or restraining it? The couplet, 'But do not so; I love thee in such sort, / As, thou being mine, mine is thy good report,' is identical to the couplet of Sonnet 36. This deliberate repetition across sixty sonnets creates a structural echo that scholars have debated for centuries. In 36, the shared identity was a reason for separation; here, it is a reason for moral restraint. The claim 'thou being mine, mine is thy good report' asserts mutual identity: the FYM's reputation IS the Speaker's reputation. This makes the moral warning self-interested as well as altruistic, complicating the Speaker's motives in a characteristically Shakespearean way."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has been listening to others discuss the FYM's behavior -- perhaps at court, perhaps in literary circles. He turns from public report to private warning, moving from observer to counselor to supplicant.",
+        "character_note": "Begin as a reporter of public opinion, shift to the more personal jewel and wolf analogies, and end with the intimate plea of the couplet. The Speaker's authority is real but fragile: the couplet reveals that his concern is partly selfish.",
+        "fym_note": "The FYM at the peak of his social power: everyone discusses him, and even his faults are admired. The wolf analogy suggests the Speaker sees a predatory capacity that others miss or excuse.",
+        "dl_note": "Not named, but the FYM's 'wantonness' and 'sport' may involve her. The 'gazers' who might be led away are potential victims of the FYM's charm.",
+        "overall_arc": "Open with the ease of social observation, build through the increasingly alarming analogies (jewel, wolf), and close with the personal vulnerability of the shared couplet.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Some say thy fault is youth' -- begin as a report, almost gossip. The tone is conversational before it darkens."
+          },
+          {
+            "line": 4,
+            "note": "'Thou mak'st faults graces' -- the key formulation. The FYM is the alchemist who transmutes vice into virtue. Deliver with a mixture of admiration and unease."
+          },
+          {
+            "line": 9,
+            "note": "'How many lambs might the stern wolf betray' -- the most threatening image in the poem. The shift from jewels to predators should register as a dramatic escalation."
+          },
+          {
+            "line": 13,
+            "note": "'But do not so' -- the plea. Simple, direct, vulnerable. The imperative is a request, not a command. The Speaker knows he cannot command the FYM."
+          },
+          {
+            "line": 14,
+            "note": "'Thou being mine, mine is thy good report' -- the shared couplet with Sonnet 36. The echo should be felt: these words have been spoken before, in a different context, and their return here carries accumulated weight."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "Some",
+            "fault",
+            "youth",
+            "wantonness"
+          ],
+          "emotional_note": "Conversational report of public opinion",
+          "delivery_note": "'Some say...some' -- the anaphoric structure of public debate. Begin as a reporter, almost gossipy. The moral weight arrives later.",
+          "gloss": "Some people say your fault is simply being young, others say it is wildness",
+          "commentary": "The opening places the FYM's behavior in the public eye. 'Fault' and 'youth' are paired, then 'wantonness' escalates: youth is forgivable, wantonness less so. The Speaker lets both opinions stand without initially endorsing either."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "grace",
+            "youth",
+            "gentle sport"
+          ],
+          "emotional_note": "The same behavior reframed as virtue",
+          "delivery_note": "The chiastic mirror of line 1: 'fault' becomes 'grace,' 'wantonness' becomes 'gentle sport.' Deliver with the smooth confidence of someone quoting the FYM's defenders.",
+          "gloss": "Others say your charm is your youth and playful nature",
+          "commentary": "Chiastic reversal: line 1's 'fault/youth/wantonness' becomes line 2's 'grace/youth/gentle sport.' The same behavior is simultaneously condemned and praised, depending on the observer's enchantment."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "mak'st",
+            "faults",
+            "graces"
+          ],
+          "emotional_note": "The central transformation: the FYM as alchemist of morality",
+          "delivery_note": "'Thou mak'st faults graces' -- the line's core. The FYM actively transforms vice into virtue. Deliver with the precision of a philosophical observation.",
+          "gloss": "You transform faults into graces simply by associating with them",
+          "commentary": "'Mak'st faults graces' -- the FYM as moral alchemist. 'That to thee resort' -- faults come to him like courtiers to a king, and he elevates them by association. The language of alchemy (transformation, translation) pervades the poem."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "finger",
+            "throned queen"
+          ],
+          "emotional_note": "The jewel simile: worth determined by setting",
+          "delivery_note": "'Throned queen' -- the image of majesty. The simile should feel grand before the word 'basest' introduces its counterpoint.",
+          "gloss": "Just as on the finger of an enthroned queen",
+          "commentary": "The simile: a base jewel elevated by its royal setting. 'Throned queen' provides the maximum context of dignity, making the 'basest jewel' seem precious by association."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "truths",
+            "translated",
+            "true",
+            "deem'd"
+          ],
+          "emotional_note": "Alchemical language: errors transmuted into truths",
+          "delivery_note": "'Translated' carries its full weight: transformed, carried across, transmuted. The alchemical process is linguistic as well as social.",
+          "gloss": "Are transformed into truths, and accepted as genuine",
+          "commentary": "'Translated' -- from Latin translatus (carried across). Errors 'translated' to truths: the FYM's beauty functions as a medium of transubstantiation. 'Deem'd' -- accepted as true by public opinion, whether or not they are."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "lambs",
+            "stern wolf",
+            "betray"
+          ],
+          "emotional_note": "The most threatening image: the FYM as wolf disguised as lamb",
+          "delivery_note": "The shift from jewels to predators is dramatic. 'Stern wolf' should carry menace. 'Betray' -- not merely deceive but lead to destruction.",
+          "gloss": "How many innocent victims might a fierce wolf destroy",
+          "commentary": "The wolf-lamb analogy (Matthew 7:15) is the most dangerous image the Speaker has used for the FYM. 'Stern wolf' -- fierce, pitiless. The conditional ('might...if') maintains ambiguity about whether the FYM is actually predatory."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "lamb",
+            "looks",
+            "translate"
+          ],
+          "emotional_note": "The FYM's beauty as disguise: translation as deception",
+          "delivery_note": "'Translate' echoes line 8 but now carries predatory meaning. The same word shifts from social alchemy to dangerous disguise.",
+          "gloss": "If he could make himself look like a lamb",
+          "commentary": "'Translate' -- the same word from line 8 now means not social transformation but predatory disguise. The verbal echo forces the reader to reconsider the earlier 'translation' of errors into truths as potentially sinister."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "gazers",
+            "lead away"
+          ],
+          "emotional_note": "The FYM's victims: those who gaze at his beauty and are led astray",
+          "delivery_note": "'Gazers' -- those who look at the FYM, caught by his beauty. 'Lead away' echoes the biblical shepherd who leads sheep astray.",
+          "gloss": "How many admirers might you lead into error",
+          "commentary": "'Gazers' -- the FYM's audience, those caught in the spell of his beauty. 'Lead away' carries biblical resonance (leading sheep astray, Matthew 18:12-13) and anticipates the Pied Piper quality of dangerous beauty."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "do not so",
+            "love",
+            "such sort"
+          ],
+          "emotional_note": "The personal plea: don't use your power because we are bound together",
+          "delivery_note": "'But do not so' -- the simplest possible imperative. Deliver as a request, not a command. The Speaker has no power to compel.",
+          "gloss": "But please don't do that; I love you in such a way",
+          "commentary": "The couplet is identical to Sonnet 36. In 36 the context was separation; here it is moral restraint. 'I love thee in such sort' -- the Speaker's love is the basis for the plea, making the warning self-interested as well as altruistic."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "thou being mine",
+            "mine",
+            "good report"
+          ],
+          "emotional_note": "Shared identity: the FYM's reputation is the Speaker's reputation",
+          "delivery_note": "The repeated 'mine' creates a possessive chain: thou being mine, mine is thy good report. The Speaker's identity is staked on the FYM's behavior.",
+          "gloss": "That since you belong to me, your good reputation is also mine",
+          "commentary": "The claim of mutual identity: 'thou being mine, mine is thy good report.' The FYM's reputation belongs to the Speaker because they are one. This makes the moral warning pragmatic as well as loving. The shared couplet with 36 creates a structural echo across sixty sonnets."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "beauty",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "corruption",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "moral_warning",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "appearance_vs_reality",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "identity",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'Some say thy fault is youth'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "The Speaker as moral observer and counselor, culminating in the personal claim of shared identity in the couplet"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "ANAPHORA",
+          "quotation": "Some say thy fault is youth, some wantonness",
+          "explanation": "The repeated 'Some say...some' structure presents the FYM's behavior as a matter of public debate, with the Speaker initially positioned as reporter rather than judge."
+        },
+        {
+          "line_number": 2,
+          "device_id": "CHIASMUS",
+          "quotation": "Some say thy grace is youth and gentle sport",
+          "explanation": "Chiastic reversal of line 1: fault/wantonness becomes grace/gentle sport. The same behavior receives opposite moral readings, demonstrating the instability of judgment before beauty."
+        },
+        {
+          "line_number": 4,
+          "device_id": "PARADOX",
+          "quotation": "Thou mak'st faults graces that to thee resort",
+          "explanation": "Faults becoming graces is a moral paradox: the FYM's beauty performs a kind of alchemy on vice, transmuting base metal into gold through the power of association."
+        },
+        {
+          "line_number": 5,
+          "device_id": "SIMILE",
+          "quotation": "As on the finger of a throned queen / The basest jewel will be well esteem'd",
+          "explanation": "The jewel simile: a worthless stone elevated by its royal setting. Value is determined by context rather than intrinsic worth -- a deeply unsettling claim about the nature of moral judgment."
+        },
+        {
+          "line_number": 8,
+          "device_id": "METAPHOR",
+          "quotation": "To truths translated, and for true things deem'd",
+          "explanation": "'Translated' as alchemical transformation: errors carried across into truths. The metaphor of translation (Latin translatus) fuses linguistic and chemical change."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "How many lambs might the stern wolf betray",
+          "explanation": "The wolf-lamb metaphor (Matthew 7:15) is the most threatening image in the estrangement sequence: the FYM as potential predator whose beauty disguises destructive intent."
+        },
+        {
+          "line_number": 10,
+          "device_id": "IRONY",
+          "quotation": "If like a lamb he could his looks translate",
+          "explanation": "'Translate' from line 8 now carries sinister meaning: the same transformative power that makes errors look like truths makes a wolf look like a lamb. The verbal echo reframes the earlier alchemy as predation."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ALLUSION",
+          "quotation": "But do not so; I love thee in such sort, / As, thou being mine, mine is thy good report",
+          "explanation": "The couplet is identical to Sonnet 36's couplet. This deliberate repetition across sixty sonnets creates a structural echo linking themes of separation (36) and moral warning (96). Scholars debate whether this indicates an unrevised draft or a deliberate compositional strategy."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "thou being mine, mine is thy good report",
+          "explanation": "The possessive chain (thou being mine / mine is thy good report) asserts that shared identity makes the FYM's reputation the Speaker's own -- simultaneously a claim of love and a confession of self-interest."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet moves from public report through analogy to personal plea, structured as a persuasive argument. Each image (jewel, wolf) is a step in the argumentative escalation."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The image chain (jewel on queen's finger -> wolf in lamb's clothing -> gazers led away) escalates from ornamental to predatory, tracking the poem's increasing alarm."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 2,
+          "rationale": "The shared couplet with Sonnet 36 is the sonnet's most distinctive feature, creating a structural and thematic echo across sixty poems that scholars have debated for centuries."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 1,
+          "rationale": "The shift from social observation to personal vulnerability in the couplet enacts a dramatic movement from public to private, from moral authority to exposed need."
+        }
+      ]
+    }
+  ]
+}

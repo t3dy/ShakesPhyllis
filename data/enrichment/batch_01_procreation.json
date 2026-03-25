@@ -1,0 +1,320 @@
+{
+  "batch": "01_procreation",
+  "description": "Procreation sonnets opening + pivot to immortality through verse",
+  "sonnets": [
+    {
+      "number": 1,
+      "analysis": {
+        "volta_line": 5,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker opens the entire sequence by arguing that beautiful creatures owe the world offspring, then pivots to accuse the FYM of narcissistic self-consumption.",
+        "speaker_stance": "admonishing, paternal",
+        "emotional_arc": "universal principle -> personal accusation -> ultimatum",
+        "dramatic_situation": "The Speaker addresses the FYM for the first time, establishing the central argument of the procreation sonnets: beauty must reproduce or be guilty of self-murder.",
+        "subtext": "The intensity of the argument betrays an emotional investment that exceeds mere friendly counsel. The Speaker is already captivated.",
+        "analysis_text": "Sonnet 1 establishes the sequence's opening gambit with an argument from natural law: 'From fairest creatures we desire increase.' The first quatrain presents a universal principle — beauty's rose must propagate or die. But at line 5, the volta turns sharply personal: 'But thou, contracted to thine own bright eyes.' The FYM is no longer a general case but a specific, accused person. The economic metaphor — 'contracted,' 'feed'st,' 'famine,' 'abundance' — introduces the commercial language that will pervade the procreation sonnets: beauty as capital that must be invested, not hoarded. The second quatrain's paradoxes (famine/abundance, foe/self, cruel/sweet) dramatize the FYM's narcissism as a kind of economic perversion. The third quatrain shifts to natural imagery — 'bud,' 'spring,' 'content' (with the pun on 'content' as both satisfaction and what is contained) — before the devastating couplet reframes the FYM as a cannibal: 'this glutton be, / To eat the world's due.' The sonnet moves from gentle philosophical opening to a final image of shocking consumption."
+      },
+      "directing": {
+        "scene_setting": "A first encounter, or the opening of a sustained campaign of persuasion. The Speaker has been commissioned — or has taken it upon himself — to convince a beautiful young nobleman to marry.",
+        "character_note": "The Speaker begins with the authority of a universal truth, but the shift at line 5 reveals personal investment. He is drawn to the very beauty he urges the FYM to share.",
+        "fym_note": "If we cast Southampton: a 20-year-old earl, vain, aware of his beauty, resisting his guardian Burghley's marriage plans. The Speaker's admonishment is also flattery.",
+        "dl_note": "Absent. The Dark Lady has not yet entered the story.",
+        "overall_arc": "Begin warmly philosophical, grow more pointed and personal through Q2, build rhetorical momentum in Q3, land the couplet as a sharp challenge.",
+        "key_moments": [
+          {"line": 1, "note": "Open with weight and warmth — this is a philosophical truth, not an accusation. Yet."},
+          {"line": 5, "note": "The turn: 'But thou' — the first time the Speaker addresses the FYM directly. Shift from general to intimate."},
+          {"line": 8, "note": "'Thyself thy foe' — the paradox lands hardest here. Slight pause before 'too cruel.'"},
+          {"line": 13, "note": "'Pity the world' — imperative mood. The gloves come off. This is a command, not a suggestion."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["fairest", "desire", "increase"], "emotional_note": "Warm, expansive — a statement of natural law", "delivery_note": "Measured pace, open tone. This is the first line of 154 sonnets — give it room.", "gloss": "We want the most beautiful creatures to reproduce", "commentary": "The opening word 'From' immediately establishes an argument from nature. 'Increase' means offspring (OED 1a). The line is a thesis statement for sonnets 1-17."},
+        {"line_number": 2, "emphasis_words": ["beauty's", "rose", "never", "die"], "emotional_note": "Tender, slightly anxious", "delivery_note": "Gentle emphasis on 'rose' — it's the first image of the sequence and will recur.", "gloss": "So that beauty's flower might live forever", "commentary": "'Beauty's rose' — the rose as beauty's emblem, already containing within it the cycle of bloom and decay that will haunt the entire sequence."},
+        {"line_number": 5, "emphasis_words": ["thou", "contracted", "own"], "emotional_note": "Sharpening — the accusation begins", "delivery_note": "Stress 'thou' — this is the volta. The universal becomes personal.", "gloss": "But you, bound only to your own reflection", "commentary": "'Contracted' puns on legal contract (marriage contract the FYM refuses) and physical contraction (self-enclosure). 'Thine own bright eyes' — narcissism, looking only at oneself."},
+        {"line_number": 6, "emphasis_words": ["feed'st", "self-substantial"], "emotional_note": "Accusatory, vivid", "delivery_note": "The compound 'self-substantial' should be spoken deliberately — it's a coinage that forces the listener to parse it.", "gloss": "You fuel your own flame with your own substance — consuming yourself", "commentary": "The candle image: the FYM burns his own beauty as fuel. 'Self-substantial' is Shakespeare's coinage — self-derived, self-consuming."},
+        {"line_number": 7, "emphasis_words": ["famine", "abundance"], "emotional_note": "Ironic, incredulous", "delivery_note": "Play the antithesis: famine against abundance. The absurdity of the FYM's waste.", "gloss": "Creating scarcity where there should be plenty", "commentary": "Economic metaphor: the FYM's beauty is abundance, but by hoarding it he creates famine. The paradox is economic and moral."},
+        {"line_number": 8, "emphasis_words": ["Thyself", "foe", "sweet", "cruel"], "emotional_note": "Pained, tender underneath the accusation", "delivery_note": "Four stressed syllables: 'Thyself thy foe.' Then soften on 'sweet self' before sharpening on 'too cruel.'", "gloss": "You are your own enemy, too cruel to your own sweet self", "commentary": "The line's four paradoxes (self/foe, sweet/cruel) compress the sonnet's argument into a single line. The iambic pentameter breaks down into spondees."},
+        {"line_number": 11, "emphasis_words": ["bud", "buriest", "content"], "emotional_note": "Frustrated tenderness", "delivery_note": "The alliterative b's (bud, buriest) give percussive force. 'Content' is a pun — stress it.", "gloss": "You bury what you contain within your own unopened bud", "commentary": "'Content' puns: (1) what is contained, the potential offspring; (2) contentment, satisfaction. By burying his content he buries both."},
+        {"line_number": 13, "emphasis_words": ["Pity", "world", "glutton"], "emotional_note": "Commanding, stern", "delivery_note": "Imperative: 'Pity the world.' Pause before 'or else.' The couplet is an ultimatum.", "gloss": "Take pity on the world — or be this glutton", "commentary": "The couplet pivots on 'or else' — the logical structure of an ultimatum. 'Glutton' transforms the FYM from beautiful rose to devouring appetite."},
+        {"line_number": 14, "emphasis_words": ["eat", "world's due", "grave"], "emotional_note": "Dark, final", "delivery_note": "The final image is cannibalistic. Let 'eat' and 'grave' carry their weight. End with gravity.", "gloss": "To devour what the world deserves, consumed between death and your selfishness", "commentary": "'The world's due' — beauty as a debt owed to the world. 'By the grave and thee' — the FYM is aligned with death itself. The sequence opens by equating narcissism with mortality."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "narcissism", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address beginning at line 5: 'But thou, contracted to thine own bright eyes'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "First-person plural 'we desire' in line 1; the Speaker positions himself as spokesman for the world's claim on the FYM's beauty"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PERSONIFICATION", "quotation": "fairest creatures we desire increase", "explanation": "Beauty personified as a force that creates obligations — 'we desire' implies a natural law demanding reproduction."},
+        {"line_number": 2, "device_id": "METAPHOR", "quotation": "beauty's rose", "explanation": "Beauty as a rose — the central emblem of the sequence. Implies bloom, fragrance, and inevitable decay."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "contracted to thine own bright eyes", "explanation": "'Contracted' means both (1) legally bound (as in a marriage contract — the one he refuses) and (2) physically shrunk, self-enclosed."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "Feed'st thy light's flame with self-substantial fuel", "explanation": "The FYM as a candle consuming itself — beauty as flame, narcissism as the fuel that destroys it."},
+        {"line_number": 7, "device_id": "ANTITHESIS", "quotation": "Making a famine where abundance lies", "explanation": "Famine/abundance — the paradox of beauty hoarded becoming beauty wasted."},
+        {"line_number": 7, "device_id": "PARADOX", "quotation": "Making a famine where abundance lies", "explanation": "The logical impossibility of abundance producing famine — but narcissism achieves it."},
+        {"line_number": 8, "device_id": "ANTITHESIS", "quotation": "Thyself thy foe, to thy sweet self too cruel", "explanation": "Self/foe and sweet/cruel — four-way antithesis compressed into one line."},
+        {"line_number": 11, "device_id": "PUN", "quotation": "buriest thy content", "explanation": "'Content' = (1) what is contained (seed, potential child) and (2) contentment/happiness. He buries both."},
+        {"line_number": 11, "device_id": "METAPHOR", "quotation": "Within thine own bud buriest thy content", "explanation": "The FYM as an unopened bud that will never bloom — the rose image from line 2 transformed into something entombed."},
+        {"line_number": 12, "device_id": "PARADOX", "quotation": "tender churl mak'st waste in niggarding", "explanation": "'Tender churl' is an oxymoron — gentle miser. Wasting through hoarding is the central paradox."},
+        {"line_number": 14, "device_id": "HYPERBOLE", "quotation": "To eat the world's due, by the grave and thee", "explanation": "The FYM as cannibal of the world's beauty — the image escalates from miser to devourer."},
+        {"line_number": 13, "device_id": "VOLTA", "quotation": "Pity the world, or else this glutton be", "explanation": "The couplet turn: from description to command. The imperative mood arrives for the first time."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is an argument — from thesis (Q1) through accusation (Q2-Q3) to ultimatum (C). Its persuasive structure is primary."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The shift from 'we' to 'thou' at line 5 is a dramatic event — the Speaker drops the mask of universality and addresses the FYM directly."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The image chain (rose → candle → bud → glutton) drives the argument. Each quatrain introduces a new figure for narcissistic self-consumption."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Introduces the sequence's master themes: beauty, time, procreation, obligation."}
+      ]
+    },
+    {
+      "number": 3,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker commands the FYM to look in the mirror and see the face that should father another, then introduces the FYM's mother as proof that beauty reproduces through generations — before a devastating couplet that equates bachelorhood with extinction.",
+        "speaker_stance": "intimate, increasingly urgent",
+        "emotional_arc": "imperative command -> tender maternal imagery -> brutal ultimatum",
+        "dramatic_situation": "The Speaker continues the procreation argument but makes it more personal by invoking the FYM's mother. The mirror becomes a window to mortality.",
+        "subtext": "The agricultural and sexual language ('unear'd womb,' 'tillage,' 'husbandry') reveals the Speaker's preoccupation with the FYM's body and its reproductive potential.",
+        "analysis_text": "Sonnet 3 opens with the most direct command yet: 'Look in thy glass.' The mirror is simultaneously vanity's instrument and mortality's prophet — the face the FYM sees is the face that will age. The first quatrain's argument is pragmatic: that face should 'form another.' But the sexual undercurrent surfaces violently in Q2: 'unear'd womb,' 'tillage,' 'husbandry' — agricultural metaphors for sex that are earthy and frank. The volta at line 9 introduces the FYM's mother, transforming the mirror from an instrument of self-regard into a generational window. She sees in her son 'the lovely April of her prime' — her own youth preserved. The temporal movement is exquisite: present (look now) → past (mother's prime) → future (windows of thine age). The couplet's brutality is shocking after Q3's tenderness: 'Die single and thine image dies with thee.' The monosyllabic finality of 'Die single' contrasts with Q3's flowing maternal warmth."
+      },
+      "directing": {
+        "scene_setting": "The Speaker catches the FYM gazing into a mirror — or holds one up to him. The setting is intimate, possibly a dressing room or private chamber.",
+        "character_note": "The Speaker's tone shifts from commanding elder to someone who understands the FYM's family. He knows the mother. This implies a household relationship.",
+        "fym_note": "The FYM's vanity is here redirected — the mirror should show not self-love but responsibility. If Southampton: his mother Mary was beautiful and had married three times by the time Shakespeare knew her.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with imperative authority (Look!), become earthy and provocative in Q2, gentle and tender in Q3 (the mother), then snap shut with the couplet's death sentence.",
+        "key_moments": [
+          {"line": 1, "note": "A command: 'Look in thy glass.' Point at the mirror. Make it physical."},
+          {"line": 5, "note": "'Unear'd womb' — the sexual frankness should register. Don't shy from it."},
+          {"line": 9, "note": "The tonal shift: suddenly warm, familial. 'Thou art thy mother's glass' — she lives in you."},
+          {"line": 14, "note": "'Die single' — two hammer-blows. Let them land. This is the most brutal line in the procreation sequence so far."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Look", "glass", "face"], "emotional_note": "Commanding, direct", "delivery_note": "Imperative — this is an order. 'Look' is stressed, trochaic inversion.", "gloss": "Look in your mirror and tell the face you see", "commentary": "'Glass' = mirror. The sonnet sequence will return to mirrors repeatedly (62, 77, 103). Here it is literal."},
+        {"line_number": 5, "emphasis_words": ["she", "fair", "unear'd"], "emotional_note": "Provocative, earthy", "delivery_note": "Let the sexual metaphor register — 'unear'd' means unplowed. The FYM's refusal to marry is a refusal to plow.", "gloss": "Where is the woman so beautiful that her virgin womb rejects your husbandry?", "commentary": "'Unear'd' = unplowed (ears of corn). 'Husbandry' puns on farming and being a husband."},
+        {"line_number": 9, "emphasis_words": ["mother's", "glass"], "emotional_note": "Tender, revelatory", "delivery_note": "Warm shift — the mirror metaphor transforms. You are your mother's mirror. Gentleness.", "gloss": "You are your mother's mirror, and she sees in you", "commentary": "The mirror reverses: now the FYM is the glass, and his mother is the viewer who sees her own youth returned."},
+        {"line_number": 14, "emphasis_words": ["Die", "single", "dies"], "emotional_note": "Devastating, final", "delivery_note": "Monosyllabic: 'Die single.' Pause. 'And thine image dies with thee.' Let death echo.", "gloss": "Die unmarried and your likeness dies with you", "commentary": "The couplet's brutality after Q3's tenderness is the sonnet's dramatic strategy. The threat is existential: not just death but erasure."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "narcissism", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"},
+        {"theme": "motherhood", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address throughout: 'thy glass,' 'thou viewest,' 'thou not renewest'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The imperative voice implies the Speaker's presence and authority"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "APOSTROPHE", "quotation": "Look in thy glass and tell the face thou viewest", "explanation": "Direct address — imperative command to the FYM."},
+        {"line_number": 5, "device_id": "METAPHOR", "quotation": "unear'd womb / Disdains the tillage of thy husbandry", "explanation": "Agricultural metaphor for sexual reproduction. Womb as unplowed field, marriage as farming."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "husbandry", "explanation": "'Husbandry' = (1) farming/cultivation and (2) being a husband. The pun makes marriage and agriculture identical."},
+        {"line_number": 9, "device_id": "CONCEIT", "quotation": "Thou art thy mother's glass and she in thee / Calls back the lovely April of her prime", "explanation": "The mirror conceit reversed: the FYM is the mirror in which his mother sees her own youth. Generations as reflections."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Die single and thine image dies with thee", "explanation": "Life/death, single/image — the couplet's monosyllabic force enacts the extinction it describes."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The sonnet is a dramatic speech — imperative mood, tonal shifts, a devastating final line delivered as a death sentence."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The mirror conceit transforms across the sonnet: mirror of vanity (Q1) → agricultural field (Q2) → generational window (Q3) → death (C)."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "Argument by analogy: if your mother's beauty survived in you, your beauty can survive in a child."}
+      ]
+    },
+    {
+      "number": 12,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker catalogues images of time's destruction in nature — clock, night, violet, silver hair, bare trees, harvested grain — then turns to the FYM: you too must go. Only breeding can defy Time's scythe.",
+        "speaker_stance": "meditative, building to urgency",
+        "emotional_arc": "contemplative observation -> personal anxiety -> desperate counsel",
+        "dramatic_situation": "The Speaker has been watching time pass — counting clocks, observing seasonal decay — and cannot stop himself from thinking of the FYM's beauty as equally mortal.",
+        "subtext": "The catalogue of decay is also a catalogue of beauty: violet, sable curls, lofty trees. The Speaker loves what he mourns. His counsel to breed is also a confession of helplessness.",
+        "analysis_text": "Sonnet 12 is the procreation sequence's great memento mori. The When/When/When structure of the first eight lines builds an irresistible wave of temporal anxiety before the volta at line 9 crashes it onto the FYM: 'Then of thy beauty do I question make.' The catalogue moves from the mechanical (clock) to the cosmic (day/night) to the organic (violet, curls, trees, grain), each image a miniature narrative of beauty destroyed. The harvest image in lines 7-8 is the most complex: summer's green 'girded up in sheaves, / Borne on the bier' — the grain sheaf becomes a corpse on a funeral bier, the 'white and bristly beard' simultaneously describing the dried grain and an old man's face. The couplet introduces Time personified with his scythe — the first appearance of this figure who will become the sequence's great antagonist. The final word, 'hence,' echoes with finality."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone, hearing a clock, looking out a window at late autumn. The meditation is private before it becomes address.",
+        "character_note": "This is the Speaker at his most Hamlet-like — solitary, philosophical, unable to stop his mind from running toward death. The shift to addressing the FYM feels involuntary.",
+        "fym_note": "The FYM is not present for Q1-Q2. He enters the Speaker's thought at line 9 as the inevitable conclusion of every image of decay.",
+        "dl_note": "Absent.",
+        "overall_arc": "Slow, meditative accumulation through Q1-Q2. The rhythm should feel like a clock. Line 9 breaks the reverie. The couplet should arrive with urgency — 'Save breed' is the only defense.",
+        "key_moments": [
+          {"line": 1, "note": "The clock is literal. Tick. The iambic pentameter IS the clock counting."},
+          {"line": 4, "note": "'Sable curls, all silvered o'er with white' — the FYM's hair? Or a general image? The ambiguity is productive."},
+          {"line": 8, "note": "'Borne on the bier' — the harvest becomes a funeral. This is the pivot image. Slow it down."},
+          {"line": 9, "note": "'Then' — logical consequence. Everything before leads here. The FYM's beauty is subject to the same law."},
+          {"line": 13, "note": "Time's scythe — the personification is terrifying. The scythe harvests the grain of line 7 and the FYM alike."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["count", "clock", "tells", "time"], "emotional_note": "Measured, deliberate — let the line tick", "delivery_note": "Iambic regularity here IS the clock. Don't rush. Each stress is a tick.", "gloss": "When I count the clock's strokes marking time", "commentary": "The monosyllables and regular iambs enact the clock's mechanism. 'Tells' = counts (as in a bank teller)."},
+        {"line_number": 4, "emphasis_words": ["sable", "silvered", "white"], "emotional_note": "Wistful, beautiful even in decay", "delivery_note": "The color contrast: sable (black) and silver/white. Linger on the image.", "gloss": "And dark curls turned silver-white with age", "commentary": "'Sable curls' may evoke the FYM specifically — dark hair that will silver. The image is tender."},
+        {"line_number": 8, "emphasis_words": ["bier", "white", "bristly", "beard"], "emotional_note": "The death image arrives — solemn", "delivery_note": "The grain sheaf IS a corpse. 'Bier' transforms the harvest into a funeral procession.", "gloss": "Carried on a funeral bier with white, bristly stubble", "commentary": "The double image: grain sheaf/corpse, bristly beard of grain/old man's face. 'Bier' is the devastating word."},
+        {"line_number": 9, "emphasis_words": ["thy", "beauty", "question"], "emotional_note": "The private meditation becomes personal address", "delivery_note": "Stress 'thy' — the volta. Everything has been building to this pronoun.", "gloss": "Then I wonder anxiously about your beauty", "commentary": "'Question make' = feel anxiety about. The philosophical meditation becomes personal fear."},
+        {"line_number": 13, "emphasis_words": ["nothing", "Time's", "scythe", "defence"], "emotional_note": "Desperate, defiant", "delivery_note": "Time personified with his scythe — speak the word 'scythe' with the cutting sound it contains.", "gloss": "Nothing can defend against Time's scythe", "commentary": "Time's first personification in the sequence — with his scythe, harvesting the beauty catalogued in Q1-Q2."},
+        {"line_number": 14, "emphasis_words": ["Save", "breed", "brave"], "emotional_note": "Urgent, the only hope", "delivery_note": "'Save breed' — two stressed syllables, the answer to everything. Then 'brave him' — defiance.", "gloss": "Except offspring, to defy him when he takes you away", "commentary": "'Breed' is both verb and noun — the act and the result. 'Brave' = defy, face boldly. The alliterative b (breed, brave) gives force."}
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "PRIMARY"},
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "nature", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thy beauty' at line 9; 'thee hence' at line 14"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'When I do count' — the Speaker is present as observer and meditator"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ALLITERATION", "quotation": "count the clock that tells the time", "explanation": "The hard c/t consonants and monosyllables enact the clock's ticking."},
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "the violet past prime", "explanation": "The violet stands for beauty that has passed its peak — a miniature narrative of the FYM's fate."},
+        {"line_number": 8, "device_id": "PUN", "quotation": "Borne on the bier with white and bristly beard", "explanation": "Double image: grain sheaf carried to barn / corpse carried to grave. 'Bier' bridges both. 'Beard' = grain bristles and old man's face."},
+        {"line_number": 8, "device_id": "CONCEIT", "quotation": "summer's green all girded up in sheaves, / Borne on the bier", "explanation": "The extended harvest-as-funeral conceit across lines 7-8 is the sonnet's most complex image."},
+        {"line_number": 13, "device_id": "PERSONIFICATION", "quotation": "Time's scythe", "explanation": "Time as Grim Reaper — the first appearance of the sequence's great antagonist."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "brave him when he takes thee hence", "explanation": "Offspring as a warrior standing against Time — 'brave' as verb means to defy."},
+        {"line_number": 1, "device_id": "ANAPHORA", "quotation": "When I do count... When I behold... When lofty trees", "explanation": "The triple 'When' (lines 1, 3, 5) builds a cumulative wave of temporal observation."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The sonnet IS its catalogue of images. Each quatrain adds layers to the imagery of decay: mechanical → organic → human."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "The iambic regularity of line 1 (clock-ticking) and the rhythmic shift at the volta are essential to how the sonnet works."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The shift from solitary meditation to direct address at line 9 is a dramatic event."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Time vs. beauty — the sequence's master theme receives its first sustained treatment."}
+      ]
+    },
+    {
+      "number": 17,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker argues that future readers won't believe his praise of the FYM, dismissing it as poetic exaggeration — unless a child exists to prove the descriptions true. The couplet unites both solutions: 'You should live twice — in it, and in my rhyme.'",
+        "speaker_stance": "self-deprecating, strategic",
+        "emotional_arc": "false modesty -> anxiety about posterity -> triumphant synthesis",
+        "dramatic_situation": "The Speaker is reaching the end of the procreation argument and beginning to merge it with the claim of poetic immortality. This is the hinge sonnet — the last of the procreation sequence and the bridge to Sonnet 18.",
+        "subtext": "The false modesty conceals genuine confidence. The Speaker knows his verse IS sufficient — the child is the backup plan, not the primary one. By Sonnet 18, poetry alone will be enough.",
+        "analysis_text": "Sonnet 17 is the pivot of the entire sequence — the last procreation sonnet and the launchpad for the immortality-through-verse argument that begins in Sonnet 18. The Speaker feigns anxiety that his praise will be disbelieved: 'Who will believe my verse in time to come?' But the self-deprecation is strategic. Q1 compares the poem to a tomb that 'hides your life, and shows not half your parts' — an image that makes poetry sound inadequate but also, slyly, monumental. Q2 imagines future readers scoffing: 'This poet lies.' The word 'lies' foreshadows the sequence's later obsession with truth and falsehood. The volta at line 9 imagines his 'papers, yellow'd with their age' — a startlingly material image of the physical poem decaying. The couplet resolves both anxieties with 'You should live twice — in it, and in my rhyme.' The 'it' is the child; the 'rhyme' is the verse. The dash between them is the bridge between the procreation sequence and the immortality sequence. Sonnet 18 will drop the child and bet everything on poetry."
+      },
+      "directing": {
+        "scene_setting": "The Speaker is writing — or reflecting on what he has written. This is a meta-sonnet about the limits and powers of poetry itself.",
+        "character_note": "The Speaker's false modesty is a rhetorical strategy. He's building to the great claim of Sonnet 18 by first pretending to doubt it. The self-deprecation is also seduction — 'my verse can't capture you' is a compliment.",
+        "fym_note": "The FYM is both subject and audience. The compliment is that he exceeds what poetry can describe.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with genuine-sounding self-doubt, deepen the anxiety in Q2-Q3, then resolve with quiet confidence in the couplet. The shift from doubt to resolution should feel earned.",
+        "key_moments": [
+          {"line": 1, "note": "The opening question sounds humble — but 'Who will believe' also means 'everyone should believe.' Play both."},
+          {"line": 7, "note": "'This poet lies' — future readers' verdict. Deliver it as if quoting a hostile critic."},
+          {"line": 13, "note": "'But were some child of yours' — the child enters as rescue. The procreation argument returns one last time."},
+          {"line": 14, "note": "'You should live twice — in it, and in my rhyme.' The dash is the bridge. Two forms of immortality, unified."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Who", "believe", "verse", "time"], "emotional_note": "Rhetorical question — false modesty masking confidence", "delivery_note": "Open with apparent vulnerability. The question is genuine on the surface.", "gloss": "Who will believe my poetry in the future?", "commentary": "The opening question launches the sequence's meta-poetic turn. 'Time to come' = posterity. The Speaker addresses future readers for the first time."},
+        {"line_number": 7, "emphasis_words": ["poet", "lies"], "emotional_note": "Imagining criticism — performative anxiety", "delivery_note": "Voice the future reader: 'This poet lies.' It should sting.", "gloss": "The future would say: this poet is exaggerating", "commentary": "'Lies' = exaggerates, but also foreshadows the Dark Lady sonnets' obsession with lying (138, 152)."},
+        {"line_number": 14, "emphasis_words": ["live", "twice", "it", "rhyme"], "emotional_note": "Quietly triumphant — the synthesis", "delivery_note": "The dash is the key. Pause on it. Two immortalities: child and poem. This is the bridge to Sonnet 18.", "gloss": "You would live twice — in your child and in my verse", "commentary": "The couplet unites the two arguments of the sequence: procreation (sonnets 1-16) and poetry (sonnets 18+). This is the hinge."}
+      ],
+      "themes": [
+        {"theme": "procreation", "prominence": "PRIMARY"},
+        {"theme": "immortality", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "truth_vs_art", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Your most high deserts,' 'your eyes,' 'your graces,' 'some child of yours'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My verse,' 'my papers' — the Speaker is unusually present as writer, not just lover"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "IRONY", "quotation": "Who will believe my verse in time to come", "explanation": "False modesty: the Speaker pretends to doubt his verse while writing one of the most famous sequences in English literature."},
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "but as a tomb / Which hides your life", "explanation": "The poem as tomb — preserving but also concealing. A dark image for a supposed vessel of immortality."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "in fresh numbers number all your graces", "explanation": "'Numbers' = (1) verses/poetry and (2) counting. The poet counts graces in verse-numbers."},
+        {"line_number": 14, "device_id": "CHIASMUS", "quotation": "You should live twice,--in it, and in my rhyme", "explanation": "The structure mirrors the dual immortality: child (physical) / rhyme (verbal) — balanced across the dash."}
+      ],
+      "modes": [
+        {"mode_id": "STRUCTURAL", "priority": 3, "rationale": "Sonnet 17 is the structural hinge of the entire sequence — last procreation sonnet, bridge to immortality-through-verse."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The false modesty topos is the dominant rhetorical strategy — undermining itself to build toward the triumphant claim."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The anxiety about posterity echoes Horace (Odes III.30: 'I have built a monument more lasting than bronze') and Ovid (Metamorphoses XV: 'my work will live')."}
+      ]
+    },
+    {
+      "number": 18,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker compares the FYM to a summer's day, finds summer inferior (too hot, too short, too changeable), then declares that the FYM's 'eternal summer' will never fade because poetry will preserve it forever.",
+        "speaker_stance": "confident, soaring",
+        "emotional_arc": "playful question -> catalogue of summer's flaws -> triumphant declaration -> immortal couplet",
+        "dramatic_situation": "The procreation argument is over. The Speaker has abandoned the child as insurance policy and bets everything on poetry. This is the declaration of faith in verse that the entire sequence was building toward.",
+        "subtext": "The comparison to a summer's day seems like a compliment but actually works by denigrating summer. The FYM is praised by subtraction — he is what summer fails to be. There is also an audacious self-assertion: the Speaker's verse is the instrument of immortality, making the poet indispensable.",
+        "analysis_text": "Sonnet 18 is the most famous sonnet in the English language, and its fame is deserved because it accomplishes what it describes: it has made its subject immortal. The opening question — 'Shall I compare thee to a summer's day?' — sounds like a conventional Petrarchan compliment, but the answer is immediately subversive: 'Thou art more lovely and more temperate.' Summer is found wanting, not the beloved. Q2 catalogues summer's defects: too hot, too dim, too changeable. The imagery is precise: 'the eye of heaven' for the sun, 'gold complexion dimm'd' for overcast skies, 'nature's changing course untrimm'd' for the entropy that governs all natural beauty. The volta at line 9 — 'But thy eternal summer shall not fade' — is one of the great moments in English poetry. 'But' reverses everything: where nature fails, art succeeds. The word 'eternal' does the work: the FYM's summer is eternal precisely because it exists in the poem, not in nature. Lines 11-12 deny death its traditional powers — bragging, shade — and the mechanism of this denial is revealed: 'When in eternal lines to time thou grow'st.' 'Eternal lines' are the lines of the poem. The couplet is a logical proof disguised as a declaration of love: as long as humans exist to read, the poem preserves the beloved. The poem makes good on its own promise by being read 400 years later."
+      },
+      "directing": {
+        "scene_setting": "A triumphant moment. The Speaker has given up arguing for children and discovered something better — his own art. The tone should convey the exhilaration of a breakthrough.",
+        "character_note": "The Speaker is at his most confident. The false modesty of Sonnet 17 is gone. He knows exactly what his verse can do. There is joy and audacity here.",
+        "fym_note": "The FYM is idealized beyond any specific person. This is the sonnet where the FYM becomes eternal — frozen in art at the peak of beauty.",
+        "dl_note": "Absent. This is the pure FYM sonnet — no shadow of the Dark Lady yet.",
+        "overall_arc": "Begin with the lightness of a question, build through summer's imperfections with a slight tone of dismissal, then unleash the triumph at line 9. The couplet should ring with absolute certainty.",
+        "key_moments": [
+          {"line": 1, "note": "The question is genuine — the Speaker is choosing his comparison. The rhetorical question format invites the listener in."},
+          {"line": 2, "note": "'More lovely and more temperate' — the answer comes immediately. Summer has already lost."},
+          {"line": 7, "note": "'Every fair from fair sometime declines' — the universal law. Everything beautiful fades. Except..."},
+          {"line": 9, "note": "'But thy eternal summer shall not fade' — THE volta. The word 'But' reverses everything. Soar here."},
+          {"line": 12, "note": "'In eternal lines to time thou grow'st' — the mechanism revealed. 'Eternal lines' = these lines of poetry."},
+          {"line": 13, "note": "'So long as men can breathe, or eyes can see' — the condition. As long as humanity exists."},
+          {"line": 14, "note": "'So long lives this, and this gives life to thee.' — 'This' is the poem in the listener's ears. Absolute."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Shall", "compare", "summer's day"], "emotional_note": "Playful, inviting", "delivery_note": "A real question — weigh it. The comparison is being considered, not assumed. Light tone.", "gloss": "Should I compare you to a day in summer?", "commentary": "The opening question implies choice — the poet is selecting from a repertoire of comparisons. 'Summer's day' was a common compliment; Shakespeare will subvert it."},
+        {"line_number": 2, "emphasis_words": ["more", "lovely", "more", "temperate"], "emotional_note": "Decisive — the answer is already here", "delivery_note": "Firm but warm. The double 'more' is emphatic. Summer has been weighed and found wanting.", "gloss": "You are more beautiful and more moderate than summer", "commentary": "'Temperate' means moderate, balanced — a virtue the changeable English summer lacks. The beloved is praised for constancy, not heat."},
+        {"line_number": 3, "emphasis_words": ["Rough", "shake", "darling", "buds"], "emotional_note": "Tender toward the buds, dismissive of the wind", "delivery_note": "The physicality of 'rough winds' and 'shake' against the delicacy of 'darling buds.' Feel the contrast.", "gloss": "Harsh winds shake the tender buds of May", "commentary": "'Darling buds of May' — one of Shakespeare's most quoted phrases. The buds are spring's promise, threatened by May's lingering cold winds."},
+        {"line_number": 4, "emphasis_words": ["lease", "too short", "date"], "emotional_note": "Rueful — summer doesn't last", "delivery_note": "Legal/commercial language: 'lease,' 'date.' Summer is a tenant, not an owner. It expires.", "gloss": "And summer's rental period is all too brief", "commentary": "'Lease' = a temporary rental agreement. 'Date' = expiry date. Summer doesn't own its beauty; it borrows it."},
+        {"line_number": 5, "emphasis_words": ["hot", "eye", "heaven"], "emotional_note": "Descriptive, slightly ironic", "delivery_note": "The sun as 'eye of heaven' — grand but also oppressive. Too hot is a flaw.", "gloss": "Sometimes the sun shines too intensely", "commentary": "'Eye of heaven' = the sun. A Petrarchan commonplace that Shakespeare uses to show summer's excess."},
+        {"line_number": 7, "emphasis_words": ["every", "fair", "fair", "sometime", "declines"], "emotional_note": "Philosophical — stating a universal law", "delivery_note": "The repetition of 'fair' is key: 'every fair FROM fair' — beauty falling away from beauty. A law of nature.", "gloss": "Everything beautiful eventually loses its beauty", "commentary": "'Fair from fair' — every beautiful thing declines from the standard of beauty. The sentence generalizes: this is a universal law, not just summer's problem."},
+        {"line_number": 8, "emphasis_words": ["chance", "nature's", "untrimm'd"], "emotional_note": "Resigned to nature's entropy", "delivery_note": "Two causes: 'chance' (accident) or 'nature's changing course' (entropy). Both are indifferent to beauty.", "gloss": "Either by accident or by nature's inevitable change", "commentary": "'Untrimm'd' = stripped of ornament, or with sails no longer trimmed (nautical). Nature's course is untrimmed — uncorrected, running down."},
+        {"line_number": 9, "emphasis_words": ["But", "eternal", "summer", "not fade"], "emotional_note": "Triumphant — the great turn", "delivery_note": "THIS is the volta. 'But' reverses everything. 'Eternal summer' — stress both words. The tone lifts.", "gloss": "But YOUR eternal summer will never fade", "commentary": "The volta. 'But' is the most powerful word in the sonnet. 'Eternal summer' — an impossibility in nature, achieved in art."},
+        {"line_number": 11, "emphasis_words": ["death", "brag", "wander'st", "shade"], "emotional_note": "Defiant — denying death its powers", "delivery_note": "Death is personified and humiliated. He can't even brag about you. Confident, not aggressive.", "gloss": "Death will not be able to boast that you walk in his shadow", "commentary": "Death personified — he 'brags' (a low, vulgar word for death). The FYM will not enter death's 'shade' — shadow/underworld."},
+        {"line_number": 12, "emphasis_words": ["eternal", "lines", "time", "grow'st"], "emotional_note": "Revelatory — the mechanism exposed", "delivery_note": "Stress 'eternal lines' — these are the lines of the poem. The pun on 'lines' (verse / lines of life) should register.", "gloss": "When in these immortal lines of poetry you grow into time", "commentary": "'Eternal lines' = (1) lines of poetry and (2) lines of life/lineage. 'To time thou grow'st' = you become grafted onto time itself through the poem."},
+        {"line_number": 13, "emphasis_words": ["So long", "men", "breathe", "eyes", "see"], "emotional_note": "The condition stated — as long as humanity exists", "delivery_note": "Build toward the final line. This is the premise of the proof. Breathe and see — the most basic human acts.", "gloss": "As long as people live and can read", "commentary": "The conditional: the poem's power depends on readers. 'Breathe' and 'see' reduce humanity to its essentials — life and perception."},
+        {"line_number": 14, "emphasis_words": ["So long", "lives", "this", "gives", "life", "thee"], "emotional_note": "Absolute certainty — the promise fulfilled", "delivery_note": "The iambic pentameter is perfectly regular — the confidence is total. 'This' = the poem. Point to it. 'Gives life to thee' — the final, ringing claim.", "gloss": "This poem will live that long, and it gives life to you", "commentary": "The couplet fulfills its own promise: 'this' (the poem) gives life (immortality) to 'thee' (the beloved). The poem becomes performative — it does what it says by existing. Four hundred years of readers prove it right."}
+      ],
+      "themes": [
+        {"theme": "immortality", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "art_vs_nature", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address throughout: 'thee,' 'thou,' 'thy'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'Shall I compare' — the Speaker as poet, choosing his comparisons, asserting his art's power"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "Shall I compare thee to a summer's day?", "explanation": "The summer's day comparison is the controlling conceit — set up to be surpassed. The entire sonnet works by showing summer inferior to the beloved."},
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "summer's lease hath all too short a date", "explanation": "Legal metaphor: summer is a tenant, not an owner. Its beauty is rented, temporary, with an expiry date."},
+        {"line_number": 5, "device_id": "PERSONIFICATION", "quotation": "the eye of heaven shines", "explanation": "The sun personified as heaven's eye — a Petrarchan commonplace used here to show summer's excess."},
+        {"line_number": 7, "device_id": "PARADOX", "quotation": "every fair from fair sometime declines", "explanation": "The paradox of beauty: 'fair' declines from 'fair' — beauty falls away from the standard of beauty. Things become unlike themselves."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "But thy eternal summer shall not fade", "explanation": "The great volta — 'But' reverses eight lines of nature's deficiency. The impossible claim: an eternal summer."},
+        {"line_number": 9, "device_id": "HYPERBOLE", "quotation": "thy eternal summer shall not fade", "explanation": "Nothing in nature is eternal. The claim is hyperbolic — but the poem's 400-year survival vindicates it."},
+        {"line_number": 11, "device_id": "PERSONIFICATION", "quotation": "Nor shall death brag thou wander'st in his shade", "explanation": "Death personified as a braggart. The low word 'brag' diminishes death's dignity."},
+        {"line_number": 12, "device_id": "PUN", "quotation": "in eternal lines to time thou grow'st", "explanation": "'Lines' = (1) lines of verse, (2) lines of life/lineage. The beloved is grafted onto time through poetry."},
+        {"line_number": 14, "device_id": "CHIASMUS", "quotation": "So long lives this, and this gives life to thee", "explanation": "The chiastic structure: lives/this/this/life — the poem and the life it gives mirror each other. The line enacts what it describes."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is a logical proof: summer is imperfect (Q1-Q2), but your beauty is eternal (Q3), because my verse preserves it (C). The argument is airtight."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The opening question, the growing dismissal of summer, and the volta's triumph create a dramatic arc from uncertainty to absolute confidence."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "This is the structural pivot of the sequence — the first sonnet to abandon procreation entirely and commit to verse as the sole instrument of immortality."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The claim of poetic immortality echoes Horace (Odes III.30), Ovid (Metamorphoses XV), and Petrarch — but Shakespeare makes it more personal and more bold."}
+      ]
+    }
+  ]
+}

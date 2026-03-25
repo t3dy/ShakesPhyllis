@@ -5,98 +5,82 @@
 | Phase | Name | Status | Description |
 |-------|------|--------|-------------|
 | 0 | Init Documents | **BUILT** | Project docs, schema, pipeline, Deckard analysis |
-| 1 | Scaffold & Seed | READY | Database creation, seed data, deterministic scripts |
-| 2 | Site Scaffold | BLOCKED (on Phase 1) | SHWEP theme, page templates, static site generator |
-| 3 | LLM Pass 1: Full Analysis | BLOCKED (on Phase 1) | Addressees, figures, modes, sections for 3 sample sonnets |
-| 4 | Sample Content | BLOCKED (on Phases 2-3) | 3 sample sonnets × 3 content types + 2 thematic essays |
-| 5 | V1 Deploy | BLOCKED (on Phase 4) | GitHub Pages deployment |
-| 6 | LLM Pass 2: Scholarly Extraction | PLANNED | Extract claims from priority corpus PDFs |
-| 7 | LLM Passes 3-5: Enrichment | PLANNED | Glossary, annotations, intertexts, directing notes |
-| 8 | Full Coverage | PLANNED | Expand to all 154 sonnets across all pillars |
-| 9 | Search & Navigation | PLANNED | Cross-references, thematic navigation, filters |
+| 1 | Scaffold & Seed | **BUILT** | Database (22 tables), 154 sonnets, 2,155 lines, reference data |
+| 1b | Enrichment (17 sonnets) | **BUILT** | 3 enrichment batches: procreation, triangle, immortality |
+| 2 | Enrichment (all 154) | READY | Remaining 137 sonnets |
+| 3 | Site Scaffold | READY | SHWEP theme, page templates, build_site.py |
+| 4 | Sample Content Build | BLOCKED (on 3) | Build 17 enriched sonnets into HTML pages |
+| 5 | V1 Deploy | BLOCKED (on 4) | GitHub Pages launch with 17-sonnet sample |
+| 6 | Full 154 Enrichment | BLOCKED (on 5) | Complete enrichment for all sonnets |
+| 7 | Essays & Context | BLOCKED (on 6) | Thematic essays, historical context pages |
+| 8 | Scholarly Extraction | PLANNED | Corpus PDF extraction (Vendler, Booth, etc.) |
+| 9 | Polish & Launch | PLANNED | Navigation, search, cross-references, full deploy |
 
-## Phase 0: Init Documents [BUILT]
+---
 
-| Deliverable | Status |
-|-------------|--------|
-| `CLAUDE.md` | DONE |
-| `DOCUMENTAIRTRAFFICCONTROL.md` | DONE |
-| `SONNETSTUDYDECKARDANALYSIS.md` | DONE |
-| `docs/SYSTEM.md` | DONE |
-| `docs/ONTOLOGY.md` | DONE |
-| `docs/PIPELINE.md` | DONE |
-| `docs/INTERFACE.md` | DONE |
-| `docs/ROADMAP.md` | DONE |
-| `PHASESTATUS.md` | DONE |
-| `requirements.txt` | DONE |
-| `.gitignore` | DONE |
-| `git init` | DONE |
+## Phase 0: Init Documents — BUILT
 
-## Phase 1: Scaffold & Seed [READY]
+All project documents created:
+- CLAUDE.md, DOCUMENTAIRTRAFFICCONTROL.md, SONNETSTUDYDECKARDANALYSIS.md
+- docs/SYSTEM.md, ONTOLOGY.md, PIPELINE.md, INTERFACE.md, ROADMAP.md
+- PHASESTATUS.md
 
-**Prerequisites:** Phase 0 complete.
+## Phase 1: Scaffold & Seed — BUILT
 
-| Deliverable | Status |
-|-------------|--------|
-| `data/sonnet_texts.json` (154 sonnets, 1609 Quarto text) | TODO |
-| `data/sonnets_seed.json` (characters, scholars, bib, devices, modes, groups) | TODO |
-| `scripts/init_db.py` | TODO |
-| `scripts/migrate_v2.py` | TODO |
-| `scripts/migrate_v3.py` | TODO |
-| `scripts/seed_sonnets.py` | TODO |
-| `scripts/seed_characters.py` | TODO |
-| `scripts/seed_scholars.py` | TODO |
-| `scripts/seed_devices.py` | TODO |
-| `scripts/seed_modes.py` | TODO |
-| `scripts/seed_sequence_groups.py` | TODO |
-| `scripts/validate_sonnets.py` | TODO |
+**Scripts:** `init_db.py`, `seed_sonnets.py`, `seed_reference.py`, `validate_db.py`
 
-**Acceptance gate:** `validate_sonnets.py` passes. 154 sonnets × 14 lines = 2,156 rows in sonnet_lines. All enum values valid.
+**Data files:**
+- `data/sonnet_texts.json` — 154 sonnets, 2,155 lines, clean ASCII from 1609 Quarto
+- `data/sonnets_seed.json` — 4 characters (10 candidates), 13 scholars, 15 bibliography entries, 20 rhetorical devices, 8 analytical modes, 8 sonnet groups
 
-## Phase 2: Site Scaffold [BLOCKED on Phase 1]
+**Database:** 22 tables, all Layer 1 (core text) and Layer 2 (reference) tables populated.
 
-| Deliverable | Status |
-|-------------|--------|
-| `site/style.css` (SHWEP dark theme) | TODO |
-| `site/script.js` (filters, navigation) | TODO |
-| `scripts/build_site.py` | TODO |
-| Page templates: homepage, sonnet index, analysis, directing, context, essay | TODO |
+## Phase 1b: Enrichment Sample — BUILT
 
-**Acceptance gate:** `build_site.py` generates valid HTML from seed data. Site renders in browser with correct theme.
+17 sonnets fully enriched across 3 batches:
 
-## Phase 3: LLM Pass 1 — 3 Sample Sonnets [BLOCKED on Phase 1]
+| Batch | Sonnets | Focus |
+|-------|---------|-------|
+| batch_01_procreation | 1, 3, 12, 17, 18 | Procreation → immortality pivot |
+| batch_02_triangle | 40, 42, 93, 94, 129, 130, 138, 144 | Love triangle, betrayal, lust, deception |
+| batch_03_immortality | 55, 73, 116, 126 | Poetry vs. Time, aging, envoi |
 
-Target sonnets: **Sonnet 18** (FYM, extended metaphor), **Sonnet 130** (DL, irony), **Sonnet 1** (Procreation, opening).
+**Per-sonnet enrichment includes:**
+- Full close-reading analysis (volta, argument, emotional arc, dramatic situation, subtext)
+- Line-by-line annotations (emphasis words, delivery notes, glosses, commentary)
+- Directing notes (scene setting, character notes, FYM/DL notes, key moments)
+- Theme tagging (with PRIMARY/SECONDARY prominence)
+- Character appearances (with role: ADDRESSED, MENTIONED, IMPLIED)
+- Rhetorical device instances per line (with quotation and explanation)
+- Analytical mode priorities per sonnet (with rationale)
 
-| Deliverable | Status |
-|-------------|--------|
-| `scripts/extract_full_analysis.py` | TODO |
-| Addressee classification for 3 sonnets | TODO |
-| Rhetorical figures for 3 sonnets | TODO |
-| Analysis modes for 3 sonnets | TODO |
-| Section commentary for 3 sonnets | TODO |
+**Totals:** 17 analyses, 88 line annotations, 86 themes, 38 character appearances, 17 directing note sets, 89 device instances, 54 mode assignments.
 
-**Acceptance gate:** All 3 sonnets have complete enrichment. Validation passes.
+## Phase 2: Full Enrichment — READY
 
-## Phase 4: Sample Content [BLOCKED on Phases 2-3]
+Enrich remaining 137 sonnets in batches of 5-10. Priority order:
+1. FYM core (19, 20, 29, 30, 33, 34, 35, 57, 71, 87) — essential FYM dynamics
+2. DL core (127, 128, 131, 132, 141, 147, 151, 152) — DL desire/disgust
+3. Rival Poet (78-86) — the competition sequence
+4. Remaining FYM (all others 1-126 not yet done)
+5. Cupid coda (153, 154)
 
-| Deliverable | Status |
-|-------------|--------|
-| `scripts/build_analysis.py` | TODO |
-| 3 complete Analysis pages | TODO |
-| 3 complete Directing pages | TODO |
-| 3 complete Context pages | TODO |
-| 2 thematic Essays (FYM, Sonnet Structure) | TODO |
-| FYM/DL candidate reference pages | TODO |
+## Phase 3: Site Scaffold — READY
 
-**Acceptance gate:** Site builds with all sample content. Pages are readable and scholarly.
+Build `build_site.py` and the HTML/CSS/JS templates. SHWEP dark academic theme.
 
-## Phase 5: V1 Deploy [BLOCKED on Phase 4]
+## Phases 4-9: See descriptions in table above.
 
-| Deliverable | Status |
-|-------------|--------|
-| GitHub repo created | TODO |
-| GitHub Pages configured | TODO |
-| Live site accessible | TODO |
+---
 
-**Acceptance gate:** Site is live and accessible at public URL.
+## Acceptance Gates
+
+| Phase → Phase | Gate |
+|---------------|------|
+| 0 → 1 | All docs written, schema designed |
+| 1 → 1b | DB populated, validate_db.py passes |
+| 1b → 2 | 17 sonnets enriched with all 7 enrichment types |
+| 2 → 3 | At least 50 sonnets enriched |
+| 3 → 4 | build_site.py generates valid HTML for enriched sonnets |
+| 4 → 5 | 17 sample pages render correctly with all tabs |
+| 5 → 6 | V1 deployed to GitHub Pages |

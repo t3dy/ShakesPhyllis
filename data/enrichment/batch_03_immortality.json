@@ -1,0 +1,234 @@
+{
+  "batch": "03_immortality",
+  "description": "Poetry vs. Time: the immortality argument, the aging Speaker, the definitive love, and the envoi to the FYM",
+  "sonnets": [
+    {
+      "number": 55,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Neither marble monuments nor gilded princely tombs will outlast this poem. War will destroy statues; time will erode stone. But the FYM will pace forth against death and oblivion, preserved in poetry until Judgment Day.",
+        "speaker_stance": "triumphant, defiant",
+        "emotional_arc": "monumental claim -> catalogue of destruction -> defiance of death -> eschatological resolution",
+        "dramatic_situation": "The Speaker at his most audaciously confident — claiming his verse will outlast the physical monuments of princes. This is Horace's 'exegi monumentum' Anglicized and surpassed.",
+        "subtext": "The claim is outrageous — and has been vindicated by 400 years of readers. The Speaker's confidence in his art is also a declaration of the FYM's worth: you deserve a monument more lasting than marble.",
+        "analysis_text": "Sonnet 55 is the sequence's most sustained argument for poetic immortality, and it succeeds by thinking in geological and military time. The opening negation — 'Not marble, nor the gilded monuments / Of princes' — immediately sets verse against the most durable physical objects civilization produces. The word 'powerful' applied to 'rhyme' is audacious: a poem claiming power over marble. Q2 escalates: war overturns statues, fire burns masonry, but 'The living record of your memory' survives. The phrase 'living record' is key — the poem is alive in a way stone is not. The volta at line 9 personifies the FYM: 'you pace forth' against death and 'all-oblivious enmity.' The FYM walks forward through time, propelled by the poem. The temporal horizon extends to 'the ending doom' — Judgment Day. The couplet resolves with a Christian eschatological promise: 'till the judgement that yourself arise' — the FYM will live in the poem until the bodily resurrection. Poetry becomes a secular form of eternal life, parallel to the religious promise."
+      },
+      "directing": {
+        "scene_setting": "The Speaker surveying monuments — perhaps in a churchyard or before a grand building — and finding them inadequate next to his verse.",
+        "character_note": "This is the Speaker at peak confidence. No false modesty (cf. Sonnet 17). He knows what his verse can do and says so. The tone should be processional, almost hymnal.",
+        "fym_note": "The FYM as eternal subject — not the aging young man of the present but the figure preserved in poetry for all time.",
+        "dl_note": "Absent. This is pure FYM devotion.",
+        "overall_arc": "Open with the monumental claim (granite authority), build through destruction imagery (war, fire), pivot to the FYM's triumph over death (line 9), arrive at Judgment Day with absolute confidence.",
+        "key_moments": [
+          {"line": 1, "note": "'Not marble' — begin with negation. The poem displaces physical monuments immediately."},
+          {"line": 4, "note": "'Sluttish time' — Time personified as slovenly, degrading. The contempt is for time, not the stone."},
+          {"line": 8, "note": "'The living record of your memory' — 'living' is the key word. The poem lives; the statues don't."},
+          {"line": 13, "note": "'Till the judgement that yourself arise' — eschatological. Poetry as secular resurrection."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Not", "marble", "gilded", "monuments"], "emotional_note": "Monumental — the claim staked immediately", "delivery_note": "Weight and authority. 'Not marble' — the negation must be as solid as the marble it displaces.", "gloss": "Neither marble nor the gold-covered monuments of princes", "commentary": "Echoes Horace, Odes III.30: 'Exegi monumentum aere perennius' (I have built a monument more lasting than bronze). Shakespeare substitutes marble for bronze."},
+        {"line_number": 2, "emphasis_words": ["outlive", "powerful", "rhyme"], "emotional_note": "The audacious claim — verse outlasts stone", "delivery_note": "'Powerful rhyme' — let the word 'powerful' carry its full weight. This is the Speaker's most confident self-assertion.", "gloss": "Will outlast this powerful poem", "commentary": "'Powerful rhyme' — Shakespeare's claim for poetry's material force. Not beautiful rhyme, not sweet rhyme: powerful."},
+        {"line_number": 4, "emphasis_words": ["sluttish", "time"], "emotional_note": "Contempt for Time's degradation", "delivery_note": "'Sluttish time' — Time as slovenly, defiling. The insult to Time is personal.", "gloss": "Than neglected stone, smeared dirty by slovenly time", "commentary": "'Sluttish' = slovenly, dirty (without modern sexual connotation). Time is personified as a bad housekeeper who lets monuments decay."},
+        {"line_number": 8, "emphasis_words": ["living", "record", "memory"], "emotional_note": "The key distinction: living vs. dead matter", "delivery_note": "Stress 'living' — the poem lives; marble does not. This is the argument's hinge.", "gloss": "The living record of your memory in this poem", "commentary": "'Living record' — the oxymoron (records are usually dead/static) is the point. The poem is a living thing; the monument is dead stone."}
+      ],
+      "themes": [
+        {"theme": "immortality", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "war", "prominence": "SECONDARY"},
+        {"theme": "art_vs_nature", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'You shall shine,' 'your memory,' 'yourself arise'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'This powerful rhyme' — the Speaker as monument-builder"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "HYPERBOLE", "quotation": "Not marble, nor the gilded monuments / Of princes, shall outlive this powerful rhyme", "explanation": "The claim that a poem will outlast marble monuments is hyperbolic — and has been proven true."},
+        {"line_number": 4, "device_id": "PERSONIFICATION", "quotation": "sluttish time", "explanation": "Time as a slovenly defiler who smears monuments with neglect."},
+        {"line_number": 8, "device_id": "PARADOX", "quotation": "The living record of your memory", "explanation": "'Living record' — records are static but this one lives. The paradox asserts poetry's vitality against stone's inertness."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet IS an argument: verse > marble > war > time > death. The logical escalation is the structure."},
+        {"mode_id": "INTERTEXTUAL", "priority": 2, "rationale": "Horace III.30, Ovid Met. XV — the claim of poetic immortality in its classical lineage."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "The immortality-through-verse theme at its most sustained and confident."}
+      ]
+    },
+    {
+      "number": 73,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker presents three images of himself aging — late autumn, twilight, dying embers — then turns to the FYM: seeing me this way makes your love stronger, because you must love well what you will soon lose.",
+        "speaker_stance": "elegiac, vulnerable, self-aware",
+        "emotional_arc": "autumn melancholy -> twilight fading -> dying fire -> the turn to love",
+        "dramatic_situation": "The Speaker is aging and knows it. He presents his decline to the FYM not as a plea for pity but as the reason the FYM's love is precious. The sonnet is a gift: my mortality makes your love matter more.",
+        "subtext": "Each image accelerates: a season (months), a day (hours), a fire (minutes). The Speaker is compressing his remaining time. The couplet's 'leave' puns on depart and bequeath — the FYM must leave the Speaker (to death) but also leave behind (bequeath) his love.",
+        "analysis_text": "Sonnet 73 is the most perfectly constructed poem in the sequence, with three parallel images — autumn, twilight, dying fire — each occupying one quatrain and each accelerating the temporal scale. Q1: 'That time of year' — late autumn, when few yellow leaves hang on bare boughs. The famous fourth line, 'Bare ruin'd choirs, where late the sweet birds sang,' compresses multiple images: the tree's bare branches are like the ruined choir stalls of dissolved monasteries; the birds that sang there are gone like the choristers. Q2: 'the twilight of such day' — the time scale narrows from a season to a single day, fading into 'black night,' which is 'Death's second self.' Q3: 'the glowing of such fire' — the time scale narrows again to minutes. The fire lies on 'the ashes of his youth' — consumed by the same fuel that once nourished it. The acceleration is existential: from months to hours to minutes, the Speaker's remaining life shrinks. The volta at line 13 is the most powerful in the sonnets: 'This thou perceiv'st, which makes thy love more strong.' The FYM sees all this decline — and loves more, not less. The final line: 'To love that well, which thou must leave ere long.' 'Leave' = (1) depart from (the FYM will leave the Speaker to death) and (2) leave behind (the Speaker is what will be left). The poem transforms mortality from a curse into the very ground of love's intensity."
+      },
+      "directing": {
+        "scene_setting": "Late autumn, late afternoon, a fire dying in the grate. The Speaker and FYM together in a room. The Speaker is not performing grief — he is showing the FYM what he sees when he looks at himself.",
+        "character_note": "The Speaker's vulnerability is complete — no defenses, no wit, no argument. Just three images offered like evidence. The turn to 'your love' at line 13 is the act of trust.",
+        "fym_note": "The FYM as witness to the Speaker's aging. The poem asks the FYM to see and love anyway. If Southampton: the patron is 20; the poet is perhaps 30-35. The gap matters.",
+        "dl_note": "Absent. This is one of the purest Speaker-FYM sonnets.",
+        "overall_arc": "Three images, each more intimate and more urgent. Autumn (public, seasonal). Twilight (personal, daily). Fire (domestic, immediate). Then the turn: all this is visible to you, and it makes your love more strong.",
+        "key_moments": [
+          {"line": 1, "note": "'That time of year' — the first image. Slow, autumnal. Let the reader feel the season."},
+          {"line": 4, "note": "'Bare ruin'd choirs' — the most famous image. Branches as ruined church stalls. The dissolution of the monasteries echoes."},
+          {"line": 5, "note": "'In me thou see'st' — repeated from line 1. The anaphoric structure signals the second image. Narrower time."},
+          {"line": 9, "note": "'In me thou see'st' — third time. The fire. The most intimate image. Almost whispered."},
+          {"line": 12, "note": "'Consum'd with that which it was nourish'd by' — the fire dies on its own fuel. Youth's energy consumes itself."},
+          {"line": 13, "note": "'This thou perceiv'st' — the volta. Everything the Speaker has shown is visible to the FYM. Now the gift: your love is stronger for seeing it."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 2, "emphasis_words": ["yellow", "leaves", "none", "few"], "emotional_note": "The self-correction: 'or none, or few' — the Speaker watches himself disappear", "delivery_note": "The parenthetical 'or none, or few' should feel like the Speaker correcting himself in real time — fewer leaves than he first thought.", "gloss": "When yellow leaves, or none, or just a few, hang", "commentary": "The self-correction 'or none, or few' is one of Shakespeare's greatest rhetorical effects: the Speaker revises downward mid-line, as if watching the leaves fall while he speaks."},
+        {"line_number": 4, "emphasis_words": ["Bare", "ruin'd", "choirs", "sweet", "birds", "sang"], "emotional_note": "The great image — ruin and lost music", "delivery_note": "Let the line unfold slowly. 'Bare ruin'd choirs' is visual; 'where late the sweet birds sang' is acoustic. Past tense: they sang, they don't anymore.", "gloss": "Bare ruined choir stalls, where recently the sweet birds sang", "commentary": "Triple image: (1) bare tree branches, (2) ruined monastery choir stalls (dissolved by Henry VIII), (3) birds as choristers now gone. The resonance is architectural, natural, and musical simultaneously."},
+        {"line_number": 8, "emphasis_words": ["Death's", "second", "self", "seals"], "emotional_note": "Night as death's twin — the equation made explicit", "delivery_note": "'Death's second self' — night and death are almost identical. 'Seals up' — final, wax-sealed, shut.", "gloss": "Night, death's double, that seals everything in rest", "commentary": "'Death's second self' = night as death's twin/rehearsal. 'Seals up' = closes with a wax seal (finality) and provides rest (gentleness). Both meanings operate."},
+        {"line_number": 12, "emphasis_words": ["Consum'd", "nourish'd"], "emotional_note": "The paradox of self-consumption — youth feeds on itself", "delivery_note": "The fire is 'consumed with that which it was nourished by' — the same fuel. Speak it as a revelation.", "gloss": "Consumed by the very thing that once fed it", "commentary": "The fire dies on its own ashes — consumed by the fuel that once nourished it. The metaphor for aging: the vitality of youth becomes the material of its own exhaustion."},
+        {"line_number": 13, "emphasis_words": ["thou", "perceiv'st", "love", "strong"], "emotional_note": "The volta — the turn to the beloved", "delivery_note": "Everything changes here. The three images were offered TO the FYM. Now the gift: seeing my decline makes your love more strong.", "gloss": "You see all this, which makes your love stronger", "commentary": "The volta: the sonnet pivots from the Speaker's mortality to the FYM's love. 'Perceiv'st' implies active seeing — the FYM has been watching, understanding."},
+        {"line_number": 14, "emphasis_words": ["love", "well", "leave", "ere long"], "emotional_note": "The final gift — love what you must lose", "delivery_note": "'Leave' carries its double meaning: depart from / leave behind. The line should ache.", "gloss": "To love deeply what you must soon lose", "commentary": "'Leave' = (1) depart from (the FYM will leave the Speaker to death) and (2) leave behind, bequeath. The pun makes separation and legacy simultaneous. 'Ere long' = soon. The Speaker's death is near."}
+      ],
+      "themes": [
+        {"theme": "mortality", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "age", "prominence": "SECONDARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou mayst in me behold,' 'thou see'st,' 'thou perceiv'st,' 'thy love'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'In me' (three times) — the Speaker as the aging subject, offering himself to be seen"}
+      ],
+      "line_devices": [
+        {"line_number": 2, "device_id": "IRONY", "quotation": "yellow leaves, or none, or few", "explanation": "The mid-line self-correction ('or none, or few') dramatizes the Speaker watching himself diminish in real time — revising downward as he speaks."},
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "Bare ruin'd choirs, where late the sweet birds sang", "explanation": "Triple metaphor: tree branches = ruined choir stalls = silenced churches. The Reformation's dissolved monasteries haunt the image."},
+        {"line_number": 8, "device_id": "PERSONIFICATION", "quotation": "Death's second self, that seals up all in rest", "explanation": "Night personified as Death's twin — sealing everything in the rest that is both sleep and death."},
+        {"line_number": 12, "device_id": "PARADOX", "quotation": "Consum'd with that which it was nourish'd by", "explanation": "The fire consumed by its own fuel — youth's vitality becomes the material of its own exhaustion. Self-consumption as natural law."},
+        {"line_number": 1, "device_id": "ANAPHORA", "quotation": "In me... In me... In me", "explanation": "The triple 'In me' (lines 1, 5, 9) structures the three quatrains as parallel revelations, each more intimate."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "which thou must leave ere long", "explanation": "'Leave' = (1) depart from and (2) leave behind/bequeath. Separation and legacy fused in one word."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The three parallel images (autumn, twilight, fire) ARE the poem. The imagistic structure — each image more compressed, more intimate — drives everything."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "The self-correcting rhythm of line 2 ('or none, or few') and the anaphoric 'In me' structure are prosodic events as much as rhetorical ones."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The Speaker offering his aging body to the FYM's gaze is an act of vulnerability that is also an act of seduction — see me as I am and love me more."}
+      ]
+    },
+    {
+      "number": 116,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Love is not love if it changes when circumstances change. It is a fixed mark that survives tempests, a star that guides wanderers. Love is not Time's fool. If this is wrong, no man ever loved.",
+        "speaker_stance": "definitive, absolute, public",
+        "emotional_arc": "negative definition -> navigational metaphor -> defiance of Time -> wager of certainty",
+        "dramatic_situation": "The Speaker delivers the definitive statement on love's nature — not addressed to the FYM or DL specifically, but to the world. The language echoes the marriage service ('impediments'). This is love's creed.",
+        "subtext": "The absolute certainty is suspicious in the context of the sequence's many betrayals and deceptions. Is this what the Speaker knows or what he needs to believe? The more broken the relationship, the more desperately the ideal must be asserted. Sonnet 116 reads very differently after Sonnets 129 and 138.",
+        "analysis_text": "Sonnet 116 is the most quoted definition of love in English, and its power comes from its refusal to describe love positively. The sonnet works almost entirely by negation: love is NOT love which alters, it does NOT bend, it is NOT Time's fool. What love IS gets stated in two metaphors — a fixed mark (lighthouse? sea-mark?) and a star — both navigational. Love is what you steer by when everything else moves. The opening echoes the Anglican marriage service: 'If any of you know cause or just impediment...' The Speaker says: let me NOT admit impediments. The double negative is deliberate — he is holding off doubt, not asserting certainty. Q3 introduces Time and his 'bending sickle' — the enemy who destroys 'rosy lips and cheeks' (physical beauty) but cannot touch love itself. The couplet makes a wager: 'If this be error and upon me prov'd, / I never writ, nor no man ever lov'd.' The stakes are absolute — if this definition of love is wrong, then nothing the Speaker has written is true and love itself doesn't exist. The rhetorical move is irrefutable because the conditions of proof are impossible."
+      },
+      "directing": {
+        "scene_setting": "The Speaker standing and delivering — this is a public statement, almost a sermon or a legal deposition. Not intimate but proclamatory.",
+        "character_note": "The Speaker at his most certain — or at his most desperate to be certain. The reader must decide. Both readings are valid.",
+        "fym_note": "Not specifically addressed — this is about Love in the abstract. But the FYM is the implicit test case: has the Speaker's love for the FYM survived alteration, tempests, Time?",
+        "dl_note": "Absent from the surface. But the DL sonnets' deceptions are the subtext: can this ideal survive the reality of 129 and 138?",
+        "overall_arc": "Begin with the negative definition (measured, legal), build through the navigational metaphors (soaring), defy Time directly (Q3), and close the couplet as an oath — staking everything on this definition.",
+        "key_moments": [
+          {"line": 1, "note": "'Let me not' — the double negative. He is holding off impediments, not asserting their absence. Tension in the grammar."},
+          {"line": 5, "note": "'O, no!' — the exclamation is rare and passionate. The definition of what love IS begins here."},
+          {"line": 9, "note": "'Love's not Time's fool' — the central defiance. Love refuses to serve Time."},
+          {"line": 13, "note": "'If this be error' — the wager. The Speaker bets his entire body of work on this definition."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Let", "not", "marriage", "true", "minds"], "emotional_note": "Legal, ceremonial — echoing the marriage service", "delivery_note": "The cadence of the Book of Common Prayer. 'Marriage of true minds' — this is about intellectual/spiritual union, not bodies.", "gloss": "Let me not acknowledge any obstacles to the union of faithful minds", "commentary": "Echoes the Anglican marriage service: 'If any of you know cause, or just impediment...' The Speaker positions himself as the one who refuses to speak against love."},
+        {"line_number": 5, "emphasis_words": ["O", "no", "ever-fixed", "mark"], "emotional_note": "Passionate correction — love IS this", "delivery_note": "'O, no!' is an outburst. After four lines of what love isn't, the Speaker erupts with what it IS.", "gloss": "Oh no! Love is an immovable beacon", "commentary": "'Ever-fixed mark' = a sea-mark or lighthouse — permanently positioned to guide sailors. Love as navigational certainty in a world of flux."},
+        {"line_number": 9, "emphasis_words": ["Love's", "not", "Time's", "fool"], "emotional_note": "Defiance — love refuses to serve Time", "delivery_note": "The central declaration. 'Fool' = servant, jester. Love will not be Time's plaything.", "gloss": "Love does not serve Time like a fool", "commentary": "'Time's fool' = Time's servant or jester. Love refuses subordination to Time. 'Rosy lips and cheeks' — physical beauty falls within Time's compass/reach, but love does not."},
+        {"line_number": 13, "emphasis_words": ["error", "prov'd", "never", "writ"], "emotional_note": "The absolute wager — everything staked", "delivery_note": "Speak it as an oath. The Speaker bets his authorship and love's existence on this definition.", "gloss": "If this is proven wrong, then I never wrote anything and no one ever loved", "commentary": "The couplet's wager is irrefutable because the conditions can never be met — you can't prove the Speaker never wrote (you're reading the proof) or that no man ever loved. The logic is circular and therefore invulnerable."}
+      ],
+      "themes": [
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "constancy", "prominence": "PRIMARY"},
+        {"theme": "truth", "prominence": "SECONDARY"},
+        {"theme": "immortality", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Let me not' — the Speaker addresses himself, or the world, rather than the FYM or DL"},
+        {"character_id": "FYM", "role": "IMPLIED", "evidence": "The implicit test case: the Speaker's love for the FYM has survived alteration, tempests, Time"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "the marriage of true minds", "explanation": "Love as marriage — not of bodies but of minds. The metaphor elevates the relationship above the physical."},
+        {"line_number": 5, "device_id": "METAPHOR", "quotation": "it is an ever-fixed mark, / That looks on tempests and is never shaken", "explanation": "Love as lighthouse/sea-mark — permanently fixed, surviving storms. Navigational certainty."},
+        {"line_number": 7, "device_id": "METAPHOR", "quotation": "It is the star to every wandering bark", "explanation": "Love as Polaris — the star that guides lost ships. 'Worth unknown, though height be taken' — love's value exceeds measurement."},
+        {"line_number": 10, "device_id": "PERSONIFICATION", "quotation": "his bending sickle's compass", "explanation": "Time with his sickle — the Grim Reaper. 'Compass' = reach/range. Physical beauty is within Time's reach; love is not."},
+        {"line_number": 13, "device_id": "PARADOX", "quotation": "If this be error and upon me prov'd, / I never writ, nor no man ever lov'd", "explanation": "The irrefutable wager: the poem proves the Speaker wrote; history proves men loved. The conditions of disproof are impossible."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is a definition by negation followed by a wager. Its rhetorical structure — what love isn't, what it is, what it survives, and the final bet — is airtight."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The definitive statement on love and time — the sequence's two master themes united in a single argument."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "The movement from negative definition (Q1) to metaphor (Q2) to defiance (Q3) to wager (C) is the most cleanly organized argument in the sonnets."}
+      ]
+    },
+    {
+      "number": 126,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker warns the FYM: Nature has kept you beautiful to spite Time, but Nature herself must eventually render you up to death. Her audit must be answered. The poem ends without a couplet — two empty parentheses in the 1609 Quarto representing the FYM's erasure.",
+        "speaker_stance": "tender, warning, elegiac",
+        "emotional_arc": "address of love -> warning about Nature's limits -> the final audit -> silence (the missing couplet)",
+        "dramatic_situation": "The envoi — the final poem to the Fair Young Man. After 125 sonnets of love, praise, betrayal, forgiveness, and philosophical argument, the Speaker says goodbye. Nature cannot keep the FYM forever. Time wins. The absent couplet IS the ending.",
+        "subtext": "The missing couplet is the most eloquent silence in English poetry. Where every other sonnet closes with two rhyming lines of resolution, Sonnet 126 leaves empty brackets — the space where the FYM will be after Time claims him. The sequence's longest argument (that poetry defeats time) is undermined by the form itself refusing to conclude.",
+        "analysis_text": "Sonnet 126 is not a sonnet at all — it has 12 lines in six rhyming couplets, with no closing couplet. The 1609 Quarto prints two pairs of empty parentheses where lines 13-14 should be: ( ) ( ). This formal anomaly IS the poem's meaning. The FYM sequence (1-126) ends not with a triumphal couplet but with an absence — the space where the FYM will be after death. The opening address, 'O thou, my lovely boy,' is the most intimate and tender in the sequence. 'Who in thy power / Dost hold Time's fickle glass, his fickle hour' — the FYM holds Time's hourglass and mirror, temporarily controlling what will ultimately control him. The paradox of line 3-4 is devastating: 'Who hast by waning grown' — you have grown more beautiful as you aged, but 'Thy lovers withering, as thy sweet self grow'st' — your lovers (the Speaker) wither while you bloom. The volta at line 9 introduces fear: 'Yet fear her' — Nature is sovereign but she too is subject to an audit. The accounting metaphor returns: 'Her audit (though delayed) answered must be, / And her quietus is to render thee.' 'Quietus' = a financial settlement, and also death (as in Hamlet's 'quietus make with a bare bodkin'). Nature's final payment is to surrender the FYM to death. Then: silence. The empty brackets. The poem refuses to end because the FYM's story has no resolution that poetry can provide."
+      },
+      "directing": {
+        "scene_setting": "A farewell. The Speaker knows this is the last poem to the FYM. The tenderness of the opening is the tenderness of someone saying goodbye.",
+        "character_note": "The Speaker's authority has been earned over 125 sonnets. Now he speaks as one who has loved, been betrayed, forgiven, and must finally acknowledge that even his poetry cannot save the FYM from time.",
+        "fym_note": "'My lovely boy' — the most intimate name in the sequence. The FYM has grown more beautiful as the Speaker has aged (73). But Nature must eventually reclaim him.",
+        "dl_note": "Absent. This is the FYM's farewell, pure and complete.",
+        "overall_arc": "Open with the tenderest address in the sequence. Build the warning through Nature's temporary protection. Let the fear arrive at line 9. Deliver the audit/quietus with solemnity. Then: silence where the couplet should be. The absence speaks.",
+        "key_moments": [
+          {"line": 1, "note": "'O thou, my lovely boy' — the most intimate and tender address in 154 sonnets. Speak it as a farewell."},
+          {"line": 4, "note": "'Thy lovers withering, as thy sweet self grow'st' — the asymmetry. He ages; you bloom. The pain of the gap."},
+          {"line": 9, "note": "'Yet fear her' — the warning. Nature herself cannot protect you forever."},
+          {"line": 12, "note": "'Her quietus is to render thee' — the final word: surrender. Nature gives you back to death."},
+          {"line": 13, "note": "SILENCE. The missing couplet. The empty brackets. The FYM's erasure enacted by the poem's form."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["O", "thou", "lovely", "boy"], "emotional_note": "The tenderest address in the sequence — a farewell", "delivery_note": "'O thou, my lovely boy' — speak it as if for the last time. This is goodbye.", "gloss": "Oh you, my beautiful boy, who hold in your power", "commentary": "'My lovely boy' — the only time the FYM is addressed with this particular tenderness. 'Boy' acknowledges the youth that has been the subject of 125 sonnets."},
+        {"line_number": 4, "emphasis_words": ["lovers", "withering", "sweet", "grow'st"], "emotional_note": "The asymmetry of aging — painful, tender", "delivery_note": "The contrast: 'lovers withering' vs. 'sweet self grow'st.' The Speaker includes himself among the withering lovers.", "gloss": "Your lovers growing old, even as you grow more beautiful", "commentary": "'Thy lovers withering' — the Speaker places himself among the FYM's lovers, aged and declining while the FYM blooms. The asymmetry of Sonnet 73 restated."},
+        {"line_number": 9, "emphasis_words": ["fear", "her", "minion", "pleasure"], "emotional_note": "The warning — even Nature's favorite is not safe", "delivery_note": "'Yet fear her' — imperative. The warning is urgent. 'Minion' = favorite, darling — but also subject.", "gloss": "Yet be afraid of Nature, you who are her darling", "commentary": "'Minion of her pleasure' — Nature's favorite, but also her plaything. The word 'minion' contains both privilege and vulnerability."},
+        {"line_number": 12, "emphasis_words": ["quietus", "render", "thee"], "emotional_note": "The final accounting — death as financial settlement", "delivery_note": "'Quietus' should echo with Hamlet. 'Render thee' = surrender you. The last word addressed to the FYM is 'thee.'", "gloss": "And her final settlement is to surrender you to death", "commentary": "'Quietus' = (1) financial discharge, settling an account, and (2) death (cf. Hamlet III.i: 'his quietus make'). 'Render' = surrender, give back. Nature borrowed the FYM from Time and must return him."}
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "mortality", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "farewell", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'My lovely boy,' 'thy power,' 'thy sweet self,' 'thee'"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "The voice of farewell — present in the 'lovers withering' of line 4"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "APOSTROPHE", "quotation": "O thou, my lovely boy", "explanation": "The most intimate direct address in the sequence. The exclamatory 'O' signals emotional intensity."},
+        {"line_number": 2, "device_id": "PERSONIFICATION", "quotation": "Time's fickle glass, his fickle hour", "explanation": "Time personified with his two instruments: the mirror (glass) showing decay, and the hourglass measuring the hours remaining."},
+        {"line_number": 3, "device_id": "PARADOX", "quotation": "Who hast by waning grown", "explanation": "Growing by waning — the FYM becomes more beautiful as he ages, reversing nature's law. A paradox that cannot last."},
+        {"line_number": 12, "device_id": "PUN", "quotation": "her quietus is to render thee", "explanation": "'Quietus' = financial settlement AND death. 'Render' = surrender AND give an account. The economic metaphor meets mortality."},
+        {"line_number": 13, "device_id": "VOLTA", "quotation": "(  ) (  )", "explanation": "The missing couplet — the most radical formal gesture in the sonnets. The empty brackets represent the FYM's erasure by time. The silence IS the final statement."}
+      ],
+      "modes": [
+        {"mode_id": "STRUCTURAL", "priority": 3, "rationale": "The missing couplet is the poem's most important feature. The form's failure to close enacts the FYM's mortality. Structure IS meaning."},
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The farewell to the FYM — 125 sonnets of love, betrayal, and argument culminating in a tender goodbye and silence."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Time wins. After 125 sonnets arguing that poetry defeats time, the sequence ends with silence — time's final answer."}
+      ]
+    }
+  ]
+}

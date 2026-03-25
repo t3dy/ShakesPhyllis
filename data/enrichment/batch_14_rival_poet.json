@@ -1,0 +1,1816 @@
+{
+  "batch": "batch_14_rival_poet",
+  "sonnets": [
+    {
+      "number": 79,
+      "analysis": {
+        "volta_line": 7,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker concedes that a rival poet now shares the FYM's patronage, but argues that the rival merely returns to the FYM what he already possesses: the rival's praise is theft repackaged as gift.",
+        "speaker_stance": "jealous, analytical, bitterly logical",
+        "emotional_arc": "nostalgic loss -> grudging concession -> forensic dismantling -> dismissive triumph",
+        "dramatic_situation": "The Speaker acknowledges that a rival poet has appeared and now competes for the FYM's favor. Rather than attack the rival's skill, the Speaker attacks his originality: everything the rival praises in the FYM was already the FYM's own property.",
+        "subtext": "The Speaker's logical argument barely conceals his jealousy. The word 'alone' appears twice in two lines, marking the lost exclusivity that wounds him. His argument that the rival steals from the FYM is also an implicit claim that the Speaker was the first to recognize these qualities.",
+        "analysis_text": "Sonnet 79 marks the explicit entrance of the Rival Poet into the sequence, transforming the Speaker's relationship with the FYM from an exclusive dyad into a competitive triangle. The opening quatrain is saturated with loss: 'Whilst I alone did call upon thy aid, / My verse alone had all thy gentle grace.' The double 'alone' is an elegy for monopoly. The past tense ('did call,' 'had') signals that the golden age is over. 'My sick Muse doth give an other place' personifies the Speaker's poetic faculty as an invalid yielding its seat, a devastating image of creative displacement.\n\nThe second quatrain performs a magnanimous concession that is actually a trap. 'I grant, sweet love, thy lovely argument / Deserves the travail of a worthier pen' appears generous, but 'travail' carries its etymological weight of painful labor, suggesting the rival must toil where the Speaker once wrote with grace. The volta arrives at line 7: 'Yet what of thee thy poet doth invent / He robs thee of, and pays it thee again.' The economic metaphor is precise and devastating. The rival is not a creator but a middleman, a fence who steals goods and resells them to their owner.\n\nThe third quatrain elaborates the robbery with forensic specificity. 'He lends thee virtue, and he stole that word / From thy behaviour' traces the circuit of theft: virtue observed in the FYM, appropriated by the rival, presented back as if newly minted. The enjambment across lines 9-10 ('that word / From thy behaviour') forces the reader to follow the stolen goods from hand to hand. 'Beauty doth he give, / And found it in thy cheek' completes the inventory. The rival's entire poetic stock is looted from the FYM's person.\n\nThe couplet delivers the verdict with epigrammatic finality: 'Then thank him not for that which he doth say, / Since what he owes thee, thou thyself dost pay.' The FYM is paying for his own praise, a transaction so absurd that gratitude would compound the insult. The sonnet's argument is structurally perfect: concession (Q1), trap (Q2), evidence (Q3), verdict (C). Shakespeare transforms jealousy into jurisprudence."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has learned that another poet is now writing for the FYM. This is the first direct confrontation with the rival's existence. The Speaker composes his response carefully, choosing logic over emotion.",
+        "character_note": "The Speaker is wounded but refuses to show it as mere hurt. He channels jealousy into forensic argument. His tone is that of a lawyer presenting evidence, but the emotional tremor is audible in 'I alone' and 'my sick Muse.'",
+        "fym_note": "The FYM is positioned as both prize and victim. He is being praised by the rival, but the Speaker reframes that praise as robbery. The FYM's beauty is so self-sufficient that any poet's praise is redundant.",
+        "dl_note": "Absent. The Dark Lady has not entered the rival poet drama.",
+        "overall_arc": "Begin with palpable nostalgia for the exclusive past, concede with apparent grace, then systematically dismantle the rival's originality, ending with a sharp forensic verdict.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "Stress 'alone' heavily. The entire sonnet pivots on the loss of this exclusivity."
+          },
+          {
+            "line": 4,
+            "note": "'My sick Muse' -- let the personification land. The Speaker's creative power is physically ailing from the rivalry."
+          },
+          {
+            "line": 7,
+            "note": "The volta: 'Yet' turns the concession into a counter-attack. The tone shifts from wounded to prosecutorial."
+          },
+          {
+            "line": 8,
+            "note": "'He robs thee of, and pays it thee again' -- the key metaphor. Deliver with the precision of a closing argument."
+          },
+          {
+            "line": 13,
+            "note": "'Then thank him not' -- imperative. The Speaker instructs the FYM, reasserting authority over the rival."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "alone",
+            "call",
+            "thy aid"
+          ],
+          "emotional_note": "Nostalgic, possessive",
+          "delivery_note": "Stress 'alone' -- it carries the weight of the entire loss. 'Thy aid' means both the FYM's patronage and his inspiration.",
+          "gloss": "When I was the only poet who invoked your support",
+          "commentary": "'Call upon thy aid' frames the FYM as both patron and muse. The invocation language ('call upon') has quasi-religious overtones, positioning the FYM as a source of creative grace."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "alone",
+            "all",
+            "gentle grace"
+          ],
+          "emotional_note": "Elegiac, self-congratulatory",
+          "delivery_note": "The second 'alone' echoes the first -- a deliberate rhyme of possession. 'Gentle grace' should be warm, recalling the golden age.",
+          "gloss": "My poetry alone possessed all your gracious favor",
+          "commentary": "'Gentle grace' carries both meanings: the FYM's social gentility and a quasi-theological grace bestowed upon the poet. The verse 'had' the grace as a possession -- now lost."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "gracious",
+            "decay'd"
+          ],
+          "emotional_note": "Self-pitying, degraded",
+          "delivery_note": "'Decay'd' is the key word -- let it fall with weight. The Speaker's verse is rotting.",
+          "gloss": "But now my once-favored verses have fallen into decline",
+          "commentary": "'Gracious numbers' puns on verse (numbers) and favor (gracious). 'Decay'd' introduces the organic metaphor: the Speaker's poetry is a living thing that sickens when the FYM's favor is withdrawn."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "sick",
+            "Muse",
+            "other place"
+          ],
+          "emotional_note": "Bitter resignation",
+          "delivery_note": "Personify the Muse as physically ill, yielding her seat. 'An other' -- stress the indefinite article; the rival is unnamed, beneath naming.",
+          "gloss": "And my ailing Muse surrenders her place to another",
+          "commentary": "'Sick Muse' is a striking personification -- not merely silent but physically debilitated. 'Give an other place' echoes the social displacement of losing one's seat at table to a newcomer."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "grant",
+            "sweet love",
+            "lovely argument"
+          ],
+          "emotional_note": "Magnanimous on the surface, seething beneath",
+          "delivery_note": "Begin the concession warmly. 'Sweet love' is tender but also strategic -- reminding the FYM of their intimacy.",
+          "gloss": "I admit, dear love, that your beautiful subject matter",
+          "commentary": "'Lovely argument' means the FYM as poetic subject. 'Argument' in the rhetorical sense: the topic or theme of a poem. The FYM's beauty is the raw material every poet works with."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "travail",
+            "worthier pen"
+          ],
+          "emotional_note": "Concessive but double-edged",
+          "delivery_note": "'Worthier' should sting slightly -- the Speaker concedes superiority but 'travail' undercuts it. The rival must labor.",
+          "gloss": "Deserves the painful effort of a better poet than me",
+          "commentary": "'Travail' means both labor and suffering (French travail). The concession that the FYM deserves a 'worthier pen' is undercut by the implication that the rival must work hard where the Speaker wrote naturally."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "Yet",
+            "invent",
+            "robs"
+          ],
+          "emotional_note": "Prosecutorial, turning the argument",
+          "delivery_note": "Volta: 'Yet' is the pivot. Shift from concessive warmth to analytical sharpness. 'Invent' and 'robs' are the key terms.",
+          "gloss": "Yet whatever your poet creates about you, he steals from you",
+          "commentary": "'Invent' means both 'create' and 'find' (Latin invenire). The pun is central: the rival claims to create but merely finds what was already there. 'Robs' introduces the economic crime metaphor."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "robs",
+            "pays",
+            "again"
+          ],
+          "emotional_note": "Contemptuous precision",
+          "delivery_note": "The economic circuit must be clear: rob, then pay back. Stress the absurdity of the transaction.",
+          "gloss": "And then presents it back to you as if it were a gift",
+          "commentary": "The line completes the economic metaphor: the rival is a thief who steals from the FYM and resells the stolen goods back to him. 'Pays it thee again' -- the FYM receives his own property and is expected to be grateful."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "lends",
+            "virtue",
+            "stole"
+          ],
+          "emotional_note": "Forensic, building the case",
+          "delivery_note": "The enjambment into line 10 is crucial -- 'stole that word / From thy behaviour' traces the theft across the line break.",
+          "gloss": "He attributes virtue to you, but he stole that very quality",
+          "commentary": "'Lends' continues the financial metaphor -- the rival offers the FYM's own virtue back as a loan. 'Stole that word' -- even the language is theft. The rival's vocabulary is plundered from the FYM's person."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "behaviour",
+            "beauty",
+            "give"
+          ],
+          "emotional_note": "Methodical, cataloguing the theft",
+          "delivery_note": "Continue the forensic inventory. Each quality named is another stolen item.",
+          "gloss": "From your own conduct; he attributes beauty to you",
+          "commentary": "'Behaviour' in Elizabethan usage encompasses both conduct and physical bearing. The rival observes the FYM's beauty and conduct, then presents them as his own poetic discoveries."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "found",
+            "cheek",
+            "afford"
+          ],
+          "emotional_note": "Contemptuous certainty",
+          "delivery_note": "'Found it in thy cheek' -- point to the source. The rival need only look at the FYM to have his material.",
+          "gloss": "And discovered it right there in your face; he can provide",
+          "commentary": "'Found it in thy cheek' is devastating in its simplicity. The rival's research consists of looking at the FYM. 'Afford' continues the commercial language -- the rival's poetic budget is limited to what the FYM supplies."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "thank",
+            "not",
+            "he doth say"
+          ],
+          "emotional_note": "Imperative, commanding",
+          "delivery_note": "Direct instruction to the FYM. The Speaker reasserts authority: do not thank this thief.",
+          "gloss": "So do not thank him for what he writes about you",
+          "commentary": "The couplet's imperative ('thank him not') reasserts the Speaker's role as the FYM's advisor. Having proven the rival is a thief, the Speaker instructs the FYM to withhold gratitude."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "owes",
+            "thyself",
+            "pay"
+          ],
+          "emotional_note": "Triumphant, epigrammatic",
+          "delivery_note": "Land the final economic paradox with clarity and finality. The FYM is paying for his own compliments.",
+          "gloss": "Since the debt he owes you, you yourself are repaying",
+          "commentary": "The closing line completes the economic circuit: the FYM's beauty is the capital, the rival's praise is a debt owed back, and the FYM himself is underwriting the entire transaction. Gratitude would be double payment."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "rival_poet",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "poetic_originality",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "economic_metaphor",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "jealousy",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "patronage",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address throughout: 'thy aid,' 'sweet love,' 'thy lovely argument,' 'thy cheek'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "First person: 'I alone did call,' 'My verse,' 'my sick Muse,' 'I grant'"
+        },
+        {
+          "character_id": "RP",
+          "role": "MENTIONED",
+          "evidence": "Referred to in third person: 'thy poet,' 'He robs thee,' 'He lends thee virtue,' 'he stole that word'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "ANAPHORA",
+          "quotation": "Whilst I alone ... My verse alone",
+          "explanation": "'Alone' repeated in lines 1-2, emphasizing the lost exclusivity that is the sonnet's emotional center."
+        },
+        {
+          "line_number": 4,
+          "device_id": "PERSONIFICATION",
+          "quotation": "my sick Muse doth give an other place",
+          "explanation": "The Muse personified as an invalid yielding her seat -- creative displacement rendered as physical illness."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "the travail of a worthier pen",
+          "explanation": "Metonymy (pen for poet) combined with 'travail' implying the rival's praise requires painful labor rather than natural inspiration."
+        },
+        {
+          "line_number": 7,
+          "device_id": "VOLTA",
+          "quotation": "Yet what of thee thy poet doth invent",
+          "explanation": "'Yet' pivots from concession to counter-attack. The entire argument turns on this conjunction."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PUN",
+          "quotation": "what of thee thy poet doth invent",
+          "explanation": "'Invent' means both 'create' and 'find' (Latin invenire). The rival claims invention but merely discovers what was already there."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PARADOX",
+          "quotation": "He robs thee of, and pays it thee again",
+          "explanation": "The paradox of theft-as-gift: the rival steals from the FYM and returns the stolen goods as praise."
+        },
+        {
+          "line_number": 8,
+          "device_id": "CONCEIT",
+          "quotation": "He robs thee of, and pays it thee again",
+          "explanation": "The extended economic conceit: praise as commerce, beauty as capital, the rival as middleman dealing in stolen goods."
+        },
+        {
+          "line_number": 9,
+          "device_id": "ENJAMBMENT",
+          "quotation": "he stole that word / From thy behaviour",
+          "explanation": "The enjambment traces the act of theft across the line break, forcing the reader to follow the stolen 'word' to its source."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METONYMY",
+          "quotation": "He lends thee virtue, and he stole that word",
+          "explanation": "'Word' stands for the entire concept of virtue -- the rival's vocabulary is plundered from the FYM's character."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "Since what he owes thee, thou thyself dost pay",
+          "explanation": "Epigrammatic closure: the FYM underwrites his own praise. The economic metaphor reaches its logical absurdity."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a legal brief: concession, evidence, verdict. Its argumentative structure is its primary mode."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The sustained economic conceit (robbery, payment, lending, debt) provides the sonnet's central image system."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The introduction of the Rival Poet transforms the dyad into a triangle, raising the dramatic stakes of the entire subsequence."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "Introduces the theme of poetic originality vs. imitation that will dominate sonnets 79-86."
+        }
+      ]
+    },
+    {
+      "number": 81,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker promises the FYM immortality through verse, contrasting the FYM's eternal monument in poetry with the Speaker's own common grave. The pen's virtue transcends death.",
+        "speaker_stance": "prophetic, self-effacing yet asserting supreme power",
+        "emotional_arc": "contingent uncertainty -> self-abasement -> prophetic grandeur -> triumphant declaration",
+        "dramatic_situation": "In the midst of the Rival Poet sequence, the Speaker pivots from competition to the immortality theme, asserting that regardless of who else writes, his verse will be the FYM's eternal monument. The rival's existence intensifies rather than diminishes this claim.",
+        "subtext": "The Speaker's self-effacement is strategic. By casting himself as forgettable ('each part will be forgotten,' 'a common grave'), he elevates his verse as a force independent of his person. The pen has 'virtue' -- power -- that transcends the mortal poet. This is also a tacit claim of superiority over the rival: whose verse will actually last?",
+        "analysis_text": "Sonnet 81 pivots from the Rival Poet's competitive anxiety to the immortality theme, but the RP context charges the familiar argument with new urgency. The opening lines present two possibilities with studied indifference: 'Or I shall live your epitaph to make, / Or you survive when I in earth am rotten.' The symmetry of the 'Or...Or' construction disguises an asymmetry: in both scenarios, the Speaker's verse endures. Whether he outlives the FYM or dies first, the poetry persists.\n\nThe first quatrain's self-abasement is calculated. 'In me each part will be forgotten' and 'to all the world must die' present the Speaker as utterly mortal, but this mortality makes the verse's survival more remarkable. The contrast between 'a common grave' for the Speaker and 'entombed in men's eyes' for the FYM inverts the expected hierarchy: the physical tomb is common, the figurative entombment in readers' vision is glorious. 'Entombed in men's eyes' is a deliberately paradoxical image -- burial as visibility, death as perpetual display.\n\nThe volta at line 9 shifts from hypothesis to prophecy: 'Your monument shall be my gentle verse.' The possessive adjective 'my' quietly reasserts ownership amid the rival poet competition. 'Gentle' carries both social and aesthetic weight: refined verse from a gentle poet. Lines 10-12 expand the temporal vista magnificently: 'eyes not yet created,' 'tongues to be,' 'all the breathers of this world are dead.' The Speaker's vision encompasses unborn generations, making the present rivalry seem trivially local.\n\nThe couplet achieves a stunning paradox: 'You still shall live, such virtue hath my pen, / Where breath most breathes, even in the mouths of men.' The word 'breath' undergoes a transformation: mortal breath (which all 'breathers' will lose) becomes poetic breath (which endures in recitation). 'The mouths of men' is where verse becomes breath again, completing a cycle from living voice to written word back to living voice. The pen's 'virtue' -- its magical power -- is precisely this resurrection. In the rival poet context, this is the ultimate competitive claim: not that the Speaker writes better, but that his verse will still be read when the rival is dust."
+      },
+      "directing": {
+        "scene_setting": "A pause in the competitive anxiety of the Rival Poet sequence. The Speaker steps back from the immediate rivalry to make a larger claim about poetic immortality, but the rival's shadow gives the familiar theme a new competitive edge.",
+        "character_note": "The Speaker performs humility while claiming godlike power. His self-abasement ('common grave,' 'forgotten') is the platform from which he launches the most grandiose claim in the sequence: my verse will outlast everything.",
+        "fym_note": "The FYM is both the poem's beneficiary and its captive. He will live forever -- but only in the Speaker's verse, not the rival's. The gift of immortality is also a chain.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with quiet contingency, deepen into self-effacement through Q2, then build to prophetic grandeur in Q3, arriving at the couplet as a triumphant declaration of the pen's power.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "The opening 'Or...Or' should be calm, philosophical. Two possibilities, both acceptable -- because in both, the verse survives."
+          },
+          {
+            "line": 7,
+            "note": "'A common grave' -- deliver with genuine humility. The contrast with the FYM's glorious 'entombment' must be felt."
+          },
+          {
+            "line": 9,
+            "note": "The volta: 'Your monument shall be my gentle verse.' The Speaker claims his verse as monument. 'My' is possessive and competitive."
+          },
+          {
+            "line": 10,
+            "note": "'Eyes not yet created' -- the temporal vista opens. Speak with prophetic expansiveness."
+          },
+          {
+            "line": 13,
+            "note": "'Such virtue hath my pen' -- the pen as magical instrument. 'Virtue' means power, efficacy, almost supernatural force."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "Or",
+            "live",
+            "epitaph"
+          ],
+          "emotional_note": "Philosophical, calm",
+          "delivery_note": "Begin with meditative openness. The 'Or...Or' structure suggests either outcome is acceptable.",
+          "gloss": "Either I will outlive you and write your epitaph",
+          "commentary": "'Epitaph' introduces the monumental theme. The Speaker positions himself as the FYM's memorialist, a role that carries both love and power."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "survive",
+            "rotten"
+          ],
+          "emotional_note": "Unflinching, morbid",
+          "delivery_note": "'Rotten' should be delivered without flinching -- the Speaker's physical mortality is stated bluntly.",
+          "gloss": "Or you outlive me when I have decomposed in the earth",
+          "commentary": "'In earth am rotten' is deliberately visceral against the later abstraction of poetic immortality. The physical body decays; the verse does not."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "hence",
+            "memory",
+            "death"
+          ],
+          "emotional_note": "Assertive, prophetic",
+          "delivery_note": "'From hence' -- from this verse, this moment of writing. The poem is already becoming the monument it describes.",
+          "gloss": "From this poem onward, death cannot erase your memory",
+          "commentary": "'From hence' is deictic -- pointing to the poem itself as the source of immortality. The verse is both prophecy and fulfillment."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "me",
+            "each part",
+            "forgotten"
+          ],
+          "emotional_note": "Self-effacing, strategic",
+          "delivery_note": "Let the contrast land: the FYM will be remembered, the Speaker forgotten. But the self-effacement is strategic.",
+          "gloss": "Although every part of me will be forgotten",
+          "commentary": "'Each part' echoes the blazon tradition -- the Speaker's parts (body, identity) will be forgotten, but his verse, which is not a 'part' of him, will endure."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "name",
+            "immortal life"
+          ],
+          "emotional_note": "Prophetic confidence",
+          "delivery_note": "'Immortal life' -- let the phrase expand. This is a promise, not a hope.",
+          "gloss": "Your name will gain eternal life from this poem",
+          "commentary": "'Your name from hence' -- the name is the minimum unit of identity that survives in verse. The poem preserves not the person but the name, which is enough for immortality."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "earth",
+            "common grave"
+          ],
+          "emotional_note": "Humble, grounding",
+          "delivery_note": "Stress 'common' -- the Speaker's burial is ordinary, unmarked, undistinguished.",
+          "gloss": "The earth can give me only an unremarkable grave",
+          "commentary": "'Common grave' contrasts with the FYM's monumental entombment in verse. The Speaker is physically common; his verse is extraordinary. The humility is the platform for the claim."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "entombed",
+            "men's eyes"
+          ],
+          "emotional_note": "Paradoxical grandeur",
+          "delivery_note": "The paradox of 'entombed in men's eyes' must register -- burial as perpetual visibility.",
+          "gloss": "When you will lie entombed in the eyes of readers",
+          "commentary": "'Entombed in men's eyes' inverts burial: instead of darkness underground, the FYM is preserved in the light of vision. The tomb is made of attention, not stone."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "monument",
+            "my",
+            "gentle verse"
+          ],
+          "emotional_note": "Possessive, proud",
+          "delivery_note": "Volta. 'My gentle verse' -- the possessive 'my' is competitive. In the RP context, this claims the monument as the Speaker's alone.",
+          "gloss": "Your monument will be my refined poetry",
+          "commentary": "'Gentle verse' carries social resonance: gentle = wellborn, refined. The verse is both monument and social marker. In the RP context, 'my' quietly excludes the rival from the immortality project."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "eyes",
+            "not yet created",
+            "o'er-read"
+          ],
+          "emotional_note": "Visionary, expansive",
+          "delivery_note": "Open the temporal vista. 'Eyes not yet created' -- unborn readers. The Speaker sees across centuries.",
+          "gloss": "Which eyes that do not yet exist will read",
+          "commentary": "'Eyes not yet created' is one of Shakespeare's most powerful temporal images -- the unborn reader whose existence validates the poem's claim to immortality."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "breathers",
+            "world",
+            "dead"
+          ],
+          "emotional_note": "Apocalyptic scope",
+          "delivery_note": "'All the breathers of this world are dead' -- the entire living population extinguished. Speak with prophetic gravity.",
+          "gloss": "When everyone now living in this world has died",
+          "commentary": "'Breathers' reduces the living to their most basic function -- breathing -- which they will lose. The verse outlasts the breath of all contemporary life."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "still",
+            "virtue",
+            "pen"
+          ],
+          "emotional_note": "Triumphant, magical",
+          "delivery_note": "'Virtue' means supernatural power. The pen is an instrument of resurrection. This is the Speaker's supreme claim.",
+          "gloss": "You will still live, such is the power of my pen",
+          "commentary": "'Virtue' carries its full Elizabethan weight: magical efficacy, inherent power, moral force. The pen is not merely an instrument but a source of quasi-magical preservation."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "breath",
+            "breathes",
+            "mouths of men"
+          ],
+          "emotional_note": "Triumphant, circular",
+          "delivery_note": "The repeated 'breath/breathes' creates a breathing rhythm. End with 'mouths of men' -- the poem becomes living voice again.",
+          "gloss": "In the place where breath lives most fully -- on the lips of readers",
+          "commentary": "'Where breath most breathes' transforms mortal breath into poetic recitation. The cycle: living voice writes the poem, the poem preserves the voice, future mouths breathe the poem back into life. 'Mouths of men' completes the resurrection."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "immortality_through_verse",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "rival_poet",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "mortality",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "monument",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "breath_and_voice",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Second-person throughout: 'your epitaph,' 'your memory,' 'Your name,' 'your being,' 'You still shall live'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "First-person contrast: 'I shall live,' 'I, once gone,' 'my gentle verse,' 'my pen'"
+        },
+        {
+          "character_id": "RP",
+          "role": "ABSENT_PRESENCE",
+          "evidence": "Not named, but the competitive assertion 'my gentle verse' and 'my pen' implicitly exclude the rival's claims to immortalize the FYM"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "ANAPHORA",
+          "quotation": "Or I shall live ... Or you survive",
+          "explanation": "'Or...Or' creates parallel hypotheticals, but both lead to the same conclusion: the verse endures."
+        },
+        {
+          "line_number": 2,
+          "device_id": "ANTITHESIS",
+          "quotation": "Or you survive when I in earth am rotten",
+          "explanation": "The FYM's survival set against the Speaker's physical decomposition -- life and death in one line."
+        },
+        {
+          "line_number": 7,
+          "device_id": "ANTITHESIS",
+          "quotation": "The earth can yield me but a common grave, / When you entombed in men's eyes shall lie",
+          "explanation": "Common grave vs. glorious entombment in vision -- the Speaker's physical insignificance against the FYM's poetic immortality."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PARADOX",
+          "quotation": "entombed in men's eyes shall lie",
+          "explanation": "Entombment as visibility: burial that is perpetual display. The tomb is made of attention, not stone."
+        },
+        {
+          "line_number": 8,
+          "device_id": "METAPHOR",
+          "quotation": "you entombed in men's eyes shall lie",
+          "explanation": "The FYM's preservation in readers' vision figured as a glorious burial -- the poem as sarcophagus of light."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "Your monument shall be my gentle verse",
+          "explanation": "Verse as monument -- the central metaphor. The poem replaces stone as the medium of preservation."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "Your monument shall be my gentle verse",
+          "explanation": "The turn from hypothetical mortality to prophetic assertion. 'Shall be' is declarative, not conditional."
+        },
+        {
+          "line_number": 10,
+          "device_id": "HYPERBOLE",
+          "quotation": "eyes not yet created shall o'er-read",
+          "explanation": "The temporal scope expands to encompass unborn generations -- extravagant but characteristic of the immortality sonnets."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "Where breath most breathes, even in the mouths of men",
+          "explanation": "Breath lives most fully not in living bodies but in poetic recitation -- mortal breath is less 'breathing' than the poem's voiced survival."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PERSONIFICATION",
+          "quotation": "such virtue hath my pen",
+          "explanation": "The pen possesses 'virtue' -- magical power, agency independent of the mortal poet."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet moves from hypothesis (Or...Or) through contrast (common grave vs. monumental verse) to prophetic declaration, a carefully structured argument for poetic immortality."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Immortality through verse is the dominant theme, here charged with competitive urgency by the RP context."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The image chain of graves, tombs, eyes, monuments, and mouths drives the argument from death to resurrection."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The final line's 'breath most breathes' creates a breathing rhythm that enacts the poem's theme of voiced survival."
+        }
+      ]
+    },
+    {
+      "number": 82,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker concedes the FYM is free to read other poets, but argues their rhetorical ornamentation is cosmetic fraud. Only the Speaker's plain truth honors the FYM's genuine beauty.",
+        "speaker_stance": "concessive, then combative; wounded integrity asserting itself",
+        "emotional_arc": "forced magnanimity -> acknowledgment of inadequacy -> reversal into aesthetic manifesto -> contemptuous dismissal",
+        "dramatic_situation": "The Speaker grants the FYM permission to patronize other poets, framing the concession in marriage language ('not married to my Muse'). But the permission becomes a trap: the other poets' 'strained touches' and 'gross painting' are lies, while the Speaker's 'true plain words' are the only adequate tribute.",
+        "subtext": "The marriage metaphor in line 1 reveals the depth of the Speaker's possessiveness -- he must explicitly disclaim the exclusive bond he clearly desires. The aesthetic argument (plainness = truth, ornament = lies) is also a class argument: the Speaker's honest verse vs. the rhetorical excesses of university-educated rivals.",
+        "analysis_text": "Sonnet 82 opens with one of Shakespeare's most revealing metaphors: 'I grant thou wert not married to my Muse.' The marriage conceit exposes the possessiveness the Speaker claims to relinquish. You cannot disclaim a bond without first asserting it existed. 'Married' implies exclusive devotion, sexual fidelity, legal contract -- all the things the Speaker cannot demand from a patron but desperately wants. The concession 'without attaint' (without dishonor) frames the FYM's reading of other poets in the language of marital infidelity: it is not adultery, technically.\n\nThe first two quatrains construct a generous permission that is actually an accusation. The FYM is 'as fair in knowledge as in hue' -- beautiful in mind and body -- and therefore seeks 'some fresher stamp of the time-bettering days.' The phrase 'time-bettering days' is richly ironic: the new poets think they are improving on the past, but the Speaker will demonstrate they are cheapening it. 'Fresher stamp' suggests coinage, novelty, fashion -- everything the Speaker's plain style rejects.\n\nThe volta at line 9 springs the trap: 'And do so, love; yet when they have devis'd, / What strained touches rhetoric can lend.' The permission collapses into critique. 'Strained touches' implies effort without naturalness, technique without truth. The fourfold repetition of 'true/truly' in lines 11-12 ('Thou truly fair, wert truly sympathiz'd / In true plain words, by thy true-telling friend') is the sonnet's rhetorical climax -- a virtuosic display that paradoxically proves the Speaker's command of rhetoric even as he claims to reject it. The plain-style manifesto is itself a rhetorical performance.\n\nThe couplet delivers the condemnation: 'their gross painting might be better us'd / Where cheeks need blood; in thee it is abus'd.' The cosmetic metaphor is devastating. The rival poets apply verbal rouge to a face that needs none. Their rhetoric is makeup for the ugly, and using it on the FYM is an insult to his natural beauty. 'Abus'd' carries its full Elizabethan force: misused, perverted, violated. The Speaker positions himself as the only poet whose method matches his subject -- truth for truth, plainness for beauty."
+      },
+      "directing": {
+        "scene_setting": "The Speaker addresses the FYM directly, granting permission he was never asked for. The tone is that of a lover who says 'you're free to see other people' while making clear that other people are worthless.",
+        "character_note": "The Speaker oscillates between genuine generosity and passive aggression. The concession is real -- he cannot compel the FYM's loyalty -- but every concessive gesture contains a buried accusation.",
+        "fym_note": "The FYM is characterized as intellectually curious ('fair in knowledge'), seeking novelty ('fresher stamp'), and perhaps susceptible to flattery. The Speaker's argument implicitly warns: do not confuse ornament for substance.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with magnanimous concession (Q1), acknowledge the FYM's reasons for straying (Q2), spring the trap at the volta (Q3), and land the cosmetic metaphor as a devastating closer.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Not married to my Muse' -- the marriage metaphor reveals more than the Speaker intends. Deliver with studied casualness that barely conceals the wound."
+          },
+          {
+            "line": 9,
+            "note": "'And do so, love; yet' -- the permission becomes a trap. The volta pivots on 'yet.' Shift tone from generous to sharp."
+          },
+          {
+            "line": 11,
+            "note": "The fourfold 'true/truly' -- this is the rhetorical climax. Each 'true' should build in emphasis."
+          },
+          {
+            "line": 14,
+            "note": "'In thee it is abus'd' -- the final word carries violation, misuse, perversion. End with force."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "grant",
+            "married",
+            "Muse"
+          ],
+          "emotional_note": "Magnanimous on the surface, possessive beneath",
+          "delivery_note": "'Married' is the key word -- it reveals the depth of attachment the Speaker is disclaiming. Let the audience hear both the concession and the wound.",
+          "gloss": "I admit you were not exclusively bound to my poetry",
+          "commentary": "'Married to my Muse' imports conjugal language into patronage. The disclaimer reveals the desire: the Speaker wishes the FYM were married to his Muse but must concede he is not."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "attaint",
+            "o'erlook"
+          ],
+          "emotional_note": "Legalistic, careful",
+          "delivery_note": "'Without attaint' -- a legal term meaning without dishonor. The Speaker is clearing the FYM of charges he himself has implicitly leveled.",
+          "gloss": "And therefore may without dishonor survey",
+          "commentary": "'Attaint' is a legal term for conviction or disgrace. The Speaker grants the FYM permission to read other poets as if acquitting him of infidelity. The legalism barely conceals the jealousy."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "fair",
+            "knowledge",
+            "hue"
+          ],
+          "emotional_note": "Admiring, concessive",
+          "delivery_note": "A genuine compliment -- the FYM is beautiful in mind and body. But it sets up the argument that his perfection makes other poets' ornament unnecessary.",
+          "gloss": "You are as beautiful in intellect as in appearance",
+          "commentary": "'Fair in knowledge as in hue' establishes the FYM's dual excellence. 'Hue' means both color/complexion and appearance generally. The line concedes that such a subject might reasonably attract multiple poets."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "fresher stamp",
+            "time-bettering"
+          ],
+          "emotional_note": "Ironic concession",
+          "delivery_note": "'Time-bettering days' should carry audible irony -- the Speaker does not believe these days are better.",
+          "gloss": "Some newer imprint from these supposedly improving times",
+          "commentary": "'Fresher stamp' suggests coinage -- new-minted poetry. 'Time-bettering days' is deeply ironic: the Speaker views modern elaboration as decline, not improvement. The phrase anticipates the condemnation of 'strained touches.'"
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "do so",
+            "love",
+            "yet"
+          ],
+          "emotional_note": "Permission collapsing into counter-attack",
+          "delivery_note": "'And do so, love' -- pause. Then 'yet' springs the trap. The volta is in the semicolon.",
+          "gloss": "Go ahead, love; but when they have contrived",
+          "commentary": "'And do so, love' is the most passive-aggressive permission in the sequence. The endearment 'love' reasserts intimacy in the moment of granting freedom. 'Yet' is the volta, turning permission into critique."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "strained",
+            "touches",
+            "rhetoric"
+          ],
+          "emotional_note": "Contemptuous",
+          "delivery_note": "'Strained touches' -- emphasis on effort without naturalness. The rival's rhetoric is labored, artificial.",
+          "gloss": "Whatever forced rhetorical effects they can muster",
+          "commentary": "'Strained touches' combines effort (strained) with superficiality (touches). 'Rhetoric' is used pejoratively -- mere technique, divorced from truth. This is Shakespeare's plain-style manifesto."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "truly",
+            "fair",
+            "truly",
+            "sympathiz'd"
+          ],
+          "emotional_note": "Building emphasis, hammering truth",
+          "delivery_note": "The fourfold 'true' begins here. Each repetition should intensify. 'Sympathiz'd' means faithfully represented.",
+          "gloss": "You, genuinely beautiful, were genuinely portrayed",
+          "commentary": "'Truly sympathiz'd' means faithfully represented, with 'sympathy' in its root sense of correspondence. The Speaker claims his verse corresponds to the FYM's reality where the rivals' rhetoric distorts it."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "true",
+            "plain words",
+            "true-telling friend"
+          ],
+          "emotional_note": "Proud, tender, assertive",
+          "delivery_note": "The climax of the 'true' anaphora. 'True-telling friend' is the Speaker's self-definition. Deliver with quiet pride.",
+          "gloss": "In honest plain language, by your truth-telling friend",
+          "commentary": "'True plain words' is the aesthetic manifesto compressed to three words. 'True-telling friend' defines the Speaker's identity against the rival: not a more skilled poet, but a more honest one. 'Friend' carries its Elizabethan range from companion to lover."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "gross painting",
+            "better us'd"
+          ],
+          "emotional_note": "Contemptuous, dismissive",
+          "delivery_note": "'Gross painting' -- the cosmetic metaphor. Deliver with disdain.",
+          "gloss": "And their crude verbal cosmetics would be better applied",
+          "commentary": "'Gross painting' extends the cosmetic metaphor: the rivals' rhetoric is face-paint, thick and crude. 'Better us'd' redirects the critique -- their style is not inherently bad, merely misapplied to a subject that needs no cosmetics."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "cheeks",
+            "blood",
+            "abus'd"
+          ],
+          "emotional_note": "Devastating, final",
+          "delivery_note": "'Abus'd' is the final word and should carry its full weight: misused, perverted, violated.",
+          "gloss": "Where faces need color; applied to you it is a violation",
+          "commentary": "'Where cheeks need blood' -- the cosmetic is appropriate for the pale and plain, not the naturally beautiful. 'Abus'd' in Elizabethan usage means both misused and violated, giving the couplet a force that goes beyond aesthetic critique."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "rival_poet",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "truth_vs_ornament",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "plain_style",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "patronage",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "beauty",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'thou wert not married,' 'thy worth,' 'Thou truly fair,' 'thy true-telling friend'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "Self-definition as 'thy true-telling friend' with 'true plain words' -- the Speaker as plain-style poet"
+        },
+        {
+          "character_id": "RP",
+          "role": "MENTIONED",
+          "evidence": "Referred to collectively as 'writers' (line 3), 'they' (line 9), whose 'gross painting' and 'strained touches rhetoric can lend' define the rival style"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "METAPHOR",
+          "quotation": "thou wert not married to my Muse",
+          "explanation": "The patronage relationship figured as marriage -- exclusive devotion, sexual fidelity, legal contract. The disclaimer reveals the desire."
+        },
+        {
+          "line_number": 8,
+          "device_id": "METAPHOR",
+          "quotation": "Some fresher stamp of the time-bettering days",
+          "explanation": "'Stamp' as coinage metaphor -- the FYM seeks newly minted poetry. The Speaker views novelty as depreciation."
+        },
+        {
+          "line_number": 8,
+          "device_id": "IRONY",
+          "quotation": "the time-bettering days",
+          "explanation": "The Speaker does not believe these days are better. The phrase is ironic: modern elaboration is decline masquerading as progress."
+        },
+        {
+          "line_number": 10,
+          "device_id": "METAPHOR",
+          "quotation": "strained touches rhetoric can lend",
+          "explanation": "Rhetoric as cosmetics: forced, artificial 'touches' applied to a subject that needs none."
+        },
+        {
+          "line_number": 11,
+          "device_id": "ANAPHORA",
+          "quotation": "Thou truly fair, wert truly sympathiz'd / In true plain words, by thy true-telling friend",
+          "explanation": "Fourfold repetition of 'true/truly' hammers the plain-style thesis. The repetition itself is a rhetorical device deployed in defense of anti-rhetoric -- a deliberate paradox."
+        },
+        {
+          "line_number": 13,
+          "device_id": "METAPHOR",
+          "quotation": "their gross painting might be better us'd",
+          "explanation": "The rivals' rhetoric as crude face-paint -- cosmetics for the ugly, an insult when applied to natural beauty."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANTITHESIS",
+          "quotation": "Where cheeks need blood; in thee it is abus'd",
+          "explanation": "The plain cheeks that need cosmetic color vs. the FYM's natural beauty that is violated by it."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "And do so, love; yet when they have devis'd",
+          "explanation": "The volta pivots on 'yet' -- the generous permission becomes a trap. The semicolon marks the turn from concession to critique."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PARADOX",
+          "quotation": "In true plain words, by thy true-telling friend",
+          "explanation": "The Speaker claims plainness while deploying sophisticated anaphora -- the defense of anti-rhetoric is itself a rhetorical performance."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a carefully structured argument: concession (Q1-Q2), reversal (Q3), condemnation (C). The fourfold 'true' is the rhetorical centerpiece."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The plain style vs. ornament debate is Shakespeare's aesthetic manifesto, positioning simplicity as truth and rhetoric as fraud."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The passive-aggressive permission structure creates dramatic irony: the Speaker grants freedom while demonstrating why no one else deserves it."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 1,
+          "rationale": "The cosmetic metaphor (painting, blood, cheeks) provides the central image system, connecting rhetoric to visual falsification."
+        }
+      ]
+    },
+    {
+      "number": 83,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker defends his silence about the FYM's beauty as a superior tribute: by not painting, he honored what no painting could capture. The rivals who attempt praise only bring a tomb where they promised life.",
+        "speaker_stance": "defensively proud, paradoxically eloquent about silence",
+        "emotional_arc": "defensive explanation -> proud reframing -> accusation against the FYM -> devastating comparison",
+        "dramatic_situation": "The FYM has apparently reproached the Speaker for not writing enough in his praise, while the Rival Poet has been lavish. The Speaker transforms this accusation into a vindication: his silence was the truest praise, because the FYM's living beauty exceeds any verbal portrait.",
+        "subtext": "The argument that silence honors beauty better than speech is both a genuine aesthetic position and a rationalization for the Speaker's creative paralysis in the face of competition. The self-correction in line 3 ('I found, or thought I found') reveals momentary doubt about whether his strategy was wisdom or excuse.",
+        "analysis_text": "Sonnet 83 extends the plain-style argument of 82 into a radical paradox: the Speaker's silence is better praise than the rival's speech. The opening is a defensive restatement: 'I never saw that you did painting need, / And therefore to your fair no painting set.' The cosmetic metaphor continues from 82 -- 'painting' as verbal ornamentation -- but now the Speaker's abstention is reframed as artistic judgment rather than inadequacy. He did not fail to praise; he chose not to.\n\nThe self-correction in line 3 is one of the most psychologically revealing moments in the Rival Poet sequence: 'I found, or thought I found, you did exceed / That barren tender of a poet's debt.' The parenthetical 'or thought I found' admits the possibility that his judgment was wrong, that silence was miscalculation rather than tribute. This flicker of doubt is immediately suppressed by the confident 'barren tender' -- the debt of praise is 'barren' because no words can bear fruit equal to the FYM's reality.\n\nThe phrase 'slept in your report' (line 5) is deliberately ambiguous: to sleep in one's report means to be negligent in one's account, but 'slept' also suggests dreaming rather than speaking -- the Speaker's praise exists in potential, in dream, rather than in the waking world of published verse. He argues that the FYM 'being extant, well might show / How far a modern quill doth come too short.' The FYM's living presence is the standard against which all poetry fails.\n\nThe volta at line 9 introduces a bitter note: 'This silence for my sin you did impute.' The FYM has accused the Speaker of dereliction. But the Speaker turns the accusation into his 'glory being dumb' -- a paradox that silence is a more glorious tribute than speech. The devastating couplet completes the argument: 'There lives more life in one of your fair eyes / Than both your poets can in praise devise.' 'Both your poets' names the competition explicitly -- the Speaker and the rival together cannot match one of the FYM's eyes. The concession to the rival is strategic: by including himself in the failure, the Speaker democratizes inadequacy. No poet can capture this beauty; therefore the Speaker's silence was not defeat but wisdom."
+      },
+      "directing": {
+        "scene_setting": "The Speaker is on the defensive. The FYM has complained about the Speaker's silence while the Rival Poet has been writing prolifically. The Speaker must transform an accusation into a vindication.",
+        "character_note": "The Speaker's defense of silence is both genuine and desperate. The self-correction ('or thought I found') reveals the cracks in his confidence. But by the couplet he has recovered his footing and delivers a devastating comparison.",
+        "fym_note": "The FYM is characterized as having complained about the Speaker's silence -- 'This silence for my sin you did impute.' He wants praise, is perhaps flattered by the rival's attention, and is displeased by the Speaker's reticence.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin defensively, acknowledge doubt in Q2, accept the accusation at the volta only to transform it into glory, and end with a devastating comparison that levels both poets before the FYM's beauty.",
+        "key_moments": [
+          {
+            "line": 3,
+            "note": "'Or thought I found' -- the self-correction is crucial. A moment of genuine doubt in the Speaker's defensive strategy. Let it register."
+          },
+          {
+            "line": 5,
+            "note": "'Slept in your report' -- the Speaker admits his negligence but reframes it as deliberate restraint."
+          },
+          {
+            "line": 9,
+            "note": "The volta: the FYM's accusation is acknowledged. 'For my sin' -- the Speaker accepts the charge before transforming it."
+          },
+          {
+            "line": 12,
+            "note": "'Others would give life, and bring a tomb' -- the paradox of praise as murder. The rivals' poems entomb what they claim to vivify."
+          },
+          {
+            "line": 13,
+            "note": "'One of your fair eyes' -- the reduction is devastating. Not even both eyes, just one, outshines both poets."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "never",
+            "painting",
+            "need"
+          ],
+          "emotional_note": "Defensive, principled",
+          "delivery_note": "'Never' is emphatic -- the Speaker insists his assessment has been consistent from the start.",
+          "gloss": "I never perceived that you needed verbal embellishment",
+          "commentary": "'Painting' continues the cosmetic metaphor from 82. The Speaker's judgment is presented as immediate perception ('saw') rather than reasoned conclusion -- he knew instinctively that the FYM needed no ornament."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "fair",
+            "no painting set"
+          ],
+          "emotional_note": "Calm justification",
+          "delivery_note": "'No painting set' -- a deliberate artistic choice, not a failure. The negative is proud.",
+          "gloss": "And therefore applied no verbal cosmetics to your beauty",
+          "commentary": "'To your fair no painting set' -- the word order places 'fair' (beauty) before 'painting' (ornament), emphasizing that the beauty precedes and exceeds any attempt to represent it."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "found",
+            "thought I found",
+            "exceed"
+          ],
+          "emotional_note": "Momentary doubt, quickly suppressed",
+          "delivery_note": "The self-correction 'or thought I found' must register as genuine uncertainty before the Speaker recovers confidence with 'exceed.'",
+          "gloss": "I discovered -- or believed I discovered -- that you surpassed",
+          "commentary": "'Or thought I found' is a rare moment of self-doubt in the sonnets. The Speaker admits his silence might have been miscalculation. The hedging is psychologically complex: defensive pride struggling with genuine uncertainty."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "barren",
+            "tender",
+            "poet's debt"
+          ],
+          "emotional_note": "Dismissive of the entire enterprise of praise",
+          "delivery_note": "'Barren tender' -- stress the futility. A poet's offering of praise is inherently inadequate, sterile.",
+          "gloss": "The sterile offering that constitutes a poet's obligatory tribute",
+          "commentary": "'Barren tender' is an economic-biological metaphor: the payment (tender) of praise is fruitless (barren). 'Poet's debt' frames praise as obligation rather than inspiration, diminishing the rival's productivity."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "slept",
+            "your report"
+          ],
+          "emotional_note": "Admitting negligence while reframing it",
+          "delivery_note": "'Slept' should carry its dual sense: negligence and dreaming. The Speaker's praise exists in potentia.",
+          "gloss": "And therefore I was idle in spreading your fame",
+          "commentary": "'Slept in your report' means neglected your account/reputation. But 'slept' also suggests the Speaker's praise exists in dreams -- in potential rather than publication. The ambiguity is strategic."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "modern",
+            "quill",
+            "short"
+          ],
+          "emotional_note": "Contemptuous of contemporary poetry",
+          "delivery_note": "'Modern' in Elizabethan usage means commonplace, trivial. Give it that pejorative weight.",
+          "gloss": "How far short a commonplace pen falls",
+          "commentary": "'Modern quill' is pejorative -- 'modern' in Shakespeare means ordinary, trivial, not up-to-date. The rival's pen is merely contemporary, merely fashionable, inadequate to its subject."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "silence",
+            "sin",
+            "impute"
+          ],
+          "emotional_note": "Acknowledging the accusation",
+          "delivery_note": "The volta. The FYM has charged the Speaker with neglect. Accept the charge before transforming it.",
+          "gloss": "You interpreted this silence as my failing",
+          "commentary": "'Impute' is a legalistic and theological term -- to charge, to attribute guilt. The FYM has judged the Speaker's silence as sin. The religious language elevates the debate."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "glory",
+            "dumb"
+          ],
+          "emotional_note": "Defiant paradox",
+          "delivery_note": "'Most my glory being dumb' -- the paradox must land. Silence as achievement, muteness as triumph.",
+          "gloss": "Which will prove to be my greatest glory -- being silent",
+          "commentary": "The paradox of silence as glory inverts the FYM's accusation completely. What was imputed as sin is reclaimed as supreme artistic judgment."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "life",
+            "tomb"
+          ],
+          "emotional_note": "Devastating reversal",
+          "delivery_note": "The antithesis is the sonnet's most powerful image: those who promise life deliver death. Stress both words.",
+          "gloss": "When others who claim to give life actually deliver a coffin",
+          "commentary": "'Would give life, and bring a tomb' is a devastating reversal: the rival poets' praise, which should vivify, actually entombs. Their verbal portraits are death masks, not living likenesses."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "more life",
+            "one",
+            "fair eyes"
+          ],
+          "emotional_note": "Awed, triumphant",
+          "delivery_note": "'One of your fair eyes' -- the reduction from 'both your poets' to 'one eye' must register as devastating proportion.",
+          "gloss": "There is more vitality in a single one of your beautiful eyes",
+          "commentary": "'One of your fair eyes' -- not both, just one. The asymmetry is deliberate: the FYM's single eye contains more life than the combined efforts of two poets. The living body outshines all representation."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "both",
+            "poets",
+            "devise"
+          ],
+          "emotional_note": "Generous self-deprecation that is actually competitive",
+          "delivery_note": "'Both your poets' -- name the competition directly. The Speaker includes himself in the failure, but the inclusion is strategic.",
+          "gloss": "Than both your poets can create through their praise",
+          "commentary": "'Both your poets' is the first explicit acknowledgment that the Speaker and the rival are in direct competition. By including himself in the inadequacy, the Speaker levels the playing field -- if both fail equally, the rival's prolixity is no advantage."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "rival_poet",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "silence_vs_speech",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "truth_vs_ornament",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "beauty_as_unrepresentable",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "poetic_inadequacy",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'you did painting need,' 'your fair,' 'you did exceed,' 'your report,' 'your fair eyes'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "First person: 'I never saw,' 'I found,' 'I slept,' 'I impair not beauty being mute'"
+        },
+        {
+          "character_id": "RP",
+          "role": "MENTIONED",
+          "evidence": "'Both your poets' (line 14) names the rivalry directly; 'others would give life, and bring a tomb' (line 12) condemns the rival's approach"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 2,
+          "device_id": "METAPHOR",
+          "quotation": "to your fair no painting set",
+          "explanation": "Praise as face-painting: the Speaker applies no cosmetics to a beauty that needs none. Continues the sustained metaphor from 82."
+        },
+        {
+          "line_number": 3,
+          "device_id": "CAESURA",
+          "quotation": "I found, or thought I found, you did exceed",
+          "explanation": "The parenthetical self-correction creates a double caesura, breaking the line's confidence and revealing the Speaker's psychological complexity."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METAPHOR",
+          "quotation": "That barren tender of a poet's debt",
+          "explanation": "'Barren tender' combines economic (tender = payment) and biological (barren = sterile) metaphors: praise is an infertile payment."
+        },
+        {
+          "line_number": 7,
+          "device_id": "IRONY",
+          "quotation": "How far a modern quill doth come too short",
+          "explanation": "'Modern' is pejorative in Elizabethan usage -- commonplace, trivial. The rival's contemporary style is dismissed as merely fashionable."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PARADOX",
+          "quotation": "shall be most my glory being dumb",
+          "explanation": "Silence as the poet's greatest glory -- the central paradox of the sonnet, inverting the FYM's accusation."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "This silence for my sin you did impute",
+          "explanation": "The turn acknowledges the FYM's accusation of neglect, which the Speaker will transform into his vindication."
+        },
+        {
+          "line_number": 12,
+          "device_id": "ANTITHESIS",
+          "quotation": "When others would give life, and bring a tomb",
+          "explanation": "Life/tomb antithesis: the rivals' praise, which should vivify, actually entombs. Their poems are death masks."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PARADOX",
+          "quotation": "would give life, and bring a tomb",
+          "explanation": "The paradox that praise intended to immortalize actually kills -- the poem as coffin rather than monument."
+        },
+        {
+          "line_number": 13,
+          "device_id": "HYPERBOLE",
+          "quotation": "There lives more life in one of your fair eyes",
+          "explanation": "One of the FYM's eyes contains more vitality than two poets combined -- extravagant but structurally necessary to the argument."
+        },
+        {
+          "line_number": 5,
+          "device_id": "PUN",
+          "quotation": "I slept in your report",
+          "explanation": "'Slept' means both was negligent and existed in a dream state -- the Speaker's praise is dormant rather than absent."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "A defensive argument transformed into an offensive one: the sonnet moves from excuse to vindication to counter-attack."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The FYM's offstage accusation ('for my sin you did impute') and the Speaker's response create a dramatic exchange within the poem."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The painting/cosmetics metaphor and the life/tomb antithesis provide the sonnet's central images."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 1,
+          "rationale": "The silence-as-tribute argument develops the plain style manifesto of 82 into a radical aesthetic of negative capability."
+        }
+      ]
+    },
+    {
+      "number": 84,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker argues that the highest praise is tautology: 'you are you.' The FYM is his own best text; any poet need only copy nature. But the couplet reverses the compliment, accusing the FYM of vanity that corrupts the very praise he receives.",
+        "speaker_stance": "philosophically assured, then sharply accusatory",
+        "emotional_arc": "meta-poetic questioning -> paradoxical thesis -> prescriptive clarity -> sudden accusation",
+        "dramatic_situation": "The Speaker addresses the paradox at the heart of the Rival Poet competition: no poet can say more than the FYM already is. The best poetry about the FYM would be pure transcription. But the couplet breaks the complimentary frame -- the FYM's fondness for praise is a curse that degrades the praise itself.",
+        "subtext": "This is Shakespeare's most explicit engagement with the copy theory of art: the best representation is faithful reproduction, not embellishment. The couplet's sudden turn against the FYM -- accusing him of encouraging bad praise through vanity -- suggests the Speaker's frustration has shifted from the rival to the patron himself.",
+        "analysis_text": "Sonnet 84 poses the Rival Poet competition's fundamental question: 'Who is it that says most? which can say more / Than this rich praise, that you alone are you?' The opening is a philosophical provocation. If the highest praise is the tautology 'you are you,' then all poetic elaboration is not merely unnecessary but diminishing. The FYM is, in scholastic terms, his own sufficient description -- no predicate adds to the subject.\n\nThe metaphor shifts to enclosure and copying in the second quatrain. The FYM's 'confine' contains the 'store / Which should example where your equal grew' -- he is a treasury of qualities that would serve as a pattern for an equal, if one existed. 'Example' as a verb (to serve as model) is characteristically Shakespearean. Lines 5-6 introduce a surprising counter-argument: 'Lean penury within that pen doth dwell / That to his subject lends not some small glory.' Even the FYM's perfection requires that a poet add something -- otherwise the poet is impoverished. But this is immediately reversed: 'if he can tell / That you are you, so dignifies his story.' The poet is dignified not by his own addition but by faithful report.\n\nThe volta at line 9 prescribes the ideal method: 'Let him but copy what in you is writ.' The FYM is already a text -- nature has written him -- and the poet's task is transcription, not composition. 'Not making worse what nature made so clear' is the plain-style thesis refined to its essence: the best art adds nothing. 'Such a counterpart shall fame his wit' -- a faithful copy will make the copyist famous.\n\nThe couplet executes a devastating reversal that has troubled commentators: 'You to your beauteous blessings add a curse, / Being fond on praise, which makes your praises worse.' After thirteen lines of extravagant compliment, the Speaker turns on the FYM himself. The FYM's love of praise (his vanity) is a 'curse' that degrades the praise he receives -- presumably because his appetite for flattery encourages the ornate, dishonest style the Speaker has been condemning. The FYM is complicit in his own mis-representation. This is the most psychologically complex moment in the Rival Poet sequence: the Speaker's anger has migrated from the rival to the patron."
+      },
+      "directing": {
+        "scene_setting": "A philosophical meditation that becomes an accusation. The Speaker begins as if solving an intellectual puzzle -- who can praise best? -- but the couplet reveals accumulated frustration with the FYM's susceptibility to flattery.",
+        "character_note": "The Speaker shifts from philosopher to prosecutor in the couplet. The twelve lines of praise are genuine, but the couplet exposes resentment: the FYM's vanity has created the market for bad praise that the Speaker despises.",
+        "fym_note": "The FYM is 'fond on praise' -- susceptible to flattery, vain, encouraging the ornate rival style. For the first time, the Speaker blames the FYM rather than the rival for the competitive situation.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with philosophical questioning (Q1), develop the copy-theory argument (Q2-Q3), then land the couplet as a sudden reversal that turns the compliment into an accusation.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "The opening question is genuine philosophical inquiry. 'Who is it that says most?' -- engage with the problem directly."
+          },
+          {
+            "line": 2,
+            "note": "'You alone are you' -- the tautological thesis. Deliver with the satisfaction of having found the answer."
+          },
+          {
+            "line": 9,
+            "note": "'Let him but copy' -- prescriptive. The ideal poet is a copyist, not a creator."
+          },
+          {
+            "line": 13,
+            "note": "The reversal. 'Add a curse' -- the compliment collapses. The FYM's vanity is exposed."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "Who",
+            "says most",
+            "say more"
+          ],
+          "emotional_note": "Philosophical curiosity, rhetorical challenge",
+          "delivery_note": "Two questions in one line. The first is competitive ('says most'), the second is absolute ('can say more'). Both should register.",
+          "gloss": "Who praises you most lavishly? And who could possibly surpass",
+          "commentary": "The double question sets up the paradox: superlative praise and the possibility of exceeding it. The competitive context (who 'says most') frames the Rival Poet debate as a quantitative contest the Speaker will redefine."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "rich praise",
+            "you alone",
+            "you"
+          ],
+          "emotional_note": "Paradoxical certainty",
+          "delivery_note": "The tautology 'you alone are you' should sound like a discovery, not a truism. This IS the rich praise.",
+          "gloss": "This magnificent praise: that you, uniquely, are yourself",
+          "commentary": "'You alone are you' is the sonnet's thesis: tautology as the highest form of praise. The FYM's identity is sufficient; any elaboration diminishes rather than enhances."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "confine",
+            "immured",
+            "store"
+          ],
+          "emotional_note": "Awed, inventorial",
+          "delivery_note": "'Immured' carries imprisonment -- the FYM's qualities are locked within his person, inaccessible to poets.",
+          "gloss": "Within whose boundaries is enclosed the treasury of qualities",
+          "commentary": "'Immured' means walled in, imprisoned. The FYM's beauty and virtue are contained within him as in a fortress. 'Store' means abundance, treasury -- a wealth of qualities that could serve as patterns for others."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "Lean",
+            "penury",
+            "pen"
+          ],
+          "emotional_note": "Concessive, surprising",
+          "delivery_note": "The alliteration of 'penury/pen' is deliberate -- poverty dwells in the writing instrument. A momentary concession that the poet should add something.",
+          "gloss": "The pen that cannot add even small glory to its subject is impoverished",
+          "commentary": "'Lean penury' personifies the pen as starving. This is a momentary counter-argument: a poet who adds nothing to his subject is indeed impoverished. But lines 7-8 will reverse this."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "writes",
+            "you",
+            "tell"
+          ],
+          "emotional_note": "Turning back to the thesis",
+          "delivery_note": "'If he can tell / That you are you' -- the tautology returns. Faithful report dignifies the poet.",
+          "gloss": "But the poet who writes about you, if he can convey",
+          "commentary": "The concession of lines 5-6 is immediately reversed: the poet who writes of the FYM need only 'tell / That you are you.' The tautological praise returns as the sufficient and supreme method."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "copy",
+            "writ"
+          ],
+          "emotional_note": "Prescriptive, clear",
+          "delivery_note": "The volta is practical instruction: just copy what nature wrote. 'Writ' makes the FYM a text.",
+          "gloss": "Let the poet simply transcribe what nature has already written in you",
+          "commentary": "'Copy what in you is writ' makes the FYM a text authored by nature. The poet is reduced to scribe. This is the copy theory of art: the best representation is faithful reproduction."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "Not",
+            "worse",
+            "clear"
+          ],
+          "emotional_note": "Cautionary",
+          "delivery_note": "A warning: do not degrade what nature made lucid. 'Clear' means both transparent and beautiful.",
+          "gloss": "Not degrading what nature made so perfectly legible",
+          "commentary": "'Clear' in Elizabethan usage means both beautiful and legible -- nature's writing on the FYM is perfectly clear. To embellish is to obscure."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": [
+            "counterpart",
+            "fame",
+            "wit"
+          ],
+          "emotional_note": "Promising, generous",
+          "delivery_note": "A faithful copy will make the copyist famous. The promise is genuine -- but the couplet will withdraw it.",
+          "gloss": "And such a faithful copy will make his intelligence famous",
+          "commentary": "'Counterpart' means copy, replica. 'Fame his wit' -- the faithful copyist will be celebrated for his intelligence, which consists precisely in knowing not to embellish."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "beauteous",
+            "blessings",
+            "curse"
+          ],
+          "emotional_note": "Sudden reversal, accusatory",
+          "delivery_note": "The turn. 'Add a curse' -- stress the word. After twelve lines of praise, the Speaker turns on the FYM.",
+          "gloss": "You add a curse to your beautiful gifts",
+          "commentary": "The couplet reversal is devastating: the FYM's beauty (blessing) is accompanied by vanity (curse). The alliteration of 'beauteous blessings' clashes with 'curse,' enacting the contradiction."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "fond",
+            "praise",
+            "praises worse"
+          ],
+          "emotional_note": "Bitter, diagnostic",
+          "delivery_note": "'Fond on praise' -- deliver with the sting of diagnosis. The FYM's love of flattery corrupts the flattery itself.",
+          "gloss": "Being addicted to praise, which degrades the quality of the praise you receive",
+          "commentary": "'Fond on praise' means doting on, addicted to praise. The FYM's appetite for flattery encourages the ornate rival style, degrading all praise. 'Praises worse' -- a deliberate pun: the praises become worse (degraded) because the FYM praises worse (inferior poets)."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "rival_poet",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "truth_vs_ornament",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "art_as_copy",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "vanity",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "meta_poetry",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'you alone are you,' 'In whose confine,' 'he that writes of you,' 'You to your beauteous blessings add a curse'"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "Implicit in the philosophical voice and the couplet's accusation; the plain-style advocate diagnosing the problem"
+        },
+        {
+          "character_id": "RP",
+          "role": "IMPLIED",
+          "evidence": "Implied by 'Who is it that says most' and the generic 'he that writes of you' -- the rival is the one who says most"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 2,
+          "device_id": "PARADOX",
+          "quotation": "that you alone are you",
+          "explanation": "Tautology as the highest form of praise -- identity is irreducible. Any elaboration diminishes rather than enhances."
+        },
+        {
+          "line_number": 3,
+          "device_id": "METAPHOR",
+          "quotation": "In whose confine immured is the store",
+          "explanation": "The FYM as a fortress containing a treasury of qualities -- beauty and virtue as imprisoned wealth."
+        },
+        {
+          "line_number": 5,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Lean penury within that pen doth dwell",
+          "explanation": "Poverty personified as dwelling within the pen -- the impoverished poet's instrument."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ALLITERATION",
+          "quotation": "Lean penury within that pen",
+          "explanation": "The p-alliteration (penury/pen) links poverty to the writing instrument, suggesting the pen itself is impoverished."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "Let him but copy what in you is writ",
+          "explanation": "The FYM as a text written by nature -- the poet reduced to copyist, art reduced to transcription."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "Let him but copy what in you is writ",
+          "explanation": "The prescriptive turn: from philosophical questioning to practical instruction. The ideal method is pure transcription."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ANTITHESIS",
+          "quotation": "You to your beauteous blessings add a curse",
+          "explanation": "Blessing/curse antithesis: the FYM's beauty is a blessing, but his vanity curses it. The reversal is structural and emotional."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PUN",
+          "quotation": "Being fond on praise, which makes your praises worse",
+          "explanation": "'Praises worse' puns: (1) the praise he receives becomes worse in quality, (2) he praises worse poets, encouraging bad art through his vanity."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "Being fond on praise, which makes your praises worse",
+          "explanation": "Epigrammatic closure: the FYM's love of praise degrades the praise -- a paradox compressed into a devastating final observation."
+        },
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "Who is it that says most, which can say more",
+          "explanation": "Rhetorical questions addressed to the FYM and to the world -- the Speaker poses the Rival Poet competition as a philosophical problem."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is structured as a philosophical argument: question (Q1), thesis (Q2), prescription (Q3), reversal (C). The rhetorical architecture is primary."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The copy theory of art and the truth-vs-ornament debate reach their philosophical climax in this sonnet."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The couplet reversal is the sonnet's most important structural feature -- twelve lines of compliment suddenly inverted by two lines of accusation."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 1,
+          "rationale": "The shift of blame from the rival to the FYM himself marks a dramatic turning point in the subsequence's emotional dynamics."
+        }
+      ]
+    },
+    {
+      "number": 85,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker's Muse stays silent while rivals produce polished praise. The Speaker can only affirm their words ('Amen') and add something more in thought alone. But his silent love, though verbally last, holds first rank.",
+        "speaker_stance": "self-deprecating, devout, quietly assertive",
+        "emotional_arc": "humble silence -> reverent affirmation of others -> private intensification -> quiet claim of superiority",
+        "dramatic_situation": "The Speaker has fully retreated into silence while the Rival Poet and other writers lavish praise on the FYM. He characterizes himself as an 'unlettered clerk' saying 'Amen' to their hymns. But this self-abasement is strategic: his silent thought holds rank before their spoken words.",
+        "subtext": "The religious language throughout (hymn, Amen, spirit, thoughts as prayers) sacralizes the Speaker's silence. He is not simply a failed poet but a contemplative mystic whose inner devotion outranks the rival's outward performance. The unlettered clerk who says Amen participates in the liturgy more purely than the officiating priest.",
+        "analysis_text": "Sonnet 85 completes the plain-style argument by taking it to its logical extreme: the Speaker falls entirely silent, his Muse 'in manners holds her still.' The politeness of this silence ('in manners') transforms what might appear as defeat into decorum. The Muse is not silenced by inadequacy but by courtesy -- she defers to the other poets' performances as a well-mannered audience member defers to the speaker.\n\nThe religious metaphor dominates the octave. 'Comments of your praise richly compil'd' presents the rival poets' work as annotated scripture -- 'comments' in the scholarly sense of commentary, 'compil'd' suggesting compilation and editorial labor. 'Golden quill' and 'precious phrase by all the Muses fil'd' elevate the rivals' craftsmanship while subtly suggesting excess. 'Fil'd' puns brilliantly: (1) filed, as in polished smooth (the standard gloss), (2) filed as in ranked, placed in order, and (3) potentially 'fill'd,' meaning the Muses have saturated the phrases to bursting. The rivals have every advantage of technique.\n\nAgainst this golden apparatus, the Speaker positions himself as 'unlettered clerk still cry Amen.' The image is extraordinary: in the Elizabethan church, the parish clerk was often barely literate, his role limited to leading congregational responses. The Speaker reduces himself to this functionary, his entire contribution the single word 'Amen' -- 'so be it.' But the clerk's Amen is theologically essential: it ratifies the prayer, makes it communal, seals the transaction between congregation and God. The Speaker's affirmation of the rival's praise is both humble and necessary.\n\nThe volta at line 9 shifts from the public scene to private experience: 'Hearing you praised, I say 'tis so, 'tis true.' The Speaker adds 'something more' to the praise, but this addition exists only in thought: 'that is in my thought, whose love to you, / Though words come hindmost, holds his rank before.' The military metaphor ('rank') is precise: in the order of battle, the Speaker's love occupies the front rank even though his words bring up the rear. The couplet asks for recognition on these terms: 'Then others, for the breath of words respect, / Me for my dumb thoughts, speaking in effect.' 'Dumb thoughts, speaking in effect' is the sonnet's final paradox -- silence that speaks, thought that acts. The Speaker's mute devotion is more 'effective' (both efficacious and actual) than the rivals' eloquence."
+      },
+      "directing": {
+        "scene_setting": "A public scene: multiple poets are praising the FYM, their golden words filling the air. The Speaker stands among them, silent, adding only 'Amen' to their hymns. But his inner life is the poem's real action.",
+        "character_note": "The Speaker has mastered the rhetoric of humility. His self-characterization as 'unlettered clerk' is both genuine and strategic -- the clerk's Amen is theologically essential even if verbally minimal. He asks to be valued for thought rather than breath.",
+        "fym_note": "The FYM is the object of a chorus of praise. He is surrounded by poets competing for his attention. The Speaker asks only that the FYM value silent devotion alongside spoken eloquence.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the Muse's courteous silence, establish the religious frame of hymns and Amen, shift at the volta to private intensification, and close with the quiet assertion that silent love outranks spoken praise.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Tongue-tied Muse' -- the opening image is of creative paralysis reframed as good manners. The silence is chosen, not imposed."
+          },
+          {
+            "line": 6,
+            "note": "'Unlettered clerk still cry Amen' -- the self-characterization is devastating in its humility. But the Amen is theologically necessary."
+          },
+          {
+            "line": 9,
+            "note": "The volta: from public affirmation to private intensification. ''Tis so, 'tis true' -- but there is something more."
+          },
+          {
+            "line": 12,
+            "note": "'Though words come hindmost, holds his rank before' -- the military metaphor reveals the competitive claim hidden within the humility."
+          },
+          {
+            "line": 14,
+            "note": "'Dumb thoughts, speaking in effect' -- the final paradox. Silent thought has more effect than spoken praise."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": [
+            "tongue-tied",
+            "Muse",
+            "manners",
+            "still"
+          ],
+          "emotional_note": "Quiet, courteous, restrained",
+          "delivery_note": "'Tongue-tied' should sound like physical constriction. But 'in manners' reframes it as choice. 'Still' means both silent and motionless.",
+          "gloss": "My mute Muse courteously remains silent",
+          "commentary": "'Tongue-tied' suggests physical impediment, but 'in manners' transforms the silence from disability to etiquette. 'Still' puns: (1) silent, (2) motionless, (3) always. The Muse's stillness is perpetual, polite, and chosen."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": [
+            "comments",
+            "praise",
+            "richly compil'd"
+          ],
+          "emotional_note": "Admiring, slightly envious",
+          "delivery_note": "'Richly compil'd' -- give the rivals their due. Their praise is elaborate, learned, expensive.",
+          "gloss": "While elaborate commentaries praising you are richly composed",
+          "commentary": "'Comments' means scholarly annotations or set-pieces of praise. 'Richly compil'd' suggests both wealth of material and the editorial labor of compilation. The rivals' praise is presented as a lavish production."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": [
+            "character",
+            "golden quill"
+          ],
+          "emotional_note": "Awed, slightly ironic",
+          "delivery_note": "'Golden quill' -- the rival's instrument is literally golden. The Speaker's pen, by contrast, is silent.",
+          "gloss": "Preserve their written characters with a golden pen",
+          "commentary": "'Reserve their character' means preserve their writing/inscription. 'Golden quill' elevates the rival's instrument to precious metal -- suggesting both wealth and excess."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": [
+            "precious",
+            "Muses",
+            "fil'd"
+          ],
+          "emotional_note": "Admiring, with a hint of overstatement",
+          "delivery_note": "'Fil'd' is the crucial pun -- let it resonate. Polished, ranked, or filled?",
+          "gloss": "And exquisite phrases polished by all the Muses",
+          "commentary": "'Fil'd' puns: (1) filed = polished smooth, refined; (2) filed = ranked, catalogued; (3) possibly filled = saturated. 'All the Muses' -- the rivals have the full divine apparatus, while the Speaker has only his tongue-tied single Muse."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": [
+            "good thoughts",
+            "others",
+            "good words"
+          ],
+          "emotional_note": "Self-deprecating contrast",
+          "delivery_note": "The parallel 'good thoughts / good words' establishes the internal/external divide. Thoughts vs. words -- the Speaker's arena is internal.",
+          "gloss": "I think worthy thoughts while others write worthy words",
+          "commentary": "The line divides the world: 'I think' vs. 'others write.' The Speaker's goodness is internal (thoughts); the rivals' is external (words). The parallel structure suggests equivalence even as it acknowledges the difference."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": [
+            "unlettered",
+            "clerk",
+            "Amen"
+          ],
+          "emotional_note": "Humble, devotional, self-abasing",
+          "delivery_note": "'Unlettered clerk' -- the most humble self-characterization in the sequence. But 'Amen' is theologically powerful. Let both registers sound.",
+          "gloss": "And like an illiterate parish clerk simply say 'Amen'",
+          "commentary": "The 'unlettered clerk' is the parish functionary whose role in the liturgy is to lead the congregation's 'Amen.' The image is of minimal verbal participation that is nonetheless ritually essential. The Speaker's single word ratifies the entire service."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": [
+            "hymn",
+            "able spirit",
+            "affords"
+          ],
+          "emotional_note": "Reverent, generous to the rival",
+          "delivery_note": "'Able spirit' -- genuine acknowledgment of the rival's talent. 'Hymn' sacralizes the praise-competition.",
+          "gloss": "To every hymn that a capable poet produces",
+          "commentary": "'Hymn' makes the praise-poetry religious. 'Able spirit' is a generous characterization of the rival -- talented, spiritually gifted. 'Affords' carries its economic sense: the rival's production is output."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": [
+            "polish'd",
+            "well-refined"
+          ],
+          "emotional_note": "Acknowledging craft",
+          "delivery_note": "The doubled emphasis on polish ('polish'd,' 'well-refined') is both admiring and subtly critical -- all surface, all technique.",
+          "gloss": "In polished form from a thoroughly refined pen",
+          "commentary": "'Polish'd form' and 'well-refined pen' pile up synonyms for craftsmanship. The redundancy subtly suggests excess -- too much polishing, too much refining. But the admiration is also genuine."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": [
+            "Hearing",
+            "praised",
+            "'tis so",
+            "'tis true"
+          ],
+          "emotional_note": "Affirming, then deepening",
+          "delivery_note": "The volta. ''Tis so, 'tis true' -- the Speaker affirms the rival's praise but is about to add something more.",
+          "gloss": "Hearing you praised, I affirm: it is so, it is true",
+          "commentary": "The volta shifts from the public scene (hearing praise) to private response (affirming and adding). ''Tis so, 'tis true' echoes the clerk's 'Amen' but begins the transition to something more personal."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": [
+            "most",
+            "praise",
+            "something more"
+          ],
+          "emotional_note": "Quietly competitive",
+          "delivery_note": "'Something more' -- the Speaker's addition exists. It is real. It just cannot be spoken.",
+          "gloss": "And to the fullest measure of praise add something beyond",
+          "commentary": "'Something more' is tantalizingly unspecified -- the Speaker's addition to the praise exceeds what can be articulated. The 'more' exists in thought, not in breath."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": [
+            "words",
+            "hindmost",
+            "rank",
+            "before"
+          ],
+          "emotional_note": "Assertive, military",
+          "delivery_note": "The military metaphor: 'rank before' means front rank. The Speaker's love leads the charge even though his words trail behind.",
+          "gloss": "Though his words come last, his love holds the leading position",
+          "commentary": "'Holds his rank before' is a military metaphor: the Speaker's love occupies the front rank in the order of battle, even though his words are in the rear. The competitive claim emerges from within the humility."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": [
+            "others",
+            "breath",
+            "words",
+            "respect"
+          ],
+          "emotional_note": "Distinguishing, prescriptive",
+          "delivery_note": "Set up the final contrast: others for their breath (spoken words), the Speaker for his thoughts.",
+          "gloss": "Value others for the spoken breath of their words",
+          "commentary": "'Breath of words' reduces the rivals' eloquence to physical exhalation -- mere air. 'Respect' means value, esteem. The Speaker asks the FYM to distribute his regard according to different criteria."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": [
+            "dumb thoughts",
+            "speaking",
+            "in effect"
+          ],
+          "emotional_note": "Paradoxical, triumphant in stillness",
+          "delivery_note": "The final paradox: 'dumb thoughts, speaking in effect.' Deliver with quiet certainty. Silence speaks louder.",
+          "gloss": "Value me for my silent thoughts, which speak through their very effectiveness",
+          "commentary": "'Dumb thoughts, speaking in effect' is the sonnet's culminating paradox: mute thought that nevertheless speaks, and speaks 'in effect' -- both effectively (with real impact) and in actuality (in the realm of action rather than mere words)."
+        }
+      ],
+      "themes": [
+        {
+          "theme": "rival_poet",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "silence_vs_speech",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "devotion",
+          "prominence": "PRIMARY"
+        },
+        {
+          "theme": "thought_vs_language",
+          "prominence": "SECONDARY"
+        },
+        {
+          "theme": "religious_metaphor",
+          "prominence": "SECONDARY"
+        }
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Direct address: 'your praise' (line 2), 'you praised' (line 9), and the implicit request of the couplet"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "IMPLIED",
+          "evidence": "First person throughout: 'My tongue-tied Muse,' 'I think good thoughts,' 'I say 'tis so,' 'my thought,' 'Me for my dumb thoughts'"
+        },
+        {
+          "character_id": "RP",
+          "role": "MENTIONED",
+          "evidence": "Referred to collectively as 'others' who 'write good words' with 'golden quill' and 'polish'd form of well-refined pen'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PERSONIFICATION",
+          "quotation": "My tongue-tied Muse in manners holds her still",
+          "explanation": "The Muse personified as a well-mannered woman who keeps silent in company -- creative paralysis reframed as social grace."
+        },
+        {
+          "line_number": 1,
+          "device_id": "PUN",
+          "quotation": "holds her still",
+          "explanation": "'Still' means (1) silent, (2) motionless, (3) continually. The Muse is perpetually, politely, completely silent."
+        },
+        {
+          "line_number": 4,
+          "device_id": "PUN",
+          "quotation": "precious phrase by all the Muses fil'd",
+          "explanation": "'Fil'd' puns: (1) filed = polished smooth, (2) filed = ranked/catalogued, (3) filled = saturated. The rivals' phrases have received the full treatment."
+        },
+        {
+          "line_number": 6,
+          "device_id": "SIMILE",
+          "quotation": "like unlettered clerk still cry 'Amen'",
+          "explanation": "The Speaker as illiterate parish clerk: minimal verbal participation that is nonetheless liturgically essential."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "every hymn that able spirit affords",
+          "explanation": "The rivals' praise-poems figured as hymns in a religious service -- the praise-competition sacralized."
+        },
+        {
+          "line_number": 9,
+          "device_id": "VOLTA",
+          "quotation": "Hearing you praised, I say ''tis so, 'tis true'",
+          "explanation": "The turn from public scene to private intensification. The Speaker affirms the rivals' praise but begins to claim something beyond it."
+        },
+        {
+          "line_number": 12,
+          "device_id": "METAPHOR",
+          "quotation": "Though words come hindmost, holds his rank before",
+          "explanation": "Military metaphor: the Speaker's love holds the front rank even though his words bring up the rear."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "Me for my dumb thoughts, speaking in effect",
+          "explanation": "'Dumb thoughts, speaking' -- silence that speaks, thought that acts. The central paradox resolves the sonnet's argument."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANTITHESIS",
+          "quotation": "I think good thoughts, whilst others write good words",
+          "explanation": "Thought vs. word, internal vs. external -- the Speaker's arena is the mind, the rivals' is the page."
+        },
+        {
+          "line_number": 13,
+          "device_id": "METONYMY",
+          "quotation": "the breath of words",
+          "explanation": "'Breath' stands for spoken poetry -- reducing the rivals' eloquence to physical exhalation, mere air."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet builds a sustained argument for the superiority of silent devotion over spoken praise, structured as concession (Q1-Q2), intensification (Q3), resolution (C)."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The religious image system (hymn, Amen, clerk, spirit) sacralizes the Speaker's silence, transforming poetic competition into liturgy."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The thought-vs-language and silence-vs-speech themes reach their fullest expression in this penultimate sonnet of the RP subsequence."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The alliterative and assonant effects ('precious phrase,' 'polish'd form,' 'dumb thoughts') create a sonic texture that enacts the contrast between ornamented speech and plain silence."
+        }
+      ]
+    }
+  ]
+}

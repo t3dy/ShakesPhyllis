@@ -1,148 +1,115 @@
 # Pipeline — Shakespeare Sonnets
 
-19 scripts across 5 stages. All scripts are idempotent (safe to re-run).
+11 scripts across 5 stages. See `SONNETSTUDYDECKARDANALYSIS.md` for Python vs LLM boundaries.
 
-See `SONNETSTUDYDECKARDANALYSIS.md` for which tasks are Python vs Claude Code.
+**Last verified:** 2026-03-24 (System Audit)
 
 ---
 
-## Stage 1: Scaffold [PLANNED]
+## Data Flow
 
-| Script | Creates | Notes |
-|--------|---------|-------|
-| `init_db.py` | Tables 1-11 (core) | CREATE TABLE IF NOT EXISTS |
-| `migrate_v2.py` | Tables 12-15 (rhetoric & analysis) | Adds rhetoric tables |
-| `migrate_v3.py` | Tables 16-25 (enrichment + infrastructure) | Adds enrichment tables |
+```
+data/gutenberg_sonnets.txt     ← Downloaded from Project Gutenberg
+        ↓
+scripts/parse_gutenberg.py     → data/sonnet_texts.json (one-time utility)
+data/sonnets_seed.json         ← Hand-authored seed data
+        ↓
+scripts/init_db.py             → db/sonnets.db (21 tables, empty)
+        ↓
+scripts/seed_sonnets.py        → sonnets (154), stanzas (615), lines (2,155)
+scripts/seed_reference.py      → characters, candidates, scholars, bibliography,
+                                  devices, modes, groups (8 base), group_members
+scripts/seed_groups_v2.py      → sonnet_groups expanded to 47 scholarly groupings
+scripts/seed_essay_unresolved.py → essays (1), essay_sonnet_links (20)
+        ↓
+scripts/prep_batch.py          → data/batch_prompts/ (locked vocabulary prompts for LLM)
+        ↓
+[LLM agents generate enrichment JSON]
+        ↓
+scripts/validate_enrichment.py → pre-load validation gate (REQUIRED before enrich)
+scripts/validate_enrichment.py --fix → auto-fix mappable issues
+        ↓
+scripts/enrich_sonnets.py      ← data/enrichment/batch_*.json
+                               → sonnet_analyses, line_annotations, directing_notes,
+                                 sonnet_themes, character_appearances, line_devices,
+                                 sonnet_modes
+        ↓
+scripts/validate_db.py         → integrity checks (post-load)
+        ↓
+[FUTURE] scripts/build_site.py → site/ (static HTML)
+```
 
-## Stage 1b: Seed (deterministic) [PLANNED]
+---
 
-| Script | Populates | Input | Method |
-|--------|-----------|-------|--------|
-| `seed_sonnets.py` | sonnets, sonnet_lines, sonnet_sections | `data/sonnet_texts.json` | DETERMINISTIC |
-| `seed_characters.py` | characters | `data/sonnets_seed.json` | SEED_DATA |
-| `seed_scholars.py` | scholars, bibliography, scholar_works | `data/sonnets_seed.json` | SEED_DATA |
-| `seed_devices.py` | rhetorical_devices | `data/sonnets_seed.json` | SEED_DATA |
-| `seed_modes.py` | analysis_modes | `data/sonnets_seed.json` | SEED_DATA |
-| `seed_sequence_groups.py` | sequence_groups, thematic_threads, sonnet_themes | `data/sonnets_seed.json` | SEED_DATA |
+## Stage 1: Scaffold & Seed — BUILT
 
-### seed_sonnets.py Detail
+| Script | Input | Output | Idempotent | Status |
+|--------|-------|--------|-----------|--------|
+| `init_db.py` | — | `db/sonnets.db` (21 empty tables) | Yes (CREATE IF NOT EXISTS) | BUILT |
+| `init_db.py --force` | — | Drops and recreates DB | Destructive | BUILT |
+| `seed_sonnets.py` | `data/sonnet_texts.json` | sonnets (154), stanzas (615), lines (2,155) | Yes (INSERT OR IGNORE) | BUILT |
+| `seed_reference.py` | `data/sonnets_seed.json` | characters (4), candidates (10), scholars (13), bibliography (15), devices (21→24), modes (8), groups (8), group_members | Yes (INSERT OR IGNORE) | BUILT |
+| `seed_groups_v2.py` | hardcoded | sonnet_groups (47), group_members expanded | **No** (DELETE→INSERT) | BUILT |
+| `seed_essay_unresolved.py` | hardcoded | essays (1), essay_sonnet_links (20) | Yes (INSERT OR IGNORE) | BUILT |
 
-This is the most important deterministic script. For each of 154 sonnets:
+## Stage 2: Prepare & Enrich — IN PROGRESS
 
-1. Parse sonnet text into 14 lines
-2. Create `sonnets` row with number, first_line, sonnet_text_full
-3. Create 14 `sonnet_lines` rows with:
-   - `section`: Q1 (1-4), Q2 (5-8), Q3 (9-12), COUPLET (13-14)
-   - `rhyme_position`: lines 1,3→A; 2,4→B; 5,7→C; 6,8→D; 9,11→E; 10,12→F; 13→G; 14→G
-   - `rhyme_word`: last word of each line
-   - `global_line_number`: (sonnet_number - 1) * 14 + line_number
-   - `syllable_count`: via CMU Pronouncing Dictionary (fallback: LLM for archaic words)
-4. Create 4 `sonnet_sections` rows (Q1, Q2, Q3, COUPLET) with start/end lines
+| Script | Input | Output | Idempotent | Status |
+|--------|-------|--------|-----------|--------|
+| `prep_batch.py` | sonnet IDs, DB | `data/batch_prompts/*.prompt.md` + `*.template.json` | Yes | BUILT |
+| `validate_enrichment.py [--fix] [file]` | `data/enrichment/*.json` | Validation report; with --fix, repairs mappable issues | Yes | BUILT |
+| `enrich_sonnets.py [file]` | `data/enrichment/*.json` | All Layer 4 enrichment tables | Yes (INSERT OR REPLACE) | BUILT |
 
-All of this is DETERMINISTIC / HIGH confidence.
+**Enrichment workflow (corrected):**
+1. `python scripts/prep_batch.py --range 41 54 --name fym_absence` → locked prompt + template
+2. LLM agent generates enrichment JSON using locked vocabulary
+3. `python scripts/validate_enrichment.py --fix batch_NN.json` → validate and fix
+4. `python scripts/enrich_sonnets.py batch_NN.json` → load into DB
+5. `python scripts/validate_db.py` → post-load integrity check
 
-## Stage 2: Extract (LLM-assisted) [PLANNED]
+Enrichment status: 71 of 154 sonnets enriched (14 batches). 83 remaining.
 
-| Script | Populates | Pass | Method |
-|--------|-----------|------|--------|
-| `extract_full_analysis.py` | sonnets (addressee, volta), sonnet_characters, line_addressee_shifts, sonnet_figures, sonnet_analysis_modes, sonnet_sections (rhetorical_function) | Pass 1 | LLM_ASSISTED |
-| `extract_scholarly.py` | scholarly_refs | Pass 2 | CORPUS_EXTRACTION |
+## Stage 3: Validate — BUILT
 
-### extract_full_analysis.py Detail
+| Script | Input | Output | Status |
+|--------|-------|--------|--------|
+| `validate_db.py` | `db/sonnets.db` | Pass/fail integrity report | BUILT |
 
-Processes sonnets in batches of 5-10. For each sonnet, Claude Code outputs structured JSON with:
-- primary_addressee + confidence
-- addressee_shifts (if any)
-- rhetorical_figures (all, with salience)
-- analysis_modes (priority-ranked)
-- section rhetorical_functions (4)
-- volta_type
+## Stage 4: Build Site — PLANNED
 
-**Validation before DB insert:**
-- Line numbers must be 1-14
-- device_id must exist in rhetorical_devices
-- mode_id must exist in analysis_modes
-- Enum values must match CHECK constraints
-- quoted_text must appear in actual line text
+| Script | Input | Output | Status |
+|--------|-------|--------|--------|
+| `build_site.py` | `db/sonnets.db` | `site/` (static HTML) | PLANNED |
 
-### extract_scholarly.py Detail
+---
 
-Reads one corpus PDF at a time. Extracts:
-- Which sonnets the PDF discusses
-- Interpretation type (FORMAL/BIOGRAPHICAL/THEMATIC/etc.)
-- Summary of the claim
-- Page reference
+## Utilities
 
-**Priority order:** Vendler → Booth → Duncan-Jones (Arden) → Hotson → Chambers → Pequigney
-
-## Stage 3: Enrich (LLM-assisted + deterministic) [PLANNED]
-
-| Script | Populates | Pass | Method |
-|--------|-----------|------|--------|
-| `seed_annotations.py` | annotations | Pass 3 | LLM_ASSISTED |
-| `seed_glossary.py` | glossary_terms, term_sonnet_refs | Pass 3 | LLM_ASSISTED |
-| `link_intertexts.py` | intertextual_links | Pass 4 | LLM_ASSISTED + DETERMINISTIC |
-| `build_analysis.py` | Assembled analysis HTML per sonnet | — | DETERMINISTIC (template assembly) |
-
-### build_analysis.py Detail
-
-NO LLM calls. Reads from DB and assembles analysis HTML per sonnet:
-
-1. Query `sonnet_analysis_modes WHERE sonnet_id = N ORDER BY priority`
-2. For priority-1 mode: focused section pulling from `sonnet_figures`
-3. For priority-2+ modes: brief mention
-4. Always include: addressee, volta analysis, sequence context
-5. Optionally: scholarly debate, glossary notes, intertextual links
-
-## Stage 4: Build [PLANNED]
-
-| Script | Output | Method |
-|--------|--------|--------|
-| `build_site.py` | `site/*.html` + `site/style.css` + `site/script.js` | DETERMINISTIC |
-
-Generates: homepage, sonnet index, 154 × 3 content pages (analyses, directing, contexts), essay pages, candidate pages, scholar pages, glossary, timeline, about.
-
-## Stage 5: Validate [PLANNED]
-
-| Script | Checks | Method |
-|--------|--------|--------|
-| `validate_sonnets.py` | 14 lines per sonnet, no orphaned refs, enum compliance, all FKs valid | DETERMINISTIC |
+| Script | Purpose | Status |
+|--------|---------|--------|
+| `parse_gutenberg.py` | One-time: parse Gutenberg text → `sonnet_texts.json` | BUILT |
+| `fix_enrichment.py` | **DEPRECATED** — replaced by `validate_enrichment.py --fix` | DEPRECATED |
 
 ---
 
 ## Full Rebuild Command
 
 ```bash
-rm -f db/sonnets.db
-python scripts/init_db.py
-python scripts/migrate_v2.py
-python scripts/migrate_v3.py
+python scripts/init_db.py --force
 python scripts/seed_sonnets.py
-python scripts/seed_characters.py
-python scripts/seed_scholars.py
-python scripts/seed_devices.py
-python scripts/seed_modes.py
-python scripts/seed_sequence_groups.py
-# --- LLM passes (interactive sessions) ---
-python scripts/extract_full_analysis.py
-python scripts/extract_scholarly.py
-python scripts/seed_annotations.py
-python scripts/seed_glossary.py
-python scripts/link_intertexts.py
-# --- Deterministic assembly ---
-python scripts/build_analysis.py
-python scripts/build_site.py
-python scripts/validate_sonnets.py
+python scripts/seed_reference.py
+python scripts/seed_groups_v2.py
+python scripts/seed_essay_unresolved.py
+python scripts/validate_enrichment.py --fix     # fix all enrichment batches
+python scripts/enrich_sonnets.py                 # load all enrichment batches
+python scripts/validate_db.py
 ```
 
-## Dependencies
+---
 
-```
-Stage 1 → Stage 1b → Stage 2 → Stage 3 → Stage 4 → Stage 5
-                         ↑
-                   (LLM sessions)
-```
+## Idempotency Notes
 
-Stage 1b scripts can run in any order (no inter-dependencies).
-Stage 2 scripts: extract_full_analysis.py must complete before extract_scholarly.py (scholarly extraction benefits from addressee context).
-Stage 3 scripts: seed_annotations.py and seed_glossary.py can run in parallel. link_intertexts.py depends on both. build_analysis.py runs last in Stage 3.
+- Most scripts use INSERT OR IGNORE or INSERT OR REPLACE (safe to re-run)
+- `seed_groups_v2.py` uses DELETE→INSERT: running it wipes custom group edits
+- `init_db.py --force` is destructive: drops and recreates all tables
+- Enrichment files are the source of truth; DB is the compiled state

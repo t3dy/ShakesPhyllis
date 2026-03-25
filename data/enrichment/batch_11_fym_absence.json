@@ -1,0 +1,1633 @@
+{
+  "batch": "11_fym_absence",
+  "description": "FYM absence, journey, and separation sonnets 41-54",
+  "sonnets": [
+    {
+      "number": 41,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker attempts to excuse the FYM's sexual betrayals by blaming youth and beauty, but the final turn reveals the wound is personal: the FYM has stolen the Speaker's own mistress.",
+        "speaker_stance": "indulgent, wounded, self-deceiving",
+        "emotional_arc": "excuse-making -> reluctant accusation -> bitter clarity",
+        "dramatic_situation": "The Speaker knows the FYM has been unfaithful with women, including the Speaker's own mistress (the Dark Lady). He tries to rationalize the betrayal by attributing it to the FYM's irresistible beauty and youth.",
+        "subtext": "The elaborate excuse-making reveals the depth of the Speaker's attachment. He would rather blame nature than hold the FYM accountable. The phrase 'my seat' carries a sexual charge that the diplomatic surface barely contains.",
+        "analysis_text": "Sonnet 41 opens with one of the sequence's most revealing acts of self-deception: the Speaker calls the FYM's infidelities 'pretty wrongs.' The diminutive adjective attempts to domesticate genuine betrayal, and the first quatrain builds an elaborate exculpation grounded in natural philosophy — beauty attracts, youth strays, temptation follows. The rhetorical structure of Q1 is almost legalistic: premises (beauty, youth) lead to a conclusion (therefore, betrayal is natural). The second quatrain extends this logic through the parallel construction 'Gentle thou art... Beauteous thou art' — anaphora that mimics the inevitability the Speaker wants to establish. The rhetorical question at lines 7-8 ('what woman's son / Will sourly leave her till he have prevail'd?') universalizes the FYM's behavior, but 'woman's son' carries a buried irony: it is precisely the FYM's status as a mortal, gendered being that makes his betrayals sting. The volta at line 9 — 'Ay me! but yet thou mightst my seat forbear' — shatters the diplomatic surface. The exclamation 'Ay me!' is a cry of genuine pain breaking through the philosophical composure. 'My seat' is richly ambiguous: it means the Speaker's place in the beloved's affections, but also carries the bawdy sense of the Speaker's sexual position, now usurped. The third quatrain's personification of 'beauty' and 'straying youth' as agents who 'lead thee in their riot' continues the exculpatory strategy — the FYM is led, not leading — but 'riot' introduces moral disorder that the excuses cannot fully contain. The couplet crystallizes the 'twofold truth' that has been broken: the mistress's fidelity to the Speaker, and the FYM's fidelity to the Speaker. Both truths are destroyed 'by thy beauty' — the anaphoric repetition in the final couplet makes beauty itself the agent of destruction. The sonnet's deepest irony is structural: the very beauty the Speaker adores is the instrument of his betrayal."
+      },
+      "directing": {
+        "scene_setting": "The Speaker has learned that the FYM has had an affair with the Dark Lady. He is composing himself, trying to be generous, but the wound keeps breaking through.",
+        "character_note": "The Speaker is performing magnanimity — trying to play the sophisticated friend who understands that beautiful young men stray. But the mask slips at line 9.",
+        "fym_note": "The FYM is absent but powerfully present through the Speaker's obsessive cataloguing of his attractive qualities. His beauty is both excuse and accusation.",
+        "dl_note": "The Dark Lady appears as 'a woman' who 'woos' — her agency is acknowledged but quickly subsumed into the FYM's irresistibility. She is the unnamed third party whose theft precipitates the crisis.",
+        "overall_arc": "Begin with practiced ease and worldly tolerance. Let the philosophical tone gradually crack. The volta at line 9 should feel like a dam breaking. End the couplet with quiet devastation.",
+        "key_moments": [
+          {"line": 1, "note": "Deliver 'pretty wrongs' with studied casualness — the Speaker is trying too hard to sound unbothered."},
+          {"line": 5, "note": "The parallel 'Gentle thou art... Beauteous thou art' should build like a rhetorical flourish that the Speaker almost enjoys constructing."},
+          {"line": 9, "note": "'Ay me!' — the mask drops. This exclamation should be involuntary, a sigh that escapes before the Speaker can stop it."},
+          {"line": 12, "note": "'Twofold truth' — stress 'twofold.' The Speaker names the full scope of the betrayal for the first time."},
+          {"line": 14, "note": "'Being false to me' — the final three words land as a quiet devastation. The whole sonnet has been building to this admission."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["pretty", "wrongs", "liberty"],
+          "emotional_note": "Forced lightness — the diminutive 'pretty' is doing heavy lifting",
+          "delivery_note": "Deliver with deliberate nonchalance. The effort to sound casual should be audible.",
+          "gloss": "Those charming little infidelities that freedom produces",
+          "commentary": "'Pretty wrongs' is an oxymoron that encapsulates the sonnet's strategy of minimization. 'Liberty' means both personal freedom and libertinism (OED 6)."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["absent", "heart"],
+          "emotional_note": "A flicker of vulnerability beneath the composure",
+          "delivery_note": "Slight pause before 'heart' — the word carries more weight than the Speaker wants it to.",
+          "gloss": "When I am sometimes not in your thoughts",
+          "commentary": "'Absent from thy heart' reverses the expected formulation — it is the Speaker who is absent from the FYM's heart, not the other way around. The spatial absence of the journey sequence is anticipated as emotional absence."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Gentle", "won"],
+          "emotional_note": "Flattery disguised as philosophical observation",
+          "delivery_note": "The parallel construction with line 6 should be delivered with rhetorical pleasure — the Speaker admires his own argument.",
+          "gloss": "You are gentle-natured, and therefore easily seduced",
+          "commentary": "'Gentle' means both well-born (genteel) and soft-natured. 'To be won' echoes the passive construction throughout — the FYM is framed as acted upon, never acting."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["woman", "woos", "woman's son"],
+          "emotional_note": "Rueful, knowing",
+          "delivery_note": "Let 'woman's son' land with its full weight — it universalizes but also genders the betrayal.",
+          "gloss": "And when a woman does the pursuing, what man born of woman will refuse her?",
+          "commentary": "'Woman's son' is a circumlocution for 'man' that emphasizes shared human weakness. The rhetorical question assumes its own answer, foreclosing moral judgment."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["Ay", "me", "seat", "forbear"],
+          "emotional_note": "The mask cracks — genuine pain surfaces",
+          "delivery_note": "'Ay me!' should be involuntary, a sigh or groan. Then 'but yet' — the Speaker tries to regain composure while making his real complaint.",
+          "gloss": "But alas! You might at least have spared my place",
+          "commentary": "'My seat' — the Speaker's place in the beloved's affections, with bawdy undertone (sexual position). 'Forbear' means to refrain from, to spare. This is the volta: from general excuse to personal wound."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["chide", "straying", "youth"],
+          "emotional_note": "Reproachful, parental",
+          "delivery_note": "A tone of admonishment creeps in — the Speaker becomes the disappointed elder.",
+          "gloss": "And scold your beauty and your wandering youth",
+          "commentary": "'Straying youth' personifies youth as an agent leading the FYM astray — maintaining the fiction that the FYM himself bears no responsibility. 'Chide' is a word for scolding children."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["riot", "there"],
+          "emotional_note": "Bitter, the excuse is wearing thin",
+          "delivery_note": "'Riot' should sound harsh — it breaks the tone of gentle excuse-making. 'Even there' — stress 'there' with pointed accusation.",
+          "gloss": "Who lead you into their disorder to the very place",
+          "commentary": "'Riot' means debauchery, licentious living (OED 1). The word is too strong for the excuse-making frame, betraying the Speaker's true feelings."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["forced", "twofold", "truth"],
+          "emotional_note": "The accusation finally crystallizes",
+          "delivery_note": "'Twofold truth' is the crux — deliver it with the weight of two betrayals landing at once.",
+          "gloss": "Where you are compelled to break a double vow of fidelity",
+          "commentary": "'Twofold truth' — faithfulness owed to two people, the mistress and the Speaker. 'Forced' maintains the fiction that the FYM is passive, but 'truth' (meaning troth, fidelity) is absolute."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["Hers", "beauty", "tempting"],
+          "emotional_note": "Analytical, trying to master pain through logic",
+          "delivery_note": "The parallel with line 14 should be delivered as a legal summation — two counts of the same charge.",
+          "gloss": "Her fidelity broken because your beauty tempted her to you",
+          "commentary": "The couplet's parallel construction ('Hers by thy beauty... Thine by thy beauty') makes beauty the single cause of both betrayals. The Dark Lady's troth is broken by being tempted to the FYM."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["Thine", "beauty", "false", "me"],
+          "emotional_note": "Quiet devastation — the final word is the wound",
+          "delivery_note": "Deliver the final 'to me' with a falling cadence. All the elaborate excuse-making resolves to this simple, devastating admission.",
+          "gloss": "Your fidelity broken because your beauty made you false to me",
+          "commentary": "The anaphora of 'by thy beauty' in both couplet lines makes beauty simultaneously the object of love and the instrument of betrayal. 'False to me' — the sequence's first explicit acknowledgment of the love triangle."
+        }
+      ],
+      "themes": [
+        {"theme": "betrayal", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "love_triangle", "prominence": "PRIMARY"},
+        {"theme": "self-deception", "prominence": "SECONDARY"},
+        {"theme": "youth", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct second-person address throughout: 'thy heart,' 'thy beauty,' 'thou art'"},
+        {"character_id": "DL", "role": "MENTIONED", "evidence": "'A woman woos' (line 7); 'Hers by thy beauty tempting her to thee' (line 13) — the Dark Lady as the woman who seduced and was seduced"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'When I am sometime absent from thy heart' (line 2); 'my seat' (line 9); 'false to me' (line 14)"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "pretty wrongs", "explanation": "Oxymoron: wrongs cannot be pretty. The diminutive adjective attempts to contain moral damage."},
+        {"line_number": 5, "device_id": "ANAPHORA", "quotation": "Gentle thou art... Beauteous thou art", "explanation": "Parallel construction across lines 5-6 creates a logical chain: quality -> consequence. The repetition mimics inevitability."},
+        {"line_number": 5, "device_id": "ANTITHESIS", "quotation": "Gentle thou art, and therefore to be won, / Beauteous thou art, therefore to be assail'd", "explanation": "Won/assailed are antithetical responses to the same beauty — seduction and siege warfare coexist."},
+        {"line_number": 7, "device_id": "IRONY", "quotation": "what woman's son / Will sourly leave her till he have prevail'd?", "explanation": "The rhetorical question universalizes the FYM's behavior, but the Speaker is the specific victim of this universal tendency."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Ay me! but yet thou mightst my seat forbear", "explanation": "The exclamation shatters the diplomatic surface. The sonnet pivots from general excuse to personal accusation."},
+        {"line_number": 9, "device_id": "PUN", "quotation": "my seat", "explanation": "'Seat' means place of honor, position in the beloved's affections, with bawdy undertone of sexual position now usurped."},
+        {"line_number": 10, "device_id": "PERSONIFICATION", "quotation": "thy beauty and thy straying youth, / Who lead thee in their riot", "explanation": "Beauty and youth personified as riotous companions leading the FYM astray — externalizing his agency."},
+        {"line_number": 13, "device_id": "ANAPHORA", "quotation": "Hers by thy beauty... Thine by thy beauty", "explanation": "The couplet's parallel structure makes 'thy beauty' the single agent of both betrayals, compressing the triangle into two mirrored lines."},
+        {"line_number": 13, "device_id": "EPIGRAM", "quotation": "Hers by thy beauty tempting her to thee, / Thine by thy beauty being false to me", "explanation": "The couplet functions as a compressed legal verdict: two counts, one cause. The epigrammatic balance gives formal shape to emotional chaos."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is structured as a forensic argument: premises (youth, beauty), evidence (universal behavior), concession (line 9), and verdict (couplet). The rhetorical question in Q2 is a classic persuasive device."},
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The volta at line 9 is a dramatic event — the mask of composure drops and the Speaker's pain surfaces. The sonnet enacts the failure of its own excuse-making strategy."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Introduces the love triangle theme that dominates sonnets 40-42: beauty as both the object of desire and the instrument of betrayal."},
+        {"mode_id": "PROSODIC", "priority": 1, "rationale": "The anaphoric parallels in Q2 and the couplet give metrical regularity that contrasts with the emotional disruption at the volta."}
+      ]
+    },
+    {
+      "number": 43,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker argues that he sees the FYM most clearly when his eyes are closed in sleep, constructing a paradox of vision that makes darkness the truest sight and waking life a kind of blindness.",
+        "speaker_stance": "yearning, philosophically playful, insomniac",
+        "emotional_arc": "paradox established -> wonder at dream-vision -> longing for real presence -> epigrammatic reversal",
+        "dramatic_situation": "The Speaker lies awake during a period of physical separation from the FYM. He finds that the beloved's image appears most vividly in dreams and darkness, while daylight hours pass in dull inattention.",
+        "subtext": "The celebration of dream-vision betrays its own inadequacy. The repeated 'shadow,' 'shade,' 'imperfect' — the Speaker knows the dream is not enough. The virtuosity of the paradoxes masks a simple, aching want.",
+        "analysis_text": "Sonnet 43 inaugurates the absence sequence proper with a paradox that inverts the entire epistemology of sight: 'When most I wink, then do mine eyes best see.' The opening line's confident assertion establishes a counter-logic that the sonnet will elaborate with increasing ingenuity. The first quatrain builds the paradox through antithesis: day yields 'things unrespected' while sleep yields the beloved's image, and the oxymoron 'darkly bright' compresses the sonnet's central conceit into two words. The second quatrain intensifies by moving from the Speaker's experience to the FYM's nature: 'thou, whose shadow shadows doth make bright.' The wordplay on 'shadow' is dazzling and deliberate — the FYM's shadow (dream-image) outshines other shadows (real things), and his 'shadow's form' would 'form happy show.' This polyptoton (shadow/shadows, form/form) creates a verbal hall of mirrors that enacts the theme of appearance and reality. The a fortiori argument — if the mere shade is this bright, how much brighter would the real presence be? — drives the octave's logic. At line 9, the volta restates the wonder ('How would, I say, mine eyes be blessed made') but now with explicit longing for 'the living day,' introducing a note of pain that the brilliant paradoxes had almost concealed. The third quatrain's 'dead night' and 'heavy sleep' and 'sightless eyes' accumulate weight against the earlier lightness — the dream-vision is 'fair' but 'imperfect.' The couplet delivers the sonnet's argument as an epigram of perfectly balanced antithesis: 'All days are nights to see till I see thee, / And nights bright days when dreams do show thee me.' The chiastic structure (days-nights / nights-days) mirrors the inversion of sight that the whole sonnet has enacted. Yet for all its verbal brilliance, the couplet acknowledges that the Speaker lives in a world turned upside down — his days are nights, his reality is dream. The virtuosity is itself a symptom of sleepless obsession."
+      },
+      "directing": {
+        "scene_setting": "Night. The Speaker lies in darkness, separated from the FYM by distance. He has been unable to sleep, or has just woken from a vivid dream of the beloved's face.",
+        "character_note": "The Speaker is at his most intellectually playful — constructing elaborate paradoxes — but the playfulness is a coping mechanism. Beneath the wit lies raw longing.",
+        "fym_note": "The FYM is entirely absent physically but overwhelmingly present as an image, a shadow, a dream. His brightness is the sonnet's central datum.",
+        "dl_note": "Absent. This is a purely dyadic poem — Speaker and FYM, absence and presence.",
+        "overall_arc": "Begin with the paradox as intellectual delight, develop through increasing wonder, let the longing surface gradually in Q3, and land the couplet as both triumph of wit and confession of pain.",
+        "key_moments": [
+          {"line": 1, "note": "Deliver as a discovery — the Speaker has just realized something strange and true about his own perception."},
+          {"line": 4, "note": "'Darkly bright' — savor the oxymoron. It is the poem's conceptual kernel."},
+          {"line": 5, "note": "The dazzling wordplay on 'shadow shadows' should be spoken with delight — the Speaker is drunk on his own conceit."},
+          {"line": 11, "note": "'Fair imperfect shade' — the adjectives undercut each other. The dream is beautiful but not enough."},
+          {"line": 13, "note": "The couplet should be delivered as a polished epigram — rehearsed, balanced, devastating in its simplicity after the octave's complexity."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["most", "wink", "best", "see"],
+          "emotional_note": "Paradoxical delight — the Speaker discovers an inversion of logic",
+          "delivery_note": "Stress the paradox: 'most I wink' against 'best see.' The line should sound like a riddle being posed.",
+          "gloss": "When I close my eyes most completely, I see most clearly",
+          "commentary": "'Wink' means to close the eyes (OED v1 1a), not the modern sense of a quick blink. The line establishes the entire sonnet's conceit: closed eyes see better than open ones."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["unrespected"],
+          "emotional_note": "Dismissive — the waking world is worthless",
+          "delivery_note": "Let 'unrespected' carry the weight — everything in daylight is beneath notice.",
+          "gloss": "Because during the day they see only unregarded things",
+          "commentary": "'Unrespected' — unregarded, not valued (OED 1). The waking world is emptied of significance by the beloved's absence."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["darkly", "bright"],
+          "emotional_note": "Wonder, beauty discovered in paradox",
+          "delivery_note": "The oxymoron should be delivered as a single compound idea — two words fused into one impossible image.",
+          "gloss": "And, bright in a dark way, are directed toward brightness in darkness",
+          "commentary": "'Darkly bright' is the sonnet's central oxymoron — the dream-vision of the FYM produces light within darkness. The phrase anticipates the couplet's reversal of day and night."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["shadow", "shadows"],
+          "emotional_note": "Dazzled, intellectually exhilarated",
+          "delivery_note": "The polyptoton ('shadow shadows') should be relished — the Speaker is performing verbal virtuosity as a form of devotion.",
+          "gloss": "You, whose mere image makes all other shadows bright",
+          "commentary": "'Shadow' means image, likeness, reflection (OED 6). The FYM's shadow (dream-image) illuminates other shadows (darkness, other images). Platonic overtones: the beloved as the Form of which all else is shadow."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["shadow's", "form", "form"],
+          "emotional_note": "Rhetorically intoxicated",
+          "delivery_note": "The double 'form' creates a stammering effect — the Speaker's language buckles under the weight of what he is trying to express.",
+          "gloss": "How would the shape of your image create a joyful spectacle",
+          "commentary": "Polyptoton again: 'shadow's form form happy show.' The repetition of 'form' creates a verbal mirror. 'Happy show' — a blessed appearance, a fortunate spectacle."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["blessed", "made"],
+          "emotional_note": "Longing surfaces through the rhetorical display",
+          "delivery_note": "'I say' is a parenthetical that breaks the rhetorical flow — the Speaker pauses, restates, as if overwhelmed by his own argument.",
+          "gloss": "How blessed would my eyes be made",
+          "commentary": "'How would, I say' — the self-interruption ('I say') suggests the Speaker is composing in real time, circling back to his own wonder. The volta restates Q2's hypothetical with intensified desire."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["dead", "fair", "imperfect"],
+          "emotional_note": "Beauty shadowed by inadequacy",
+          "delivery_note": "'Fair imperfect' — the adjectives pull in opposite directions. Let the tension between them be audible.",
+          "gloss": "When in the death-like night your beautiful but incomplete image",
+          "commentary": "'Dead night' — night as death, anticipating the sequence's mortality themes. 'Fair imperfect shade' — beautiful but inadequate. The dream-vision is confessed to be insufficient."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["days", "nights", "see", "thee"],
+          "emotional_note": "Epigrammatic clarity after the octave's complexity",
+          "delivery_note": "Deliver as a polished aphorism. The balance should feel rehearsed, inevitable.",
+          "gloss": "All days are like nights to me until I see you",
+          "commentary": "The couplet's chiasmus (days=nights, nights=days) formally enacts the inversion the sonnet has argued. 'To see till I see thee' — the pun on 'see' (perceive / look at) links epistemology to desire."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["nights", "bright", "days", "dreams"],
+          "emotional_note": "Triumphant and melancholy simultaneously",
+          "delivery_note": "The final line should glow — 'bright days' is the warmest phrase in the poem — but 'dreams' is the last word, and dreams are not real.",
+          "gloss": "And nights become bright days when dreams reveal you to me",
+          "commentary": "'Show thee me' — the unusual word order places 'me' as the final syllable, emphasizing the Speaker's reception of the image. The rhyme thee/me enacts the union that only dream achieves."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "sight_and_vision", "prominence": "PRIMARY"},
+        {"theme": "paradox", "prominence": "PRIMARY"},
+        {"theme": "dreams", "prominence": "SECONDARY"},
+        {"theme": "platonic_idealism", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'In dreams they look on thee' (line 3); 'thou, whose shadow shadows doth make bright' (line 5)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'Mine eyes' (line 1); the entire phenomenological report is the Speaker's subjective experience"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PARADOX", "quotation": "When most I wink, then do mine eyes best see", "explanation": "The foundational paradox: closed eyes see best. Inverts the epistemology of sight."},
+        {"line_number": 4, "device_id": "PARADOX", "quotation": "darkly bright, are bright in dark directed", "explanation": "Oxymoron compounded: brightness produced by darkness, sight directed through darkness toward light."},
+        {"line_number": 5, "device_id": "CONCEIT", "quotation": "thou, whose shadow shadows doth make bright", "explanation": "The shadow conceit: the FYM's image (shadow) illuminates all other darkness (shadows). Extended through the entire octave."},
+        {"line_number": 5, "device_id": "ALLITERATION", "quotation": "shadow shadows", "explanation": "Polyptoton creates an incantatory, hypnotic effect appropriate to the dream-state being described."},
+        {"line_number": 6, "device_id": "ALLITERATION", "quotation": "shadow's form form happy show", "explanation": "The repetition of 'form' creates a stammering, dazzled quality — language straining to capture the ineffable."},
+        {"line_number": 11, "device_id": "ANTITHESIS", "quotation": "dead night... fair imperfect shade", "explanation": "Dead/fair, night/shade — the dream-vision is simultaneously beautiful and death-associated, adequate and insufficient."},
+        {"line_number": 13, "device_id": "CHIASMUS", "quotation": "All days are nights... And nights bright days", "explanation": "The chiastic structure (days-nights / nights-days) formally enacts the inversion of reality that the entire sonnet argues."},
+        {"line_number": 13, "device_id": "EPIGRAM", "quotation": "All days are nights to see till I see thee, / And nights bright days when dreams do show thee me", "explanation": "The couplet compresses the sonnet's fourteen-line argument into a perfectly balanced two-line formulation."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "to see till I see thee", "explanation": "'See' shifts from general perception to specific sight of the beloved — epistemological pun linking knowledge and desire."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The sonnet's power resides in its sustained manipulation of light/dark imagery: shadow, shade, bright, dark, night, day, eyes, sight, wink, sightless."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The a fortiori argument structure (if the shadow is this bright, how bright the substance?) drives the octave's logic."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "Polyptoton (shadow/shadows, form/form) and chiasmus (days-nights/nights-days) create sonic patterns that mirror the thematic inversions."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Inaugurates the absence sequence's central concern: how the beloved can be present in absence, and what that presence costs."}
+      ]
+    },
+    {
+      "number": 44,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker wishes his flesh were thought so he could leap across distance to the FYM, but recognizes he is made of the heavy elements — earth and water — and can only weep.",
+        "speaker_stance": "frustrated, leaden, grieving",
+        "emotional_arc": "wishful fantasy -> intellectual delight in the hypothesis -> crushing recognition of bodily limitation -> resignation to tears",
+        "dramatic_situation": "The Speaker is physically distant from the FYM, perhaps on a journey. He fantasizes about thought's ability to transcend space, then is crushed by the recognition that his body — composed of the heavy elements earth and water — cannot follow his mind.",
+        "subtext": "The four-elements conceit (completed in Sonnet 45) maps Renaissance natural philosophy onto erotic longing. The Speaker's body becomes a prison. The tears at the end are the body's only answer to the mind's desire.",
+        "analysis_text": "Sonnet 44 opens the four-elements diptych with a conditional that establishes both its fantasy and its frustration: 'If the dull substance of my flesh were thought.' The subjunctive 'if' concedes the impossibility even as it imagines the liberation. 'Dull substance' — the body is explicitly heavy, stupid, inert. The first quatrain's conditional mood builds an exhilarating counter-factual: if flesh were thought, distance could not stop the Speaker, space would collapse, remote limits would become present. The energy of the hypothesis is palpable in the enjambment across lines 1-4, the syntax leaping forward as thought would leap. The second quatrain extends the fantasy: 'No matter then' — a pun on 'matter' (physical substance / importance) that encapsulates the poem's concern with materiality. 'Nimble thought can jump both sea and land' — the verb 'jump' is wonderfully physical for an immaterial agent, and the alliterative energy of 'jump both sea and land' mimics thought's speed. But at line 9, the tonal volta delivers the crushing reversal: 'But, ah! thought kills me that I am not thought.' The line is a masterpiece of self-referential paradox — the thought that he is not thought is itself a thought, but one that produces pain rather than transcendence. The exclamation 'ah!' marks the return from hypothesis to reality. The third quatrain completes the elemental scheme: the Speaker is 'of earth and water wrought,' the heavy, slow elements that cannot travel with thought's speed. He must 'attend time's leisure with my moan' — a phrase that makes waiting itself a form of suffering. The couplet resolves into the body's only eloquence: 'heavy tears, badges of either's woe.' Tears are composed of water (element) and fall earthward (element) — the body can only produce the liquid evidence of its own limitation. 'Badges' — visible insignia, as if grief were a livery the Speaker is forced to wear."
+      },
+      "directing": {
+        "scene_setting": "On the road, possibly on horseback (anticipating sonnets 50-51). The Speaker is physically in transit, far from the FYM, feeling the weight of his own body.",
+        "character_note": "The Speaker begins in flight — his mind racing ahead of his body — then crashes back into the heaviness of flesh. He is a thinker trapped in a body.",
+        "fym_note": "The FYM is at the journey's unspecified end — 'where thou dost stay.' His stillness contrasts with the Speaker's painful motion.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with energetic, wishful hypothetical. Build momentum through Q2. Crash at line 9. Let Q3 and the couplet settle into heavy, tearful resignation.",
+        "key_moments": [
+          {"line": 1, "note": "Stress 'dull substance' — the body's heaviness is the poem's problem."},
+          {"line": 7, "note": "'Nimble thought can jump' — let the delivery match the content: quick, light, energetic."},
+          {"line": 9, "note": "'But, ah!' — the crash. Everything slows down. The hypothesis collapses."},
+          {"line": 14, "note": "'Heavy tears' — the final image should feel weighted, slow, inevitable."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["dull", "substance", "flesh", "thought"],
+          "emotional_note": "Frustrated longing — the body as obstacle",
+          "delivery_note": "Stress the contrast: 'dull substance of my flesh' vs. 'thought.' The conditional 'if' acknowledges impossibility from the start.",
+          "gloss": "If the heavy matter of my body were pure thought",
+          "commentary": "'Dull substance' introduces the four-elements conceit: flesh is composed of the heavy elements (earth, water). 'Thought' is aligned with the lighter elements (air, fire) that Sonnet 45 will address."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["Injurious", "distance"],
+          "emotional_note": "Resentment toward physical separation",
+          "delivery_note": "'Injurious' should be spoken with bitterness — distance is personified as an antagonist.",
+          "gloss": "Harmful distance would not be able to block my path",
+          "commentary": "'Injurious distance' personifies separation as an agent of harm. The legal overtone (injury) anticipates the juridical language of sonnets 46-47."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["matter"],
+          "emotional_note": "Intellectually playful amid the frustration",
+          "delivery_note": "The pun on 'matter' should register — it matters that he is made of matter.",
+          "gloss": "It would not matter even if my foot stood",
+          "commentary": "'No matter' puns: (1) it would not matter, (2) there would be no matter (physical substance) to impede. The pun is the poem's conceptual hinge."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["nimble", "jump", "sea", "land"],
+          "emotional_note": "Exhilaration — thought in flight",
+          "delivery_note": "Quick, light delivery — the rhythm should mimic thought's agility.",
+          "gloss": "For agile thought can leap over both ocean and land",
+          "commentary": "'Jump' is wonderfully physical for an immaterial action. The monosyllables 'jump both sea and land' give the line a bounding energy."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["ah", "thought", "kills", "not", "thought"],
+          "emotional_note": "The crash — fantasy collapses into painful reality",
+          "delivery_note": "'But, ah!' is the pivot. Everything slows. 'Thought kills me that I am not thought' is self-referential and agonized.",
+          "gloss": "But alas! The thought that I am not thought kills me",
+          "commentary": "Self-referential paradox: the thought that destroys is the thought of not being thought. 'Kills' is hyperbolically strong — the body's limitation is experienced as death."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["earth", "water", "wrought"],
+          "emotional_note": "Heavy, resigned to elemental nature",
+          "delivery_note": "Let the monosyllables weigh: 'earth and water wrought.' The line should feel as heavy as its content.",
+          "gloss": "But being made so much of earth and water",
+          "commentary": "The four-elements theory: the Speaker's body is composed of the heavy elements (earth, water), while his thought and desire (air, fire) are treated in Sonnet 45."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["attend", "time's", "leisure", "moan"],
+          "emotional_note": "Forced patience, suffering as waiting",
+          "delivery_note": "'Time's leisure' — time takes its time, and the Speaker can only moan while waiting.",
+          "gloss": "I must wait upon time's slow convenience with my groaning",
+          "commentary": "'Attend time's leisure' — attend as both wait and serve. Time is personified as a lord who moves at his own pace, indifferent to the Speaker's suffering."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["heavy", "tears", "badges"],
+          "emotional_note": "Resigned, the body's only eloquence is weeping",
+          "delivery_note": "Slow, heavy delivery. 'Badges' should land with deliberate formality — grief as livery.",
+          "gloss": "Only heavy tears, visible emblems of the woe of both elements",
+          "commentary": "'Badges' — insignia worn on clothing to show allegiance (OED 1). Tears are the body's heraldry, declaring its servitude to grief. 'Either's woe' — both earth and water share in the sorrow."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "body_and_mind", "prominence": "PRIMARY"},
+        {"theme": "four_elements", "prominence": "PRIMARY"},
+        {"theme": "distance", "prominence": "SECONDARY"},
+        {"theme": "tears", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Where thou dost stay' (line 4); 'remov'd from thee' (line 6); 'when thou art gone' (line 10)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'My flesh' (line 1); 'my way' (line 2); 'my moan' (line 12) — the entire poem is the Speaker's bodily complaint"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "dull substance of my flesh", "explanation": "The body as heavy, inert matter — flesh opposed to thought, anticipating the four-elements scheme."},
+        {"line_number": 2, "device_id": "PERSONIFICATION", "quotation": "Injurious distance", "explanation": "Distance personified as an agent that inflicts injury — a legal/martial figure."},
+        {"line_number": 5, "device_id": "PUN", "quotation": "No matter then", "explanation": "'No matter' = (1) it would not matter, (2) there would be no physical matter to impede travel."},
+        {"line_number": 7, "device_id": "HYPERBOLE", "quotation": "nimble thought can jump both sea and land", "explanation": "Thought's speed rendered as physical leaping — the hyperbole dramatizes the fantasy of immaterial travel."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "But, ah! thought kills me that I am not thought", "explanation": "The tonal pivot: from exhilarating hypothesis to crushing recognition. The exclamation marks the return to reality."},
+        {"line_number": 9, "device_id": "PARADOX", "quotation": "thought kills me that I am not thought", "explanation": "Self-referential paradox: thought itself produces the thought of its own inadequacy. Thinking about not being thought is still thinking."},
+        {"line_number": 12, "device_id": "PERSONIFICATION", "quotation": "attend time's leisure", "explanation": "Time personified as a lord who moves at his own pace, indifferent to the Speaker's urgency."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "heavy tears, badges of either's woe", "explanation": "Tears as heraldic badges — the body wears its grief as livery. 'Either' refers to earth and water, whose combined product is tears."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The four-elements conceit structures every image: flesh as earth/water, thought as weightless traveler, tears as the body's elemental product."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The conditional argument (if... then... but) drives the sonnet from hypothesis through counter-factual to devastating conclusion."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "Part one of a diptych with Sonnet 45. The heavy elements (44) are completed by the light elements (45). The two poems function as a single argument split across 28 lines."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Body/mind duality mapped onto Renaissance cosmology. The poem dramatizes the Neoplatonic problem of the soul trapped in matter."}
+      ]
+    },
+    {
+      "number": 45,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "Completing the elements diptych, the Speaker describes how his lighter elements — air (thought) and fire (desire) — fly to the FYM as messengers, leaving his body to sink toward death, then return with news of the beloved's health, only to be sent forth again in an endless cycle.",
+        "speaker_stance": "metaphysically inventive, melancholy, trapped in a loop",
+        "emotional_arc": "elemental dispatch -> bodily collapse -> brief joy at return -> immediate relapse into sadness",
+        "dramatic_situation": "Continuing from Sonnet 44, the Speaker now describes the two lighter elements — air and fire — that have escaped his heavy body to travel to the FYM. But their departure leaves him depleted, and their return brings only momentary relief before the cycle begins again.",
+        "subtext": "The endless loop of joy and sadness in the couplet reveals that no amount of metaphysical ingenuity can solve the problem of physical absence. The conceit is beautiful but the situation is hopeless.",
+        "analysis_text": "Sonnet 45 completes the four-elements diptych begun in Sonnet 44 by addressing 'the other two' — air and fire, the lighter elements that represent thought and desire. Where 44 was heavy, slow, and earthbound, 45 begins with motion: 'slight air, and purging fire / Are both with thee.' The word 'slight' carries its Renaissance sense of smooth, swift, insubstantial, and 'purging fire' evokes both alchemical purification and the burning intensity of desire. The brilliant coinage 'present-absent' in line 4 names the paradox that structures the entire absence sequence: the beloved is simultaneously here and not here, the elements both with the Speaker and with the FYM. The second quatrain develops the medical conceit: when thought and desire depart on their 'tender embassy,' the Speaker's 'life, being made of four, with two alone / Sinks down to death.' The Galenic humoral theory is precisely deployed — a body lacking two of its four constitutive elements is in a state of melancholic imbalance. 'Sinks down to death' is not metaphor but diagnosis. The volta at line 9 introduces the return: 'Until life's composition be recur'd' — 'recur'd' meaning cured, restored to proper balance. The swift messengers return 'assur'd / Of thy fair health,' and the Speaker momentarily joys. But the couplet turns this resolution into a trap: 'This told, I joy; but then no longer glad, / I send them back again, and straight grow sad.' The four-beat rhythm of monosyllables ('and straight grow sad') lands with leaden finality. The Sisyphean structure — joy, dispatch, sadness, return, joy, dispatch — reveals that the conceit cannot solve the problem it so ingeniously describes. The Speaker has built a perpetual motion machine of grief."
+      },
+      "directing": {
+        "scene_setting": "Continuation of Sonnet 44's scene. The Speaker feels himself divided — his body heavy and static, his thoughts and desires racing toward the distant beloved.",
+        "character_note": "The Speaker is a natural philosopher of his own suffering, mapping Galenic medicine onto erotic absence. But the intellectual framework cannot contain the emotional cycle.",
+        "fym_note": "The FYM is the destination of the Speaker's 'tender embassy' — passive recipient of thought and desire, sending back (unknowingly) reassurance of his health.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin light and swift (matching air and fire), sink into melancholy in Q2, brighten briefly at the messengers' return, then let the couplet's trap close.",
+        "key_moments": [
+          {"line": 1, "note": "'Slight air, and purging fire' — deliver with lightness and heat. These are the quick elements."},
+          {"line": 4, "note": "'Present-absent' — a compound that should be spoken as one paradoxical word."},
+          {"line": 8, "note": "'Sinks down to death' — gravity in the voice. The body collapses without its lighter components."},
+          {"line": 13, "note": "'This told, I joy; but then no longer glad' — the semicolon marks the pivot from joy to its immediate dissolution."},
+          {"line": 14, "note": "'And straight grow sad' — flat, heavy monosyllables. The cycle is inescapable."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["other", "two", "slight", "air", "purging", "fire"],
+          "emotional_note": "Light, swift — the opposite of Sonnet 44's heaviness",
+          "delivery_note": "Begin as if continuing a conversation already in progress. 'The other two' refers back to 44's earth and water.",
+          "gloss": "The other two elements, delicate air and cleansing fire",
+          "commentary": "'The other two' — air and fire, completing the quaternary begun in Sonnet 44. 'Slight' = smooth, swift (OED a. 4). 'Purging fire' = fire that purifies, with alchemical overtones."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["present-absent"],
+          "emotional_note": "The paradox named directly",
+          "delivery_note": "Deliver 'present-absent' as a single compound — the hyphen is audible.",
+          "gloss": "These, both present and absent, glide back and forth with swift motion",
+          "commentary": "'Present-absent' — Shakespeare's coinage for the fundamental condition of the absence sonnets. The beloved is simultaneously here (in thought) and not here (in body)."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["tender", "embassy"],
+          "emotional_note": "Gentle, diplomatic — love as statecraft",
+          "delivery_note": "'Tender embassy' should sound delicate, formal — thought and desire as courtly ambassadors.",
+          "gloss": "On a gentle diplomatic mission of love to you",
+          "commentary": "'Tender embassy' — love's messengers sent on a diplomatic errand. The metaphor dignifies the compulsive reaching-out of desire."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["four", "two", "alone"],
+          "emotional_note": "Mathematical despair — the arithmetic of depletion",
+          "delivery_note": "Stress the numbers: four, two, alone. The subtraction is the poem's crisis.",
+          "gloss": "My life, composed of four elements, with only two remaining",
+          "commentary": "Galenic medicine: the body requires all four humors/elements in balance. With two gone, the remaining two (earth, water) produce melancholy — literally, black bile."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["Sinks", "down", "death", "melancholy"],
+          "emotional_note": "The body collapses — gravitational pull of heavy elements",
+          "delivery_note": "Slow, heavy delivery. 'Sinks down to death' should feel like descent.",
+          "gloss": "Sinks toward death, weighed down by melancholy",
+          "commentary": "'Melancholy' is both emotional state and medical diagnosis — literally, an excess of the cold, dry humor (earth) without the tempering of air and fire."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["composition", "recur'd"],
+          "emotional_note": "Clinical, medical — the cure is elemental rebalancing",
+          "delivery_note": "'Recur'd' is a technical term — deliver it with precision.",
+          "gloss": "Until life's elemental composition is cured / restored",
+          "commentary": "'Composition' — the mixture of elements that constitutes life. 'Recur'd' = cured, restored to health (from Latin recuperare). Medical terminology applied to erotic suffering."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["joy", "no", "longer", "glad"],
+          "emotional_note": "Joy instantly dissolving — the briefest possible happiness",
+          "delivery_note": "The semicolon at mid-line is crucial: 'I joy;' — a beat of happiness — 'but then no longer glad' — immediate collapse.",
+          "gloss": "Hearing this, I rejoice; but then, no longer happy",
+          "commentary": "The line's structure enacts its content: joy occupies three words ('This told, I joy'), then the rest of the line undoes it. The asymmetry — brief joy, longer sadness — mirrors the imbalance."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["send", "back", "again", "straight", "grow", "sad"],
+          "emotional_note": "Flat, resigned, Sisyphean",
+          "delivery_note": "Heavy monosyllables: 'and straight grow sad.' No lift, no hope. The cycle has already restarted.",
+          "gloss": "I send them back again and immediately become sad",
+          "commentary": "'Straight' = immediately. The couplet reveals the conceit as a perpetual motion machine of grief: dispatch → melancholy → return → joy → dispatch → melancholy. No resolution is possible within the system."
+        }
+      ],
+      "themes": [
+        {"theme": "four_elements", "prominence": "PRIMARY"},
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "body_and_mind", "prominence": "PRIMARY"},
+        {"theme": "melancholy", "prominence": "SECONDARY"},
+        {"theme": "cyclical_suffering", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Are both with thee, wherever I abide' (line 2); 'tender embassy of love to thee' (line 6); 'return'd from thee' (line 10)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'My thought... my desire' (line 3); 'My life' (line 7); 'I joy... I send... grow sad' (lines 13-14)"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "slight air, and purging fire", "explanation": "Thought mapped onto air, desire onto fire — the lighter elements of Renaissance cosmology represent the immaterial faculties."},
+        {"line_number": 4, "device_id": "PARADOX", "quotation": "present-absent", "explanation": "Shakespeare's coinage for the condition of the absent beloved — simultaneously here in thought and gone in body."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "tender embassy of love", "explanation": "Thought and desire as diplomatic envoys — love's messengers sent to the beloved's court."},
+        {"line_number": 8, "device_id": "HYPERBOLE", "quotation": "Sinks down to death, oppress'd with melancholy", "explanation": "The body's depletion rendered as death — the medical conceit pushed to extremity."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Until life's composition be recur'd", "explanation": "The turn from decline to recovery — but the recovery will prove temporary."},
+        {"line_number": 13, "device_id": "ANTITHESIS", "quotation": "This told, I joy; but then no longer glad", "explanation": "Joy and sadness compressed into a single line, separated by a semicolon — the shortest possible happiness."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "I send them back again, and straight grow sad", "explanation": "The conceit's elegance becomes its trap: the cycle has no exit. The intellectual solution produces perpetual suffering."},
+        {"line_number": 4, "device_id": "ENJAMBMENT", "quotation": "These present-absent with swift motion slide", "explanation": "The line's gliding rhythm — iambic pentameter with feminine ending feel — mimics the swift sliding of the lighter elements."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The four-elements conceit provides every image: air as thought, fire as desire, the body sinking, messengers returning. The system is rigorously consistent."},
+        {"mode_id": "STRUCTURAL", "priority": 3, "rationale": "Part two of a diptych with Sonnet 44. The heavy elements (44) are completed by the light elements (45). Together they form a single argument about body-mind separation."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The Sisyphean cycle of joy and grief in the couplet universalizes the lover's condition: no conceit, however elegant, can solve physical absence."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The four-elements scheme draws on Empedocles (via Aristotle) and Galenic humoral theory. 'Purging fire' carries alchemical overtones."}
+      ]
+    },
+    {
+      "number": 46,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker's eye and heart go to war over possession of the FYM's image: the eye claims his outward beauty, the heart claims his inward love, and a jury of thoughts delivers the compromise verdict.",
+        "speaker_stance": "litigious, wittily divided, self-anatomizing",
+        "emotional_arc": "conflict declared -> legal arguments presented -> arbitration -> settlement",
+        "dramatic_situation": "During the absence from the FYM, the Speaker experiences an internal civil war between eye and heart over which faculty owns the beloved's image. The conceit plays out as a full legal proceeding with plaintiff, defendant, jury, and verdict.",
+        "subtext": "The legal apparatus barely conceals the desperation beneath: the Speaker is so starved for the FYM's presence that his own faculties fight over scraps of memory. The neat verdict cannot truly satisfy either party.",
+        "analysis_text": "Sonnet 46 opens with martial immediacy: 'Mine eye and heart are at a mortal war.' The adjective 'mortal' is precisely chosen — this is war to the death, not a quarrel, and the internal division threatens the Speaker's life as surely as the elemental depletion of sonnets 44-45. The first quatrain establishes the legal dispute: the eye would bar the heart from the FYM's picture, the heart would deny the eye its freedom to gaze. The chiastic syntax of lines 3-4 ('Mine eye my heart' / 'My heart mine eye') enacts the deadlock, the two faculties so entangled they can barely be syntactically separated. The second quatrain presents the arguments: the heart claims the FYM resides within it, 'a closet never pierced with crystal eyes' — a private chamber impervious to sight. The eye counters that the FYM's 'fair appearance lies' within the eye — and the verb 'lies' carries the pun on deception that shadows the entire conceit, hinting that both claims rest on illusion. At line 9, the logical volta introduces the resolution mechanism: a jury ('quest of thoughts') is impanelled to adjudicate. But the Speaker notes they are 'all tenants to the heart' — hardly impartial. The jury's bias suggests the heart's claim is stronger, or that the Speaker's deepest allegiance is to inner love rather than outer beauty. The couplet delivers the verdict with legal precision: 'mine eye's due is thy outward part, / And my heart's right, thy inward love of heart.' The Solomon-like division — the eye gets the body, the heart gets the love — is satisfying as rhetoric but reveals a deeper anxiety: can love survive when divided into inside and outside, body and soul? The settlement papers over a fracture that absence has created in the Speaker's very selfhood."
+      },
+      "directing": {
+        "scene_setting": "The Speaker is alone, perhaps holding or imagining a portrait of the FYM. His internal faculties go to war over the image.",
+        "character_note": "The Speaker performs self-division as courtroom drama. He is simultaneously plaintiff, defendant, judge, and jury — a one-man legal system trying to adjudicate his own longing.",
+        "fym_note": "The FYM is present only as an image — a picture, a memory. His 'outward part' and 'inward love' are the contested territories.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the drama of war, present the competing claims with forensic clarity, deliver the verdict with judicial authority, but let the couplet's neatness feel slightly too neat — a resolution that papers over the crack.",
+        "key_moments": [
+          {"line": 1, "note": "'Mortal war' — begin with maximum intensity. This is not metaphor for the Speaker; it feels like death."},
+          {"line": 5, "note": "The heart's plea: 'thou in him dost lie' — deliver with the intimacy of a lover's claim."},
+          {"line": 9, "note": "The volta shifts to judicial procedure — the tone becomes formal, legalistic."},
+          {"line": 13, "note": "The verdict: deliver with the satisfaction of a problem solved, but allow a trace of doubt — is this really enough?"}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["eye", "heart", "mortal", "war"],
+          "emotional_note": "Violent, urgent — internal civil war",
+          "delivery_note": "Stress 'mortal' — this is not a game but a battle to the death.",
+          "gloss": "My eye and my heart are engaged in deadly warfare",
+          "commentary": "'Mortal war' — war to the death. The personification of eye and heart as warring parties is a medieval tradition (the débat), here recast as legal conflict."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["eye", "heart", "picture's", "sight"],
+          "emotional_note": "Syntactically knotted — the deadlock enacted in grammar",
+          "delivery_note": "The chiastic entanglement of 'Mine eye my heart' should feel almost tongue-tied — the faculties cannot be separated.",
+          "gloss": "My eye would deny my heart the sight of your picture",
+          "commentary": "The chiastic syntax (eye-heart / heart-eye) across lines 3-4 formally mirrors the deadlock. The disputed object is 'thy picture's sight' — a miniature portrait or mental image."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["heart", "plead", "lie"],
+          "emotional_note": "Intimate, the heart's passionate claim",
+          "delivery_note": "The heart's plea should sound warmer, more personal than the eye's counter-claim.",
+          "gloss": "My heart pleads that you reside within it",
+          "commentary": "'Thou in him dost lie' — the heart claims the FYM dwells within it. 'Lie' carries the latent pun on falsehood, anticipating line 8's 'lies.'"
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["closet", "pierced", "crystal"],
+          "emotional_note": "Private, protective — the heart as locked chamber",
+          "delivery_note": "'A closet never pierced' — emphasis on the inviolability of the inner chamber.",
+          "gloss": "A private chamber that has never been penetrated by the eye's crystal gaze",
+          "commentary": "'Closet' — a private room, an inner chamber (OED 1). 'Crystal eyes' — eyes compared to crystal for their transparency and brightness. The heart claims impenetrability."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["fair", "appearance", "lies"],
+          "emotional_note": "The eye's counter-claim, with a buried doubt",
+          "delivery_note": "Let 'lies' resonate with its double meaning — resides / deceives.",
+          "gloss": "And says that your fair image resides within the eye",
+          "commentary": "'Lies' puns on (1) resides, dwells and (2) deceives, tells falsehoods. The pun undercuts the eye's claim even as it makes it — appearance may be mere illusion."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["impannelled"],
+          "emotional_note": "Formal, legalistic — the dispute enters the courtroom",
+          "delivery_note": "Shift to a more formal, juridical tone. The language becomes technical.",
+          "gloss": "To decide this legal claim, a jury is assembled",
+          "commentary": "'Impannelled' — the legal term for assembling a jury (OED v. 1). 'Side this title' — adjudicate this legal claim. The entire conceit is now fully within the language of the Inns of Court."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["quest", "thoughts", "tenants", "heart"],
+          "emotional_note": "Wryly biased — the jury is rigged",
+          "delivery_note": "Let the irony register: 'all tenants to the heart' — these are not impartial jurors.",
+          "gloss": "An inquest of thoughts, all of them loyal to the heart",
+          "commentary": "'Quest' — an inquest, a jury of inquiry (OED 4). 'Tenants to the heart' — thoughts owe allegiance to the heart, making the jury inherently biased. The legal fiction is transparently rigged."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["eye's", "due", "outward"],
+          "emotional_note": "Judicial clarity — the verdict rendered",
+          "delivery_note": "Deliver as a formal judgment. The parallel with line 14 should feel balanced, complete.",
+          "gloss": "Therefore: my eye's rightful share is your outward appearance",
+          "commentary": "'Moiety' (line 12) and 'part' divide the FYM into outer and inner. 'Due' — what is legally owed. The eye gets the surface, the heart gets the depth."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["heart's", "right", "inward", "love"],
+          "emotional_note": "Satisfying closure, but slightly too neat",
+          "delivery_note": "The repetition of 'heart' (three times in the couplet) should feel almost insistent, as if the heart needed extra convincing.",
+          "gloss": "And my heart's rightful share is your inward love",
+          "commentary": "The verdict divides the FYM: outward beauty to the eye, inward love to the heart. The resolution parallels the body/soul division of the elements diptych, but cannot fully overcome the absence it tries to manage."
+        }
+      ],
+      "themes": [
+        {"theme": "sight_and_vision", "prominence": "PRIMARY"},
+        {"theme": "eye_vs_heart", "prominence": "PRIMARY"},
+        {"theme": "absence", "prominence": "SECONDARY"},
+        {"theme": "legal_metaphor", "prominence": "SECONDARY"},
+        {"theme": "inner_vs_outer", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'The conquest of thy sight' (line 2); 'thou in him dost lie' (line 5); 'thy outward part... thy inward love' (lines 13-14)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'Mine eye and heart' (line 1) — the Speaker is literally divided, the war is within his own psyche"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PERSONIFICATION", "quotation": "Mine eye and heart are at a mortal war", "explanation": "Eye and heart personified as warring combatants — the medieval débat tradition adapted to sonnet form."},
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "mortal war", "explanation": "Internal psychological division rendered as warfare — the absence has created civil war within the Speaker's psyche."},
+        {"line_number": 3, "device_id": "CHIASMUS", "quotation": "Mine eye my heart... My heart mine eye", "explanation": "The chiastic syntax across lines 3-4 formally enacts the deadlock — the two faculties are syntactically inseparable."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "A closet never pierced with crystal eyes", "explanation": "The heart as a locked private chamber — impenetrable to the eye's gaze."},
+        {"line_number": 8, "device_id": "PUN", "quotation": "in him thy fair appearance lies", "explanation": "'Lies' = (1) resides, (2) tells falsehoods. The pun undermines the eye's claim: appearance may be deceptive."},
+        {"line_number": 9, "device_id": "CONCEIT", "quotation": "To side this title is impannelled / A quest of thoughts", "explanation": "Extended legal conceit: impanelling a jury (quest) to adjudicate a property dispute (title) between eye and heart."},
+        {"line_number": 10, "device_id": "IRONY", "quotation": "all tenants to the heart", "explanation": "The jury of thoughts is biased — they are all tenants (dependents) of the heart. The legal procedure is rigged from the start."},
+        {"line_number": 13, "device_id": "ANTITHESIS", "quotation": "mine eye's due is thy outward part, / And my heart's right, thy inward love of heart", "explanation": "Outer/inner, eye/heart — the verdict divides the FYM into surface and depth, beauty and love."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The entire sonnet is a legal proceeding: complaint (Q1), arguments (Q2), jury and verdict (Q3-C). The forensic structure is the poem's organizing principle."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The personification of eye and heart as litigants creates a dramatic scene — a courtroom drama within the Speaker's psyche."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "Part one of a diptych with Sonnet 47. The war (46) leads to the peace (47). The two poems must be read together."},
+        {"mode_id": "IMAGISTIC", "priority": 1, "rationale": "Legal imagery (war, conquest, bar, plea, defendant, impannelled, quest, verdict, moiety, due, right) pervades every line."}
+      ]
+    },
+    {
+      "number": 47,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EXTENSION",
+        "argument_summary": "Following the war of Sonnet 46, the eye and heart have formed a league: the eye feasts on the FYM's portrait and invites the heart; the heart shares its loving thoughts with the eye, achieving cooperative presence-in-absence.",
+        "speaker_stance": "reconciled, gently satisfied, still vulnerable",
+        "emotional_arc": "peace declared -> mutual hospitality -> presence achieved -> conditional comfort",
+        "dramatic_situation": "The Speaker describes the truce between his eye and heart. They now cooperate: when the eye is starved for sight, it looks at the FYM's portrait and invites the heart to feast; when the heart is love-sick, it shares its thoughts with the eye. Together they maintain a kind of presence.",
+        "subtext": "The truce is fragile. The entire system depends on a portrait and on thoughts — substitutes for presence. The final line's 'if they sleep' admits that even this solution is conditional and temporary.",
+        "analysis_text": "Sonnet 47 completes the eye-heart diptych by resolving the 'mortal war' of Sonnet 46 into a 'league' — a formal alliance between the former combatants. The opening line's 'Betwixt mine eye and heart a league is took' echoes the juridical language of 46 but replaces conflict with cooperation. The first quatrain introduces the terms of the treaty through a hospitality metaphor: when the eye 'is famish'd for a look,' it consults the heart; when the heart 'with sighs himself doth smother,' it turns to the eye. The reciprocity is graceful, each faculty ministering to the other's need. The second quatrain develops the hospitality conceit: 'With my love's picture then my eye doth feast, / And to the painted banquet bids my heart.' The metaphor of feasting on a portrait is rich with implications — the eye converts visual data into nourishment, and the 'painted banquet' both satisfies and reminds the reader that this is painted, artificial, not the real presence. The alternation continues: 'Another time mine eye is my heart's guest, / And in his thoughts of love doth share a part.' The eye, which deals in surfaces, is now invited into the heart's interior world of love-thoughts. The volta at line 9 draws the consequence: 'So, either by thy picture or my love, / Thyself away, art present still with me.' The paradox of 'present-absent' from Sonnet 45 is resolved — but resolved only through surrogates (picture, love-thoughts). The couplet extends rather than resolves: even if the thoughts sleep, the picture 'Awakes my heart, to heart's and eye's delight.' The conditional 'if they sleep' introduces a last tremor of anxiety — what if the whole system fails? The final resolution is genuine but conditional, a truce rather than a peace."
+      },
+      "directing": {
+        "scene_setting": "The Speaker holds or contemplates a miniature portrait of the FYM. The internal war has ended, and eye and heart now cooperate as host and guest.",
+        "character_note": "The Speaker is calmer than in 46 — the crisis has passed. But the calm is maintained by an elaborate system of substitution (portrait, thoughts) that reveals its own inadequacy.",
+        "fym_note": "Present as a picture and as a love-object in the heart. The FYM's physical absence is the unspoken condition that necessitates the entire cooperative arrangement.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the relief of truce. Let the hospitality metaphor create warmth and comfort in Q2. The volta should feel like a genuine, if fragile, achievement. The couplet extends the comfort but with a trace of anxiety.",
+        "key_moments": [
+          {"line": 1, "note": "'A league is took' — relief after the war of 46. Begin with a sense of diplomatic achievement."},
+          {"line": 5, "note": "'My eye doth feast' — sensuous, grateful. The portrait is sustenance."},
+          {"line": 10, "note": "'Thyself away, art present still with me' — the central achievement. Deliver with quiet triumph."},
+          {"line": 13, "note": "'Or, if they sleep' — a flicker of anxiety in the conditional. What if the system breaks down?"}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["league", "took"],
+          "emotional_note": "Relief — the war is over",
+          "delivery_note": "Diplomatic satisfaction. The tone shifts from 46's martial urgency to peaceful resolution.",
+          "gloss": "Between my eye and heart an alliance has been formed",
+          "commentary": "'League' — a formal alliance or treaty (OED 3). 'Is took' — archaic perfect passive. The juridical language continues from Sonnet 46 but now signals peace."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["famish'd", "look"],
+          "emotional_note": "Hunger — the eye's deprivation during absence",
+          "delivery_note": "'Famish'd for a look' — the hunger metaphor is vivid. The eye is literally starving.",
+          "gloss": "When my eye is starving for a glimpse of you",
+          "commentary": "'Famish'd for a look' — the eye's hunger for visual contact with the beloved. The feeding metaphor will develop into the 'painted banquet' of line 6."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["love's", "picture", "feast"],
+          "emotional_note": "Sensuous satisfaction — nourishment from the portrait",
+          "delivery_note": "Warm, grateful. The portrait becomes food.",
+          "gloss": "Then my eye feasts on my beloved's portrait",
+          "commentary": "'My love's picture' — either a miniature portrait or a mental image. 'Feast' extends the hunger metaphor into satisfaction, but the feast is painted, not real."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["painted", "banquet", "bids"],
+          "emotional_note": "Generous hospitality, but 'painted' betrays the illusion",
+          "delivery_note": "Stress 'painted' — it both beautifies and undercuts. A painted banquet cannot truly nourish.",
+          "gloss": "And invites my heart to the painted feast",
+          "commentary": "'Painted banquet' — a feast of appearances. The adjective 'painted' simultaneously elevates (artful) and diminishes (merely painted, not real). The portrait is sustenance and illusion at once."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["Thyself", "away", "present", "still"],
+          "emotional_note": "Quiet triumph — presence achieved through cooperation",
+          "delivery_note": "'Thyself away, art present still with me' — the comma enforces a pause between absence and presence. Deliver as a hard-won truth.",
+          "gloss": "You, though away, are still present with me",
+          "commentary": "The resolution of the absence problem: through the cooperation of eye (portrait) and heart (love), the FYM achieves a kind of presence. But 'still' also means 'motionless' — the presence is static, not living."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["farther", "thoughts"],
+          "emotional_note": "Reassurance — the beloved cannot truly leave",
+          "delivery_note": "Confident, comforting — the Speaker has found his equilibrium.",
+          "gloss": "For you cannot move farther than my thoughts can reach",
+          "commentary": "Thought's infinite reach (see Sonnet 44) is now a comfort rather than a torment — thoughts keep the FYM tethered to the Speaker."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["if", "sleep", "picture"],
+          "emotional_note": "A flicker of anxiety — the conditional undermines the resolution",
+          "delivery_note": "'Or, if they sleep' — the conditional should introduce a slight hesitation, a worry.",
+          "gloss": "Or if my thoughts fall asleep, your portrait in my sight",
+          "commentary": "'If they sleep' — the system of presence-through-thought has a vulnerability: sleep. When thoughts rest, the portrait must take over. The anxiety reveals that the resolution is contingent."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["Awakes", "heart", "eye's", "delight"],
+          "emotional_note": "Warm resolution, the system holds",
+          "delivery_note": "End with genuine warmth. 'Heart's and eye's delight' — the former enemies now share pleasure.",
+          "gloss": "Your picture awakens my heart, to the delight of both heart and eye",
+          "commentary": "The portrait serves as backup when thoughts fail — a redundant system of presence. 'Heart's and eye's delight' — the former combatants now share in mutual satisfaction."
+        }
+      ],
+      "themes": [
+        {"theme": "eye_vs_heart", "prominence": "PRIMARY"},
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "portraiture", "prominence": "SECONDARY"},
+        {"theme": "hospitality", "prominence": "SECONDARY"},
+        {"theme": "sight_and_vision", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thyself away, art present still with me' (line 10); present as portrait and love-object throughout"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'Mine eye and heart' (line 1); the entire cooperative system is the Speaker's interior life"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PERSONIFICATION", "quotation": "Betwixt mine eye and heart a league is took", "explanation": "Eye and heart as diplomatic agents forming an alliance — continuing the personification from Sonnet 46."},
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "mine eye is famish'd for a look", "explanation": "Vision as hunger — the eye starves during absence, and will feast on the portrait."},
+        {"line_number": 5, "device_id": "CONCEIT", "quotation": "With my love's picture then my eye doth feast, / And to the painted banquet bids my heart", "explanation": "Extended hospitality conceit: the eye as host, the portrait as feast, the heart as invited guest. The 'painted banquet' is both sustaining and illusory."},
+        {"line_number": 6, "device_id": "IRONY", "quotation": "painted banquet", "explanation": "'Painted' simultaneously elevates (artful, beautiful) and undermines (mere paint, not real food). The portrait nourishes and disappoints."},
+        {"line_number": 10, "device_id": "PARADOX", "quotation": "Thyself away, art present still with me", "explanation": "The central paradox of the absence sequence resolved: the FYM is both away and present, through the cooperative labor of eye and heart."},
+        {"line_number": 14, "device_id": "PERSONIFICATION", "quotation": "thy picture in my sight / Awakes my heart", "explanation": "The portrait as active agent — it awakens the heart when thoughts sleep, maintaining the system of presence."},
+        {"line_number": 12, "device_id": "ENJAMBMENT", "quotation": "And I am still with them, and they with thee;", "explanation": "The chain of presence: I -> thoughts -> thee. The semicolon allows the logic to cascade without interruption."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet resolves the legal dispute of 46 through negotiation and treaty, completing the forensic structure of the diptych."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The hospitality metaphor (feast, banquet, guest, host) replaces the military imagery of 46, signaling the shift from war to peace."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "Part two of the eye-heart diptych. War (46) yields to peace (47). The two poems together form a complete dramatic arc."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "The achieved (if fragile) presence-in-absence represents the sequence's most optimistic response to physical separation."}
+      ]
+    },
+    {
+      "number": 48,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "Departing on a journey, the Speaker locked up his valuables but could not lock up the FYM — the only treasure that matters. The beloved is stored only in the Speaker's breast, from which he can leave at will, and even honest people become thieves for a prize so dear.",
+        "speaker_stance": "anxious, possessive, self-aware of futility",
+        "emotional_arc": "careful preparation -> recognition of the beloved's superior value -> despair at inability to protect -> ironic resignation",
+        "dramatic_situation": "The Speaker has departed on a journey, carefully locking up his possessions. But the FYM — infinitely more valuable than any possession — cannot be locked up. He is kept only in the Speaker's heart, which cannot hold him.",
+        "subtext": "The jewel/chest conceit masks a profound anxiety about the FYM's fidelity. The 'vulgar thief' who preys on the beloved may be the Dark Lady, or any rival. The Speaker knows that love cannot be secured like property.",
+        "analysis_text": "Sonnet 48 opens with domestic particularity: 'How careful was I when I took my way, / Each trifle under truest bars to thrust.' The Speaker is packing, locking up, preparing for a journey — and the language of security ('truest bars,' 'sure wards of trust') creates an atmosphere of anxious protection. But the first quatrain's careful arrangements are immediately undermined by the second quatrain's devastating revelation: 'But thou, to whom my jewels trifles are.' The pivot turns on the word 'trifles' — in Q1, the Speaker's possessions are trifles he nonetheless protects; in Q2, those same trifles are revealed as nothing compared to the FYM's worth. The superlative accumulation of line 7 — 'Thou best of dearest, and mine only care' — is one of the sequence's most nakedly affectionate lines, the language straining with accumulated endearments. Yet the line immediately resolves into fear: 'Art left the prey of every vulgar thief.' The FYM is prey — passive, exposed, uncaged. The volta at line 9 introduces the heart-as-chest conceit: 'Thee have I not lock'd up in any chest, / Save where thou art not, though I feel thou art.' The paradox is piercing: the Speaker feels the FYM within his breast but knows this feeling is an illusion — the beloved is 'where thou art not.' The 'gentle closure of my breast' offers a lock that cannot hold: 'at pleasure thou mayst come and part.' The couplet delivers the final ironic blow: 'For truth proves thievish for a prize so dear.' Even truth — honest dealing — becomes a thief when the prize is the FYM. The word 'truth' collapses: it means both fidelity and honesty, and the sonnet argues that both are powerless against desire. The Speaker's anxiety about losing the FYM is not paranoia but clear-eyed recognition that no lock can contain a free agent."
+      },
+      "directing": {
+        "scene_setting": "The Speaker is packing for a journey, locking trunks and chests. The mundane domestic scene becomes a metaphor for the impossibility of securing love.",
+        "character_note": "The Speaker is a worrier, a counter of valuables. His careful, possessive nature extends from material goods to the beloved — but he knows the beloved cannot be possessed.",
+        "fym_note": "The FYM is the treasure that cannot be locked up — free, mobile, vulnerable to every 'vulgar thief.' His very worth makes him insecure.",
+        "dl_note": "Implied as one of the 'vulgar thieves' — the phrase resonates with sonnets 40-42's stolen mistress theme.",
+        "overall_arc": "Begin with fussy, domestic precision. Let the turn at 'But thou' reveal the inadequacy of all precaution. End with ironic resignation — the most precious thing is the least protectable.",
+        "key_moments": [
+          {"line": 1, "note": "'How careful was I' — fussy, precise, the Speaker as anxious householder."},
+          {"line": 5, "note": "'But thou, to whom my jewels trifles are' — the comparison devastates. Everything else is worthless next to the FYM."},
+          {"line": 9, "note": "'Thee have I not lock'd up in any chest' — the volta. The negative construction reveals helplessness."},
+          {"line": 10, "note": "'Where thou art not, though I feel thou art' — the most painful line. Presence is an illusion."},
+          {"line": 14, "note": "'Truth proves thievish' — the ironic collapse. Even honesty cannot hold against such temptation."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["careful", "took", "way"],
+          "emotional_note": "Fussy, precise — the anxious traveler",
+          "delivery_note": "Measured, domestic. The Speaker is packing, checking locks.",
+          "gloss": "How careful I was when I set out on my journey",
+          "commentary": "'Took my way' — departed, set out. The mundane specificity (packing, locking) grounds the metaphysical anxiety that follows."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["trifle", "truest", "bars"],
+          "emotional_note": "Meticulous security — ironically wasted on trivia",
+          "delivery_note": "Alliterative emphasis on 't' sounds (trifle, truest, thrust) — the plosives mimic locking.",
+          "gloss": "Putting every small possession behind the most secure locks",
+          "commentary": "'Truest bars' — the most reliable locks. The irony: maximum security for minimum value. The real treasure cannot be locked up at all."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["thou", "jewels", "trifles"],
+          "emotional_note": "The comparison that collapses all value — the FYM dwarfs everything",
+          "delivery_note": "'But thou' is the pivot — shift from domestic inventory to passionate declaration.",
+          "gloss": "But you, compared to whom my jewels are mere trinkets",
+          "commentary": "'Trifles' recurs from line 2, but now the possessions the Speaker carefully locked up are themselves trifles compared to the FYM. The word reverberates with new meaning."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["best", "dearest", "only", "care"],
+          "emotional_note": "Naked affection — endearments piled up",
+          "delivery_note": "Deliver the superlatives with feeling — this is one of the sequence's most openly loving lines.",
+          "gloss": "You, the best of the most dear, and my sole concern",
+          "commentary": "'Best of dearest' — superlative of superlative. 'Mine only care' — the word 'care' means both concern and beloved (the one cared for). The accumulated endearments are almost desperate."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["prey", "vulgar", "thief"],
+          "emotional_note": "Fear — the beloved exposed to predators",
+          "delivery_note": "'Prey' should sting — the FYM transformed from treasure to hunted creature.",
+          "gloss": "Are left as prey for every common thief",
+          "commentary": "'Vulgar thief' — common, lowborn thief. The FYM's worth makes him a target. The phrase may allude to the Dark Lady or to anyone who might steal the beloved's affection."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["not", "lock'd", "chest"],
+          "emotional_note": "Helplessness — the negative construction reveals inability",
+          "delivery_note": "Stress 'not' — the Speaker has not managed what matters most.",
+          "gloss": "I have not locked you up in any chest",
+          "commentary": "'Chest' puns on (1) a strongbox for valuables and (2) the chest/breast of the Speaker's body. The pun bridges the literal (Q1) and metaphorical (Q3) registers."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["art", "not", "feel", "art"],
+          "emotional_note": "Piercing — presence is an illusion",
+          "delivery_note": "The repetition of 'art' (are not / are) should create a fluctuation between absence and phantom presence.",
+          "gloss": "Except in a place where you are not, though I feel you are",
+          "commentary": "'Where thou art not, though I feel thou art' — the most painful line. The Speaker's breast (chest) holds only the feeling of the FYM, not the fact. Sensation contradicts reality."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["truth", "thievish", "prize", "dear"],
+          "emotional_note": "Ironic resignation — even honesty fails",
+          "delivery_note": "Let the paradox land: 'truth proves thievish.' The moral order collapses in the face of the FYM's worth.",
+          "gloss": "Because even honest people become thieves for a prize so precious",
+          "commentary": "'Truth proves thievish' — the ultimate ironic reversal: even truth (fidelity, honesty) becomes theft when confronted with the FYM's surpassing worth. No moral barrier holds."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "possession_and_loss", "prominence": "PRIMARY"},
+        {"theme": "treasure_and_value", "prominence": "PRIMARY"},
+        {"theme": "jealousy", "prominence": "SECONDARY"},
+        {"theme": "trust", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'But thou, to whom my jewels trifles are' (line 5); 'Thou best of dearest' (line 7)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'How careful was I' (line 1); 'Within the gentle closure of my breast' (line 11)"},
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "'Every vulgar thief' (line 8) — resonates with the stolen mistress of sonnets 40-42; the DL is one of those who might steal the FYM"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "How careful was I when I took my way, / Each trifle under truest bars to thrust", "explanation": "The extended chest/jewel conceit: locking up valuables as metaphor for the impossibility of securing the beloved."},
+        {"line_number": 2, "device_id": "ALLITERATION", "quotation": "trifle under truest... to thrust... trust", "explanation": "The 't' alliteration across lines 2-4 creates a percussive, locking sound — the consonants mimic the action of securing."},
+        {"line_number": 5, "device_id": "ANTITHESIS", "quotation": "thou, to whom my jewels trifles are", "explanation": "The comparison collapses all prior value: jewels become trifles when measured against the FYM."},
+        {"line_number": 9, "device_id": "PUN", "quotation": "Thee have I not lock'd up in any chest", "explanation": "'Chest' = (1) strongbox for valuables, (2) the human breast/ribcage. The pun pivots the sonnet from literal to metaphorical security."},
+        {"line_number": 10, "device_id": "PARADOX", "quotation": "where thou art not, though I feel thou art", "explanation": "The beloved is simultaneously absent and felt-present — the paradox of love's phantom presence in the body."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "truth proves thievish for a prize so dear", "explanation": "Truth (honesty, fidelity) becomes a thief — the moral order inverts when confronted with the FYM's surpassing worth."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "truth proves thievish", "explanation": "Honesty becomes theft — a logical impossibility that the FYM's beauty makes real."},
+        {"line_number": 12, "device_id": "METAPHOR", "quotation": "gentle closure of my breast", "explanation": "The breast as a chest or casket — a gentle enclosure that cannot actually confine the beloved."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The jewel-chest-key conceit structures every image: trifles, bars, wards, jewels, chest, lock, closure, stolen, thievish. Coherent material metaphor throughout."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The domestic scene (packing, locking) creates narrative context for the metaphysical anxiety. The volta is a dramatic recognition of helplessness."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Possession and loss — the impossibility of owning another person. Anticipates the sequence's larger concerns about the FYM's freedom and the Speaker's insecurity."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The argument moves from a fortiori (if trifles deserve locks, how much more the beloved?) to the devastating conclusion that no lock suffices."}
+      ]
+    },
+    {
+      "number": 49,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker imagines a future when the FYM will cease to love him, and preemptively arms himself against that day by testifying against himself — conceding that the FYM would have every legal right to leave.",
+        "speaker_stance": "terrified, self-annihilating, legalistic in self-defense",
+        "emotional_arc": "dread anticipation -> imagined rejection -> preemptive self-diminishment -> devastating conclusion",
+        "dramatic_situation": "The Speaker prepares for an imagined future catastrophe: the day when the FYM will look at the Speaker's defects, calculate the cost-benefit of love, and walk away. Rather than resist, the Speaker preemptively takes the FYM's side against himself.",
+        "subtext": "This is one of the sequence's most psychologically devastating poems. The Speaker's willingness to testify against himself reveals a self-worth so eroded by love's inequality that he has internalized the beloved's potential rejection as justified. The legal language barely contains the emotional abyss.",
+        "analysis_text": "Sonnet 49 is among the most terrifying poems in the sequence — not for what has happened but for what the Speaker imagines will happen. The triple anaphora of 'Against that time' (lines 1, 5, 9) creates a structure of obsessive anticipation, each repetition drilling deeper into the dreaded scenario. The first quatrain deploys commercial language: 'cast his utmost sum,' 'audit,' 'advis'd respects' — the FYM's love subjected to cost-benefit analysis, as if affection were a balance sheet. When the accounts are settled, the Speaker fears he will be found wanting. The second quatrain imagines the social consequences: the FYM will 'strangely pass' — that is, pass by as a stranger — and 'scarcely greet me with that sun, thine eye.' The devastating pun on 'sun/son' aligns the FYM's eye with the source of all light; to lose that gaze is to lose the sun. 'Settled gravity' puns on seriousness and gravitational weight — love, once light and free, becomes heavy with reasons for departure. At line 9, the volta delivers the Speaker's catastrophic response: rather than protest, he 'ensconce[s]' himself 'within the knowledge of mine own desert' — desert meaning merit, and the Speaker's acknowledged merit is zero. Most devastatingly, 'this my hand, against my self uprear' — the Speaker raises his own hand to testify against himself, becoming witness for the prosecution in the trial of his own abandonment. The couplet completes the self-annihilation: 'To leave poor me thou hast the strength of laws, / Since why to love I can allege no cause.' The legal language that has structured the poem reaches its conclusion: the FYM's departure would be lawful because the Speaker can produce no evidence for why he should be loved. The final word — 'cause' — puns on legal cause and reason, and the devastating admission is that neither law nor reason supports the Speaker's claim to be loved."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone, turning over a terrible hypothesis in his mind. This is not recollection but anticipation — a rehearsal of future abandonment.",
+        "character_note": "The Speaker has so internalized the beloved's superiority that he preemptively prosecutes himself. He is advocate, witness, and accused — all arguing for his own abandonment.",
+        "fym_note": "The FYM is imagined in a future state: cold, calculating, passing by without greeting. The sun of his eye has set.",
+        "dl_note": "Absent.",
+        "overall_arc": "Build dread through the triple 'Against that time.' Let each repetition deepen the anxiety. The volta should feel like surrender. End the couplet with absolute, quiet devastation.",
+        "key_moments": [
+          {"line": 1, "note": "'Against that time' — the first occurrence. Deliver with controlled dread, as if the Speaker can barely bring himself to name the scenario."},
+          {"line": 5, "note": "'Against that time when thou shalt strangely pass' — the second occurrence. The scenario is now specific: the FYM walking past without recognition."},
+          {"line": 6, "note": "'Scarcely greet me with that sun, thine eye' — the withdrawal of light. The FYM's gaze was the Speaker's sun."},
+          {"line": 9, "note": "'Against that time do I ensconce me here' — the third occurrence, now in the present tense. The Speaker is already building his defenses."},
+          {"line": 14, "note": "'Since why to love I can allege no cause' — absolute self-negation. The Speaker cannot produce a single reason he deserves love."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["Against", "that", "time"],
+          "emotional_note": "Dread — bracing for a future blow",
+          "delivery_note": "Solemn, slow. 'Against that time' is a fortification — the Speaker is building walls against an imagined catastrophe.",
+          "gloss": "In preparation for that time, if it ever comes",
+          "commentary": "'Against that time' — in preparation for, in defense against. The conditional 'if ever that time come' offers a thin hope, but the elaboration that follows reveals the Speaker considers it inevitable."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["love", "cast", "utmost", "sum"],
+          "emotional_note": "Commercial dread — love subjected to accounting",
+          "delivery_note": "The commercial language should sound cold, calculating — the opposite of love.",
+          "gloss": "When your love has calculated its final total",
+          "commentary": "'Cast his utmost sum' — cast up accounts, calculate the final balance. Love as a ledger that will eventually show a deficit. 'Utmost' — final, extreme."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["strangely", "pass"],
+          "emotional_note": "The cruelest image — the beloved passing as a stranger",
+          "delivery_note": "'Strangely pass' — the word 'strangely' should chill. To be made a stranger by the one you love.",
+          "gloss": "When you will pass by me as if I were a stranger",
+          "commentary": "'Strangely pass' — walk past as if the Speaker were a stranger. The adverb converts intimacy to alienation in a single word."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["scarcely", "greet", "sun", "eye"],
+          "emotional_note": "The withdrawal of light — cosmic loss",
+          "delivery_note": "The pun on 'sun/son' should be felt if not stressed. The FYM's eye was the Speaker's source of illumination.",
+          "gloss": "And barely acknowledge me with that sun, your eye",
+          "commentary": "'That sun, thine eye' — the FYM's gaze as the sun. The pun on sun/son is available but understated. To lose the beloved's gaze is to lose light itself."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["Against", "ensconce"],
+          "emotional_note": "Defensive, fortifying — the Speaker digs in",
+          "delivery_note": "The third 'Against that time' should carry the weight of all three repetitions. 'Ensconce' — to hide behind a defensive position.",
+          "gloss": "Against that day I fortify myself here",
+          "commentary": "'Ensconce' — to shelter behind a fortification (from sconce, a small fort). The Speaker retreats into the fortress of his own acknowledged worthlessness."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["knowledge", "desert"],
+          "emotional_note": "Self-aware emptiness — the Speaker knows his own worth is zero",
+          "delivery_note": "'Mine own desert' should sound hollow — the Speaker's merit is a barren landscape.",
+          "gloss": "Within the awareness of my own lack of merit",
+          "commentary": "'Desert' — merit, worth (OED 1). The devastating irony: the Speaker's defense is the knowledge that he deserves nothing. Self-knowledge becomes self-annihilation."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["hand", "against", "self", "uprear"],
+          "emotional_note": "Self-betrayal — testifying against oneself",
+          "delivery_note": "The physical gesture: raising the hand to swear an oath. Against himself. The action should feel both formal and self-destructive.",
+          "gloss": "And raise my own hand to testify against myself",
+          "commentary": "'This my hand, against my self uprear' — the Speaker raises his hand to swear testimony against himself. He is simultaneously witness, prosecutor, and accused. The self-division is complete."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["leave", "poor", "strength", "laws"],
+          "emotional_note": "The verdict: the FYM's departure is lawful",
+          "delivery_note": "'Poor me' — the diminutive is devastating in its plainness. 'Strength of laws' — the departure is not just justified but legally unassailable.",
+          "gloss": "To leave poor me, you have the force of law on your side",
+          "commentary": "'Strength of laws' — the departure is legal, justified, beyond appeal. The Speaker has made the FYM's case for him and found it unassailable."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["why", "love", "allege", "no", "cause"],
+          "emotional_note": "Absolute self-negation — no defense possible",
+          "delivery_note": "Deliver with quiet finality. 'No cause' — not even one reason. The silence after this line should feel like an abyss.",
+          "gloss": "Since I can present no legal reason why you should love me",
+          "commentary": "'Allege no cause' — legal terminology: to allege is to cite evidence in a legal proceeding. The Speaker, having testified against himself, can produce no evidence for his own defense. 'Cause' puns on legal cause and reason."
+        }
+      ],
+      "themes": [
+        {"theme": "abandonment", "prominence": "PRIMARY"},
+        {"theme": "self-worth", "prominence": "PRIMARY"},
+        {"theme": "legal_metaphor", "prominence": "PRIMARY"},
+        {"theme": "inequality_of_love", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'When I shall see thee frown on my defects' (line 2); 'thou shalt strangely pass' (line 5)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'Do I ensconce me here' (line 9); 'this my hand, against my self uprear' (line 11); 'poor me' (line 13)"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ANAPHORA", "quotation": "Against that time... Against that time... Against that time", "explanation": "Triple anaphora at lines 1, 5, 9 creates obsessive repetition — the Speaker circling the dreaded future like a wound."},
+        {"line_number": 3, "device_id": "METAPHOR", "quotation": "thy love hath cast his utmost sum, / Call'd to that audit", "explanation": "Love as accounting: the beloved calculates the balance and finds the Speaker in deficit. Commercial metaphor for emotional calculation."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "that sun, thine eye", "explanation": "The FYM's eye as the sun — to lose his gaze is to lose light. Cosmic metaphor for personal loss."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "that sun, thine eye", "explanation": "Sun/son — the beloved as both source of light and heir/offspring. The pun is available but not forced."},
+        {"line_number": 8, "device_id": "PUN", "quotation": "reasons find of settled gravity", "explanation": "'Gravity' = (1) seriousness, (2) gravitational weight. Love becomes heavy with reasons to depart."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Against that time do I ensconce me here", "explanation": "The volta shifts from imagining the future to the Speaker's present defensive action — fortifying himself within his own worthlessness."},
+        {"line_number": 11, "device_id": "IRONY", "quotation": "this my hand, against my self uprear", "explanation": "The Speaker raises his hand to testify — against himself. Self-defense becomes self-prosecution."},
+        {"line_number": 14, "device_id": "EPIGRAM", "quotation": "Since why to love I can allege no cause", "explanation": "The devastating final line: the Speaker, in legal language, admits he has no case. 'Cause' puns on reason and legal cause of action."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The poem stages a future courtroom scene — the Speaker imagines, anticipates, and pre-enacts his own abandonment trial with excruciating specificity."},
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "Legal language pervades: audit, sum, reasons, ensconce, guard, lawful, allege, cause. The sonnet is a legal brief in which the defendant argues for his own conviction."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The inequality of love — the Speaker's self-worth is entirely derived from the FYM's regard. Without it, he is nothing and knows it."},
+        {"mode_id": "PROSODIC", "priority": 1, "rationale": "The anaphora of 'Against that time' creates a rhythmic pulse that structures the entire poem — three hammer-blows of dread."}
+      ]
+    },
+    {
+      "number": 50,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker rides a horse away from the FYM, and the beast's heavy pace mirrors his grief — the spur cannot quicken it, and its groans remind the Speaker that his joy lies behind and his grief ahead.",
+        "speaker_stance": "heavy-hearted, empathetic with the horse, self-pitying",
+        "emotional_arc": "heavy departure -> projection of grief onto the horse -> violence and guilt -> epigrammatic recognition",
+        "dramatic_situation": "The Speaker is on horseback, riding away from the FYM on a journey. The horse moves slowly, as if sharing the rider's reluctance. The Speaker spurs the horse in frustration, but the animal's groan of pain mirrors his own grief, and he realizes both he and the beast suffer the same sorrow.",
+        "subtext": "The identification with the horse is extraordinary — the Speaker projects his emotional state onto the animal, then feels guilty for the spur. The horse becomes an emblem of the body's subjection to grief, unable to escape the heavy elements of Sonnet 44.",
+        "analysis_text": "Sonnet 50 opens the journey diptych with one of the sequence's most physically realized images: a man on a horse, riding away from everything he loves. 'How heavy do I journey on the way' — the adverb 'heavy' immediately connects to Sonnet 44's earth-and-water heaviness, and the journey becomes an embodiment of grief's weight. The first quatrain introduces a cruel personification: the journey's end 'doth teach that ease and that repose to say, / \"Thus far the miles are measured from thy friend!\"' — even the prospect of rest becomes a tormentor, measuring distance from the beloved. The second quatrain develops the horse conceit with remarkable psychological subtlety: 'The beast that bears me, tired with my woe, / Plods dully on, to bear that weight in me.' The verb 'bear' splits between carrying (physical burden) and bearing (emotional endurance), and 'that weight in me' identifies the rider's grief as literal heaviness. The horse knows 'by some instinct' that its rider does not want speed — a detail of animal sympathy that is both tender and projective. The volta at line 9 introduces violence: 'The bloody spur cannot provoke him on.' The Speaker has been spurring the horse in anger or frustration — 'sometimes anger thrusts into his hide' — but the horse's groan of pain, rather than accelerating the journey, sends the Speaker deeper into self-awareness: 'More sharp to me than spurring to his side.' The animal's suffering becomes a mirror for the rider's own, and the guilt compounds the grief. The couplet delivers its epigrammatic truth with devastating simplicity: 'My grief lies onward, and my joy behind.' The chiastic geography — grief ahead, joy behind — maps emotion onto landscape, making the entire direction of travel a movement toward sorrow."
+      },
+      "directing": {
+        "scene_setting": "A road. The Speaker is on horseback, moving slowly away from the FYM. The landscape is featureless — all attention is on the rhythm of the horse's plodding and the Speaker's interior state.",
+        "character_note": "The Speaker is physically heavy — his body weighs on the horse as grief weighs on his mind. The identification with the suffering animal is both empathetic and guilty.",
+        "fym_note": "The FYM is behind — the direction from which the Speaker has come. His absence is spatial, geographical, directional.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin heavy, slow — match the horse's plodding pace. Build to the violence of the spur, then let the horse's groan rebound as guilt. End with the couplet's geographic clarity.",
+        "key_moments": [
+          {"line": 1, "note": "'How heavy do I journey' — set the pace: slow, weighted, reluctant."},
+          {"line": 5, "note": "'The beast that bears me' — tenderness toward the horse. They share the burden."},
+          {"line": 9, "note": "'The bloody spur' — violence breaks the slow rhythm. The Speaker lashes out."},
+          {"line": 11, "note": "The horse's groan — 'More sharp to me than spurring to his side.' Guilt compounds grief."},
+          {"line": 14, "note": "'My grief lies onward, and my joy behind' — deliver as a geography of the soul."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["heavy", "journey"],
+          "emotional_note": "Leaden, reluctant — the body weighs as much as the spirit",
+          "delivery_note": "Slow, heavy delivery. The iambic pentameter should plod like the horse.",
+          "gloss": "How heavily I travel on the road",
+          "commentary": "'Heavy' connects to Sonnet 44's earth-and-water heaviness. The journey is both physical travel and emotional descent."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["miles", "measured", "friend"],
+          "emotional_note": "Cruelly precise — distance quantified as loss",
+          "delivery_note": "The quoted speech should sound like a taunt — even rest measures the distance from the beloved.",
+          "gloss": "This many miles you are now measured from your friend!",
+          "commentary": "'Thy friend' — the FYM as friend, the word carrying its full Elizabethan weight of intimate attachment. The measuring of miles is a measuring of loss."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["beast", "bears", "tired", "woe"],
+          "emotional_note": "Tender empathy with the suffering horse",
+          "delivery_note": "'The beast that bears me' — warm identification. The horse is not merely transport but a fellow sufferer.",
+          "gloss": "The horse that carries me, exhausted by my sorrow",
+          "commentary": "'Tired with my woe' — the horse is tired of (burdened by) the rider's woe, not its own. The pathetic fallacy: the animal absorbs the rider's emotional state."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["Plods", "dully", "bear", "weight"],
+          "emotional_note": "Heavy, rhythmically mimetic — the plodding is audible",
+          "delivery_note": "The monosyllables 'Plods dully on' should sound like hoofbeats on heavy ground.",
+          "gloss": "Plods dully along, carrying that weight of sadness in me",
+          "commentary": "'Bear that weight' — 'bear' shifts from carrying to enduring. The horse bears physical weight; the 'weight in me' is emotional. The two meanings coalesce in the plodding rhythm."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["bloody", "spur", "provoke"],
+          "emotional_note": "Violence — the Speaker lashes out at the innocent animal",
+          "delivery_note": "'Bloody spur' should shock — the earlier tenderness toward the horse is betrayed.",
+          "gloss": "The blood-drawing spur cannot make it go faster",
+          "commentary": "'Bloody spur' — the spur has drawn blood. The detail is visceral and guilt-inducing. The Speaker's frustration at his own grief is displaced onto the animal."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["heavily", "groan"],
+          "emotional_note": "The horse's pain mirrors the rider's",
+          "delivery_note": "The groan should be audible in the delivery — a heavy, low sound.",
+          "gloss": "Which the horse answers heavily with a groan",
+          "commentary": "'Heavily' echoes line 1's 'heavy' — the horse's response mirrors the rider's state. The groan is both the animal's pain and the Speaker's projected grief."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["sharp", "me", "spurring"],
+          "emotional_note": "Guilt — the animal's suffering cuts deeper than the spur",
+          "delivery_note": "'More sharp to me' — the inversion: the horse's groan hurts the Speaker more than the spur hurts the horse.",
+          "gloss": "That groan pains me more than my spurring pains the horse",
+          "commentary": "A remarkable reversal: the Speaker, who inflicted pain, suffers more from the horse's groan than the horse from his spur. Empathy and guilt compound the original grief."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["grief", "onward", "joy", "behind"],
+          "emotional_note": "Geographic clarity — emotion mapped onto direction",
+          "delivery_note": "The chiasmus should feel like a compass: grief ahead, joy behind. Deliver with epigrammatic finality.",
+          "gloss": "My grief lies ahead on the road, and my joy lies behind me",
+          "commentary": "The couplet maps emotion onto geography: forward = grief (the destination), backward = joy (the FYM). The direction of travel is the direction of sorrow."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "journey", "prominence": "PRIMARY"},
+        {"theme": "grief", "prominence": "PRIMARY"},
+        {"theme": "animal_sympathy", "prominence": "SECONDARY"},
+        {"theme": "body_and_mind", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ABSENT_PRESENCE", "evidence": "'Measured from thy friend' (line 4); 'being made from thee' (line 8); 'my joy behind' (line 14) — the FYM is the unseen destination-in-reverse"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'How heavy do I journey' (line 1); the entire poem is the Speaker's bodily and emotional experience on horseback"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "METAPHOR", "quotation": "How heavy do I journey", "explanation": "Grief as physical weight — the emotional state is experienced as bodily heaviness, connecting to the earth-and-water conceit of Sonnet 44."},
+        {"line_number": 5, "device_id": "PERSONIFICATION", "quotation": "The beast that bears me, tired with my woe", "explanation": "Pathetic fallacy: the horse absorbs the rider's emotional state, becoming tired with the rider's woe rather than its own exertion."},
+        {"line_number": 6, "device_id": "PUN", "quotation": "to bear that weight in me", "explanation": "'Bear' = (1) carry physically, (2) endure emotionally. The double meaning fuses the horse's physical burden with the rider's emotional one."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "The bloody spur cannot provoke him on", "explanation": "The volta introduces violence — the Speaker's frustration erupts in action, breaking the plodding pace of the octave."},
+        {"line_number": 12, "device_id": "IRONY", "quotation": "More sharp to me than spurring to his side", "explanation": "The one who inflicts pain suffers more than his victim — the groan rebounds on the Speaker's conscience."},
+        {"line_number": 14, "device_id": "CHIASMUS", "quotation": "My grief lies onward, and my joy behind", "explanation": "The chiastic geography: grief-onward / joy-behind. Emotion mapped onto spatial direction."},
+        {"line_number": 14, "device_id": "EPIGRAM", "quotation": "My grief lies onward, and my joy behind", "explanation": "The couplet compresses the entire sonnet into a single line of geographic-emotional truth."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "grief... joy / onward... behind", "explanation": "Double antithesis: grief vs. joy, onward vs. behind. The spatial opposition mirrors the emotional division."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The horse journey provides concrete, physical imagery: plodding hooves, bloody spur, groaning beast, measured miles. The poem's power is in its material specificity."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The narrative arc — heavy departure, frustrated spurring, guilty recognition — creates a small drama with the horse as co-protagonist."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The body-grief connection: grief has weight, weight slows travel, slowness compounds grief. The Sisyphean loop of sonnets 44-45 recurs in physical form."},
+        {"mode_id": "PROSODIC", "priority": 1, "rationale": "The heavy monosyllables ('Plods dully on') and spondaic substitutions mimic the horse's slow gait. The rhythm enacts the content."}
+      ]
+    },
+    {
+      "number": 51,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "Answering Sonnet 50, the Speaker excuses his horse's slowness on the outward journey and imagines the return: no horse could match his desire's speed, so desire itself becomes the steed, leaving the dull flesh behind.",
+        "speaker_stance": "witty, energized by anticipation, transcendent",
+        "emotional_arc": "excuse for slowness -> anticipation of return -> desire outpacing all physical speed -> triumphant epigram",
+        "dramatic_situation": "Continuing from Sonnet 50's heavy outward journey, the Speaker now imagines the return trip. On the way back, no horse could be fast enough — not even the wind would suffice. Desire itself, made of perfect love, will replace the horse, needing no 'dull flesh' to carry it.",
+        "subtext": "The poem resolves the body-mind split of the diptych by having desire transcend the body entirely. But this is fantasy — the return journey has not yet begun. The triumphant tone masks the fact that the Speaker is still on the outward road.",
+        "analysis_text": "Sonnet 51 transforms the heavy plodding of Sonnet 50 into exhilarating speed through a single rhetorical pivot: from outward journey to imagined return. The opening quatrain excuses the horse's slowness with a witty argument: 'From where thou art why should I haste me thence?' — the slow departure is justified because one should not hurry away from the beloved. The logic is playful, turning the horse's 'slow offence' into a compliment to the FYM's magnetism. But at line 5, the temporal perspective shifts: 'O! what excuse will my poor beast then find?' — 'then' marks the imagined return, when every speed will seem too slow. The second quatrain escalates through hyperbole: 'though mounted on the wind, / In winged speed no motion shall I know.' Even wind-speed would feel like motionlessness — the lover's impatience outstrips all physical velocity. At line 9, the logical volta completes the transcendence: 'Then can no horse with my desire keep pace.' Desire, 'of perfect'st love being made,' replaces the horse entirely. The alchemical language — desire is 'made' of love, as elements are compounded — echoes the four-elements conceit of 44-45. 'Shall neigh no dull flesh in his fiery race' is extraordinary: desire personified as a horse that needs no body, a pure spirit running a 'fiery race' (connecting to Sonnet 45's purging fire). The couplet delivers the epigram in the horse's imagined voice: 'Since from thee going, he went wilful-slow, / Towards thee I'll run, and give him leave to go.' The wit is perfect — the horse is excused for the outward slowness because it was deliberate sympathy, and on the return, the Speaker will outrun the horse with desire alone. The diptych resolves: Sonnet 50's grief becomes 51's antic energy, but the resolution is imaginative rather than actual."
+      },
+      "directing": {
+        "scene_setting": "Still on the outward journey from Sonnet 50, but the Speaker's mind has raced ahead to the return. The horse plods beneath him while his thoughts gallop home.",
+        "character_note": "The Speaker has transformed his grief into wit, his heaviness into imagined flight. The energy of anticipation replaces the weight of departure.",
+        "fym_note": "The FYM is the magnetic pole toward which all desire accelerates. His gravitational pull warps the Speaker's sense of speed and distance.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the witty excuse (slower pace), then accelerate through Q2 as the imagined return builds speed, reach transcendent velocity in Q3, and land the couplet as a triumphant mot.",
+        "key_moments": [
+          {"line": 3, "note": "'From where thou art why should I haste me thence?' — the witty reversal. Slowness is devotion."},
+          {"line": 7, "note": "'Though mounted on the wind' — the speed escalates into hyperbole."},
+          {"line": 9, "note": "'Then can no horse with my desire keep pace' — desire transcends the physical."},
+          {"line": 11, "note": "'Shall neigh no dull flesh in his fiery race' — desire as a spirit-horse. The image is exhilarating."},
+          {"line": 13, "note": "The couplet's quoted speech — deliver with wit and satisfaction."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["love", "excuse", "slow", "offence"],
+          "emotional_note": "Witty, affectionate — reframing the horse's slowness",
+          "delivery_note": "Light, clever. The Speaker has found a way to turn grief into argument.",
+          "gloss": "So my love can excuse the slow fault of my dull horse",
+          "commentary": "'Slow offence' — the horse's slowness from Sonnet 50 is now recast as a forgivable fault. 'My love' is both the Speaker's love and the FYM himself."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["where", "thou", "art", "haste"],
+          "emotional_note": "Logical delight — the argument is irresistible",
+          "delivery_note": "Deliver as a rhetorical triumph: of course one should not hurry away from the beloved.",
+          "gloss": "From where you are, why should I hurry away?",
+          "commentary": "The rhetorical question inverts the journey's meaning: slow departure = devotion to the FYM. The horse's plodding becomes a compliment."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["spur", "mounted", "wind"],
+          "emotional_note": "Escalating speed — hyperbole building",
+          "delivery_note": "Accelerate the delivery. The imagery is taking flight.",
+          "gloss": "Then I should spur even if mounted on the wind",
+          "commentary": "'Mounted on the wind' — the hyperbole escalates from horse to wind. Even wind-speed is insufficient for the lover's return."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["no", "horse", "desire", "pace"],
+          "emotional_note": "Transcendence — desire outstrips the physical",
+          "delivery_note": "The logical conclusion should sound inevitable. No physical speed suffices.",
+          "gloss": "No horse can keep pace with my desire",
+          "commentary": "The volta: desire transcends all physical speed. The argument moves from excuse (Q1) through hyperbole (Q2) to metaphysical conclusion."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["desire", "perfect'st", "love"],
+          "emotional_note": "Alchemical — desire refined to pure essence",
+          "delivery_note": "'Of perfect'st love being made' — stress the superlative. This is desire distilled to its purest form.",
+          "gloss": "Therefore desire, being made of the most perfect love",
+          "commentary": "'Perfect'st love' — the superlative suggests alchemical refinement: desire purified to its quintessence. The language echoes the four-elements conceit."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["neigh", "dull", "flesh", "fiery"],
+          "emotional_note": "Exhilarating — desire as a spirit-horse",
+          "delivery_note": "'Shall neigh' — the pun on 'neigh/nay' should register. Desire as a horse that refuses flesh.",
+          "gloss": "Shall whinny away all dull flesh in his fiery race",
+          "commentary": "'Shall neigh no dull flesh' — desire personified as a horse that rejects ('neigh' punning on 'nay') the dullness of flesh. 'Fiery race' connects to Sonnet 45's purging fire."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["from", "thee", "wilful-slow"],
+          "emotional_note": "Witty resolution — the horse's slowness was deliberate sympathy",
+          "delivery_note": "The quoted speech should sound like a rehearsed bon mot — the Speaker delivering his punchline.",
+          "gloss": "Since going away from you, the horse went deliberately slow",
+          "commentary": "'Wilful-slow' — the horse's plodding was deliberate, sympathetic. The compound adjective reinterprets Sonnet 50's heaviness as intentional solidarity."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["Towards", "thee", "run", "leave"],
+          "emotional_note": "Triumphant — desire transcends the body",
+          "delivery_note": "The final line should burst forward — 'I'll run' with the energy of pure desire.",
+          "gloss": "Toward you I'll run, and let the horse go its own way",
+          "commentary": "'Give him leave to go' — the horse (body, flesh) is dismissed. Desire needs no vehicle. The couplet resolves the body/mind split that has structured sonnets 44-51."
+        }
+      ],
+      "themes": [
+        {"theme": "journey", "prominence": "PRIMARY"},
+        {"theme": "desire", "prominence": "PRIMARY"},
+        {"theme": "body_and_mind", "prominence": "PRIMARY"},
+        {"theme": "speed_and_slowness", "prominence": "SECONDARY"},
+        {"theme": "absence", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'From where thou art' (line 3); 'when from thee I speed' (line 2); 'Towards thee' (line 14)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'My love' (line 1); 'my desire' (line 9); 'I'll run' (line 14)"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "IRONY", "quotation": "Thus can my love excuse the slow offence", "explanation": "The horse's slowness (a source of grief in 50) is reframed as excusable — ironic reversal of the previous sonnet's complaint."},
+        {"line_number": 7, "device_id": "HYPERBOLE", "quotation": "though mounted on the wind, / In winged speed no motion shall I know", "explanation": "Even wind-speed would feel like motionlessness — the lover's impatience exceeds all physical velocity."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Then can no horse with my desire keep pace", "explanation": "The logical turn: from physical speed to desire's speed. The horse is transcended."},
+        {"line_number": 10, "device_id": "CONCEIT", "quotation": "desire, of perfect'st love being made", "explanation": "Desire as an alchemical compound — refined from perfect love, needing no body. Connects to the four-elements scheme."},
+        {"line_number": 11, "device_id": "PUN", "quotation": "Shall neigh no dull flesh", "explanation": "'Neigh' puns on 'nay' — desire as a horse that says no to dull flesh, refusing the body's limitations."},
+        {"line_number": 11, "device_id": "PERSONIFICATION", "quotation": "Shall neigh no dull flesh in his fiery race", "explanation": "Desire personified as a spirit-horse running a fiery race — pure energy without matter."},
+        {"line_number": 13, "device_id": "EPIGRAM", "quotation": "Since from thee going, he went wilful-slow, / Towards thee I'll run, and give him leave to go", "explanation": "The couplet as quoted speech and epigrammatic resolution: outward slowness justified, inward return transcendent."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "from thee going... Towards thee I'll run", "explanation": "Directional antithesis: away/toward, slow/run. The return inverts every quality of the departure."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is a rhetorical tour de force: excuse (Q1), hyperbole (Q2), transcendence (Q3), epigram (C). The argument accelerates as the imagined speed increases."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "Horse imagery dominates: beast, spur, wind-mounted, neigh, fiery race, jade. The horse serves as both literal vehicle and metaphysical conceit."},
+        {"mode_id": "STRUCTURAL", "priority": 2, "rationale": "Part two of the journey diptych. Sonnet 50's heaviness is answered by 51's lightness — the departure/return pair mirrors the earth-water/air-fire pair of 44-45."},
+        {"mode_id": "PROSODIC", "priority": 1, "rationale": "The rhythm accelerates through the poem: Q1's measured pace gives way to Q2's rushing enjambment and Q3's racing energy."}
+      ]
+    },
+    {
+      "number": 52,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker compares himself to a rich man who does not constantly inspect his treasure, arguing that the FYM's absence makes their meetings more precious — like feast days, or jewels spaced in a necklace.",
+        "speaker_stance": "philosophical, self-consoling, aestheticizing absence",
+        "emotional_arc": "self-comparison to the rich -> aesthetic appreciation of rarity -> application to the FYM -> graceful resolution",
+        "dramatic_situation": "The Speaker reframes the pain of absence as a form of aesthetic enhancement. Like a rich man who keeps his treasure locked up to preserve the pleasure of occasional viewing, the Speaker argues that not seeing the FYM constantly makes each meeting more precious.",
+        "subtext": "The argument is seductive but self-deceiving. The Speaker does not choose absence — it is imposed on him. The consolation philosophy is a coping mechanism that aestheticizes what is actually deprivation. The word 'imprison'd' in line 12 betrays the coercion beneath the elegance.",
+        "analysis_text": "Sonnet 52 offers the absence sequence's most elegant consolation: scarcity creates value. The simile opens immediately — 'So am I as the rich' — and the first quatrain develops the metaphor of the wealthy man who restrains himself from constant inspection of his treasure, 'For blunting the fine point of seldom pleasure.' The phrase is brilliantly precise: pleasure has a 'fine point' that frequent use blunts, like a blade. The economic logic is sound, and the second quatrain extends it through two complementary images: feast days, rare 'since, seldom coming in that long year set,' and 'captain jewels in the carcanet' — the principal gems in a necklace, valuable because they are spaced among lesser stones. The imagery of precious stones recurs from Sonnet 48, but here the emphasis is on arrangement rather than security. At line 9, the volta applies the principle: 'So is the time that keeps you as my chest.' Time itself becomes the strongbox — the intervals between meetings are the locked chest that preserves the FYM's value. 'Or as the wardrobe which the robe doth hide' — the FYM as a magnificent garment kept concealed until the moment of display. The couplet resolves with characteristic grace: 'Blessed are you whose worthiness gives scope, / Being had, to triumph; being lacked, to hope.' The chiastic balance is elegant — 'had/triumph, lacked/hope' — and the argument is that the FYM's worthiness converts both presence and absence into positive experiences. Yet the consolation philosophy is undermined by its own rhetoric: 'imprison'd pride' in line 12 acknowledges that the FYM's beauty is captive, and 'lacked' in the couplet is a gentler word for deprivation. The Speaker aestheticizes his suffering, but the aestheticization is itself a symptom of the suffering."
+      },
+      "directing": {
+        "scene_setting": "The Speaker in a reflective moment, perhaps at a writing desk, composing a philosophical consolation for his own absence from the FYM.",
+        "character_note": "The Speaker as philosopher of absence — constructing an elegant argument that converts deprivation into value. The composure is deliberate, perhaps too deliberate.",
+        "fym_note": "The FYM is the treasure, the feast, the captain jewel, the hidden robe. His value is enhanced by rarity — or so the Speaker argues.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with the measured confidence of the simile. Develop the aesthetic argument through Q2's images. Apply to the FYM in Q3 with controlled emotion. Land the couplet as philosophical resolution — satisfying but perhaps too neat.",
+        "key_moments": [
+          {"line": 1, "note": "'So am I as the rich' — confident, assured. The Speaker has found his consolation."},
+          {"line": 4, "note": "'Blunting the fine point of seldom pleasure' — savor the precision. Pleasure as a blade that overuse dulls."},
+          {"line": 8, "note": "'Captain jewels in the carcanet' — the image should gleam. The FYM as the principal gem."},
+          {"line": 12, "note": "'His imprison'd pride' — a slight shadow. The beauty is captive, not free."},
+          {"line": 14, "note": "The chiastic couplet: 'had, to triumph; lacked, to hope.' Deliver with balanced satisfaction."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["rich", "blessed", "key"],
+          "emotional_note": "Confident — the Speaker assumes the posture of the wealthy",
+          "delivery_note": "Begin with easy assurance. The simile should feel natural, unstrained.",
+          "gloss": "I am like a rich man whose blessed key",
+          "commentary": "'The rich' — the Speaker identifies with the wealthy, not the deprived. The key connects to Sonnet 48's chest/lock imagery. 'Blessed key' — the key is itself fortunate."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["blunting", "fine", "point", "seldom", "pleasure"],
+          "emotional_note": "Philosophically precise — pleasure as a blade",
+          "delivery_note": "Savor 'blunting the fine point' — the image should feel sharp (ironically) and exact.",
+          "gloss": "For fear of dulling the delicate edge of rare pleasure",
+          "commentary": "'Fine point of seldom pleasure' — pleasure has an edge that overuse blunts. The conceit is economic (scarcity creates value) and sensory (a blade dulled by use)."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["feasts", "solemn", "rare"],
+          "emotional_note": "Reverent — absence as holy observance",
+          "delivery_note": "'Solemn and so rare' — the words should have liturgical weight. Feast days are sacred.",
+          "gloss": "That is why feast days are so ceremonial and so rare",
+          "commentary": "'Feasts' — religious feast days, rare and solemn. The analogy: as feast days gain meaning from their rarity, so meetings with the FYM gain value from absence."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["captain", "jewels", "carcanet"],
+          "emotional_note": "Glittering, precise — the FYM as chief gem",
+          "delivery_note": "'Captain jewels' — stress 'captain.' The FYM is the principal stone in the necklace.",
+          "gloss": "Or like the principal jewels in a necklace",
+          "commentary": "'Captain jewels' — the chief, most valuable gems. 'Carcanet' — an ornamental necklace or collar (OED 1). The image of spacing: jewels are more beautiful because they are separated by lesser stones."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["time", "keeps", "chest"],
+          "emotional_note": "The application — time as strongbox",
+          "delivery_note": "The shift from simile to application should feel like a logical culmination.",
+          "gloss": "So time keeps you locked like my treasure chest",
+          "commentary": "'Time that keeps you as my chest' — time becomes the container. The chest imagery from Sonnet 48 recurs, but now absence itself is the lock."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["new", "unfolding", "imprison'd", "pride"],
+          "emotional_note": "A shadow — 'imprison'd' betrays the coercion beneath the elegance",
+          "delivery_note": "Let 'imprison'd' carry its weight — the beauty is captive, not free.",
+          "gloss": "By newly revealing its imprisoned splendor",
+          "commentary": "'Imprison'd pride' — the FYM's beauty is imprisoned by absence/time. 'Pride' = splendor, magnificence (OED 5). The word 'imprison'd' undercuts the consolation — this is not willing restraint but captivity."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["Blessed", "worthiness", "scope"],
+          "emotional_note": "Graceful — the blessing encompasses both presence and absence",
+          "delivery_note": "Warm, generous. The FYM is blessed — his worth transforms every situation.",
+          "gloss": "Blessed are you, whose worth provides opportunity",
+          "commentary": "'Worthiness gives scope' — the FYM's merit expands the possibilities of both having and lacking. 'Scope' = range, opportunity (OED 2)."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["had", "triumph", "lacked", "hope"],
+          "emotional_note": "Epigrammatic balance — but hope is lesser than triumph",
+          "delivery_note": "The chiasmus should feel perfectly balanced — but note that 'hope' is a diminished consolation compared to 'triumph.'",
+          "gloss": "When possessed, to feel triumph; when absent, to have hope",
+          "commentary": "'Being had, to triumph; being lacked, to hope' — chiastic balance. But the asymmetry is telling: triumph (presence) outweighs hope (absence). The consolation is real but not equal."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "treasure_and_value", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "scarcity_and_pleasure", "prominence": "SECONDARY"},
+        {"theme": "self-consolation", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'So is the time that keeps you as my chest' (line 9); 'Blessed are you' (line 13)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'So am I as the rich' (line 1); the entire consolation philosophy is the Speaker's self-directed argument"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "SIMILE", "quotation": "So am I as the rich, whose blessed key", "explanation": "The governing simile: the Speaker as a wealthy man who restrains himself from constant inspection of his treasure."},
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "blunting the fine point of seldom pleasure", "explanation": "Pleasure as a blade that frequent use dulls — the economic argument (scarcity = value) rendered as a sensory image."},
+        {"line_number": 5, "device_id": "SIMILE", "quotation": "Therefore are feasts so solemn and so rare", "explanation": "Feast days as analogy for rare meetings — liturgical time mapped onto erotic time."},
+        {"line_number": 8, "device_id": "SIMILE", "quotation": "captain jewels in the carcanet", "explanation": "The FYM as the principal gem in a necklace — valuable because spaced among lesser stones."},
+        {"line_number": 9, "device_id": "METAPHOR", "quotation": "the time that keeps you as my chest", "explanation": "Time personified as a strongbox — absence itself becomes the lock that preserves value."},
+        {"line_number": 12, "device_id": "IRONY", "quotation": "his imprison'd pride", "explanation": "'Imprison'd' undercuts the consolation: the FYM's beauty is captive, not willingly reserved. The aesthetic argument masks coercion."},
+        {"line_number": 14, "device_id": "CHIASMUS", "quotation": "Being had, to triumph; being lacked, to hope", "explanation": "Chiastic balance: had-triumph / lacked-hope. But the asymmetry (triumph > hope) reveals the consolation's limits."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Being had... being lacked", "explanation": "Presence/absence as antithetical states, both rendered positive — but the argument is more elegant than convincing."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The sonnet is a sustained epideictic argument: absence enhances value. The logic (scarcity = worth) is developed through three analogies (treasure, feasts, jewels) before application."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "The material imagery (key, treasure, feast, jewels, carcanet, chest, wardrobe, robe) creates a world of luxury and display that aestheticizes the beloved."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "The consolation philosophy — making a virtue of necessity — will recur throughout the sequence. Absence as aesthetic enhancement is the most sophisticated coping mechanism the Speaker has devised."},
+        {"mode_id": "STRUCTURAL", "priority": 1, "rationale": "Closes the main absence/journey sub-sequence (43-52). The consolation philosophy represents the Speaker's most composed response to separation."}
+      ]
+    },
+    {
+      "number": 53,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker asks what the FYM's substance is, since all beautiful things — Adonis, Helen, spring, harvest — seem to be shadows of him, yet he, unlike them, possesses a constant heart.",
+        "speaker_stance": "awestruck, Platonic, ultimately particularizing",
+        "emotional_arc": "metaphysical wonder -> exemplification through classical figures -> universalization -> reversal to individuality",
+        "dramatic_situation": "The Speaker contemplates the FYM's nature with near-philosophical wonder. The FYM seems to be the Platonic Form of Beauty, of which all beautiful things are mere shadows. But the couplet reverses the Platonism by insisting on the FYM's unique individuality.",
+        "subtext": "The Platonic framework threatens to dissolve the FYM into an abstraction. The couplet's insistence on 'constant heart' rescues individuality from the universalizing tendency of the octave. But 'constant heart' may be wishful thinking given the betrayals of sonnets 40-42.",
+        "analysis_text": "Sonnet 53 opens with a philosophical question that goes to the heart of Renaissance Neoplatonism: 'What is your substance, whereof are you made, / That millions of strange shadows on you tend?' The question is not rhetorical but genuinely wondering: what is the FYM's ontological status? If every person has one shadow, but the FYM can 'every shadow lend,' then he is not merely beautiful but the source of beauty itself — the Platonic Form from which all particular beauties derive. The second quatrain tests this hypothesis against classical exempla: describe Adonis, and 'the counterfeit / Is poorly imitated after you' — the mythological archetype of male beauty is itself a poor copy of the FYM. Set Helen's beauty on a cheek, 'And you in Grecian tires are painted new' — the archetype of female beauty, too, merely reflects the FYM. The range from male (Adonis) to female (Helen) beauty suggests the FYM transcends gender categories. The volta at line 9 extends the parallels to nature itself: 'Speak of the spring, and foison of the year.' Spring is the FYM's beauty; autumn's bounty is his generosity. 'And you in every blessed shape we know' — the universalization reaches its apex. But the couplet executes a brilliant reversal: 'In all external grace you have some part, / But you like none, none you, for constant heart.' The Platonic argument is abruptly particularized. The FYM participates in all external beauty but is ultimately unlike all of it — not because he is more beautiful (the Platonic conclusion) but because he has a 'constant heart.' The move from metaphysics to ethics, from beauty to faithfulness, is both a compliment and a covert plea: after the betrayals of sonnets 40-42, the Speaker asserts constancy as the FYM's defining quality, perhaps more in hope than in certainty."
+      },
+      "directing": {
+        "scene_setting": "A moment of contemplation — the Speaker studying the FYM or reflecting on his image. The tone is philosophical, almost liturgical.",
+        "character_note": "The Speaker as Neoplatonic philosopher, gazing at the FYM and seeing the Form of Beauty. But the couplet reveals that what he truly values is not beauty but constancy.",
+        "fym_note": "The FYM as the Platonic original of beauty — Adonis and Helen are his shadows. But the couplet insists he is also a particular individual with a constant heart.",
+        "dl_note": "Absent, though Helen's evocation as female beauty archetype could shadow toward the DL's world.",
+        "overall_arc": "Begin with genuine metaphysical wonder. Develop through the classical examples with increasing awe. Let the universalization peak at line 12. Then land the couplet as a sudden particularization — from philosophy to personal declaration.",
+        "key_moments": [
+          {"line": 1, "note": "'What is your substance?' — genuine philosophical inquiry. The Speaker truly wonders."},
+          {"line": 5, "note": "'Describe Adonis' — the classical parallel should have weight and beauty."},
+          {"line": 7, "note": "'On Helen's cheek' — the shift from male to female beauty archetype broadens the claim."},
+          {"line": 14, "note": "'But you like none, none you, for constant heart' — the reversal. Deliver with quiet emphasis on 'constant heart.'"}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["substance", "whereof", "made"],
+          "emotional_note": "Genuine wonder — an ontological question",
+          "delivery_note": "Deliver as a real question, not rhetorical. The Speaker truly wants to know what the FYM is made of.",
+          "gloss": "What is your essential nature, what are you made of",
+          "commentary": "'Substance' — in the Aristotelian sense: the essential nature, the underlying reality. The question operates at the level of metaphysics, not mere compliment."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["millions", "strange", "shadows", "tend"],
+          "emotional_note": "Awe — the FYM surrounded by countless reflections",
+          "delivery_note": "'Millions of strange shadows' — let the vastness register. The FYM is a sun casting countless shadows.",
+          "gloss": "That millions of unfamiliar reflections attend upon you",
+          "commentary": "'Shadows' — in the Platonic sense: copies, reflections, imitations of the true Form. 'Tend' = attend upon, serve (OED v2 1). The FYM as origin, all beauties as his attendants."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Adonis", "counterfeit"],
+          "emotional_note": "Classical grandeur — the mythological parallel",
+          "delivery_note": "'Describe Adonis' — the imperative invites a thought experiment. 'Counterfeit' should sound diminishing.",
+          "gloss": "Describe the mythological Adonis, and the imitation is a poor copy of you",
+          "commentary": "'Adonis' — the archetype of male beauty in classical mythology. 'Counterfeit' — a copy, with the connotation of falseness. Even the most beautiful youth in myth is a poor copy of the FYM."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["Helen's", "cheek", "beauty"],
+          "emotional_note": "Expanding the claim from male to female beauty",
+          "delivery_note": "'Helen's cheek' — the most famous face in literature. The comparison should dazzle.",
+          "gloss": "Depict Helen's cheek with every art of beauty",
+          "commentary": "'Helen' — Helen of Troy, archetype of female beauty. The shift from male (Adonis) to female (Helen) suggests the FYM's beauty transcends gendered categories."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["spring", "foison"],
+          "emotional_note": "Natural abundance — the FYM reflected in the seasons",
+          "delivery_note": "'Foison' is an unusual word — give it room. It means abundance, plenty.",
+          "gloss": "Speak of the springtime and the abundance of the harvest",
+          "commentary": "'Foison' — abundance, plenty (OED 1). Spring = the FYM's beauty; foison (harvest) = his bounty/generosity. Nature itself is the FYM's shadow."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["every", "blessed", "shape"],
+          "emotional_note": "The universalization reaches its peak",
+          "delivery_note": "The apex of the Platonic argument. 'Every blessed shape we know' — total participation.",
+          "gloss": "And we recognize you in every beautiful form",
+          "commentary": "'In every blessed shape we know' — the FYM participates in all forms of beauty. The Platonic argument is complete: he is the Form, all else is shadow."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["all", "external", "grace", "part"],
+          "emotional_note": "Summary — but the word 'external' prepares for the reversal",
+          "delivery_note": "'External' should be stressed — it sets up the contrast with 'constant heart.'",
+          "gloss": "In all outward beauty you have a share",
+          "commentary": "'External grace' — the key qualifier. The FYM shares in all external beauty, but the couplet will insist on something internal that makes him unique."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["like", "none", "constant", "heart"],
+          "emotional_note": "The reversal — from universality to unique individuality",
+          "delivery_note": "'Constant heart' — the final two words should land with quiet emphasis. This is what truly distinguishes the FYM.",
+          "gloss": "But you are like no one, and no one like you, because of your faithful heart",
+          "commentary": "'You like none, none you' — chiastic assertion of uniqueness that undoes the Platonic universalization. 'Constant heart' — fidelity, not beauty, is the FYM's distinguishing quality. After the betrayals of 40-42, this may be more wish than fact."
+        }
+      ],
+      "themes": [
+        {"theme": "platonic_idealism", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "constancy", "prominence": "SECONDARY"},
+        {"theme": "classical_mythology", "prominence": "SECONDARY"},
+        {"theme": "nature", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'What is your substance' (line 1); 'you in Grecian tires' (line 8); 'you like none' (line 14)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'We know' (line 12); 'we desire' — the Speaker positions himself as representative observer"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "APOSTROPHE", "quotation": "What is your substance, whereof are you made", "explanation": "Direct philosophical inquiry addressed to the FYM — the question is both rhetorical and genuinely wondering."},
+        {"line_number": 2, "device_id": "METAPHOR", "quotation": "millions of strange shadows on you tend", "explanation": "The FYM as a light source casting shadows — all beauties are his shadows in the Platonic sense."},
+        {"line_number": 5, "device_id": "CONCEIT", "quotation": "Describe Adonis, and the counterfeit / Is poorly imitated after you", "explanation": "Platonic conceit: Adonis, the mythological archetype of beauty, is himself merely a poor copy of the FYM."},
+        {"line_number": 7, "device_id": "ALLITERATION", "quotation": "On Helen's cheek all art of beauty set", "explanation": "The open vowels and liquid consonants create a sound texture that mimics the beauty being described."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Speak of the spring, and foison of the year", "explanation": "The turn extends the parallels from myth to nature — the FYM's beauty is reflected even in the seasons."},
+        {"line_number": 14, "device_id": "CHIASMUS", "quotation": "you like none, none you", "explanation": "Chiastic assertion of uniqueness — the mirrored structure enacts the mutual incomparability it claims."},
+        {"line_number": 14, "device_id": "IRONY", "quotation": "for constant heart", "explanation": "'Constant heart' as the FYM's distinguishing quality is potentially ironic given the betrayals of sonnets 40-42. The assertion may be more hope than fact."},
+        {"line_number": 2, "device_id": "HYPERBOLE", "quotation": "millions of strange shadows", "explanation": "'Millions' exaggerates to emphasize the FYM's universal participation in beauty — every beautiful thing reflects him."}
+      ],
+      "modes": [
+        {"mode_id": "THEMATIC", "priority": 3, "rationale": "The sonnet is primarily a philosophical meditation on the nature of beauty, Platonic idealism, and the relationship between the universal and the particular."},
+        {"mode_id": "IMAGISTIC", "priority": 2, "rationale": "Classical figures (Adonis, Helen) and natural imagery (spring, foison) provide the concrete illustrations of the abstract argument."},
+        {"mode_id": "INTERTEXTUAL", "priority": 2, "rationale": "Platonic philosophy (shadows, substance, forms) structures the argument. The classical references (Adonis from Ovid, Helen from Homer) place the FYM in mythological company."},
+        {"mode_id": "RHETORICAL", "priority": 1, "rationale": "The argument moves through induction: multiple examples (Adonis, Helen, spring, harvest) support the general claim before the couplet's reversal particularizes it."}
+      ]
+    },
+    {
+      "number": 54,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker argues that beauty needs truth (inner substance) to be truly beautiful, comparing true roses (which produce perfume even in death) to canker blooms (which are equally pretty but die without scent), and applying the analogy to the FYM whose truth will be distilled by verse.",
+        "speaker_stance": "didactic, tender, elegiac",
+        "emotional_arc": "philosophical proposition -> botanical illustration -> tonal darkening -> resolution through poetry",
+        "dramatic_situation": "The Speaker develops an extended analogy between true roses and scentless canker blooms to argue that beauty without inner substance is worthless. The FYM's beauty has substance (truth), and when it fades, verse will distill its essence — as roses become perfume.",
+        "subtext": "The sonnet performs a gentle but firm moral instruction: beauty alone is not enough. The canker blooms are a warning. The final couplet asserts verse's power to preserve truth — the first clear statement of the eternizing conceit that will dominate later sonnets.",
+        "analysis_text": "Sonnet 54 completes this batch with a meditation on the relationship between beauty and truth that anticipates the great eternizing sonnets to come. The opening line's polyptoton — 'beauty beauteous' — linguistically enacts the enhancement it describes: beauty made more beautiful by truth's 'sweet ornament.' The first quatrain establishes the principle through the rose: 'The rose looks fair, but fairer we it deem / For that sweet odour, which doth in it live.' Beauty is visual; truth is olfactory — an invisible quality that elevates what the eye sees. The second quatrain introduces the counter-example: 'The canker blooms have full as deep a dye / As the perfumed tincture of the roses.' The canker bloom (dog-rose, Rosa canina) is visually identical to the true rose but produces no scent. The two flowers are indistinguishable to the eye — they 'hang on such thorns, and play as wantonly' — but the canker bloom's 'virtue only is their show.' The tonal volta at line 9 introduces mortality and judgment: the scentless flowers 'live unwoo'd, and unrespected fade; / Die to themselves.' The brutality of 'Die to themselves' — ending with a full stop mid-line — is a small death within the poem. True roses, by contrast, produce 'sweetest odours' even from 'sweet deaths' — their essence survives their form. The couplet applies the analogy: 'And so of you, beauteous and lovely youth, / When that shall vade, by verse distills your truth.' 'Vade' — an archaic word for 'fade' that carries the Latin root (vadere, to go) — names the FYM's inevitable decay. But 'verse distills your truth' transforms the poet into an alchemist of beauty: as the rose becomes perfume through distillation, the FYM's truth (inner substance, fidelity, essential nature) will be preserved through the poet's art. The sonnet thus opens the door to the great eternizing argument — verse as the alembic that saves beauty from time."
+      },
+      "directing": {
+        "scene_setting": "A garden, perhaps — or the Speaker reflecting on flowers. The botanical imagery suggests direct observation, but the argument is philosophical.",
+        "character_note": "The Speaker as moral instructor and incipient immortalizer. He is beginning to discover verse's power to preserve what time destroys.",
+        "fym_note": "The FYM is the true rose — beautiful and substantive. But 'when that shall vade' acknowledges his mortality. The compliment is also an elegy in advance.",
+        "dl_note": "Absent, though the canker blooms (beautiful but substanceless) could be read as a shadowy figure for beauty without truth — a quality the DL will later embody.",
+        "overall_arc": "Begin with the philosophical proposition warmly. Develop the rose/canker distinction with botanical precision. Let the tonal shift at line 9 darken the mood. End the couplet with the first whisper of verse's eternizing power.",
+        "key_moments": [
+          {"line": 1, "note": "'Beauty beauteous' — the polyptoton should be savored. Beauty enhancing itself."},
+          {"line": 5, "note": "'The canker blooms' — introduce the counter-example with a slight chill. These are the false roses."},
+          {"line": 11, "note": "'Die to themselves' — the full stop mid-line is a death. Pause after it."},
+          {"line": 14, "note": "'By verse distills your truth' — the eternizing conceit arrives. Deliver with quiet power — this is the first clear statement of verse's preservative function."}
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["beauty", "beauteous"],
+          "emotional_note": "Delight in the enhancement — beauty made more beautiful",
+          "delivery_note": "The polyptoton should be relished — 'beauty beauteous' is a linguistic performance of the enhancement it describes.",
+          "gloss": "Oh, how much more beautiful does beauty appear",
+          "commentary": "'Beauty beauteous' — polyptoton (repetition of the root in different forms). The linguistic redundancy enacts the surplus value that truth adds to beauty."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["sweet", "ornament", "truth"],
+          "emotional_note": "Warm, philosophical — truth as beauty's adornment",
+          "delivery_note": "'Truth' should be stressed — it is the poem's key term, meaning both fidelity and inner substance.",
+          "gloss": "Thanks to the sweet adornment that truth provides",
+          "commentary": "'Truth' — meaning both (1) inner substance, essential reality, and (2) fidelity, constancy. The word bridges aesthetics and ethics."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["canker", "blooms", "deep", "dye"],
+          "emotional_note": "A shadow falls — the false roses introduced",
+          "delivery_note": "'Canker blooms' should sound slightly ominous — beautiful but hollow.",
+          "gloss": "The wild roses have just as rich a color",
+          "commentary": "'Canker blooms' — the dog-rose (Rosa canina), which has showy flowers but no fragrance. 'Canker' also means disease, corruption — the false rose carries its moral judgment in its name."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["perfumed", "tincture"],
+          "emotional_note": "Warm — the true roses distinguished by scent",
+          "delivery_note": "'Perfumed tincture' — the alchemical language should register. 'Tincture' is an alchemical term.",
+          "gloss": "As the scented color of the true roses",
+          "commentary": "'Tincture' — in alchemy, the essence or quintessence of a substance. The word bridges botanical description and alchemical metaphor, anticipating the couplet's distillation."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["virtue", "only", "show"],
+          "emotional_note": "Moral judgment — beauty without substance condemned",
+          "delivery_note": "'Their virtue only is their show' — stress 'only.' Their sole virtue is appearance.",
+          "gloss": "Since their only quality is their outward appearance",
+          "commentary": "'Virtue' means (1) merit, excellence and (2) power, efficacy. The canker blooms' only virtue is visual — they have no inner substance (scent) to survive their decay."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["unwoo'd", "unrespected", "fade"],
+          "emotional_note": "Desolate — the lonely death of substanceless beauty",
+          "delivery_note": "The prefix 'un-' repeated creates a rhythm of negation. 'Fade' should sound like a dying fall.",
+          "gloss": "They live unloved, and fade without regard",
+          "commentary": "'Unwoo'd, and unrespected' — the negatives accumulate. No one pursues or values the canker blooms. 'Unrespected' echoes Sonnet 43's 'things unrespected.'"
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["Die", "themselves", "Sweet", "roses"],
+          "emotional_note": "Death and resurrection in the same line",
+          "delivery_note": "'Die to themselves.' — FULL STOP. Pause. Then 'Sweet roses do not so' — the contrast should feel like a reprieve.",
+          "gloss": "They die to themselves alone. Sweet roses, by contrast, do not",
+          "commentary": "'Die to themselves' — a devastating three-word sentence. The canker blooms die without legacy. The full stop mid-line creates a caesura that enacts the death. 'Sweet roses do not so' — the true roses produce something beyond themselves."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["sweet", "deaths", "sweetest", "odours"],
+          "emotional_note": "Paradoxical beauty — death producing sweetness",
+          "delivery_note": "The triple 'sweet' (sweet deaths, sweetest odours) should be incantatory — the rose's death is generative.",
+          "gloss": "From their sweet deaths, the sweetest perfumes are made",
+          "commentary": "The paradox: death produces the sweetest scent. Rose petals are distilled into perfume — destruction becomes preservation. This is the poem's central alchemical image."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["you", "beauteous", "lovely", "youth"],
+          "emotional_note": "Tender, elegiac — the turn to the FYM",
+          "delivery_note": "The address should be warm but carry the knowledge that 'youth' will fade.",
+          "gloss": "And so with you, beautiful and lovely young man",
+          "commentary": "'Beauteous and lovely youth' — the accumulated epithets are affectionate but also mark the FYM as young, and therefore subject to time's decay."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["vade", "verse", "distills", "truth"],
+          "emotional_note": "The eternizing conceit announced — verse as alchemical preservation",
+          "delivery_note": "'By verse distills your truth' — the quiet climax. Verse is the alembic that preserves the FYM's essence beyond death.",
+          "gloss": "When your beauty fades, verse will distill your truth",
+          "commentary": "'Vade' — archaic for 'fade' (from Latin vadere). 'Distills' — the alchemical process: as roses are distilled into perfume, the FYM's truth is distilled by verse. The sonnet's final word, 'truth,' completes the argument: beauty needs truth, and verse preserves truth."
+        }
+      ],
+      "themes": [
+        {"theme": "beauty_and_truth", "prominence": "PRIMARY"},
+        {"theme": "eternizing_verse", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "alchemy", "prominence": "SECONDARY"},
+        {"theme": "mortality", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'And so of you, beauteous and lovely youth' (line 13); 'your truth' (line 14)"},
+        {"character_id": "SPEAKER", "role": "IMPLIED", "evidence": "'We it deem' (line 3); the Speaker as the verse-maker who will perform the distillation"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ALLITERATION", "quotation": "beauty beauteous", "explanation": "Polyptoton — the root 'beauty' repeated in different forms. The linguistic surplus enacts the enhancement truth provides."},
+        {"line_number": 5, "device_id": "ANTITHESIS", "quotation": "canker blooms... perfumed tincture of the roses", "explanation": "The governing antithesis: canker blooms (beauty without truth) vs. roses (beauty with truth). The distinction is invisible to the eye, perceptible only through scent."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "But, for their virtue only is their show", "explanation": "The tonal turn: from description of both flowers to moral judgment on the canker blooms."},
+        {"line_number": 11, "device_id": "CAESURA", "quotation": "Die to themselves. Sweet roses do not so", "explanation": "The full stop mid-line creates a powerful caesura — a death within the line. The period enacts the finality it describes."},
+        {"line_number": 12, "device_id": "PARADOX", "quotation": "Of their sweet deaths, are sweetest odours made", "explanation": "Death producing sweetness — the paradox of destruction as preservation. Rose petals destroyed in distillation produce enduring perfume."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "by verse distills your truth", "explanation": "Verse as alchemical distillation — the poet as alchemist who extracts and preserves the beloved's essential truth. The first clear statement of the eternizing conceit."},
+        {"line_number": 6, "device_id": "METONYMY", "quotation": "perfumed tincture", "explanation": "'Tincture' — alchemical term for the quintessence of a substance. The rose's color and scent are its alchemical tincture."},
+        {"line_number": 7, "device_id": "PERSONIFICATION", "quotation": "Hang on such thorns, and play as wantonly", "explanation": "The canker blooms personified as playful, wanton — they perform beauty without possessing substance."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The botanical imagery (roses, canker blooms, thorns, buds, odours, tincture) is precise, observed, and morally charged. The poem's argument is carried entirely by its images."},
+        {"mode_id": "THEMATIC", "priority": 3, "rationale": "Beauty and truth, mortality and preservation, verse as eternizing agent — the sonnet opens the door to the sequence's great thematic preoccupation with art's power over time."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument is inductively structured: proposition (Q1), illustration (Q2), judgment (Q3), application (C). The analogy is developed with logical rigor."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "The rose/canker distinction draws on the medieval tradition of the Roman de la Rose and Sonnet 1's 'beauty's rose.' 'Tincture' and 'distills' invoke alchemical discourse."}
+      ]
+    }
+  ]
+}

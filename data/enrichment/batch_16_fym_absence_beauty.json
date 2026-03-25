@@ -1,0 +1,2478 @@
+{
+  "batch": "16_fym_absence_beauty",
+  "description": "FYM absence, beauty, and praise sonnets 97-108",
+  "sonnets": [
+    {
+      "number": 97,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "EXTENSION",
+        "argument_summary": "The Speaker likens his absence from the FYM to winter, even though it occurred in summer and autumn. The fertile season without the beloved produces only orphaned, fatherless fruit.",
+        "speaker_stance": "bereft, longing, self-dramatizing",
+        "emotional_arc": "desolation -> attempted consolation through nature -> deeper desolation as nature fails",
+        "dramatic_situation": "The Speaker has been separated from the FYM during summer and autumn. He reflects on how the season's abundance felt barren without the beloved's presence, as though the world itself were widowed.",
+        "subtext": "The erotic undercurrent is strong: the autumn is 'big with rich increase' bearing the 'wanton burden of the prime,' and the imagery of widowed wombs and fatherless fruit suggests that the Speaker experiences the FYM's absence as a kind of sexual bereavement. The procreation imagery of the early sonnets returns here inverted -- nature reproduces, but without the FYM the offspring are illegitimate, orphaned.",
+        "analysis_text": "Sonnet 97 opens the great absence sequence with one of the most striking conceits in the collection: summer experienced as winter. The first quatrain establishes the emotional premise with visceral force -- 'What freezings have I felt, what dark days seen!' The anaphoric 'what' constructions pile up sensory deprivation. The exclamation marks (rare in the Sonnets) signal genuine anguish rather than rhetorical posturing. The second quatrain introduces the paradox that makes this sonnet extraordinary: the absence occurred during summer and autumn, seasons of maximum fertility. The 'teeming autumn, big with rich increase' is one of Shakespeare's most sensuous images of natural abundance, yet the simile that follows -- 'Like widow'd wombs after their lords' decease' -- transforms fecundity into mourning. The pregnancy continues, but the father is dead; the harvest comes, but it is joyless. At line 9, the volta deepens rather than reverses the argument. The 'abundant issue' of autumn seems to the Speaker mere 'hope of orphans, and unfather'd fruit.' The legal and familial language (orphans, unfathered, widowed) transforms the natural world into a bereaved household. Line 11 delivers the sonnet's thesis with epigrammatic clarity: 'For summer and his pleasures wait on thee.' Summer itself is the FYM's servant; without the master, the servant's gifts are meaningless. The couplet extends the desolation into the auditory realm -- even the birds sing 'with so dull a cheer / That leaves look pale, dreading the winter's near.' The pathetic fallacy reaches its apex as leaves themselves anticipate winter, mirroring the Speaker's emotional state. The word 'leaves' carries a latent pun on departing, and 'pale' suggests both the whitening of autumn foliage and the pallor of fear. The sonnet's power lies in its systematic inversion: every sign of natural vitality becomes evidence of emotional death. Shakespeare transforms the pastoral tradition -- in which nature consoles the lover -- into its opposite. Nature without the beloved is not merely inadequate but actively distressing, a reminder of what should be joyful but cannot be."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone in a landscape of late summer or early autumn -- harvest time, warm air, birdsong -- and feeling none of it. The contrast between external abundance and internal desolation is the scene's engine.",
+        "character_note": "The Speaker is not merely sad but theatrically bereft. There is self-consciousness in the hyperbole -- he knows it was summer, not winter -- but the emotional truth overwhelms the factual correction.",
+        "fym_note": "The FYM is entirely absent. His absence is the subject. He has become the sun around which seasons revolve; without him, the calendar loses meaning.",
+        "dl_note": "Absent. This is a pure FYM sequence.",
+        "overall_arc": "Open with the stark winter conceit, build through the paradox of fertile emptiness in Q2, deepen the grief at the volta, and let the couplet trail off into dread rather than resolution.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "The opening simile is the thesis. 'How like a winter' -- stress the comparison. The audience must feel the cold."
+          },
+          {
+            "line": 5,
+            "note": "'And yet this time removed was summer's time' -- the factual correction that makes the conceit more powerful, not less. Deliver with a note of bewildered self-awareness."
+          },
+          {
+            "line": 8,
+            "note": "'Like widow'd wombs after their lords' decease' -- the most devastating simile. Slow down. Let the image of pregnant widows register."
+          },
+          {
+            "line": 11,
+            "note": "'For summer and his pleasures wait on thee' -- the key assertion. Summer is the FYM's servant. Deliver as revelation."
+          },
+          {
+            "line": 14,
+            "note": "'That leaves look pale, dreading the winter's near' -- end on dread, not resolution. The fear of winter's return echoes the opening."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["winter", "absence"],
+          "emotional_note": "Stark, declarative grief",
+          "delivery_note": "Open with weight. 'Winter' and 'absence' are the two poles of the sonnet -- let both land.",
+          "gloss": "How much my time away from you has resembled winter",
+          "commentary": "The opening simile establishes the governing conceit. 'My absence' is ambiguous -- it could mean 'my being absent from you' or 'the absence I experience,' collapsing the distinction between the Speaker's action and his suffering."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["thee", "pleasure", "fleeting"],
+          "emotional_note": "Tender, wistful",
+          "delivery_note": "Soften on 'thee' -- this is the first direct address. 'Fleeting' carries urgency.",
+          "gloss": "Away from you, the delight of the passing year",
+          "commentary": "'The pleasure of the fleeting year' identifies the FYM with summer itself. 'Fleeting' introduces time's passage -- the year moves on, with or without the beloved."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["freezings", "dark"],
+          "emotional_note": "Visceral, anguished",
+          "delivery_note": "The anaphoric 'what' demands rising intensity. These are exclamations, not questions.",
+          "gloss": "What cold I have endured, what gloomy days I have witnessed!",
+          "commentary": "The rhetorical questions are actually exclamations (note the exclamation mark). 'Freezings' as a plural noun intensifies the physical sensation -- not one freeze but many."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["yet", "summer's"],
+          "emotional_note": "Bewildered self-correction",
+          "delivery_note": "'And yet' pivots the argument. The Speaker catches himself in his own hyperbole -- and the correction makes the grief worse.",
+          "gloss": "And yet the time I was away was actually summer",
+          "commentary": "The factual correction is the sonnet's masterstroke. The Speaker acknowledges it was summer, which makes the winter metaphor more psychologically revealing rather than less."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["teeming", "rich", "increase"],
+          "emotional_note": "Lush, sensuous, but hollow",
+          "delivery_note": "Let the fertility language bloom -- 'teeming,' 'rich increase' -- before the widow simile undercuts it.",
+          "gloss": "The fertile autumn, heavy with abundant harvest",
+          "commentary": "'Teeming autumn, big with rich increase' -- the language of pregnancy applied to the season. 'Increase' echoes Sonnet 1's opening word, linking this absence to the procreation argument."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["widow'd", "lords'", "decease"],
+          "emotional_note": "Devastating, mournful",
+          "delivery_note": "This is the emotional nadir of Q2. Slow the pace. The simile of widowed wombs should feel like a blow.",
+          "gloss": "Like the wombs of widows after their husbands have died",
+          "commentary": "The simile transforms the harvest from celebration to mourning. The wombs still bear fruit, but the fruit is fatherless. The FYM is cast as the dead lord whose absence makes all fertility meaningless."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["orphans", "unfather'd"],
+          "emotional_note": "Desolate, pitying",
+          "delivery_note": "The legal/familial language -- orphans, unfathered -- should sound like an inventory of loss.",
+          "gloss": "Only the hope that orphans represent, and fatherless offspring",
+          "commentary": "'Unfather'd fruit' is a coinage that combines agricultural and familial senses. The autumn harvest is illegitimate without the FYM's presence to authorize it."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["summer", "pleasures", "wait", "thee"],
+          "emotional_note": "Assertive, revelatory",
+          "delivery_note": "This is the sonnet's thesis statement. Deliver with conviction -- summer serves the FYM, not the other way around.",
+          "gloss": "For summer and its delights attend upon you as servants",
+          "commentary": "'Wait on thee' -- summer as the FYM's attendant. The personification elevates the FYM above nature itself. Without the master, the servant's offerings are purposeless."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["thou", "away", "birds", "mute"],
+          "emotional_note": "Stark, silenced",
+          "delivery_note": "The comma after 'away' creates a caesura that enacts the silence of the birds.",
+          "gloss": "And with you gone, even the birds fall silent",
+          "commentary": "The pathetic fallacy extends to birdsong. 'Mute' anticipates the Muse sonnets (100-103) where the Speaker's own voice falls silent."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["pale", "dreading", "winter's"],
+          "emotional_note": "Fearful, trembling",
+          "delivery_note": "End on dread, not closure. The final word 'near' should hang in the air, unresolved.",
+          "gloss": "That the leaves turn pale, fearing that winter is approaching",
+          "commentary": "'Leaves look pale' -- pathetic fallacy at its most complete. The pun on 'leaves' (foliage / departures) is latent. The sonnet ends where it began: with winter, but now as threat rather than metaphor."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "seasonal_imagery", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "procreation", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ABSENT_PRESENCE",
+          "evidence": "Addressed as 'thee' (line 2) but entirely absent; the sonnet is about the effect of his absence on the Speaker and on nature itself"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person throughout: 'my absence,' 'I felt,' 'seem'd to me' -- the Speaker is both narrator and sufferer"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "SIMILE",
+          "quotation": "How like a winter hath my absence been",
+          "explanation": "The governing simile: absence compared to winter. The 'how like' construction measures the likeness rather than asserting identity."
+        },
+        {
+          "line_number": 3,
+          "device_id": "ANAPHORA",
+          "quotation": "What freezings have I felt, what dark days seen!",
+          "explanation": "The repeated 'what' creates an accumulation of suffering, each clause adding another sensory dimension of deprivation."
+        },
+        {
+          "line_number": 6,
+          "device_id": "PERSONIFICATION",
+          "quotation": "The teeming autumn, big with rich increase",
+          "explanation": "Autumn personified as a pregnant woman, 'big with rich increase.' The personification prepares for the widow simile that follows."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "Bearing the wanton burden of the prime",
+          "explanation": "'Wanton burden' -- the harvest is both sexually playful ('wanton') and heavy ('burden'). 'Prime' means both springtime and sexual prime."
+        },
+        {
+          "line_number": 8,
+          "device_id": "SIMILE",
+          "quotation": "Like widow'd wombs after their lords' decease",
+          "explanation": "The harvest compared to posthumous children. The simile transforms abundance into mourning -- the fruit exists, but the father is gone."
+        },
+        {
+          "line_number": 10,
+          "device_id": "METAPHOR",
+          "quotation": "hope of orphans, and unfather'd fruit",
+          "explanation": "'Unfather'd fruit' collapses agricultural and familial senses -- the autumn harvest as illegitimate offspring without the FYM's authorizing presence."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PERSONIFICATION",
+          "quotation": "leaves look pale, dreading the winter's near",
+          "explanation": "Leaves given human emotion -- pallor and dread. The pathetic fallacy makes all of nature share the Speaker's anxiety."
+        },
+        {
+          "line_number": 5,
+          "device_id": "PARADOX",
+          "quotation": "And yet this time removed was summer's time",
+          "explanation": "The factual paradox that generates the entire sonnet: the absence felt like winter but was actually summer."
+        },
+        {
+          "line_number": 12,
+          "device_id": "HYPERBOLE",
+          "quotation": "thou away, the very birds are mute",
+          "explanation": "Exaggeration that even birdsong ceases without the FYM. Nature itself falls silent in mourning."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The sonnet is driven by its image chain: winter -> pregnant autumn -> widowed wombs -> orphaned fruit -> mute birds -> pale leaves. The imagery does the argumentative work."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The Speaker dramatizes his own emotional state through an extended conceit. The self-correction at line 5 ('And yet') is a dramatic gesture."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Introduces the absence theme that will dominate sonnets 97-99 and links it to the procreation imagery of the opening sonnets."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The exclamatory syntax of Q1 and the heavy caesurae in the couplet create rhythmic turbulence that mirrors the Speaker's emotional disruption."
+        }
+      ]
+    },
+    {
+      "number": 98,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker was absent in spring, when all nature rejoiced, yet nothing could move him to celebrate. Every flower was merely a copy of the FYM, the original pattern of all beauty.",
+        "speaker_stance": "melancholy, aesthetically detached, adoring",
+        "emotional_arc": "spring's vitality -> emotional numbness -> recognition that all beauty derives from the FYM -> resigned play with shadows",
+        "dramatic_situation": "The Speaker recalls a spring spent away from the FYM. Despite April's festivity, he could not engage with nature's beauty because every beautiful thing was merely a derivative of the beloved's perfection.",
+        "subtext": "The Platonic undercurrent is deliberate: the FYM is the Form of beauty, and flowers are mere shadows or copies. The Speaker's inability to enjoy spring without the FYM suggests a kind of aesthetic paralysis -- once you have seen the original, all copies are insufficient. The word 'play' in the couplet carries erotic suggestion: playing with shadows is a substitute for the real thing.",
+        "analysis_text": "Sonnet 98 continues the seasonal absence sequence by shifting from 97's winter-in-summer to spring without the beloved. The opening quatrain is one of Shakespeare's most vivid evocations of seasonal renewal: 'proud-pied April, dress'd in all his trim' personifies the month as a gallant courtier, so joyful that even 'heavy Saturn laugh'd and leap'd with him.' The reference to Saturn -- the planet of melancholy in Renaissance astrology -- establishes the sonnet's stakes: if even Saturn can be made merry, the Speaker's unmoved state is extraordinary. The second quatrain catalogs what failed to move him: birdsong, flowers' scent and color. The telling detail is line 8: 'Or from their proud lap pluck them where they grew.' The Speaker cannot even perform the conventional lover's gesture of picking flowers. His aesthetic paralysis is complete. At the volta (line 9), the negations become more specific: 'Nor did I wonder at the lily's white, / Nor praise the deep vermilion in the rose.' The lily and rose -- emblems of the FYM throughout the sequence -- are singled out precisely because they most closely resemble the beloved. Line 11 delivers the key philosophical claim: 'They were but sweet, but figures of delight.' 'Figures' means both images and rhetorical figures -- nature's beauty is a kind of writing that represents the FYM, who is the 'pattern of all those.' This is Platonic idealism in erotic dress: the FYM as the Form from which all beautiful particulars derive their beauty. The couplet's 'Yet seem'd it winter still, and you away' echoes 97's central conceit while adding a new twist: 'As with your shadow I with these did play.' The flowers are the FYM's shadows (Platonic copies), and the Speaker's engagement with them is mere play -- a substitute for genuine encounter with the beloved. The word 'play' carries the sonnet's only hint of levity, but it is the levity of resignation, not joy. The sonnet's achievement is to make a philosophical claim feel like an emotional confession: the FYM is the original of all beauty, and the Speaker is constitutionally unable to enjoy copies."
+      },
+      "directing": {
+        "scene_setting": "A lush April landscape -- flowers, birdsong, warmth -- through which the Speaker moves like a ghost. He sees everything; nothing touches him.",
+        "character_note": "The Speaker is not angry or dramatic (as in 97) but numb. His detachment from spring's beauty is more troubling than 97's active grief.",
+        "fym_note": "The FYM is elevated to Platonic ideal: the pattern from which all beauty is copied. He is not merely beautiful but the source of beauty itself.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with spring's exuberance (let the audience feel what the Speaker cannot), move through the catalog of failed pleasures, land the Platonic revelation at line 12, and close with resigned play.",
+        "key_moments": [
+          {
+            "line": 2,
+            "note": "'Proud-pied April, dress'd in all his trim' -- let the language be as festive as the season. The Speaker is describing what he could not feel."
+          },
+          {
+            "line": 4,
+            "note": "'Heavy Saturn laugh'd and leap'd' -- the image of the god of melancholy dancing should be comic. Even misery itself was made merry; only the Speaker was not."
+          },
+          {
+            "line": 9,
+            "note": "The volta narrows to specifics: lily and rose. These are FYM emblems. The Speaker's refusal to admire them is a refusal of substitutes."
+          },
+          {
+            "line": 12,
+            "note": "'You pattern of all those' -- the Platonic claim. Deliver with quiet conviction, not bombast. This is philosophical truth spoken as love."
+          },
+          {
+            "line": 14,
+            "note": "'As with your shadow I with these did play' -- the closing confession. 'Play' should carry both its innocent and erotic senses."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["absent", "spring"],
+          "emotional_note": "Matter-of-fact opening that belies the emotional content",
+          "delivery_note": "Begin simply. The decorative language comes in line 2; line 1 is plain statement.",
+          "gloss": "I have been away from you during the spring",
+          "commentary": "The inversion ('From you have I been absent') places 'you' first, establishing that the FYM is the fixed point from which the Speaker has strayed."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["proud-pied", "trim"],
+          "emotional_note": "Festive, ornamental",
+          "delivery_note": "Relish the compound adjective 'proud-pied.' April is a peacock in courtier's dress.",
+          "gloss": "When multi-colored April, dressed in all his finery",
+          "commentary": "'Proud-pied' means multi-colored and vain about it. 'Trim' is clothing/ornament. April is personified as a young gallant -- perhaps a figure for the FYM himself."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["Saturn", "laugh'd", "leap'd"],
+          "emotional_note": "Mirthful, astonished",
+          "delivery_note": "Saturn laughing is an impossibility -- stress the absurdity. If even melancholy dances, the Speaker's numbness is extraordinary.",
+          "gloss": "That even gloomy Saturn laughed and danced with him",
+          "commentary": "Saturn was the planet of melancholy in Renaissance cosmology. Making Saturn laugh and leap is a comic impossibility that measures spring's power -- and, by contrast, the Speaker's resistance to it."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["summer's", "story"],
+          "emotional_note": "Defeated, hollow",
+          "delivery_note": "A 'summer's story' is a happy tale. The Speaker cannot compose one. Deliver with flat affect.",
+          "gloss": "Could make me tell any cheerful tale",
+          "commentary": "'Summer's story' means a pleasant, lighthearted narrative (as opposed to a 'winter's tale' of sorrow). The Speaker's emotional winter prevents summer speech."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["wonder", "lily's", "white"],
+          "emotional_note": "Deliberately numb",
+          "delivery_note": "The negation 'Nor did I wonder' should feel like a confession of aesthetic failure.",
+          "gloss": "Nor did I marvel at the lily's whiteness",
+          "commentary": "The lily represents the FYM's fair complexion throughout the sequence. The Speaker cannot admire the copy when he knows the original."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["praise", "deep", "vermilion"],
+          "emotional_note": "The beauty is acknowledged even as it is dismissed",
+          "delivery_note": "Let 'deep vermilion' be beautiful in the mouth -- the Speaker sees the beauty but cannot feel it.",
+          "gloss": "Nor praise the deep red color of the rose",
+          "commentary": "'Deep vermilion' is a painter's term -- precise, appreciative, but clinical. The Speaker is an art critic, not a lover, when separated from the FYM."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["sweet", "figures"],
+          "emotional_note": "Philosophical, revealing",
+          "delivery_note": "'Figures of delight' is the key phrase -- stress 'figures.' These are representations, not the real thing.",
+          "gloss": "They were merely pleasant, merely images of delight",
+          "commentary": "'Figures' carries its full Renaissance range: images, rhetorical figures, numerical figures. Nature's beauties are a kind of writing -- they represent the FYM but are not him."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["you", "pattern"],
+          "emotional_note": "Revelatory, adoring",
+          "delivery_note": "This is the Platonic thesis. 'Pattern' should carry its full weight: template, archetype, Form.",
+          "gloss": "Modeled after you, the original template of all beauty",
+          "commentary": "'Pattern' in Renaissance usage means the original from which copies are drawn. The FYM is the Platonic Form of beauty; flowers are its imperfect instantiations."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["winter", "still", "away"],
+          "emotional_note": "Resigned, echoing Sonnet 97",
+          "delivery_note": "Echo the opening of 97: 'How like a winter.' The absence sequence has a refrain.",
+          "gloss": "Yet it still felt like winter, with you gone",
+          "commentary": "The callback to 97's winter conceit unifies the absence sequence. 'Still' means both 'nevertheless' and 'always' -- winter is a permanent condition of the FYM's absence."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["shadow", "play"],
+          "emotional_note": "Wistful, subtly erotic",
+          "delivery_note": "End with the lightest touch. 'Play' is both innocent and knowing.",
+          "gloss": "Just as I played with these flowers as with your shadow",
+          "commentary": "'Shadow' is the Platonic term for a copy of the Form. 'Play' carries sexual undertones -- the Speaker's engagement with nature is a displaced, unsatisfying substitute for engagement with the FYM."
+        }
+      ],
+      "themes": [
+        {"theme": "absence", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "seasonal_imagery", "prominence": "PRIMARY"},
+        {"theme": "platonic_idealism", "prominence": "SECONDARY"},
+        {"theme": "art_vs_nature", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ABSENT_PRESENCE",
+          "evidence": "Addressed as 'you' throughout but entirely absent; every flower is his shadow or copy"
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person narrator throughout; his emotional numbness is the subject"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 2,
+          "device_id": "PERSONIFICATION",
+          "quotation": "proud-pied April, dress'd in all his trim",
+          "explanation": "April personified as a vain courtier in festive clothing. The personification makes the season a character whose gaiety the Speaker cannot share."
+        },
+        {
+          "line_number": 4,
+          "device_id": "HYPERBOLE",
+          "quotation": "heavy Saturn laugh'd and leap'd with him",
+          "explanation": "Saturn, the planet of melancholy, made to laugh and dance. The impossibility measures spring's power and, by contrast, the Speaker's immovable grief."
+        },
+        {
+          "line_number": 4,
+          "device_id": "PERSONIFICATION",
+          "quotation": "heavy Saturn laugh'd and leap'd",
+          "explanation": "The god/planet Saturn given human emotion and action -- laughing and leaping like a child, contrary to his melancholic nature."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "They were but sweet, but figures of delight",
+          "explanation": "Flowers as 'figures' -- representations, copies, rhetorical figures. Nature's beauty is a text that writes the FYM's beauty in a secondary medium."
+        },
+        {
+          "line_number": 12,
+          "device_id": "CONCEIT",
+          "quotation": "Drawn after you, you pattern of all those",
+          "explanation": "The Platonic conceit: the FYM as the Form or pattern from which all beautiful things are imperfect copies. 'Drawn after' suggests both artistic copying and magnetic attraction."
+        },
+        {
+          "line_number": 14,
+          "device_id": "METAPHOR",
+          "quotation": "As with your shadow I with these did play",
+          "explanation": "Flowers as the FYM's 'shadow' -- Platonic shadows on the cave wall. The Speaker plays with shadows in the beloved's absence."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANAPHORA",
+          "quotation": "Yet nor the lays of birds, nor the sweet smell",
+          "explanation": "The repeated 'nor' constructions (lines 5, 6, 9, 10) accumulate the things that failed to move the Speaker, building through negation."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PARADOX",
+          "quotation": "Yet seem'd it winter still, and you away",
+          "explanation": "Spring experienced as winter -- the same paradox as Sonnet 97, now applied to a different season."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The sonnet is a gallery of spring images -- April in his trim, Saturn dancing, birdsong, flowers -- all rendered powerless. The imagery's vividness makes the Speaker's numbness more striking."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Introduces the Platonic idealism that elevates the FYM from beautiful person to Form of beauty itself -- a philosophical claim with erotic force."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The accumulation through negation (nor...nor...nor) is a rhetorical strategy: the catalog of spring's failed appeals builds the argument for the FYM's supremacy."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 1,
+          "rationale": "The personified April and Saturn draw on Renaissance mythographic tradition; the lily-and-rose blazon is a Petrarchan convention that Shakespeare will deconstruct in 99."
+        }
+      ]
+    },
+    {
+      "number": 99,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker chides the flowers for stealing their beauty from the FYM: the violet stole his breath and complexion, the lily his hand, marjoram his hair, the roses his blush and pallor. One thieving rose was destroyed by a canker. All natural beauty is stolen FYM beauty.",
+        "speaker_stance": "playfully accusatory, possessive, inventive",
+        "emotional_arc": "accusation of the violet -> catalog of floral thefts -> divine justice on the rose -> epigrammatic conclusion",
+        "dramatic_situation": "The Speaker continues the absence meditation by addressing the flowers directly, accusing them of stealing their various beauties from the FYM's body. This is the blazon tradition inverted: instead of praising the beloved's features through flowers, the flowers are thieves of the beloved's features.",
+        "subtext": "The accusation of theft barely conceals the Speaker's own possessiveness -- he cannot bear that even flowers should share the FYM's attributes. The canker that destroys the third rose introduces a note of sexual anxiety: the rose that stole 'both' (red and white, breath and color) is punished with death, suggesting that those who take too much of the FYM are destroyed. The 15-line anomaly may be deliberate -- the extra line in Q1 mirrors the excess of nature's theft.",
+        "analysis_text": "Sonnet 99 is the most formally anomalous sonnet in the sequence: it has 15 lines, with the first quatrain expanded to five lines. Whether this is a compositional error or deliberate experiment has been debated since Malone, but the effect is to create a sense of excess that mirrors the poem's subject -- flowers stealing more than their share. The blazon tradition (cataloguing a beloved's features through comparisons to natural objects) is here inverted: instead of 'my love's cheeks are like roses,' the roses are accused of robbery. The violet is chided first as 'sweet thief' for stealing the FYM's breath and complexion. The word 'grossly' (line 5) means both 'excessively' and 'crudely' -- the violet's purple is a vulgar imitation of the FYM's veins. The lily 'condemned for thy hand' (line 6) links whiteness to the FYM's physical body -- the hand as synecdoche. The marjoram that 'had stol'n thy hair' (line 7) introduces a humble herb where we might expect something grander, perhaps suggesting the FYM's hair is more precious than any flower. The roses occupy the most space: one blushes red ('shame'), one is white ('despair'), and a third steals both colors and the FYM's breath. This third rose is punished with a 'vengeful canker' -- the only moment of violence in the seasonal absence sequence. The canker is both a literal worm that destroys roses and a metaphor for the moral disease that attends theft. Lines 14-15 (the couplet, displaced by one line due to the 15-line structure) deliver the epigrammatic summary: every flower the Speaker sees has stolen its sweetness or color from the FYM. The sonnet's wit lies in its possessiveness disguised as indignation -- the Speaker is not defending nature's rights but the FYM's exclusive ownership of beauty. The blazon becomes an inventory of theft, and every beautiful thing in nature is evidence of the FYM's original, stolen perfection."
+      },
+      "directing": {
+        "scene_setting": "A garden in bloom. The Speaker walks among flowers, addressing them with mock severity like a magistrate among criminals.",
+        "character_note": "The Speaker is at his most playful and possessive here. The 'chiding' of the violet is a game, but it reveals genuine jealousy -- even flowers are rivals for the FYM's beauty.",
+        "fym_note": "The FYM is present only as the source of all beauty: his breath, complexion, veins, hand, hair. He is dismembered into attributes that nature has stolen.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with mock-judicial severity, catalog the thefts with increasing energy, deliver the canker punishment with real edge, then close with the epigrammatic summary.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'The forward violet thus did I chide' -- establish the judicial tone. The Speaker is a prosecutor, and the flowers are defendants."
+          },
+          {
+            "line": 2,
+            "note": "'Sweet thief' -- the oxymoron sets the tone. This is playful accusation, not genuine anger."
+          },
+          {
+            "line": 8,
+            "note": "'The roses fearfully on thorns did stand' -- the roses know they are guilty. The personification becomes vivid here."
+          },
+          {
+            "line": 13,
+            "note": "'A vengeful canker eat him up to death' -- the only violence in the sequence. The punishment is real, even if the crime is fanciful."
+          },
+          {
+            "line": 15,
+            "note": "The epigrammatic close: all beauty in nature is stolen from the FYM. Deliver as settled conviction."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["forward", "chide"],
+          "emotional_note": "Playfully stern",
+          "delivery_note": "'Forward' means presumptuous -- the violet has been bold. 'Chide' is the parent's word for scolding a child.",
+          "gloss": "I scolded the presumptuous violet as follows",
+          "commentary": "'Forward' carries moral judgment -- the violet is immodest, getting above itself. The past tense 'did I chide' frames this as a narrative, a story the Speaker tells about his garden encounter."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["Sweet", "thief", "sweet"],
+          "emotional_note": "Oxymoronic, affectionate despite the accusation",
+          "delivery_note": "The repetition of 'sweet' links the violet's sweetness to the stolen sweetness. Both meanings should register.",
+          "gloss": "You sweet thief, where did you steal your sweet fragrance",
+          "commentary": "'Sweet thief' is an oxymoron that sets the sonnet's tone: beauty and crime are intertwined. The repeated 'sweet' (adjective for the violet, noun for its scent) creates a rhetorical echo."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["love's", "breath", "purple", "pride"],
+          "emotional_note": "Possessive, intimate",
+          "delivery_note": "'My love's breath' is physically intimate -- the Speaker knows the FYM's breath. Let that register.",
+          "gloss": "If not from my beloved's breath? The purple glory",
+          "commentary": "The violet's scent is identified with the FYM's breath -- an intimate, physical detail. 'Purple pride' describes both the violet's color and its vanity in displaying what it has stolen."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["grossly", "dy'd"],
+          "emotional_note": "Accusatory, disgusted",
+          "delivery_note": "'Grossly' should carry its double meaning: excessively and crudely. The violet is a bad forger.",
+          "gloss": "You have too crudely dyed yourself in my beloved's blood",
+          "commentary": "'Grossly dy'd' -- the violet has dyed its petals in the FYM's veins. The image is startlingly physical: the flower has stolen not just color but blood."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["lily", "condemned", "hand"],
+          "emotional_note": "Judicial, swift",
+          "delivery_note": "'Condemned' is a courtroom verb -- the lily is found guilty. The sentence is brief.",
+          "gloss": "I condemned the lily for imitating your hand",
+          "commentary": "The lily's whiteness matches the FYM's hand. 'Condemned for thy hand' puns: condemned for [stealing] your hand, and condemned by your hand (judged by the FYM's standard)."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["roses", "fearfully", "thorns"],
+          "emotional_note": "Vivid, theatrical",
+          "delivery_note": "The roses are trembling defendants. 'Fearfully on thorns' is both literal (roses grow on thorns) and figurative (on edge, anxious).",
+          "gloss": "The roses stood nervously on their thorns",
+          "commentary": "'On thorns' is both botanical fact and idiom for anxiety. The roses know they are guilty and stand as if awaiting judgment. The personification is complete."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["blushing", "shame", "white", "despair"],
+          "emotional_note": "Color-coded guilt",
+          "delivery_note": "The antithesis of red/white maps onto shame/despair. Let the colors tell the emotional story.",
+          "gloss": "One blushing with shame, another white with despair",
+          "commentary": "Red and white roses become figures of emotional states: the red rose blushes with the shame of theft, the white one pales with despair at being caught. The blazon colors become moral indicators."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["vengeful", "canker", "death"],
+          "emotional_note": "Punitive, violent",
+          "delivery_note": "The only moment of real violence in the absence sequence. The canker is divine justice -- slow, inevitable, consuming.",
+          "gloss": "A vengeful worm ate it up until it died",
+          "commentary": "The canker (a rose-destroying worm/disease) serves as nature's punishment for the rose's greed. 'Vengeful' imports moral agency into the natural world. The rose that stole most is destroyed most."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["More", "none"],
+          "emotional_note": "Expansive, then absolute",
+          "delivery_note": "'More flowers I noted' -- the catalog could continue forever. 'Yet I none could see' -- but the conclusion is always the same.",
+          "gloss": "I observed more flowers, yet I could see none",
+          "commentary": "The penultimate line expands the accusation beyond specific flowers to all flowers. 'None could see' means he could perceive no flower that had not stolen from the FYM."
+        },
+        {
+          "line_number": 15,
+          "emphasis_words": ["sweet", "colour", "stol'n"],
+          "emotional_note": "Conclusive, possessive",
+          "delivery_note": "The final line is an epigram. Every quality in nature is stolen FYM property.",
+          "gloss": "That had not stolen its sweetness or color from you",
+          "commentary": "The 15th line -- anomalous in the sequence -- serves as the epigrammatic close. 'Sweet, or colour' covers all sensory beauty: fragrance and appearance. Everything is stolen."
+        }
+      ],
+      "themes": [
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "nature_as_copy", "prominence": "PRIMARY"},
+        {"theme": "possessiveness", "prominence": "SECONDARY"},
+        {"theme": "blazon_tradition", "prominence": "SECONDARY"},
+        {"theme": "absence", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ABSENT_PRESENCE",
+          "evidence": "Present only as the source of beauty: 'my love's breath,' 'thy soft cheek,' 'thy hand,' 'thy hair.' He is a dismembered collection of attributes that nature has stolen."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person narrator and judge: 'thus did I chide,' 'I condemned,' 'I noted.' He plays prosecutor in nature's court."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 2,
+          "device_id": "APOSTROPHE",
+          "quotation": "Sweet thief, whence didst thou steal thy sweet that smells",
+          "explanation": "Direct address to the violet as though it were a person capable of answering charges. The apostrophe launches the judicial conceit."
+        },
+        {
+          "line_number": 2,
+          "device_id": "PUN",
+          "quotation": "Sweet thief, whence didst thou steal thy sweet",
+          "explanation": "'Sweet' used as adjective (sweet thief) and noun (thy sweet = fragrance). The repetition emphasizes that the violet's defining quality is stolen goods."
+        },
+        {
+          "line_number": 5,
+          "device_id": "METAPHOR",
+          "quotation": "In my love's veins thou hast too grossly dy'd",
+          "explanation": "The violet has dyed itself in the FYM's blood -- a metaphor that makes botanical color into bodily theft."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PERSONIFICATION",
+          "quotation": "The roses fearfully on thorns did stand",
+          "explanation": "Roses given human fear, standing on thorns like anxious defendants. The botanical fact (roses grow on thorns) becomes a figure of guilty anxiety."
+        },
+        {
+          "line_number": 9,
+          "device_id": "ANTITHESIS",
+          "quotation": "One blushing shame, another white despair",
+          "explanation": "Red/white, shame/despair -- the antithesis maps the blazon's traditional color pair onto contrasting emotions of guilt."
+        },
+        {
+          "line_number": 9,
+          "device_id": "BLAZON",
+          "quotation": "One blushing shame, another white despair",
+          "explanation": "The blazon convention (cataloguing features through color comparisons) is here inverted: instead of comparing the beloved to flowers, the flowers are accused of copying the beloved."
+        },
+        {
+          "line_number": 13,
+          "device_id": "PERSONIFICATION",
+          "quotation": "A vengeful canker eat him up to death",
+          "explanation": "The canker worm given moral purpose ('vengeful'). Nature punishes the rose-thief, importing justice into the botanical world."
+        },
+        {
+          "line_number": 1,
+          "device_id": "CONCEIT",
+          "quotation": "The forward violet thus did I chide",
+          "explanation": "The governing conceit: the Speaker as a judge presiding over a trial of flowers accused of stealing the FYM's beauty. Sustained for all 15 lines."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The sonnet is a sustained catalog of flower images, each linked to a specific FYM body part. The imagery is the argument."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The judicial conceit (chiding, condemning, punishing) gives the sonnet its argumentative structure. The Speaker prosecutes nature for theft."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The 15-line anomaly is the most distinctive structural feature in the entire sequence. The extra line in Q1 enacts the excess of nature's theft."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 1,
+          "rationale": "Inverts the Petrarchan blazon tradition: instead of praising the beloved through flowers, flowers are accused of copying the beloved. Shakespeare deconstructs the convention he inherited."
+        }
+      ]
+    },
+    {
+      "number": 100,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker chides his Muse for neglecting the FYM in favor of lesser subjects. He commands her to return, survey the FYM's face for signs of aging, and wage war against Time through verse.",
+        "speaker_stance": "imperative, frustrated, commanding",
+        "emotional_arc": "accusation of neglect -> command to return -> fear of time's damage -> assertion of poetry's power",
+        "dramatic_situation": "The Speaker has not written about the FYM for some time and personifies the cause as an unfaithful Muse who has wandered off to serve inferior subjects. He demands she return and resume her duty: to immortalize the FYM against Time's destruction.",
+        "subtext": "The Muse's absence from the FYM mirrors the Speaker's own absence in sonnets 97-99. The self-accusation disguised as accusation of the Muse is transparent: the Speaker has been neglectful, and projecting the failure onto a personified creative faculty is both self-critical and self-exonerating. The fear that Time may have already wrinkled the FYM's face introduces genuine anxiety beneath the rhetorical game.",
+        "analysis_text": "Sonnet 100 opens the Muse sub-sequence (100-103) with a burst of imperative energy. The opening question -- 'Where art thou Muse that thou forget'st so long' -- is both a poetic invocation and a lover's complaint. The Muse is addressed like an absent friend, a delinquent servant, and an unfaithful partner simultaneously. The first quatrain's accusation is economic: the Muse 'spend'st' her 'fury' on 'worthless song,' 'darkening' her power to illuminate 'base subjects.' The language of investment and waste echoes the procreation sonnets' economic metaphors -- beauty (and poetic talent) are capital that must be properly deployed. The second quatrain commands the Muse to return with three imperatives in rapid succession: 'Return,' 'Sing,' 'Rise.' The Speaker positions the FYM as both the Muse's proper subject and her source of power: 'the ear that doth thy lays esteem / And gives thy pen both skill and argument.' The FYM is not merely the object of poetry but its cause and sustenance. At line 9, the volta shifts from command to urgency. 'Rise, resty Muse, my love's sweet face survey' introduces genuine anxiety: what if Time has already damaged the FYM? 'If Time have any wrinkle graven there' -- the conditional is fearful, not rhetorical. The word 'graven' means both carved and buried (as in 'grave'), suggesting that Time's marks are miniature deaths. The couplet resolves the anxiety with a bold counter-claim: poetry can outrun Time. 'Give my love fame faster than Time wastes life' sets poetry and Time in a race. The final image -- preventing Time's 'scythe and crooked knife' -- personifies Time as both reaper and surgeon, cutting life and beauty simultaneously. The sonnet's achievement is to make poetic ambition feel like emotional necessity: the Speaker writes not for fame but to save the FYM from Time."
+      },
+      "directing": {
+        "scene_setting": "The Speaker at his desk, pen idle, berating an invisible Muse. The scene is half-comic, half-urgent -- a poet arguing with his own creative faculty.",
+        "character_note": "The Speaker is playing a role: the neglected master whose servant has wandered off. But beneath the game is real fear -- he has not written about the FYM, and Time does not wait.",
+        "fym_note": "The FYM is the Muse's proper subject and her source of power. The fear that Time may have wrinkled his face is the sonnet's emotional core.",
+        "dl_note": "Possibly implied: the 'worthless song' and 'base subjects' the Muse has been serving could glance at the Dark Lady sonnets, though this is speculative.",
+        "overall_arc": "Begin with frustrated accusation, build through commands, let the fear of Time's damage surface at the volta, and close with the bold claim that poetry can outrace death.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Where art thou Muse' -- open as a genuine question. The Speaker is bewildered by his own silence."
+          },
+          {
+            "line": 5,
+            "note": "'Return forgetful Muse' -- the first imperative. The commands will accelerate from here."
+          },
+          {
+            "line": 9,
+            "note": "'Rise, resty Muse' -- a third form of address (resty = lazy). The urgency peaks."
+          },
+          {
+            "line": 10,
+            "note": "'If Time have any wrinkle graven there' -- the fear surfaces. This is not rhetoric; the Speaker is genuinely worried."
+          },
+          {
+            "line": 13,
+            "note": "'Give my love fame faster than Time wastes life' -- the couplet's race between poetry and Time. Deliver with determination."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["Where", "Muse", "forget'st"],
+          "emotional_note": "Accusatory, bewildered",
+          "delivery_note": "A genuine question with an edge. The Speaker is both puzzled and angry.",
+          "gloss": "Where are you, Muse, that you have forgotten for so long",
+          "commentary": "The invocation of the Muse is an ancient convention, but Shakespeare makes it feel like a domestic argument. 'Forget'st so long' implies a relationship with obligations."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["fury", "worthless"],
+          "emotional_note": "Contemptuous, jealous",
+          "delivery_note": "'Fury' is poetic inspiration (Latin furor poeticus). 'Worthless' dismisses whatever else the Muse has been writing about.",
+          "gloss": "Are you wasting your poetic inspiration on some trivial subject?",
+          "commentary": "'Fury' (furor poeticus) is the divine madness of poetic inspiration. That the Muse spends it on 'worthless song' is both artistic waste and emotional betrayal."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Return", "forgetful", "redeem"],
+          "emotional_note": "Commanding, urgent",
+          "delivery_note": "The first imperative: 'Return.' The religious language ('redeem') elevates the stakes.",
+          "gloss": "Come back, forgetful Muse, and make amends for time wasted",
+          "commentary": "'Redeem' carries theological overtones -- the Muse must atone for wasted time. The economic and religious registers overlap: time is currency and spiritual obligation."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["skill", "argument"],
+          "emotional_note": "Assertive, flattering the FYM",
+          "delivery_note": "The FYM gives the Muse both her craft ('skill') and her subject ('argument'). He is source and object.",
+          "gloss": "And gives your pen both its craft and its subject matter",
+          "commentary": "The FYM as the source of both poetic skill and poetic subject matter. This elevates him from muse-object to muse-cause -- he does not merely inspire poetry but enables it."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["Rise", "resty", "survey"],
+          "emotional_note": "Urgent, anxious beneath the command",
+          "delivery_note": "'Rise, resty Muse' -- three imperative addresses in nine lines (return, sing, rise). The urgency is building.",
+          "gloss": "Get up, lazy Muse, and examine my beloved's face",
+          "commentary": "'Resty' means lazy, sluggish (from 'rest'). 'Survey' is a word of assessment -- the Muse must inspect the FYM's face like a surveyor mapping terrain for damage."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["Time", "wrinkle", "graven"],
+          "emotional_note": "Fearful, the mask slipping",
+          "delivery_note": "The conditional 'If' is more anxious than it pretends to be. 'Graven' should land with its double sense: carved and buried.",
+          "gloss": "If Time has carved any wrinkle there",
+          "commentary": "'Graven' means carved (as in engraved) but puns on 'grave.' Time's wrinkles are tiny graves on the FYM's face -- each line a small death of beauty."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["satire", "decay"],
+          "emotional_note": "Combative, defiant",
+          "delivery_note": "The Muse is to be a weapon against Time: a satirist attacking decay itself.",
+          "gloss": "If so, be a satirist against decay",
+          "commentary": "'Satire to decay' -- the Muse as weapon. Satire in the Renaissance sense is moral correction through ridicule. The Muse should shame Time for damaging the FYM."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["fame", "faster", "wastes"],
+          "emotional_note": "Determined, racing",
+          "delivery_note": "The couplet is a race: fame versus waste, poetry versus Time. The alliterative f's (fame, faster) drive the speed.",
+          "gloss": "Give my beloved fame more quickly than Time destroys life",
+          "commentary": "The race between poetry and Time. 'Faster than Time wastes life' admits that Time will win the physical contest; poetry's speed must compensate."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["scythe", "crooked", "knife"],
+          "emotional_note": "Dark, final, weaponized",
+          "delivery_note": "End with the image of Time's weapons: the scythe that reaps life and the crooked knife that cuts beauty. Let both instruments register.",
+          "gloss": "Thus you prevent his reaping scythe and curved knife",
+          "commentary": "'Scythe and crooked knife' -- Time personified as both harvester (scythe for life) and surgeon/vandal (knife for beauty). 'Prevent' in its Latin sense: to come before, to outrun."
+        }
+      ],
+      "themes": [
+        {"theme": "poetry_vs_time", "prominence": "PRIMARY"},
+        {"theme": "the_muse", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "immortality_through_verse", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "MENTIONED",
+          "evidence": "Referred to as 'that which gives thee all thy might' (line 2) and 'my love' (lines 9, 13). He is the Muse's proper subject but not directly addressed."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "Commands the Muse throughout: 'Return,' 'Sing,' 'Rise,' 'Give.' He is the Muse's master and the FYM's champion."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "Where art thou Muse that thou forget'st so long",
+          "explanation": "Direct address to the personified Muse, combining classical invocation with domestic complaint."
+        },
+        {
+          "line_number": 4,
+          "device_id": "METAPHOR",
+          "quotation": "Darkening thy power to lend base subjects light",
+          "explanation": "Poetic power as light: the Muse dims her own lamp by shining it on unworthy subjects. Light wasted on the base darkens the source."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "If Time have any wrinkle graven there",
+          "explanation": "'Graven' means carved/engraved but puns on 'grave.' Time's wrinkles are tiny graves -- each line on the face a small death."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PERSONIFICATION",
+          "quotation": "thou prevent'st his scythe and crooked knife",
+          "explanation": "Time personified as a figure wielding both a harvester's scythe and a vandal's knife -- dually destroying life and beauty."
+        },
+        {
+          "line_number": 13,
+          "device_id": "ANTITHESIS",
+          "quotation": "Give my love fame faster than Time wastes life",
+          "explanation": "Fame versus waste, speed of poetry versus speed of decay. The couplet structures the entire sonnet as a race."
+        },
+        {
+          "line_number": 5,
+          "device_id": "ANAPHORA",
+          "quotation": "Return forgetful Muse",
+          "explanation": "The imperative openings of lines 5, 7, and 9 ('Return,' 'Sing,' 'Rise') create an anaphoric rhythm of escalating commands."
+        },
+        {
+          "line_number": 6,
+          "device_id": "METAPHOR",
+          "quotation": "In gentle numbers time so idly spent",
+          "explanation": "'Gentle numbers' -- poetry as both metrics (numbers) and aristocratic speech (gentle). Time redeemed through verse."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a series of imperatives: accusation, command, command, command. The rhetorical structure is primary -- the Speaker argues the Muse into action."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The personified Muse is a dramatic character: a truant servant being recalled to duty. The one-sided dialogue creates a dramatic scene."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Introduces the central concern of the Muse group (100-103): the relationship between poetry, beauty, and time."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 1,
+          "rationale": "Time's scythe and crooked knife, the wrinkle graven in the face -- the images of decay are vivid but subordinate to the rhetorical argument."
+        }
+      ]
+    },
+    {
+      "number": 101,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker continues his dialogue with the Muse, now giving her a voice. She argues that the FYM needs no praise because truth and beauty are self-evident. The Speaker rejects this excuse: the Muse's job is to preserve the FYM for future ages.",
+        "speaker_stance": "dialogic, rebuking, pedagogical",
+        "emotional_arc": "accusation of neglect -> the Muse's defense -> Speaker's demolition of the defense -> imperative conclusion",
+        "dramatic_situation": "The Speaker and his Muse are in dialogue. The Muse argues that the FYM is so perfect he needs no poetic adornment -- truth needs no color, beauty no pencil. The Speaker rejects this as an excuse for laziness: even if the FYM needs no praise now, poetry must preserve him for posterity.",
+        "subtext": "The Muse's defense -- that perfection needs no embellishment -- is actually a sophisticated aesthetic argument that Shakespeare himself seems to endorse elsewhere. The Speaker's counter-argument is pragmatic rather than aesthetic: the issue is not whether the FYM needs praise but whether future ages will know him without it. The sonnet stages a genuine philosophical debate about the purpose of art.",
+        "analysis_text": "Sonnet 101 develops the Muse dialogue initiated in 100, now giving the Muse a speaking part. The opening address -- 'O truant Muse' -- escalates from 100's 'forgetful' and 'resty' to 'truant,' a word implying deliberate absence from duty. The accusation sharpens: the Muse has neglected 'truth in beauty dy'd,' a phrase that compresses the entire aesthetic of the Sonnets into four words. Lines 5-8 give the Muse her defense, set off in quotation marks in most editions. Her argument is elegant: 'Truth needs no colour, with his colour fix'd; / Beauty no pencil, beauty's truth to lay.' This is a statement of aesthetic self-sufficiency -- the FYM's beauty is its own best representation. 'But best is best, if never intermix'd' argues for the purity of unadorned perfection. The argument is not trivial; it anticipates the entire tradition of aesthetic minimalism. At the volta, the Speaker demolishes the defense with a single devastating question: 'Because he needs no praise, wilt thou be dumb?' The Muse's philosophical refinement is reframed as laziness. The Speaker's counter-argument is temporal, not aesthetic: the FYM needs no praise now, but he needs poetry to 'outlive a gilded tomb' and be 'prais'd of ages yet to be.' The couplet commands and instructs simultaneously: 'Then do thy office, Muse; I teach thee how / To make him seem long hence as he shows now.' The word 'seem' is telling -- poetry cannot preserve the FYM's actual beauty, only its seeming. The Speaker acknowledges poetry's limitation even as he asserts its necessity. The sonnet stages a genuine debate between two valid positions: art as adornment of truth versus art as preservation against time. Shakespeare sides with preservation, making poetry's purpose not decorative but archival."
+      },
+      "directing": {
+        "scene_setting": "A continuation of 100's scene: the Speaker and the Muse in dialogue. Now the Muse has a voice, and the debate is philosophical.",
+        "character_note": "The Speaker shifts from commander (100) to teacher. 'I teach thee how' -- he is not just ordering the Muse but instructing her in her purpose.",
+        "fym_note": "The FYM is the subject of the debate but not present. Both sides agree on his perfection; they disagree on whether perfection needs poetry.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with accusation, let the Muse's defense have its full elegance (lines 5-8 are beautiful), then demolish it at the volta, and close with the imperative instruction.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'O truant Muse' -- more severe than 'forgetful' or 'resty.' The Muse is not merely lazy but delinquent."
+          },
+          {
+            "line": 6,
+            "note": "'Truth needs no colour, with his colour fix'd' -- the Muse's best argument. Deliver with genuine conviction; this is not a straw man."
+          },
+          {
+            "line": 9,
+            "note": "'Because he needs no praise, wilt thou be dumb?' -- the devastating reframing. The Muse's philosophy becomes an excuse."
+          },
+          {
+            "line": 13,
+            "note": "'Then do thy office, Muse; I teach thee how' -- the Speaker assumes the teacher's chair. The imperative is calm, not angry."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["truant", "Muse", "amends"],
+          "emotional_note": "Stern, parental",
+          "delivery_note": "'Truant' is a schoolmaster's word -- the Muse is a delinquent pupil.",
+          "gloss": "O truant Muse, how will you make amends",
+          "commentary": "'Truant' escalates from 100's 'forgetful' and 'resty.' The progression maps increasing severity: forgetful (accidental), resty (lazy), truant (deliberately absent)."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["truth", "beauty", "dy'd"],
+          "emotional_note": "Compressed, essential",
+          "delivery_note": "'Truth in beauty dy'd' is the sequence's aesthetic credo. Let each word carry its full weight.",
+          "gloss": "For your neglect of truth embodied in beauty",
+          "commentary": "'Truth in beauty dy'd' -- truth dyed (colored, embodied) in beauty. The phrase compresses the Sonnets' central aesthetic: truth and beauty are not separate but interpenetrating."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["Truth", "colour", "fix'd"],
+          "emotional_note": "Elegant, philosophical",
+          "delivery_note": "This is the Muse speaking. Give her argument its due dignity -- this is not a weak position.",
+          "gloss": "Truth needs no embellishment when its own qualities are already established",
+          "commentary": "The Muse's argument: truth has its own 'colour' (both complexion and rhetorical ornament) already 'fix'd' (both settled and applied like dye). Poetry would be redundant."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["Beauty", "pencil", "truth"],
+          "emotional_note": "Refined, confident",
+          "delivery_note": "'Beauty no pencil, beauty's truth to lay' -- the parallelism with line 6 should be clear. The Muse builds a careful case.",
+          "gloss": "Beauty needs no artist's brush to depict beauty's truth",
+          "commentary": "'Pencil' means paintbrush. The Muse argues that beauty is self-depicting -- it needs no artistic mediation. 'Beauty's truth' inverts 'truth in beauty' from line 2."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["best", "best", "intermix'd"],
+          "emotional_note": "Axiomatic, final",
+          "delivery_note": "The Muse's closing argument: perfection is diminished by addition. Deliver as a settled truth.",
+          "gloss": "The best remains best only if never mixed with inferior things",
+          "commentary": "'Best is best, if never intermix'd' -- a statement of aesthetic purity. Adding poetry to the FYM's beauty would dilute it. The argument has real force."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["needs", "praise", "dumb"],
+          "emotional_note": "Sharp, deflating",
+          "delivery_note": "The volta: the Speaker reframes the Muse's philosophy as an excuse for silence. 'Dumb' is blunt and insulting.",
+          "gloss": "Just because he needs no praise, will you remain silent?",
+          "commentary": "The devastating pivot: the Muse's elegant philosophy of non-intervention is reduced to the crudity of 'wilt thou be dumb?' The Speaker attacks not the logic but the conclusion."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["outlive", "gilded", "tomb"],
+          "emotional_note": "Ambitious, defiant",
+          "delivery_note": "The counter-argument: poetry's purpose is not decoration but survival. 'Gilded tomb' should sound hollow.",
+          "gloss": "To make him far outlast an ornate tomb",
+          "commentary": "'Gilded tomb' -- the wealthy monument that will eventually crumble. Poetry can outlast even gilded permanence. The image recalls Sonnet 55's 'Not marble, nor the gilded monuments.'"
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["office", "Muse", "teach"],
+          "emotional_note": "Calm command, pedagogical",
+          "delivery_note": "The Speaker becomes the teacher. 'I teach thee how' -- not a request but an instruction.",
+          "gloss": "Then do your job, Muse; I will teach you how",
+          "commentary": "'Office' is duty, appointed role. The Speaker assumes authority over the Muse -- a remarkable reversal of the conventional relationship where the Muse inspires the poet."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["seem", "long hence", "shows"],
+          "emotional_note": "Quietly realistic amid the ambition",
+          "delivery_note": "'Seem' is an honest word -- poetry creates seeming, not being. Let the limitation register even within the triumph.",
+          "gloss": "To make him appear in the future as he looks now",
+          "commentary": "'Seem' versus 'shows': poetry will make the FYM 'seem' as he currently 'shows.' The distinction is honest -- art creates appearance, not reality. The preservation is representational."
+        }
+      ],
+      "themes": [
+        {"theme": "the_muse", "prominence": "PRIMARY"},
+        {"theme": "art_vs_nature", "prominence": "PRIMARY"},
+        {"theme": "immortality_through_verse", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "MENTIONED",
+          "evidence": "Referred to as 'my love' (line 3) and 'him' (lines 11, 14). He is the subject of debate between Speaker and Muse but not addressed directly."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "Commands and teaches the Muse throughout. Assumes pedagogical authority: 'I teach thee how.'"
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "APOSTROPHE",
+          "quotation": "O truant Muse what shall be thy amends",
+          "explanation": "Continued address to the personified Muse, now escalated to 'truant' -- a word of moral censure."
+        },
+        {
+          "line_number": 2,
+          "device_id": "METAPHOR",
+          "quotation": "truth in beauty dy'd",
+          "explanation": "Truth dyed in beauty -- truth embodied in physical form, like cloth dyed in color. The FYM is truth made visible."
+        },
+        {
+          "line_number": 6,
+          "device_id": "ANTITHESIS",
+          "quotation": "Truth needs no colour, with his colour fix'd",
+          "explanation": "'Colour' used in two senses: rhetorical ornament (needs no colour) and inherent complexion (his colour fix'd). The antithesis argues self-sufficiency."
+        },
+        {
+          "line_number": 6,
+          "device_id": "PUN",
+          "quotation": "Truth needs no colour, with his colour fix'd",
+          "explanation": "'Colour' means both rhetorical embellishment and physical complexion. Truth needs no added coloring because its own complexion is permanent."
+        },
+        {
+          "line_number": 8,
+          "device_id": "EPIGRAM",
+          "quotation": "But best is best, if never intermix'd",
+          "explanation": "An epigrammatic statement of aesthetic purity: perfection is diminished by addition. The Muse's defense peaks with a maxim."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "To make him much outlive a gilded tomb",
+          "explanation": "Poetry versus monument -- the verse as a more durable memorial than gilded stone. Echoes Sonnet 55's claim."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANTITHESIS",
+          "quotation": "To make him seem long hence as he shows now",
+          "explanation": "'Seem' (future appearance through poetry) versus 'shows' (current physical presence). Poetry preserves seeming, not being."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is a philosophical debate: the Muse argues for aesthetic restraint, the Speaker for archival ambition. The rhetorical structure (prosecution, defense, rebuttal, verdict) is primary."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The Muse is given a speaking part (lines 6-8), making this a dialogue sonnet -- one of the few in the sequence with two distinct voices."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "Stages the fundamental question: does beauty need art? The Speaker says yes -- not for decoration but for preservation."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 1,
+          "rationale": "The debate about whether art improves or diminishes nature echoes Castiglione, Sidney, and the entire Renaissance art-vs-nature tradition."
+        }
+      ]
+    },
+    {
+      "number": 102,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker defends his poetic silence by analogy with the nightingale: just as Philomel sings at the start of summer and falls silent as the season matures, the Speaker's love deepens into silence. Constant praise cheapens love, like goods grown common.",
+        "speaker_stance": "defensive, tender, philosophically mature",
+        "emotional_arc": "defense of silence -> nightingale analogy -> maturation beyond early song -> quiet commitment",
+        "dramatic_situation": "Having chided the Muse in 100-101, the Speaker now addresses the FYM directly with a different explanation for his silence: his love has deepened beyond the need for expression. The nightingale (Philomel) sings in early summer and falls silent as the season matures -- so does genuine love.",
+        "subtext": "The economic metaphor -- 'That love is merchandiz'd, whose rich esteeming, / The owner's tongue doth publish every where' -- reveals anxiety about commodifying love through constant praise. The Speaker distinguishes between love-as-display (early, immature) and love-as-depth (mature, silent). But the very act of writing this sonnet to explain his silence is a performative contradiction that Shakespeare may intend us to notice.",
+        "analysis_text": "Sonnet 102 is the most philosophically nuanced of the Muse group, offering not an excuse for silence but a defense of it. The opening line's paradox -- 'My love is strengthen'd, though more weak in seeming' -- establishes the gap between appearance and reality that the sonnet will explore. Love that appears weaker (because silent) is actually stronger. The commercial metaphor in lines 3-4 is sharply observed: 'That love is merchandiz'd, whose rich esteeming, / The owner's tongue doth publish every where.' Love broadcast is love commodified; silence preserves love's value by refusing to circulate it like currency. The second quatrain introduces the nightingale (Philomel) as the governing analogy. Philomel sings 'in summer's front' -- at summer's beginning, when the song is novel -- and 'stops her pipe in growth of riper days.' The verb 'stops' (meaning both ceases and blocks, as one stops a pipe) is precise: the nightingale's silence is deliberate, not a failure. At the volta, the Speaker addresses the potential misreading: 'Not that the summer is less pleasant now / Than when her mournful hymns did hush the night.' Summer has not declined; the season (love) has matured. The reason for silence is not diminished passion but excess of competition: 'wild music burthens every bough.' When everything sings, song loses its distinction. 'Sweets grown common lose their dear delight' delivers the economic logic again: scarcity creates value. The couplet resolves with quiet grace: 'Therefore like her, I sometime hold my tongue: / Because I would not dull you with my song.' 'Dull' means both bore and make dull -- the Speaker fears that constant praise would both tire the FYM and diminish the praise itself. The sonnet's achievement is to make silence eloquent: the very poem that explains why the Speaker does not write is itself a form of refined, self-aware writing. The performative contradiction -- writing a sonnet about not writing -- is the kind of paradox Shakespeare exploits with full awareness."
+      },
+      "directing": {
+        "scene_setting": "An intimate address to the FYM, quieter than the Muse sonnets that preceded it. The Speaker is no longer hectoring his Muse but explaining himself to his beloved.",
+        "character_note": "The Speaker is at his most philosophically mature. This is not the anxious lover of the early sonnets but someone who has thought deeply about the relationship between love and expression.",
+        "fym_note": "The FYM is addressed directly ('you' in line 14). The Speaker's silence is offered as a gift: I love you too much to cheapen that love with constant song.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the paradox of strengthened silence, develop the nightingale analogy with tender precision, and close with the intimate confession of deliberate restraint.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'My love is strengthen'd, though more weak in seeming' -- the thesis. The paradox should intrigue, not confuse."
+          },
+          {
+            "line": 3,
+            "note": "'That love is merchandiz'd' -- the commercial critique. Love that advertises itself is love for sale."
+          },
+          {
+            "line": 7,
+            "note": "'As Philomel in summer's front doth sing' -- the nightingale enters. This image should feel natural, unforced."
+          },
+          {
+            "line": 12,
+            "note": "'And sweets grown common lose their dear delight' -- the economic principle restated as sensory truth."
+          },
+          {
+            "line": 14,
+            "note": "'Because I would not dull you with my song' -- the intimate close. 'You' is direct and tender."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["strengthen'd", "weak", "seeming"],
+          "emotional_note": "Paradoxical, measured",
+          "delivery_note": "The paradox is the thesis. Let both terms ('strengthen'd' and 'weak') register before 'seeming' resolves them.",
+          "gloss": "My love has grown stronger, though it appears weaker",
+          "commentary": "The appearance/reality gap is the sonnet's subject. 'Seeming' -- the external show of love -- has decreased, but love itself has not. This is a mature lover's insight."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["merchandiz'd", "rich"],
+          "emotional_note": "Critical, commercially aware",
+          "delivery_note": "'Merchandiz'd' is a sharp word -- love reduced to a commodity. Deliver with distaste.",
+          "gloss": "Love that is turned into merchandise, whose valued worth",
+          "commentary": "'Merchandiz'd' -- love as commodity. The commercial metaphor makes constant praise into advertising: the lover who 'publishes' his esteem everywhere is a merchant hawking goods."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["new", "spring"],
+          "emotional_note": "Nostalgic, gentle",
+          "delivery_note": "'Our love was new' -- a rare moment of shared memory. The 'our' is intimate.",
+          "gloss": "Our love was new then, still in its springtime",
+          "commentary": "'Our love was new, and then but in the spring' -- the Speaker acknowledges that early love produces early song. The possessive 'our' is one of the few moments of mutuality in the sequence."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["Philomel", "summer's", "front"],
+          "emotional_note": "Lyrical, classical",
+          "delivery_note": "The nightingale reference should feel like a natural comparison, not a learned allusion. Let the image do the work.",
+          "gloss": "As the nightingale sings at the beginning of summer",
+          "commentary": "Philomel (the nightingale) in Renaissance poetry is associated with both love and sorrow (from the Ovidian rape narrative). 'Summer's front' means summer's beginning -- the forefront, the early face."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["stops", "pipe", "riper"],
+          "emotional_note": "Accepting, wise",
+          "delivery_note": "'Stops her pipe' -- the cessation is deliberate, not forced. 'Riper' carries the maturation metaphor.",
+          "gloss": "And ceases her song as the season matures",
+          "commentary": "'Stops her pipe' -- 'pipe' is both throat and musical instrument. 'Riper days' -- maturity requires different behavior than youth. The nightingale's silence is wisdom, not failure."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["mournful", "hymns", "hush"],
+          "emotional_note": "Beautiful, elegiac",
+          "delivery_note": "The alliteration in 'her' and 'hymns' and 'hush' creates a hushing sound that enacts the nightingale's silencing effect.",
+          "gloss": "Than when her sorrowful songs silenced the night",
+          "commentary": "'Mournful hymns did hush the night' -- the nightingale's song is so powerful it silences the night itself. The assonance and alliteration create a hushing effect."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["wild", "music", "burthens"],
+          "emotional_note": "Crowded, overwhelming",
+          "delivery_note": "'Wild music burthens every bough' -- the word 'burthens' (burdens/refrains) should feel heavy. Too much song.",
+          "gloss": "But that unruly music weighs down every branch",
+          "commentary": "'Burthens' puns: (1) burdens, weighs down; (2) refrains, chorus (a 'burthen' is a song's refrain). Every bough carries both the weight and the sound of competing songs."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["sweets", "common", "dear"],
+          "emotional_note": "Wistful, economic",
+          "delivery_note": "An economic axiom applied to love: scarcity creates value. 'Dear' means both beloved and expensive.",
+          "gloss": "And pleasures that have become commonplace lose their precious delight",
+          "commentary": "'Dear delight' -- 'dear' means both precious and costly. When sweets are common, they lose both emotional and economic value. The commercial metaphor from line 3 returns as natural law."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["dull", "you", "song"],
+          "emotional_note": "Tender, self-deprecating",
+          "delivery_note": "The final 'you' is direct and intimate. 'Dull' should carry both its meanings: bore and diminish.",
+          "gloss": "Because I would not weary you with my singing",
+          "commentary": "'Dull you with my song' -- the Speaker offers his silence as a gift of consideration. But the sonnet itself is a song, creating the performative paradox that haunts the Muse group."
+        }
+      ],
+      "themes": [
+        {"theme": "silence_and_expression", "prominence": "PRIMARY"},
+        {"theme": "love_maturation", "prominence": "PRIMARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"},
+        {"theme": "the_muse", "prominence": "SECONDARY"},
+        {"theme": "time", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed as 'you' (line 14) and 'our love' (line 5). The Speaker explains his silence directly to the beloved."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person throughout, defending his own creative silence as a sign of deepened love."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PARADOX",
+          "quotation": "My love is strengthen'd, though more weak in seeming",
+          "explanation": "The governing paradox: stronger love appears weaker because it has moved beyond the need for constant expression."
+        },
+        {
+          "line_number": 3,
+          "device_id": "METAPHOR",
+          "quotation": "That love is merchandiz'd, whose rich esteeming",
+          "explanation": "Love as commodity: when the 'owner's tongue doth publish every where,' love becomes merchandise -- advertised, circulated, cheapened."
+        },
+        {
+          "line_number": 7,
+          "device_id": "SIMILE",
+          "quotation": "As Philomel in summer's front doth sing",
+          "explanation": "The nightingale analogy: the Speaker's early songs are like Philomel's early summer singing -- both naturally give way to silence as the season matures."
+        },
+        {
+          "line_number": 10,
+          "device_id": "ALLITERATION",
+          "quotation": "her mournful hymns did hush the night",
+          "explanation": "The h-sounds in 'her,' 'hymns,' 'hush' create a hushing, whispering effect that enacts the nightingale's silencing power."
+        },
+        {
+          "line_number": 11,
+          "device_id": "PUN",
+          "quotation": "wild music burthens every bough",
+          "explanation": "'Burthens' means both burdens (weighs down) and refrains (a burthen is a song's chorus). Every bough is both heavy with and singing wild music."
+        },
+        {
+          "line_number": 12,
+          "device_id": "EPIGRAM",
+          "quotation": "And sweets grown common lose their dear delight",
+          "explanation": "An epigrammatic statement of the scarcity principle: abundance devalues. Applicable to love, commerce, and art simultaneously."
+        },
+        {
+          "line_number": 1,
+          "device_id": "ANTITHESIS",
+          "quotation": "strengthen'd, though more weak in seeming",
+          "explanation": "Strength versus weakness, reality versus appearance. The antithesis structures the entire sonnet."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The sonnet's central concern -- whether silence can be a form of love -- is its most distinctive contribution to the sequence."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The argument is carefully structured: paradox (Q1), analogy (Q2), qualification (Q3), resolution (C). The rhetoric persuades."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 2,
+          "rationale": "The Philomel image is the sonnet's imaginative center -- the nightingale who sings less as love deepens."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 1,
+          "rationale": "Philomel invokes the Ovidian tradition of the raped and transformed Philomela, adding a layer of suffering to the nightingale's song."
+        }
+      ]
+    },
+    {
+      "number": 103,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker laments that his Muse's output is impoverished: the FYM unadorned is worth more than any praise the Speaker can add. The mirror, not the poem, is the FYM's truest portrait.",
+        "speaker_stance": "self-deprecating, defeated, adoring",
+        "emotional_arc": "confession of inadequacy -> appeal to the mirror -> fear of marring perfection -> surrender to the FYM's self-sufficiency",
+        "dramatic_situation": "The Speaker has arrived at the logical conclusion of the Muse group: if the FYM needs no praise (101), and silence is a form of love (102), then the Speaker's poetry is not just unnecessary but potentially harmful. The argument that began by chiding the Muse for silence now argues for silence itself.",
+        "subtext": "The sonnet's surface humility conceals a more unsettling implication: if the FYM's mirror is a better portrait than the Speaker's verse, then the entire project of the Sonnets is futile. The Speaker is writing himself out of a job. The mirror also introduces the narcissism theme from the procreation sonnets -- the FYM gazing at his own reflection -- but now the Speaker endorses rather than condemns that self-regard.",
+        "analysis_text": "Sonnet 103 closes the Muse group with a confession of artistic defeat that is paradoxically one of the sequence's finest achievements. The opening exclamation -- 'Alack! what poverty my Muse brings forth' -- frames the problem as economic: the Muse produces poverty, not wealth. The irony is that the FYM, who is the Muse's 'scope' (opportunity, range), actually diminishes the poetry by being too good a subject. 'The argument, all bare, is of more worth / Than when it hath my added praise beside' -- the FYM unadorned exceeds the FYM adorned with verse. This is the Muse's argument from Sonnet 101 ('best is best, if never intermix'd') now accepted by the Speaker. The second quatrain makes the concession concrete: 'Look in your glass, and there appears a face / That over-goes my blunt invention quite.' The mirror triumphs over the poem. 'Blunt invention' is self-deprecating -- the Speaker's creativity is dull compared to the FYM's reality. At the volta, the Speaker raises the stakes: it would be 'sinful' to try to improve what is already perfect. 'Striving to mend, / To mar the subject that before was well' -- the attempt to improve is itself a form of damage. The religious language ('sinful') elevates the FYM's beauty to something sacred that human craft would profane. The couplet delivers the final surrender: 'And more, much more, than in my verse can sit, / Your own glass shows you when you look in it.' The mirror wins. The word 'sit' is odd and interesting -- it suggests verse as a container with limited capacity, while the FYM's beauty overflows any vessel. The Muse group thus traces a complete arc: from commanding the Muse to write (100), through debating whether writing is necessary (101), through defending silence (102), to conceding that silence is not just acceptable but superior (103). The Speaker has argued himself into obsolescence."
+      },
+      "directing": {
+        "scene_setting": "The Speaker before the FYM, perhaps literally before a mirror. The tone is confessional: the poet admitting his inadequacy to his subject.",
+        "character_note": "The Speaker is at his most self-effacing. This is not false modesty but genuine artistic despair -- the subject exceeds the medium.",
+        "fym_note": "The FYM is addressed directly ('Look in your glass'). He is invited to prefer his mirror to the Speaker's verse -- a remarkable concession.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with lament, make the mirror comparison, raise the religious stakes at the volta, and close with the surrender to the glass.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Alack!' -- genuine distress, not rhetorical posture. The Muse has failed."
+          },
+          {
+            "line": 6,
+            "note": "'Look in your glass' -- the Speaker directs the FYM to the mirror, conceding that the mirror is a better artist."
+          },
+          {
+            "line": 9,
+            "note": "'Were it not sinful then' -- the religious language elevates the stakes. Trying to improve the FYM is profanity."
+          },
+          {
+            "line": 14,
+            "note": "'Your own glass shows you when you look in it' -- the final surrender. The mirror wins."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["Alack", "poverty"],
+          "emotional_note": "Distressed, self-lacerating",
+          "delivery_note": "'Alack!' is genuine, not decorative. 'Poverty' should sting -- the Muse has produced indigence.",
+          "gloss": "Alas! what meager work my Muse produces",
+          "commentary": "'Poverty' is economic language: the Muse, despite having the richest possible subject, produces impoverished verse. The irony is that this very sonnet is evidence against the claim."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["argument", "bare", "worth"],
+          "emotional_note": "Paradoxical, humbled",
+          "delivery_note": "The paradox: the subject ('argument') undressed ('bare') is more valuable than when the Speaker dresses it in praise.",
+          "gloss": "The subject itself, unadorned, is worth more",
+          "commentary": "'All bare' -- the FYM naked of poetic ornament is superior to the FYM clothed in verse. The word 'bare' carries erotic undertones: the unadorned body surpasses any dressing."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["blame", "no more", "write"],
+          "emotional_note": "Pleading, defensive",
+          "delivery_note": "An outburst: 'O! blame me not, if I no more can write!' The exclamation mark signals real emotion.",
+          "gloss": "Oh, do not blame me if I can write no more!",
+          "commentary": "The Speaker shifts from self-criticism to self-defense: his failure to write is not laziness (as alleged in 100) but an appropriate response to an overwhelming subject."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["glass", "face"],
+          "emotional_note": "Intimate, direct",
+          "delivery_note": "'Look in your glass' is a command that also concedes defeat. The mirror is the better portraitist.",
+          "gloss": "Look in your mirror, and there you see a face",
+          "commentary": "The mirror replaces the poem as portrait. 'Glass' invokes the procreation sonnets (Sonnet 3: 'Look in thy glass') but now the Speaker endorses what he once criticized -- the FYM's self-regard."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["over-goes", "blunt", "invention"],
+          "emotional_note": "Defeated, honest",
+          "delivery_note": "'Blunt' is self-deprecating but honest. The Speaker's creativity is dull next to the FYM's reality.",
+          "gloss": "That surpasses my dull creativity entirely",
+          "commentary": "'Over-goes' means surpasses. 'Blunt invention' -- dull creativity, the opposite of 'sharp wit.' The Speaker's self-deprecation is excessive but psychologically real."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["sinful", "striving", "mend"],
+          "emotional_note": "Religious, reverent",
+          "delivery_note": "'Sinful' raises the stakes from aesthetic to moral. To try to improve the FYM is not just futile but profane.",
+          "gloss": "Would it not be sinful to try to improve",
+          "commentary": "'Sinful' imports religious language: the FYM's beauty is sacred, and the attempt to enhance it through art is a kind of sacrilege."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["mar", "subject", "well"],
+          "emotional_note": "Fearful, precise",
+          "delivery_note": "'To mar the subject that before was well' -- 'mar' is a strong verb. The Speaker fears actively damaging the FYM through imperfect praise.",
+          "gloss": "To damage a subject that was already perfect?",
+          "commentary": "'Mar' versus 'mend' -- the attempt to repair damages. 'Before was well' -- the subject was in perfect health before the poet's intervention."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["own", "glass", "shows"],
+          "emotional_note": "Final, surrendered",
+          "delivery_note": "The last word of the Muse group is the FYM's mirror. Let the surrender be complete and gentle.",
+          "gloss": "Your own mirror shows you everything when you look in it",
+          "commentary": "The couplet's close: the glass (mirror) is superior to the verse. The Muse group ends with the poet conceding his own obsolescence -- the most artful of artistic surrenders."
+        }
+      ],
+      "themes": [
+        {"theme": "art_vs_nature", "prominence": "PRIMARY"},
+        {"theme": "the_muse", "prominence": "PRIMARY"},
+        {"theme": "inadequacy_of_praise", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "narcissism", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed directly: 'Look in your glass' (line 6), 'blame me not' (line 5). The FYM is both subject and audience."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person confession: 'my Muse,' 'my blunt invention,' 'my verse.' The Speaker is the self-declared inadequate artist."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "METAPHOR",
+          "quotation": "what poverty my Muse brings forth",
+          "explanation": "Poetry as economic production: the Muse gives birth ('brings forth') to poverty. The childbirth metaphor makes creative failure into miscarriage."
+        },
+        {
+          "line_number": 3,
+          "device_id": "PARADOX",
+          "quotation": "The argument, all bare, is of more worth / Than when it hath my added praise beside",
+          "explanation": "The subject unadorned surpasses the subject adorned -- a paradox that undermines the entire enterprise of praise poetry."
+        },
+        {
+          "line_number": 7,
+          "device_id": "METAPHOR",
+          "quotation": "That over-goes my blunt invention quite",
+          "explanation": "The FYM's face as a work of art that surpasses the Speaker's 'blunt invention.' Reality defeats representation."
+        },
+        {
+          "line_number": 9,
+          "device_id": "IRONY",
+          "quotation": "Were it not sinful then, striving to mend",
+          "explanation": "The irony of calling artistic improvement 'sinful' -- it elevates the FYM to the sacred and makes the poet a potential vandal."
+        },
+        {
+          "line_number": 10,
+          "device_id": "ANTITHESIS",
+          "quotation": "To mar the subject that before was well",
+          "explanation": "'Mar' versus 'mend' -- the attempt to repair is itself the damage. The antithesis captures the paradox of inadequate praise."
+        },
+        {
+          "line_number": 14,
+          "device_id": "METAPHOR",
+          "quotation": "Your own glass shows you when you look in it",
+          "explanation": "The mirror as superior artist: it shows the FYM more truthfully than any poem. The glass replaces the verse."
+        },
+        {
+          "line_number": 6,
+          "device_id": "APOSTROPHE",
+          "quotation": "Look in your glass, and there appears a face",
+          "explanation": "Direct address and command to the FYM: consult your mirror, not my poem. The apostrophe turns the sonnet into a gesture of self-effacement."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The sonnet's central question -- can art capture beauty, or does the attempt diminish it? -- is the culminating concern of the Muse group."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The argument builds logically: the Muse produces poverty (Q1), the mirror surpasses the poem (Q2), improvement is sin (Q3), the glass wins (C)."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 1,
+          "rationale": "The Speaker's self-effacement is a dramatic performance: the poet writing eloquently about his own inability to write."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 1,
+          "rationale": "As the final sonnet of the Muse group (100-103), it resolves the four-sonnet arc by accepting the Muse's original defense from 101."
+        }
+      ]
+    },
+    {
+      "number": 104,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "REVERSAL",
+        "argument_summary": "The Speaker tells the FYM he can never age in the Speaker's eyes -- he looks the same as when they first met three years ago. But the dial-hand image admits that beauty may be stealing away imperceptibly, and the couplet turns to address future generations with a startling claim: beauty's summer died before you were born.",
+        "speaker_stance": "adoring, anxious, self-aware about self-deception",
+        "emotional_arc": "confident assertion of changelessness -> admission of three years' passage -> creeping doubt -> defiant proclamation to the future",
+        "dramatic_situation": "Three years have passed since the Speaker first met the FYM. He insists that the FYM appears unchanged, but the seasonal imagery (three winters, three springs, three Aprils) undermines the assertion by cataloguing the very time he claims has had no effect. The sonnet is a love poem that knows it is lying.",
+        "subtext": "The 'three years' reference is one of the few concrete temporal markers in the sequence, and scholars have used it to date the relationship. The Speaker's insistence that the FYM has not changed is a lover's willful blindness that the sonnet itself diagnoses: 'mine eye may be deceiv'd.' The couplet's pivot to 'thou age unbred' (you unborn future age) is a desperate gesture -- if the Speaker cannot preserve the FYM from time, he can at least tell the future what it missed.",
+        "analysis_text": "Sonnet 104 is among the most poignant in the sequence, a love poem that simultaneously asserts and undermines its own central claim. The opening line -- 'To me, fair friend, you never can be old' -- is both a compliment and a confession: 'to me' admits that the claim is subjective, perspectival, possibly delusional. The Speaker is not saying the FYM will not age but that the Speaker cannot perceive the aging. The first quatrain's seasonal catalog (three winters, three summers, three springs, three Aprils, three Junes) is ostensibly evidence of unchanged beauty, but the very act of counting seasons is an admission of time's passage. 'Three winters cold / Have from the forests shook three summers' pride' -- the violence of the verb 'shook' contradicts the calm assertion of changelessness. At line 9, the volta introduces the clock image that will undo the argument: 'beauty like a dial-hand / Steal from his figure, and no pace perceiv'd.' The dial-hand metaphor is exquisite: the hour hand of a clock moves so slowly that its motion is invisible, yet it does move. Beauty steals away from its own 'figure' (both the numerical figure on the dial and the bodily figure of the FYM) at an imperceptible pace. 'Steal' echoes the flower-theft of Sonnet 99 but is now applied to time itself. Lines 11-12 complete the self-diagnosis: 'So your sweet hue, which methinks still doth stand, / Hath motion, and mine eye may be deceiv'd.' The Speaker admits that his perception of changelessness may be self-deception. This is extraordinary honesty within a love poem -- the poet diagnosing his own wishful thinking. The couplet pivots suddenly to address the unborn future: 'hear this thou age unbred: / Ere you were born was beauty's summer dead.' The claim is sweeping and melancholy: by the time future readers encounter these words, the beauty the Speaker describes will be irrecoverable. The sonnet moves from personal love to universal elegy, from 'you never can be old' to 'beauty's summer dead.' It is one of the few sonnets that makes the reader feel implicated -- we are the 'age unbred,' and the beauty we read about has indeed died."
+      },
+      "directing": {
+        "scene_setting": "An intimate moment between Speaker and FYM, perhaps on an anniversary. The Speaker looks at the FYM's face, searching for signs of change, finding none -- or choosing to find none.",
+        "character_note": "The Speaker is both lover and self-diagnostician. He knows he may be deceived but chooses love over truth -- and then admits the choice.",
+        "fym_note": "The FYM is addressed as 'fair friend' -- one of the warmest forms of address in the sequence. The three-year marker gives their relationship a specific weight and history.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with confident assertion, let the seasonal counting introduce doubt, land the dial-hand metaphor as the turning point, and close with the startling address to the future.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'To me, fair friend, you never can be old' -- the most tender opening in the sequence. Stress 'To me' -- it is a confession of subjectivity."
+          },
+          {
+            "line": 2,
+            "note": "'When first your eye I ey'd' -- the pun on eye/I is characteristic. The moment of first seeing is the fixed point from which all change is measured."
+          },
+          {
+            "line": 9,
+            "note": "'Ah!' -- the emotional exclamation that marks the volta. The certainty cracks."
+          },
+          {
+            "line": 12,
+            "note": "'Mine eye may be deceiv'd' -- the honest admission. The Speaker's very organ of perception may be untrustworthy."
+          },
+          {
+            "line": 14,
+            "note": "'Ere you were born was beauty's summer dead' -- the devastating close. Address the audience, not the FYM."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["me", "fair friend", "never", "old"],
+          "emotional_note": "Tender, subjective, slightly desperate",
+          "delivery_note": "Stress 'To me' -- the qualification is everything. This is not a universal truth but a lover's confession.",
+          "gloss": "In my eyes, dear friend, you can never grow old",
+          "commentary": "'To me' makes the claim perspectival from the start. The Speaker is not asserting an objective truth but an emotional one. 'Fair friend' is the warmest address in the sequence."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["first", "eye", "ey'd"],
+          "emotional_note": "Playful, significant",
+          "delivery_note": "The eye/I pun is untranslatable and should be heard rather than explained. Let the repetition register.",
+          "gloss": "For as you were when I first gazed upon you",
+          "commentary": "'When first your eye I ey'd' -- the pun on eye (organ) and I (self) collapses the boundary between seeing and being seen. The first gaze is the fixed reference point."
+        },
+        {
+          "line_number": 3,
+          "emphasis_words": ["Three", "winters", "cold"],
+          "emotional_note": "Counting, measuring despite the claim of changelessness",
+          "delivery_note": "The counting begins. Each 'three' is a concession to time's passage that contradicts line 1.",
+          "gloss": "Three cold winters have passed",
+          "commentary": "The seasonal counting begins: three winters, three summers. The Speaker catalogues exactly the time he claims has had no effect, undermining his own assertion."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Three", "beauteous", "yellow"],
+          "emotional_note": "Wistful, tracking decline",
+          "delivery_note": "'Beauteous springs to yellow autumn' is a decline from beauty to fading. Let the color shift register.",
+          "gloss": "Three beautiful springs have turned to golden autumn",
+          "commentary": "'Three beauteous springs to yellow autumn turn'd' -- the transition from spring beauty to autumn yellowing is itself a figure for aging, making the counting-that-denies-change even more ironic."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["fresh", "green"],
+          "emotional_note": "Insistent, clinging to the claim",
+          "delivery_note": "'Fresh' and 'green' are words of youth -- the Speaker reasserts the FYM's unchanged beauty after five lines of seasonal counting.",
+          "gloss": "Since first I saw you looking fresh, and you still appear youthful",
+          "commentary": "'Fresh, which yet are green' -- the Speaker reasserts changelessness, but 'green' carries its own ambiguity: green as in youthful, but also unripe, naive."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["beauty", "dial-hand"],
+          "emotional_note": "Anxious, revelatory",
+          "delivery_note": "'Ah!' marks the turn. The dial-hand image should unfold slowly -- the comparison takes two lines to develop.",
+          "gloss": "Ah, yet beauty moves like a clock's hour hand",
+          "commentary": "The dial-hand metaphor: beauty moves like the hour hand of a clock -- imperceptibly but actually. The image is both beautiful and terrifying."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["Steal", "figure", "perceiv'd"],
+          "emotional_note": "Creeping dread",
+          "delivery_note": "'Steal' is the key verb -- beauty thieves away silently. 'No pace perceiv'd' -- the motion is real but invisible.",
+          "gloss": "Stealing away from its own form, with no movement detected",
+          "commentary": "'Steal from his figure' -- beauty steals from its own shape/number on the dial. 'Figure' means both the body's form and the numeral on the clock face. 'No pace perceiv'd' -- the theft is too slow to see."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["mine", "eye", "deceiv'd"],
+          "emotional_note": "Honest, vulnerable",
+          "delivery_note": "The admission of possible self-deception. This is the sonnet's bravest moment -- let it land quietly.",
+          "gloss": "Has movement, and my eye may be deceived",
+          "commentary": "'Mine eye may be deceiv'd' -- the Speaker diagnoses his own perceptual bias. The lover's eye sees what it wants to see. This is remarkable self-awareness within a love poem."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["fear", "age", "unbred"],
+          "emotional_note": "Fearful, prophetic",
+          "delivery_note": "The pivot to the future. 'Thou age unbred' addresses the reader -- break the fourth wall.",
+          "gloss": "Fearing which, hear this, you unborn generation",
+          "commentary": "'Thou age unbred' -- the unborn future generation, which includes the reader. The Speaker turns from private love poem to public proclamation."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["born", "beauty's", "summer", "dead"],
+          "emotional_note": "Devastating, elegiac",
+          "delivery_note": "The final word is 'dead.' Let it fall with finality. The sonnet that began with 'never can be old' ends with death.",
+          "gloss": "Before you were born, beauty's prime was already gone",
+          "commentary": "The devastating close: from 'you never can be old' (line 1) to 'beauty's summer dead' (line 14). The arc of the sonnet is from denial to elegy. We, the readers, are too late."
+        }
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "self-deception", "prominence": "PRIMARY"},
+        {"theme": "immortality_through_verse", "prominence": "SECONDARY"},
+        {"theme": "seasonal_imagery", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed as 'fair friend' (line 1) and 'you' throughout. The three-year marker gives the relationship a concrete history."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person throughout: 'To me,' 'I ey'd,' 'I seen,' 'mine eye.' The Speaker is both lover and self-diagnostician."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 2,
+          "device_id": "PUN",
+          "quotation": "when first your eye I ey'd",
+          "explanation": "Eye (organ of sight) and I (the self) collapse into each other. Seeing the FYM and being the Speaker are simultaneous acts."
+        },
+        {
+          "line_number": 3,
+          "device_id": "ANAPHORA",
+          "quotation": "Three winters cold / Have from the forests shook three summers' pride",
+          "explanation": "The anaphoric 'three' (repeated in lines 3, 5, 7) counts the very time the Speaker claims has had no effect, creating an ironic counterpoint."
+        },
+        {
+          "line_number": 9,
+          "device_id": "SIMILE",
+          "quotation": "beauty like a dial-hand",
+          "explanation": "Beauty compared to a clock's hour hand: moving constantly but too slowly to perceive. The simile captures time's stealth."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PUN",
+          "quotation": "Steal from his figure",
+          "explanation": "'Figure' means both the body's form and the numeral on the clock face. Beauty steals away from both simultaneously."
+        },
+        {
+          "line_number": 10,
+          "device_id": "METAPHOR",
+          "quotation": "Steal from his figure, and no pace perceiv'd",
+          "explanation": "Time as thief -- beauty is stolen so gradually that the theft is invisible. The metaphor makes aging into a crime without witnesses."
+        },
+        {
+          "line_number": 14,
+          "device_id": "APOSTROPHE",
+          "quotation": "hear this thou age unbred",
+          "explanation": "Sudden address to unborn future generations -- the Speaker breaks from private love poem to prophetic public address."
+        },
+        {
+          "line_number": 14,
+          "device_id": "HYPERBOLE",
+          "quotation": "Ere you were born was beauty's summer dead",
+          "explanation": "The claim that beauty itself died with the FYM's youth is hyperbolic but emotionally devastating -- an elegy disguised as a warning."
+        },
+        {
+          "line_number": 1,
+          "device_id": "IRONY",
+          "quotation": "To me, fair friend, you never can be old",
+          "explanation": "Dramatic irony: the assertion of changelessness is undermined by 12 lines of seasonal counting and the admission that 'mine eye may be deceiv'd.'"
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 3,
+          "rationale": "The sonnet enacts a psychological drama: the Speaker's confident assertion crumbles through self-examination into honest doubt and elegiac prophecy."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 3,
+          "rationale": "The dial-hand metaphor is one of the most famous images in the sequence -- its slow, imperceptible motion is the sonnet's imaginative center."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The time theme reaches its most sophisticated treatment: not time's violence but time's stealth, not destruction but imperceptible change."
+        },
+        {
+          "mode_id": "PROSODIC",
+          "priority": 1,
+          "rationale": "The rhythmic regularity of the seasonal catalog (three...three...three) creates a metronomic effect that enacts the passage of time the Speaker denies."
+        }
+      ]
+    },
+    {
+      "number": 105,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "EPIGRAM",
+        "argument_summary": "The Speaker defends himself against the charge of idolatry: his love is not idolatrous because it is constant, devoted to 'one, of one, still such, and ever so.' The FYM embodies a trinity -- 'Fair, kind, and true' -- that gives the Speaker's repetitive praise its wondrous scope.",
+        "speaker_stance": "defensive, theological, playfully serious",
+        "emotional_arc": "denial of idolatry -> defense through constancy -> the trinitarian conceit -> epigrammatic assertion of uniqueness",
+        "dramatic_situation": "Someone (perhaps the FYM himself, or a third party) has accused the Speaker of making the FYM an idol. The Speaker responds with a theological defense: his love is not idolatrous because it worships a trinity (fair, kind, true) that only the FYM unifies. The defense barely conceals that it confirms the charge.",
+        "subtext": "The theological language is both playful and dangerous. In Protestant England, idolatry was a serious accusation. The Speaker's defense -- that his devotion is to a kind of Trinity -- is itself borderline blasphemous: he maps the FYM onto the three-in-one structure of the Christian Godhead. 'Fair, kind, and true' as three-in-one is an explicit Trinitarian structure. The Speaker is either brilliantly deflecting the charge or proving it.",
+        "analysis_text": "Sonnet 105 is one of the most theologically provocative poems in the sequence, staging a defense against idolatry that barely conceals its own blasphemous implications. The opening imperative -- 'Let not my love be call'd idolatry' -- acknowledges that the charge has been made or anticipated. In Reformation England, where accusations of popish idolatry were both common and dangerous, the word carries political as well as theological weight. The Speaker's defense is paradoxical: his love is not idolatrous because it is monotheistic -- devoted 'To one, of one, still such, and ever so.' The repetitive simplicity of the line enacts the constancy it describes. The second quatrain develops the defense: the FYM's unchanging excellence ('Kind is my love to-day, to-morrow kind, / Still constant in a wondrous excellence') confines the Speaker's verse to constancy, leaving out 'difference.' This could be a limitation (the verse is monotonous) or a virtue (it reflects its unchanging subject). At line 9, the volta introduces the trinitarian conceit: 'Fair, kind, and true, is all my argument.' The three virtues become a refrain, repeated with variation across lines 9-10 and the couplet. The phrase 'Three themes in one, which wondrous scope affords' maps the FYM onto the Trinity: three persons in one God, three virtues in one beloved. The word 'wondrous' appears twice (lines 6 and 12), emphasizing the miraculous quality of this union. The couplet delivers the epigrammatic point: 'Fair, kind, and true, have often liv'd alone, / Which three till now, never kept seat in one.' The claim is that while fairness, kindness, and truth have existed separately, only the FYM combines all three. The phrase 'kept seat in one' suggests both sitting together (as in a throne or parliament) and dwelling in one body. The sonnet is a masterpiece of equivocation: the defense against idolatry is itself idolatrous, the denial of blasphemy is itself blasphemous, and the celebration of constancy is itself exquisitely varied in its repetitions of 'fair, kind, and true.'"
+      },
+      "directing": {
+        "scene_setting": "A public or semi-public moment: the Speaker defending his love against an accusation. The tone is courtroom defense mixed with theological disputation.",
+        "character_note": "The Speaker is a lawyer arguing his own case, and the defense is more incriminating than any prosecution. He knows this.",
+        "fym_note": "The FYM is the object of worship, now explicitly mapped onto the Trinity: fair (beauty), kind (generosity), true (faithfulness). The deification is complete.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the denial of idolatry, build the defense through constancy, introduce the trinitarian formula, and close with the epigrammatic claim of the FYM's uniqueness.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Let not my love be call'd idolatry' -- the opening defense. The fact that it needs to be said means the charge has been made."
+          },
+          {
+            "line": 4,
+            "note": "'To one, of one, still such, and ever so' -- the rhythmic monotony enacts the constancy it describes."
+          },
+          {
+            "line": 9,
+            "note": "'Fair, kind, and true' -- the first statement of the trinitarian formula. It will be repeated three times, like a creed."
+          },
+          {
+            "line": 12,
+            "note": "'Three themes in one, which wondrous scope affords' -- the Trinity mapping is explicit. Let the theological implication register."
+          },
+          {
+            "line": 14,
+            "note": "'Which three till now, never kept seat in one' -- the epigrammatic close: the FYM is unprecedented. No one before combined all three."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["not", "love", "idolatry"],
+          "emotional_note": "Defensive, preemptive",
+          "delivery_note": "The denial that confirms the charge. 'Idolatry' should land with its full theological weight.",
+          "gloss": "Do not call my love idolatry",
+          "commentary": "The opening imperative acknowledges the accusation. In Protestant England, idolatry was associated with Catholic image-worship -- to be called an idolater was a serious charge."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["one", "one", "still", "ever"],
+          "emotional_note": "Monotonous, incantatory",
+          "delivery_note": "The line should sound like a prayer: repetitive, rhythmic, almost hypnotic. The monotony is the point.",
+          "gloss": "To one person, about one person, always the same, forever",
+          "commentary": "The line enacts constancy through repetition: 'one...one...still...ever.' The monotony is both a defense (I am constant) and a confession (I am obsessed)."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Kind", "to-day", "to-morrow", "kind"],
+          "emotional_note": "Warm, affirming",
+          "delivery_note": "The framing repetition of 'kind' (beginning and end) creates a verbal embrace.",
+          "gloss": "My beloved is kind today and will be kind tomorrow",
+          "commentary": "'Kind' placed at the beginning and repeated at the end of the line creates a verbal frame: kindness contains the day. The word also carries its older sense of 'natural' -- the FYM is kind by nature."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["One", "expressing", "difference"],
+          "emotional_note": "Self-aware, slightly wry",
+          "delivery_note": "'Leaves out difference' -- the Speaker acknowledges the limitation of his constancy. There is wry self-knowledge here.",
+          "gloss": "Expressing one thing only, leaving out variety",
+          "commentary": "'Leaves out difference' -- the verse's constancy excludes variety. This is simultaneously a defense (constancy is virtuous) and an admission (the poetry is repetitive)."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["Fair", "kind", "true"],
+          "emotional_note": "Creedal, liturgical",
+          "delivery_note": "The first statement of the trinitarian formula. Deliver it like a creed -- 'Fair, kind, and true' should sound like 'Father, Son, and Holy Ghost.'",
+          "gloss": "'Fair, kind, and true' is the entirety of my subject",
+          "commentary": "The trinitarian formula appears for the first time. The quotation marks in some editions set it off as a creed or motto. The three virtues correspond roughly to Beauty, Goodness, and Truth -- a Platonic triad."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["Fair", "kind", "true", "varying"],
+          "emotional_note": "Playful, self-referential",
+          "delivery_note": "The repetition of the formula 'varying to other words' enacts what it describes: the same content in different form.",
+          "gloss": "'Fair, kind, and true,' rearranged in different expressions",
+          "commentary": "The Speaker describes his poetic method: repeating 'fair, kind, and true' with variation. The line itself demonstrates the technique -- it repeats the formula while adding 'varying to other words.'"
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["Three", "one", "wondrous"],
+          "emotional_note": "Theological, awed",
+          "delivery_note": "'Three themes in one' -- the Trinity mapping is explicit. Let the blasphemous implication register without overplaying it.",
+          "gloss": "Three themes united in one person, which affords wondrous range",
+          "commentary": "'Three themes in one' maps directly onto the Trinity: three persons in one God, three virtues in one beloved. 'Wondrous scope' -- the unity-in-trinity paradoxically creates, not limits, poetic range."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["three", "never", "seat", "one"],
+          "emotional_note": "Conclusive, triumphant",
+          "delivery_note": "The epigrammatic close: the FYM is unprecedented. 'Kept seat in one' should sound permanent and regal.",
+          "gloss": "These three qualities have never before resided together in one person",
+          "commentary": "'Kept seat in one' -- the three virtues have never before shared a throne (seat) in one body. The image is both parliamentary (three members sharing one seat) and incarnational (three divine attributes in one person)."
+        }
+      ],
+      "themes": [
+        {"theme": "idolatry_and_worship", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "constancy", "prominence": "PRIMARY"},
+        {"theme": "theological_language", "prominence": "SECONDARY"},
+        {"theme": "art_and_repetition", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "MENTIONED",
+          "evidence": "Referred to as 'my beloved' (line 2) and 'my love' (line 5). Not directly addressed but the object of the Speaker's devotion and defense."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person throughout, defending 'my love' against the charge of idolatry. The defense is self-revealing."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "IRONY",
+          "quotation": "Let not my love be call'd idolatry",
+          "explanation": "The defense against idolatry is itself idolatrous: the Speaker will proceed to map the FYM onto the Trinity, confirming rather than refuting the charge."
+        },
+        {
+          "line_number": 4,
+          "device_id": "ANAPHORA",
+          "quotation": "To one, of one, still such, and ever so",
+          "explanation": "The repetitive structure (one...one...still...ever) creates a liturgical rhythm that enacts the constancy it describes."
+        },
+        {
+          "line_number": 9,
+          "device_id": "CONCEIT",
+          "quotation": "Fair, kind, and true, is all my argument",
+          "explanation": "The trinitarian conceit: three virtues in one beloved, mapping onto three persons in one God. The conceit governs the final six lines."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PARADOX",
+          "quotation": "Three themes in one, which wondrous scope affords",
+          "explanation": "The paradox of unity-in-trinity: three themes confined to one person should limit scope but instead create 'wondrous scope.'"
+        },
+        {
+          "line_number": 9,
+          "device_id": "ANAPHORA",
+          "quotation": "Fair, kind, and true",
+          "explanation": "The formula is repeated three times (lines 9, 10, 13) like a liturgical refrain or creed, reinforcing the trinitarian structure."
+        },
+        {
+          "line_number": 14,
+          "device_id": "EPIGRAM",
+          "quotation": "Which three till now, never kept seat in one",
+          "explanation": "The epigrammatic close claims the FYM is unprecedented: no one before united all three virtues. The claim is both hyperbolic and creedal."
+        },
+        {
+          "line_number": 8,
+          "device_id": "ANTITHESIS",
+          "quotation": "One thing expressing, leaves out difference",
+          "explanation": "Constancy versus variety: expressing one thing means excluding difference. The antithesis is both a limitation and a virtue."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The theological mapping of the FYM onto the Trinity is the sonnet's most distinctive and provocative contribution to the sequence."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is structured as a legal/theological defense: accusation denied (Q1), constancy asserted (Q2), trinitarian formula introduced (Q3), uniqueness claimed (C)."
+        },
+        {
+          "mode_id": "STRUCTURAL",
+          "priority": 2,
+          "rationale": "The threefold repetition of 'Fair, kind, and true' creates a structural pattern that mirrors the trinitarian content."
+        },
+        {
+          "mode_id": "HISTORICAL",
+          "priority": 1,
+          "rationale": "The idolatry accusation carries specific weight in Reformation England, where Catholic image-worship was politically and theologically charged."
+        }
+      ]
+    },
+    {
+      "number": 106,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "All beauty praised in past literature -- descriptions of fair ladies and lovely knights in old chronicles -- was unknowingly a prophecy of the FYM. Ancient poets had the vision to prefigure his beauty but lacked the skill to fully express it. We who see the FYM now have eyes to wonder but lack tongues to praise.",
+        "speaker_stance": "reverent, melancholy, historically sweeping",
+        "emotional_arc": "survey of literary history -> recognition of past beauty as prophecy -> admission of present inadequacy",
+        "dramatic_situation": "The Speaker reads old literature and recognizes in its descriptions of beauty an unconscious prophecy of the FYM. Every blazon of hand, foot, lip, eye, and brow was an attempt to describe what only the FYM fully embodies. But even the present generation, who actually see the FYM, cannot praise him adequately.",
+        "subtext": "The sonnet makes a breathtaking historical claim: all beauty writing in literary history is retrospectively about the FYM. The final couplet's admission of inadequacy is bitterly ironic -- the Speaker, who has just demonstrated extraordinary praise, claims he cannot praise. The 'wasted time' of the opening line carries its double meaning: time that is past and time that is squandered.",
+        "analysis_text": "Sonnet 106 offers the grandest temporal perspective in the sequence, sweeping from the 'chronicle of wasted time' through all literary history to the present moment. The opening image -- 'When in the chronicle of wasted time / I see descriptions of the fairest wights' -- positions the Speaker as a reader of old books, encountering descriptions of beauty that strike him as eerily familiar. 'Wasted time' means both past time (time that has elapsed) and time squandered (because it lacked the FYM to give it meaning). 'Wights' is deliberately archaic -- it belongs to the old chronicles the Speaker is reading. The second quatrain specifies the connection: 'Then, in the blazon of sweet beauty's best, / Of hand, of foot, of lip, of eye, of brow.' The catalog of body parts is a conventional blazon, but the Speaker sees in these ancient catalogs an attempt to describe the FYM: 'their antique pen would have express'd / Even such a beauty as you master now.' 'Would have express'd' is conditional and retrospective: the ancient poets wanted to describe this beauty but could only approximate it. At the volta, the implication is made explicit: 'So all their praises are but prophecies / Of this our time, all you prefiguring.' All past beauty writing is retroactively about the FYM. The word 'prefiguring' is theological -- in Christian typology, Old Testament events 'prefigure' New Testament fulfillments. The FYM is the fulfillment of all beauty's types. Lines 11-12 add a qualification: 'And for they looked but with divining eyes, / They had not skill enough your worth to sing.' The past poets had prophetic vision ('divining eyes') but not the craft to match it. The couplet completes the argument with devastating irony: 'For we, which now behold these present days, / Have eyes to wonder, but lack tongues to praise.' The present generation has direct sight of the FYM but still cannot praise him adequately. The sonnet that has just praised the FYM brilliantly across 14 lines ends by claiming such praise is impossible."
+      },
+      "directing": {
+        "scene_setting": "The Speaker in a library or study, old books open before him, recognizing the FYM in every ancient description of beauty.",
+        "character_note": "The Speaker as literary historian: reading the past through the lens of his love. His claim is grand but sincere -- he genuinely sees the FYM in every old blazon.",
+        "fym_note": "The FYM is the fulfillment of all literary beauty. Every past description was a type of which he is the antitype. He masters a beauty that history could only prophesy.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin in the library with old chronicles, build to the prophetic claim, and close with the ironic confession of present inadequacy.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'The chronicle of wasted time' -- open with sweep and melancholy. The Speaker surveys all of literary history."
+          },
+          {
+            "line": 5,
+            "note": "'Then, in the blazon of sweet beauty's best' -- the blazon tradition invoked. The catalog of body parts should feel both conventional and revelatory."
+          },
+          {
+            "line": 9,
+            "note": "'So all their praises are but prophecies' -- the grand claim. All beauty writing is about the FYM. Deliver with conviction."
+          },
+          {
+            "line": 14,
+            "note": "'Have eyes to wonder, but lack tongues to praise' -- the ironic close. The Speaker who has just praised brilliantly claims he cannot praise."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["chronicle", "wasted", "time"],
+          "emotional_note": "Sweeping, melancholy",
+          "delivery_note": "Open with grandeur. 'The chronicle of wasted time' surveys all of history.",
+          "gloss": "When I read the records of past ages",
+          "commentary": "'Chronicle of wasted time' -- 'wasted' means both elapsed and squandered. Time before the FYM is both past and purposeless. The word 'chronicle' suggests medieval histories."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["fairest", "wights"],
+          "emotional_note": "Archaic, literary",
+          "delivery_note": "'Wights' is deliberately old-fashioned -- the Speaker is ventriloquizing the archaic diction of the chronicles he reads.",
+          "gloss": "I see descriptions of the most beautiful people",
+          "commentary": "'Wights' (persons, beings) is an archaism even in Shakespeare's time, used deliberately to evoke the old books the Speaker is reading."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["blazon", "beauty's", "best"],
+          "emotional_note": "Reverent, recognizing",
+          "delivery_note": "'Blazon' is a technical term -- the catalog of beauties. The Speaker sees the convention and recognizes the FYM behind it.",
+          "gloss": "Then, in the catalog of supreme beauty",
+          "commentary": "'Blazon' is the formal catalog of a beloved's beauties, feature by feature. The Speaker recognizes the FYM as the template behind every blazon ever written."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["hand", "foot", "lip", "eye", "brow"],
+          "emotional_note": "Incantatory, cataloguing",
+          "delivery_note": "The five body parts should be listed with equal weight, like items in an inventory -- each one a piece of the FYM.",
+          "gloss": "Of hand, of foot, of lip, of eye, of brow",
+          "commentary": "The blazon catalog: five body parts in five prepositional phrases. The repetition of 'of' creates a rhythmic insistence. Each feature is a piece of beauty that the FYM unifies."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["beauty", "master"],
+          "emotional_note": "Awed, present-tense",
+          "delivery_note": "'You master now' -- the shift to the present tense and direct address is the sonnet's emotional peak.",
+          "gloss": "A beauty exactly like the one you now possess",
+          "commentary": "'You master now' -- the FYM 'masters' beauty in the sense of possessing it and commanding it. The present tense breaks from the past-tense narrative of literary history."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["praises", "prophecies"],
+          "emotional_note": "Revelatory, theological",
+          "delivery_note": "The grand claim: all past praise was prophecy. 'Prophecies' should carry its full theological weight.",
+          "gloss": "So all their praises were merely prophecies",
+          "commentary": "'Prophecies' imports the language of biblical typology: the past 'prefigures' the present, as the Old Testament prefigures the New. The FYM is the fulfillment."
+        },
+        {
+          "line_number": 11,
+          "emphasis_words": ["divining", "eyes"],
+          "emotional_note": "Mystical, generous to the past",
+          "delivery_note": "'Divining eyes' -- the past poets were seers, not merely artists. They saw the FYM without knowing it.",
+          "gloss": "And because they looked only with prophetic vision",
+          "commentary": "'Divining eyes' -- eyes that divine (prophesy, perceive supernaturally). The past poets are credited with vision even as they are denied skill."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["we", "behold", "present"],
+          "emotional_note": "Self-implicating, humble",
+          "delivery_note": "'We' -- the Speaker includes himself in the present generation's inadequacy. The first-person plural is a confession.",
+          "gloss": "For we who now witness these present times",
+          "commentary": "'We, which now behold these present days' -- the Speaker pivots from past to present and includes himself in the collective. The present tense 'behold' contrasts with the past's 'divining.'"
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["eyes", "wonder", "tongues", "praise"],
+          "emotional_note": "Ironic, self-defeating, beautiful",
+          "delivery_note": "The final antithesis: eyes versus tongues, wonder versus praise. The sonnet that has praised brilliantly claims praise is impossible.",
+          "gloss": "Have the eyes to marvel but lack the words to praise",
+          "commentary": "The devastating ironic close: the present generation has direct perception ('eyes to wonder') but no adequate expression ('lack tongues to praise'). The sonnet itself disproves the claim."
+        }
+      ],
+      "themes": [
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "literary_history", "prominence": "PRIMARY"},
+        {"theme": "inadequacy_of_praise", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "theological_language", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed as 'you' (lines 8, 10, 12). He is the fulfillment of all literary beauty, the antitype of every blazon."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person singular and plural: 'I see' (line 2), 'we' (line 13). The Speaker is reader, lover, and self-confessed inadequate praiser."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 1,
+          "device_id": "PUN",
+          "quotation": "the chronicle of wasted time",
+          "explanation": "'Wasted' means both elapsed (time that has passed) and squandered (time without the FYM). The double meaning enriches the opening."
+        },
+        {
+          "line_number": 6,
+          "device_id": "BLAZON",
+          "quotation": "Of hand, of foot, of lip, of eye, of brow",
+          "explanation": "The formal blazon catalog: five body parts in parallel prepositional phrases. The convention is named and enacted simultaneously."
+        },
+        {
+          "line_number": 9,
+          "device_id": "CONCEIT",
+          "quotation": "all their praises are but prophecies / Of this our time, all you prefiguring",
+          "explanation": "The typological conceit: all past beauty writing as Old Testament prophecy, the FYM as New Testament fulfillment. Literary history becomes sacred history."
+        },
+        {
+          "line_number": 11,
+          "device_id": "METAPHOR",
+          "quotation": "they looked but with divining eyes",
+          "explanation": "The past poets as prophets with 'divining eyes' -- they saw the future FYM but dimly, as through a glass darkly."
+        },
+        {
+          "line_number": 14,
+          "device_id": "ANTITHESIS",
+          "quotation": "Have eyes to wonder, but lack tongues to praise",
+          "explanation": "Eyes versus tongues, perception versus expression. The present generation can see but not speak. The antithesis structures the sonnet's conclusion."
+        },
+        {
+          "line_number": 14,
+          "device_id": "IRONY",
+          "quotation": "Have eyes to wonder, but lack tongues to praise",
+          "explanation": "The irony of a sonnet that praises brilliantly while claiming praise is impossible. The very poem disproves its own final claim."
+        },
+        {
+          "line_number": 6,
+          "device_id": "ANAPHORA",
+          "quotation": "Of hand, of foot, of lip, of eye, of brow",
+          "explanation": "The fivefold repetition of 'of' creates a rhythmic catalog that enacts the blazon convention while surveying the body."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The claim that all literary history is a prophecy of the FYM is the sonnet's most ambitious thematic gesture."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 3,
+          "rationale": "The sonnet explicitly engages with literary tradition: chronicles, blazons, antique pens. It is a poem about reading and recognizing the beloved in all past writing."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The argument builds from observation (I see past descriptions) through claim (they were prophecies) to conclusion (we cannot praise adequately). The logic is elegant if hyperbolic."
+        },
+        {
+          "mode_id": "HISTORICAL",
+          "priority": 1,
+          "rationale": "The references to 'chronicles,' 'antique pen,' 'ladies dead and lovely knights' evoke a specific literary-historical landscape: medieval romance and chronicle poetry."
+        }
+      ]
+    },
+    {
+      "number": 107,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "Neither the Speaker's private fears nor the world's prophetic anxieties can control the lease of his love. The 'mortal moon' has survived her eclipse, uncertainties are resolved, and peace reigns. In this calm, the Speaker's love is renewed, and his verse will outlast tyrants and monuments.",
+        "speaker_stance": "triumphant, relieved, historically conscious",
+        "emotional_arc": "fear and uncertainty -> historical crisis resolved -> personal and poetic renewal -> defiant prophecy of permanence",
+        "dramatic_situation": "A historical crisis has passed -- most scholars identify the 'mortal moon' with Queen Elizabeth I and her 'eclipse' with either her death (1603) or her survival of a feared event. The resolution of this crisis renews both the Speaker's love and his confidence in poetry's immortalizing power.",
+        "subtext": "This is one of the most debated sonnets in the sequence because it appears to reference a specific historical event. If the 'mortal moon' is Elizabeth and the 'eclipse' her death in 1603, the sonnet dates itself and possibly the entire sequence. The 'olives of endless age' suggest the peace that followed James I's accession. But the personal and political intertwine: the national crisis resolving parallels the lover's fears about the relationship resolving. Public history and private love are made to rhyme.",
+        "analysis_text": "Sonnet 107 is the most historically specific poem in the sequence, and its references have generated more scholarly debate than perhaps any other sonnet. The opening quatrain establishes a framework of fear: 'Not mine own fears, nor the prophetic soul / Of the wide world dreaming on things to come' -- both private anxiety and collective apocalyptic dread. The love's 'lease' is 'supposed as forfeit to a confin'd doom' -- the relationship was thought to be under a death sentence, constrained by some limiting fate. Lines 5-8 announce the resolution of the crisis. 'The mortal moon hath her eclipse endur'd' is the crux: most scholars read 'mortal moon' as Elizabeth I (the Virgin Queen, associated with Diana/the moon), and 'eclipse' as either her death or her survival of a crisis. 'Endur'd' is ambiguous -- it can mean 'survived' or 'undergone.' The 'sad augurs' who predicted doom now 'mock their own presage' -- the prophecies of disaster were wrong. 'Incertainties now crown themselves assur'd' -- a line whose meaning depends on the historical event, but which captures the psychological relief of crisis passed. 'Peace proclaims olives of endless age' -- if this is 1603, it refers to the peaceful accession of James I. At line 9, the volta turns from public history to personal renewal: 'Now with the drops of this most balmy time, / My love looks fresh.' The historical resolution renews the private love. 'Death to me subscribes' -- Death yields, submits to the Speaker, because poetry will outlive him. The couplet delivers the immortality claim with full confidence: 'And thou in this shalt find thy monument, / When tyrants' crests and tombs of brass are spent.' The poem itself is the FYM's monument, more durable than the heraldic crests and brass tombs of tyrants. The word 'spent' echoes the economic language of the sequence: tyrants' monuments will be exhausted, used up, while the poem endures."
+      },
+      "directing": {
+        "scene_setting": "A public moment: a national crisis has resolved. The Speaker feels the collective relief and channels it into personal and poetic renewal.",
+        "character_note": "The Speaker is at his most historically aware and publicly confident. This is not the private lover but the poet claiming a place in history.",
+        "fym_note": "The FYM is addressed in the couplet ('thou'). He will find his monument in this verse. The crisis has renewed rather than destroyed the relationship.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with accumulated fears (private and public), announce the resolution at line 5, turn to personal renewal at line 9, and close with the monumental claim.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'Not mine own fears' -- begin with the negative. The fears existed but have been overcome."
+          },
+          {
+            "line": 5,
+            "note": "'The mortal moon hath her eclipse endur'd' -- the historical crux. Deliver with relief and awe."
+          },
+          {
+            "line": 7,
+            "note": "'Incertainties now crown themselves assur'd' -- the paradox of uncertainty becoming certainty. The political crisis resolving."
+          },
+          {
+            "line": 9,
+            "note": "'Now with the drops of this most balmy time' -- the turn to personal renewal. The 'now' is emphatic."
+          },
+          {
+            "line": 14,
+            "note": "'When tyrants' crests and tombs of brass are spent' -- the defiant close. Poetry outlasts power."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["fears", "prophetic", "soul"],
+          "emotional_note": "Anxious, sweeping",
+          "delivery_note": "Open with the weight of accumulated dread. 'Prophetic soul' has an ominous ring.",
+          "gloss": "Neither my personal fears nor the prophetic spirit",
+          "commentary": "The opening distinguishes private fears from collective ones. 'The prophetic soul / Of the wide world' is the collective unconscious -- the world's dim awareness of approaching crisis."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["forfeit", "confin'd", "doom"],
+          "emotional_note": "Legally ominous",
+          "delivery_note": "Legal language: forfeit, lease, doom. The love was under sentence.",
+          "gloss": "Thought to be forfeited to a limited, predetermined fate",
+          "commentary": "'Forfeit to a confin'd doom' -- the love's lease thought to be cancelled by a predetermined fate. 'Confin'd' means limited, bounded -- the doom has an expiration date."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["mortal", "moon", "eclipse", "endur'd"],
+          "emotional_note": "Momentous, historically charged",
+          "delivery_note": "The line that has launched a thousand scholarly arguments. Deliver with the gravity of a historical turning point.",
+          "gloss": "The mortal moon has survived her eclipse",
+          "commentary": "'The mortal moon' -- most likely Elizabeth I, associated with Diana/the moon. 'Eclipse endur'd' -- survived (or undergone) her crisis. The line dates the sonnet if we can identify the event."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["Incertainties", "crown", "assur'd"],
+          "emotional_note": "Relieved, paradoxical",
+          "delivery_note": "The paradox of uncertainty crowning itself with assurance. The political and emotional relief are one.",
+          "gloss": "Uncertainties now declare themselves resolved",
+          "commentary": "'Crown themselves assur'd' -- the metaphor of self-coronation suggests a political accession. Uncertainties becoming certainties is both political (succession resolved) and personal (love renewed)."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["peace", "olives", "endless"],
+          "emotional_note": "Optimistic, ceremonial",
+          "delivery_note": "'Olives of endless age' -- the olive branch of peace. The optimism is possibly naive but emotionally necessary.",
+          "gloss": "And peace proclaims an era of everlasting harmony",
+          "commentary": "'Olives of endless age' -- the olive branch as emblem of peace. If this is 1603, it refers to James I's peace policy. 'Endless age' is optimistic hyperbole."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["Now", "balmy", "time"],
+          "emotional_note": "Renewed, springlike",
+          "delivery_note": "'Now' is emphatic -- the crisis is past, the renewal is here. 'Balmy' (healing, soothing) marks the turn to gentleness.",
+          "gloss": "Now in this most healing season",
+          "commentary": "'Balmy time' -- 'balmy' means both fragrant and healing (from 'balm'). The historical crisis resolved creates a personal springtime."
+        },
+        {
+          "line_number": 10,
+          "emphasis_words": ["love", "fresh", "Death", "subscribes"],
+          "emotional_note": "Triumphant, defiant",
+          "delivery_note": "'Death to me subscribes' -- Death yields, submits. The Speaker has won a personal victory over mortality.",
+          "gloss": "My love appears renewed, and Death yields to me",
+          "commentary": "'Death to me subscribes' -- subscribes means submits, yields authority. Death acknowledges the Speaker's verse as a superior force. The claim is bold even by this sequence's standards."
+        },
+        {
+          "line_number": 13,
+          "emphasis_words": ["thou", "this", "monument"],
+          "emotional_note": "Prophetic, intimate within the public claim",
+          "delivery_note": "The pivot back to the FYM: 'thou in this' -- this poem is your monument. The public historical claim narrows to private address.",
+          "gloss": "And you will find your memorial in this poem",
+          "commentary": "'Thou in this' -- the FYM's monument is the sonnet itself. The shift from public history to private address is characteristic of the sequence's interweaving of the personal and the historical."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["tyrants'", "crests", "brass", "spent"],
+          "emotional_note": "Defiant, permanent",
+          "delivery_note": "End with the contrast: tyrants' monuments will be 'spent' (exhausted, used up), but the poem endures.",
+          "gloss": "When the heraldic emblems and brass tombs of tyrants are exhausted",
+          "commentary": "'Tyrants' crests and tombs of brass' -- the most durable monuments of power. 'Spent' means exhausted, used up -- the economic language makes permanence a resource that even brass runs out of."
+        }
+      ],
+      "themes": [
+        {"theme": "immortality_through_verse", "prominence": "PRIMARY"},
+        {"theme": "historical_event", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "love_renewed", "prominence": "SECONDARY"},
+        {"theme": "political_allegory", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed as 'thou' in line 13: 'thou in this shalt find thy monument.' The FYM is the private beneficiary of the public-historical claim."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person: 'mine own fears,' 'my true love,' 'to me subscribes,' 'I'll live.' The Speaker claims both personal and poetic triumph."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 5,
+          "device_id": "METAPHOR",
+          "quotation": "The mortal moon hath her eclipse endur'd",
+          "explanation": "Elizabeth I as the 'mortal moon' (Diana, virginity, changeability). The eclipse is the crisis -- death or danger -- that has been survived or undergone."
+        },
+        {
+          "line_number": 7,
+          "device_id": "PARADOX",
+          "quotation": "Incertainties now crown themselves assur'd",
+          "explanation": "Uncertainties becoming certainties is paradoxical: self-crowning transforms doubt into authority. The political succession metaphor is embedded."
+        },
+        {
+          "line_number": 8,
+          "device_id": "PERSONIFICATION",
+          "quotation": "peace proclaims olives of endless age",
+          "explanation": "Peace personified as a herald making a proclamation. The olive branch is ceremonially offered as an emblem of the new era."
+        },
+        {
+          "line_number": 10,
+          "device_id": "PERSONIFICATION",
+          "quotation": "Death to me subscribes",
+          "explanation": "Death personified as a subordinate who 'subscribes' (signs under, yields authority) to the Speaker's poetic power."
+        },
+        {
+          "line_number": 14,
+          "device_id": "HYPERBOLE",
+          "quotation": "When tyrants' crests and tombs of brass are spent",
+          "explanation": "The claim that the poem will outlast even brass monuments. The hyperbole serves the immortality-through-verse theme."
+        },
+        {
+          "line_number": 3,
+          "device_id": "METAPHOR",
+          "quotation": "the lease of my true love control",
+          "explanation": "Love as a lease -- a legal contract with an expiration date. The fears and prophecies would 'control' (terminate, constrain) this lease."
+        },
+        {
+          "line_number": 12,
+          "device_id": "ANTITHESIS",
+          "quotation": "While he insults o'er dull and speechless tribes",
+          "explanation": "Death 'insults' (triumphs over) those who left no verse -- the 'dull and speechless tribes.' The antithesis: poetry speaks; the unpoetic are silenced by death."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "HISTORICAL",
+          "priority": 3,
+          "rationale": "The sonnet is the most historically specific in the sequence, apparently referencing a datable political event. The historical mode is dominant."
+        },
+        {
+          "mode_id": "THEMATIC",
+          "priority": 2,
+          "rationale": "The immortality-through-verse theme reaches its most confident expression: Death subscribes, tyrants' monuments are spent, but the poem endures."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The argument moves from negation (not my fears, nor the world's) through historical resolution to personal-poetic triumph. The structure is climactic."
+        },
+        {
+          "mode_id": "IMAGISTIC",
+          "priority": 1,
+          "rationale": "The images are political and monumental: the mortal moon, olives of endless age, tyrants' crests and brass tombs."
+        }
+      ]
+    },
+    {
+      "number": 108,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker has nothing new to say -- every thought has already been expressed. But love, like prayer, sanctifies repetition. The act of saying 'thou mine, I thine' daily is not staleness but ritual, and eternal love makes repetition sacred rather than tedious.",
+        "speaker_stance": "devotional, tender, resigned to repetition",
+        "emotional_arc": "confession of having nothing new to say -> acceptance that love requires no novelty -> elevation of repetition to prayer -> assertion that love defeats time through ritual",
+        "dramatic_situation": "The Speaker confronts the exhaustion of his poetic resources: what can he possibly write about the FYM that he has not already written? His answer is that love does not require novelty -- like daily prayer, the repetition of 'thou mine, I thine' is itself a form of devotion that transcends staleness.",
+        "subtext": "The sonnet is profoundly self-aware about its position in a long sequence. After 107 sonnets, the Speaker admits he is repeating himself -- and transforms that admission into a virtue. The prayer analogy is the key: religious devotion does not require new words each day, and neither does love. The phrase 'sweet boy' is one of the most intimate forms of address in the sequence, carrying tenderness and an awareness of the age difference between Speaker and FYM.",
+        "analysis_text": "Sonnet 108 confronts the problem of poetic exhaustion with disarming honesty and transforms it into a statement about the nature of love itself. The opening questions -- 'What's in the brain, that ink may character, / Which hath not figur'd to thee my true spirit?' -- admit that the Speaker has already expressed everything expressible. 'Character' means both to write (inscribe characters) and to represent. 'Figur'd' means both depicted and prefigured. The first quatrain catalogs the impossibility of novelty: what is new to speak, new to register, that might express love or merit? The answer comes at line 5 with devastating simplicity: 'Nothing, sweet boy.' The address 'sweet boy' is startling in its intimacy -- one of only two uses in the Sonnets (the other is 126). It acknowledges the age gap and carries a tenderness that 'fair friend' or 'my love' do not. The prayer analogy follows immediately: 'like prayers divine, / I must each day say o'er the very same.' The comparison of love poetry to prayer is the sonnet's master stroke. Prayer does not require novelty; the Pater Noster is said daily without loss of meaning. The ritual repetition ('Counting no old thing old') sanctifies what would otherwise be tedium. 'Thou mine, I thine' is the simplest possible expression of mutual possession -- a vow repeated daily like a marriage oath. Line 8's 'Even as when first I hallow'd thy fair name' imports the language of consecration: 'hallow'd' means made holy, set apart as sacred. The FYM's name was hallowed at first speaking and remains hallowed through repetition. The sestet (lines 9-14) elevates the argument: 'eternal love in love's fresh case / Weighs not the dust and injury of age.' Eternal love in a fresh container -- the 'case' is both a covering and a legal case, a fresh argument for an old truth. Love does not weigh (consider, regard) the damage of aging. It 'makes antiquity for aye his page' -- turns old age into a servant ('page') forever. The couplet resolves with quiet triumph: love finds its original impulse ('the first conceit of love there bred') still alive in a place where time and external appearance would declare it dead. The sonnet is a fitting near-conclusion to this group: the Speaker has nothing new but discovers that newness was never the point."
+      },
+      "directing": {
+        "scene_setting": "An intimate, almost devotional moment. The Speaker is not performing but praying -- repeating the words of love as a daily office.",
+        "character_note": "The Speaker is at his most mature and tender. The admission of having nothing new to say is not defeat but a deeper understanding of love's nature.",
+        "fym_note": "Addressed as 'sweet boy' -- one of the most intimate moments in the entire sequence. The FYM is both beloved and object of devotion, like a saint to whom prayers are addressed.",
+        "dl_note": "Absent.",
+        "overall_arc": "Open with the honest confession of exhaustion, land 'Nothing, sweet boy' as the emotional center, develop the prayer analogy, and close with the quiet assertion that love finds itself alive where time would declare it dead.",
+        "key_moments": [
+          {
+            "line": 1,
+            "note": "'What's in the brain, that ink may character' -- open with genuine bewilderment. The poet is at a loss."
+          },
+          {
+            "line": 5,
+            "note": "'Nothing, sweet boy' -- the most intimate moment. The pause after 'Nothing' should be felt. Then the tenderness of 'sweet boy.'"
+          },
+          {
+            "line": 7,
+            "note": "'Counting no old thing old, thou mine, I thine' -- the mutual possession vow. Simple as a wedding oath."
+          },
+          {
+            "line": 8,
+            "note": "'Even as when first I hallow'd thy fair name' -- 'hallow'd' carries its full sacred weight."
+          },
+          {
+            "line": 14,
+            "note": "'Where time and outward form would show it dead' -- the final word is 'dead,' but the meaning is life. Love survives where time says it should not."
+          }
+        ]
+      },
+      "line_annotations": [
+        {
+          "line_number": 1,
+          "emphasis_words": ["brain", "ink", "character"],
+          "emotional_note": "Bewildered, honest",
+          "delivery_note": "Open with genuine questioning. The poet is searching his mind and finding nothing new.",
+          "gloss": "What thought in the brain can ink set down in writing",
+          "commentary": "'Character' as a verb means to inscribe, write. The question is whether anything remains in the mind that has not already been written. The answer will be no."
+        },
+        {
+          "line_number": 2,
+          "emphasis_words": ["figur'd", "true", "spirit"],
+          "emotional_note": "Searching, self-examining",
+          "delivery_note": "'True spirit' is what the Speaker has been trying to convey all along. Has he succeeded? The question is genuine.",
+          "gloss": "That has not already represented my true feelings to you?",
+          "commentary": "'Figur'd' means both depicted and prefigured. 'True spirit' -- the authentic self that poetry attempts to transmit. The Speaker wonders if the transmission is complete."
+        },
+        {
+          "line_number": 4,
+          "emphasis_words": ["love", "dear", "merit"],
+          "emotional_note": "Tender, exhausted",
+          "delivery_note": "The question trails off: what more can express love or describe your merit? The rhetorical questions are genuine, not merely formal.",
+          "gloss": "That might express my love or your precious worth?",
+          "commentary": "'Dear merit' -- 'dear' means both beloved and valuable. The FYM's worth is both emotional and quasi-economic, echoing the sequence's persistent commercial language."
+        },
+        {
+          "line_number": 5,
+          "emphasis_words": ["Nothing", "sweet", "boy", "prayers"],
+          "emotional_note": "Intimate, devotional, pivotal",
+          "delivery_note": "The most important line in the sonnet. 'Nothing' answers the four questions of Q1. Then 'sweet boy' -- the tenderest address in the sequence. Then the pivot to prayer.",
+          "gloss": "Nothing, dear boy; but yet, like sacred prayers",
+          "commentary": "'Nothing, sweet boy' is one of the sequence's most emotionally charged moments. 'Sweet boy' acknowledges youth, tenderness, and the age gap. The semicolon is a hinge: from despair ('Nothing') to devotion ('like prayers divine')."
+        },
+        {
+          "line_number": 6,
+          "emphasis_words": ["must", "day", "same"],
+          "emotional_note": "Obligatory, ritualistic",
+          "delivery_note": "'Must' is obligation, not choice. The daily repetition is a duty and a privilege.",
+          "gloss": "I must repeat the very same words each day",
+          "commentary": "'Must each day say o'er the very same' -- the compulsion of devotion. Like monastic hours, the love-prayer must be repeated daily. 'Must' makes it obligation, not mere habit."
+        },
+        {
+          "line_number": 7,
+          "emphasis_words": ["old", "old", "thou mine", "I thine"],
+          "emotional_note": "Vow-like, simple, eternal",
+          "delivery_note": "'Thou mine, I thine' is a marriage vow in miniature. Let the simplicity carry the weight.",
+          "gloss": "Considering nothing old to be outdated -- you are mine, I am yours",
+          "commentary": "'Thou mine, I thine' -- the simplest expression of mutual love in the entire sequence. It echoes the Song of Songs and the marriage vow. 'Counting no old thing old' -- refusing to let repetition age the sentiment."
+        },
+        {
+          "line_number": 8,
+          "emphasis_words": ["first", "hallow'd", "fair", "name"],
+          "emotional_note": "Sacred, originary",
+          "delivery_note": "'Hallow'd' is the word of the Lord's Prayer. The FYM's name was made holy at first speaking and remains so.",
+          "gloss": "Just as when I first consecrated your beautiful name",
+          "commentary": "'Hallow'd' -- made holy, consecrated. The echo of 'hallowed be thy Name' in the Lord's Prayer is unmistakable. The FYM's name is a sacred word that gains power through repetition."
+        },
+        {
+          "line_number": 9,
+          "emphasis_words": ["eternal", "love", "fresh", "case"],
+          "emotional_note": "Philosophical, renewing",
+          "delivery_note": "The shift from prayer to philosophy. 'Eternal love in love's fresh case' -- the old content in a new container.",
+          "gloss": "So that eternal love, in love's renewed expression",
+          "commentary": "'Eternal love in love's fresh case' -- love that is eternal dressed in fresh expression. 'Case' means both container and legal argument: the same love, freshly cased/argued."
+        },
+        {
+          "line_number": 12,
+          "emphasis_words": ["antiquity", "aye", "page"],
+          "emotional_note": "Triumphant, paradoxical",
+          "delivery_note": "'Makes antiquity for aye his page' -- old age becomes love's servant forever. The pun on 'page' should register.",
+          "gloss": "But makes old age forever its servant",
+          "commentary": "'Page' puns: (1) a servant/attendant; (2) a page of a book. Love makes old age serve it -- or turns old age into a page of the book in which love is written."
+        },
+        {
+          "line_number": 14,
+          "emphasis_words": ["time", "form", "show", "dead"],
+          "emotional_note": "Defiant, final, alive",
+          "delivery_note": "The final word is 'dead,' but the meaning is life. Love finds itself alive precisely where time declares it should be dead.",
+          "gloss": "Where time and outward appearance would declare it dead",
+          "commentary": "The sonnet ends with 'dead' -- but the sentence's meaning is resurrection. Love finds its first impulse alive in a place where time and appearances say it should have died. The contradiction is the point."
+        }
+      ],
+      "themes": [
+        {"theme": "love_as_devotion", "prominence": "PRIMARY"},
+        {"theme": "repetition_and_ritual", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "inadequacy_of_praise", "prominence": "SECONDARY"},
+        {"theme": "immortality_through_verse", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {
+          "character_id": "FYM",
+          "role": "ADDRESSED",
+          "evidence": "Addressed as 'sweet boy' (line 5) and 'thee/thou/thy' throughout. The most intimate form of address in this group."
+        },
+        {
+          "character_id": "SPEAKER",
+          "role": "ADDRESSED",
+          "evidence": "First-person: 'my true spirit,' 'my love,' 'I must,' 'I thine.' The Speaker is both devotee and self-diagnosed repetitive praiser."
+        }
+      ],
+      "line_devices": [
+        {
+          "line_number": 5,
+          "device_id": "SIMILE",
+          "quotation": "like prayers divine, / I must each day say o'er the very same",
+          "explanation": "Love poetry compared to prayer: both require daily repetition, and the repetition is the devotion, not a failure of invention."
+        },
+        {
+          "line_number": 7,
+          "device_id": "CHIASMUS",
+          "quotation": "thou mine, I thine",
+          "explanation": "The chiastic structure (thou-mine / I-thine) creates a mirror image of mutual possession, each half reflecting the other."
+        },
+        {
+          "line_number": 8,
+          "device_id": "METAPHOR",
+          "quotation": "when first I hallow'd thy fair name",
+          "explanation": "The FYM's name hallowed (made sacred) like God's name in the Lord's Prayer. Love is worship; the beloved's name is a holy word."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PUN",
+          "quotation": "makes antiquity for aye his page",
+          "explanation": "'Page' means both servant/attendant and the page of a book. Love conscripts old age as its servant and inscribes itself on time's pages."
+        },
+        {
+          "line_number": 12,
+          "device_id": "PERSONIFICATION",
+          "quotation": "makes antiquity for aye his page",
+          "explanation": "Antiquity (old age) personified as a servant ('page') forced to attend upon love. Love commands time rather than submitting to it."
+        },
+        {
+          "line_number": 14,
+          "device_id": "PARADOX",
+          "quotation": "Finding the first conceit of love there bred, / Where time and outward form would show it dead",
+          "explanation": "Love found alive where time declares it dead. The paradox of love's persistence in the face of physical decay."
+        },
+        {
+          "line_number": 1,
+          "device_id": "METAPHOR",
+          "quotation": "What's in the brain, that ink may character",
+          "explanation": "The brain as a text that ink might transcribe. 'Character' (write in characters) makes thought into inscription."
+        },
+        {
+          "line_number": 9,
+          "device_id": "METAPHOR",
+          "quotation": "eternal love in love's fresh case",
+          "explanation": "'Case' as both container and legal argument: eternal love freshly encased, or the same love newly argued. The old content in a new vessel."
+        }
+      ],
+      "modes": [
+        {
+          "mode_id": "THEMATIC",
+          "priority": 3,
+          "rationale": "The sonnet's central insight -- that love, like prayer, sanctifies repetition -- is its most profound thematic contribution."
+        },
+        {
+          "mode_id": "DRAMATIC",
+          "priority": 2,
+          "rationale": "The dramatic moment of 'Nothing, sweet boy' is the sonnet's emotional center -- the poet admitting exhaustion and then finding renewal in ritual."
+        },
+        {
+          "mode_id": "RHETORICAL",
+          "priority": 2,
+          "rationale": "The four rhetorical questions of Q1 set up the devastating answer of line 5, and the prayer analogy resolves what seemed like an impasse."
+        },
+        {
+          "mode_id": "INTERTEXTUAL",
+          "priority": 1,
+          "rationale": "The prayer analogy invokes liturgical tradition; 'thou mine, I thine' echoes the Song of Songs; 'hallow'd' echoes the Lord's Prayer."
+        }
+      ]
+    }
+  ]
+}

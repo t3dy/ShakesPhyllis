@@ -1,0 +1,399 @@
+{
+  "batch": "04_fym_core",
+  "description": "FYM core dynamics: defiance of Time, the gender poem, despair/salvation, first betrayal, slavery, farewell",
+  "sonnets": [
+    {
+      "number": 19,
+      "analysis": {
+        "volta_line": 8,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker gives Time permission to destroy everything in nature — lions, tigers, phoenixes, seasons — then forbids Time one crime: touching the FYM's face. The couplet defies even that prohibition: do your worst, my verse will keep him young.",
+        "speaker_stance": "defiant, imperious",
+        "emotional_arc": "imperious permission -> sudden prohibition -> final defiance",
+        "dramatic_situation": "The Speaker addresses Time as a rival power, granting concessions before drawing an absolute line. This is the first sonnet where the Speaker directly challenges Time as an antagonist.",
+        "subtext": "The bravado conceals vulnerability. The Speaker cannot actually stop Time. The verse-as-immortality claim is an act of will, not certainty. The imperative mood ('blunt thou,' 'carve not') reveals someone who knows he has no real authority.",
+        "analysis_text": "Sonnet 19 stages a confrontation between the Speaker and personified Time that is as dramatic as any scene in the plays. The first eight lines are an astonishing catalogue of permissions: the Speaker ALLOWS Time to devour, blunt, pluck, burn — all of nature is surrendered. The violence is physical: lion's paws blunted, tiger's teeth plucked, the phoenix burned in her blood. The escalation is calculated — each concession makes the prohibition at line 8 more powerful. 'But I forbid thee one most heinous crime' — the word 'forbid' is extraordinary. Who forbids Time? A poet. The audacity is breathtaking. Lines 9-12 specify the prohibition: don't carve the FYM's brow, don't draw lines (wrinkles) with your 'antique pen' — where 'antique' puns on 'antic' (grotesque). The couplet then surrenders even the prohibition: 'Yet do thy worst, old Time' — the Speaker drops his imperial stance and accepts that Time will win. But: 'My love shall in my verse ever live young.' The poem wins by shifting the ground from physical preservation to poetic preservation."
+      },
+      "directing": {
+        "scene_setting": "The Speaker stands before Time like a general offering terms of surrender — but with one non-negotiable demand.",
+        "character_note": "The Speaker is performing power he doesn't have. The imperatives ('blunt thou,' 'pluck,' 'burn') are commands to an enemy he cannot defeat. The bravado is magnificent and slightly desperate.",
+        "fym_note": "The FYM is the one thing the Speaker tries to exempt from universal destruction. 'My love's fair brow' — the specific physical detail (the brow, the face) makes the abstract argument concrete and tender.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with commanding authority (lines 1-7 are concessions delivered like a king's decrees), pivot sharply at line 8 ('But I forbid'), soften into tenderness at line 9 ('O! carve not'), then land the couplet with renewed defiance.",
+        "key_moments": [
+          {"line": 1, "note": "'Devouring Time' — address Time directly. The epithet is a challenge: I know what you are."},
+          {"line": 8, "note": "'But I forbid thee' — the pivot. Everything before was permission; this is prohibition. Maximum authority."},
+          {"line": 9, "note": "'O! carve not' — the exclamation shifts from command to plea. The Speaker's vulnerability surfaces."},
+          {"line": 13, "note": "'Yet do thy worst, old Time' — concede the physical battle. 'Old' is dismissive — contempt."},
+          {"line": 14, "note": "'Ever live young' — the final two words are the victory. Stress 'ever' and 'young.'"}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Devouring", "Time", "blunt", "lion's", "paws"], "emotional_note": "Commanding — addressing Time as a rival power", "delivery_note": "Full voice. 'Devouring Time' is an invocation — speak it as you would address a god. The violence of 'blunt' and 'paws' is physical.", "gloss": "Time, you devourer, go ahead and blunt the lion's claws", "commentary": "'Devouring Time' — Tempus edax rerum (Ovid, Met. XV.234). The classical topos of time-the-destroyer is personified as an antagonist the Speaker can address."},
+        {"line_number": 4, "emphasis_words": ["burn", "phoenix", "blood"], "emotional_note": "The concessions escalate — even the immortal phoenix", "delivery_note": "The phoenix is supposed to be immortal through self-renewal. Burning it 'in her blood' (at the peak of her life) is the ultimate concession.", "gloss": "And burn the long-lived phoenix at the height of her vitality", "commentary": "'In her blood' = in the prime of life (blood = vital spirit). Even the phoenix, nature's emblem of renewal, is surrendered to Time."},
+        {"line_number": 8, "emphasis_words": ["But", "I", "forbid", "one", "heinous", "crime"], "emotional_note": "The prohibition — maximum dramatic authority", "delivery_note": "Hard stop after 'But.' 'I forbid' — stress the first person. The Speaker claims authority over Time. 'Heinous' is a legal term: this is an indictment.", "gloss": "But I forbid you one terrible crime:", "commentary": "The volta: seven lines of concession make this prohibition explosive. 'Heinous crime' = legal language (a capital offense). The Speaker puts Time on trial."},
+        {"line_number": 9, "emphasis_words": ["O", "carve", "not", "love's", "fair", "brow"], "emotional_note": "Tender plea — the imperious stance softens", "delivery_note": "The 'O!' is a genuine cry. 'Carve not' — Time as sculptor, cutting wrinkles. 'My love's fair brow' — specific, physical, tender.", "gloss": "Oh! Do not carve wrinkles in my beloved's beautiful forehead", "commentary": "'Carve' = engrave wrinkles. 'My love's fair brow' — the most physically specific image of the FYM in the sequence so far. The Speaker sees the face he loves and imagines it lined."},
+        {"line_number": 14, "emphasis_words": ["love", "verse", "ever", "live", "young"], "emotional_note": "Triumphant defiance — the poem as answer", "delivery_note": "The final line is the resolution: verse defeats Time. Stress 'ever' and 'young' — these are the victory words.", "gloss": "My beloved will live forever young in my poetry", "commentary": "The couplet concedes the physical battle ('do thy worst') but wins the war: verse preserves the FYM 'ever young.' This is the first fully confident statement of the immortality-through-verse argument after the pivot in Sonnet 17."}
+      ],
+      "themes": [
+        {"theme": "time", "prominence": "PRIMARY"},
+        {"theme": "immortality", "prominence": "PRIMARY"},
+        {"theme": "poetry", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "defiance", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'My love's fair brow' (line 9), 'Him in thy course untainted' (line 11)"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "First person: 'I forbid,' 'my love,' 'my verse' — the Speaker as defiant protector"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "APOSTROPHE", "quotation": "Devouring Time, blunt thou the lion's paws", "explanation": "Direct address to personified Time — the entire sonnet is an apostrophe to the sequence's great antagonist."},
+        {"line_number": 1, "device_id": "PERSONIFICATION", "quotation": "Devouring Time", "explanation": "Time as a devouring beast — Ovid's tempus edax rerum. The epithet makes Time a character the Speaker can confront."},
+        {"line_number": 8, "device_id": "VOLTA", "quotation": "But I forbid thee one most heinous crime", "explanation": "The volta at line 8 (unusual — before the standard line 9): seven lines of permission make this prohibition explosive."},
+        {"line_number": 10, "device_id": "PUN", "quotation": "thine antique pen", "explanation": "'Antique' = (1) ancient and (2) antic/grotesque. Time's pen writes wrinkles — an 'antic' (grotesque) form of authorship."},
+        {"line_number": 14, "device_id": "PARADOX", "quotation": "My love shall in my verse ever live young", "explanation": "The paradox of poetic immortality: the beloved ages physically but remains eternally young in the poem."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The sonnet is a dramatic confrontation between Speaker and Time — imperious concessions, prohibition, defiance. Pure theater."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The argument by concession-then-prohibition is a legal/forensic structure: I grant you everything except this."},
+        {"mode_id": "INTERTEXTUAL", "priority": 1, "rationale": "Ovid's Metamorphoses XV — 'Tempus edax rerum' and the claim of poetic immortality. Shakespeare's most Ovidian sonnet."}
+      ]
+    },
+    {
+      "number": 20,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The FYM has a woman's face and heart but is a man — Nature made him for women but fell in love with her creation and added a penis, defeating the Speaker's purpose. The couplet divides: the Speaker gets love (spiritual), women get the 'use' (sexual).",
+        "speaker_stance": "playful, rueful, erotically charged",
+        "emotional_arc": "admiring blazon -> mythological explanation -> rueful acceptance of biological limit",
+        "dramatic_situation": "The Speaker confronts the FYM's gender directly: he is beautiful like a woman but is a man. The sonnet's feminine rhymes throughout (painted/acquainted, doting/nothing) enact the gender ambiguity at the formal level.",
+        "subtext": "The poem protests too much. The distinction between 'love' (spiritual) and 'love's use' (sexual) in the couplet is strained — the entire sonnet is saturated with erotic energy directed at a male body. The claim that the Speaker only wants spiritual love is undermined by the 12 lines of physical admiration preceding it.",
+        "analysis_text": "Sonnet 20 is the most sexually explicit and gender-complex poem in the FYM sequence, and it has generated more critical debate than almost any other. The blazon is of a male body described in female terms: 'A woman's face,' 'a woman's gentle heart,' 'an eye more bright than theirs.' The FYM surpasses women at their own qualities. 'Master mistress' (line 2) is the controlling oxymoron — male and female authority fused. The mythological narrative in Q3 is comic: Nature was making a woman, fell in love with her creation ('fell a-doting'), and 'by addition me of thee defeated, / By adding one thing to my purpose nothing.' 'One thing' = penis. 'Nothing' = (1) irrelevant to the Speaker's purpose and (2) Elizabethan slang for vagina ('no-thing'). So the penis is simultaneously present (one thing) and absent (nothing). The couplet's division — 'Mine be thy love and thy love's use their treasure' — distinguishes spiritual love (the Speaker's) from sexual use (women's). But 'use' was also financial: interest on a loan. 'Treasure' = both wealth and genitalia. Every word in this sonnet is sexually double. The feminine rhymes (all 14 end in unstressed syllables) formally enact the femininity the poem attributes to a male body."
+      },
+      "directing": {
+        "scene_setting": "Intimate, playful. The Speaker is looking at the FYM — really looking — and marveling at his beauty's feminine quality.",
+        "character_note": "The Speaker is being witty and erotic simultaneously. The humor about Nature's 'addition' is ribald, but underneath it is genuine desire constrained by gender. The couplet's neat division is a performance of acceptance that may be a performance of denial.",
+        "fym_note": "The FYM as androgyne — beautiful beyond gender. If Southampton: the long-haired, fine-featured earl whose portraits show a feminine beauty. If Pembroke: also young, beautiful, and the object of much poetic admiration.",
+        "dl_note": "Women are the FYM's sexual partners — the Speaker cedes them the body. The DL will later become the specific woman who takes what the Speaker cannot have.",
+        "overall_arc": "Begin with admiring wonder (Q1), become more playful and ribald (Q2-Q3), land the couplet as rueful wit — accepting the division with a smile that may mask pain.",
+        "key_moments": [
+          {"line": 2, "note": "'Master mistress of my passion' — the oxymoron. Male authority, female beauty. Stress both words equally."},
+          {"line": 11, "note": "'By addition me of thee defeated' — Nature added a penis and defeated the Speaker's purpose. The comedy should land."},
+          {"line": 12, "note": "'One thing to my purpose nothing' — 'one thing' = penis, 'nothing' = vagina/irrelevance. Triple pun. Let it vibrate."},
+          {"line": 13, "note": "'Prick'd thee out' — 'prick'd' = (1) selected and (2) gave you a prick. The bawdiest line in the FYM sequence."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 2, "emphasis_words": ["master", "mistress", "passion"], "emotional_note": "The controlling oxymoron — male/female fused", "delivery_note": "Both 'master' and 'mistress' need equal weight. This is the FYM's defining paradox: masculine authority, feminine beauty.", "gloss": "You have the face of a woman, painted by Nature herself — you, the master-mistress of my desire", "commentary": "'Master mistress' — the oxymoron at the heart of the sonnet. 'Passion' = (1) intense emotion, (2) suffering (as in Christ's Passion), (3) sexual desire. All three are active."},
+        {"line_number": 7, "emphasis_words": ["man", "hue", "hues", "controlling"], "emotional_note": "The FYM as universal beauty — all genders submit", "delivery_note": "The line is textually corrupt (Quarto reads 'A man in hew all Hews in his controwling'). But the meaning: a man whose appearance controls all appearances.", "gloss": "A man in appearance, commanding all forms of beauty", "commentary": "The most disputed line textually. 'Hue' = appearance, complexion. 'Hues' possibly = people named Hughes (the W.H. theory). More likely: his beauty commands all forms of beauty."},
+        {"line_number": 12, "emphasis_words": ["one", "thing", "purpose", "nothing"], "emotional_note": "The bawdy punchline — body parts as wordplay", "delivery_note": "Triple pun: 'one thing' = penis, 'nothing' = (1) irrelevant and (2) vagina ('no-thing'). Let the audience catch it.", "gloss": "By adding one thing (a penis) that is nothing to my purpose", "commentary": "'One thing' = penis. 'Nothing' = (1) of no relevance to the Speaker's love and (2) vagina (Elizabethan slang: 'no-thing,' the absence of 'one thing'). The penis is present AND absent."},
+        {"line_number": 13, "emphasis_words": ["prick'd", "out", "women's", "pleasure"], "emotional_note": "Maximum bawdry — the wordplay peaks", "delivery_note": "'Prick'd thee out' — (1) selected you and (2) equipped you with a prick. Deliver with a straight face; the comedy is in the words, not the performer.", "gloss": "But since Nature selected/equipped you for women's sexual pleasure", "commentary": "'Prick'd out' = (1) selected by pricking a name on a list and (2) equipped with a prick/penis. Shakespeare's bawdiest pun in the sonnets."},
+        {"line_number": 14, "emphasis_words": ["love", "love's", "use", "treasure"], "emotional_note": "The division — spiritual love vs. sexual use", "delivery_note": "The couplet's neat distinction may be sincere or may be a performance of acceptance. Let the ambiguity stand.", "gloss": "Let your love be mine, and the sexual use of your love be women's treasure", "commentary": "'Love's use' = (1) sexual enjoyment and (2) interest on a loan (usury). 'Treasure' = (1) wealth and (2) genitalia. The couplet's clean division (love/use) is undermined by the erotic charge of the preceding 12 lines."}
+      ],
+      "themes": [
+        {"theme": "sexuality", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "PRIMARY"},
+        {"theme": "gender", "prominence": "PRIMARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "irony", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "Direct address throughout: 'Hast thou,' 'thy love,' 'wert thou first created'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My passion,' 'my purpose' — the Speaker as desiring subject constrained by gender"}
+      ],
+      "line_devices": [
+        {"line_number": 2, "device_id": "PARADOX", "quotation": "the master mistress of my passion", "explanation": "'Master mistress' — male authority and female beauty fused in one oxymoron. The FYM is both genders simultaneously."},
+        {"line_number": 12, "device_id": "PUN", "quotation": "By adding one thing to my purpose nothing", "explanation": "Triple pun: 'one thing' = penis, 'nothing' = (1) irrelevant, (2) vagina ('no-thing'). Present and absent simultaneously."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "she prick'd thee out for women's pleasure", "explanation": "'Prick'd out' = (1) selected by marking a list and (2) equipped with a penis. The sequence's most explicit bawdy pun."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "Mine be thy love and thy love's use their treasure", "explanation": "Love vs. use — spiritual vs. sexual, the Speaker vs. women. The antithesis is the couplet's argument, but the poem undermines it."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The sonnet dramatizes the Speaker's erotic attraction to a male body through the comic myth of Nature's mistake. The humor is a strategy for managing desire."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "Every rhyme is feminine (extra unstressed syllable): painted/acquainted, doting/nothing. The prosody enacts the femininity the poem attributes to the FYM."},
+        {"mode_id": "THEMATIC", "priority": 2, "rationale": "Gender and sexuality — the most explicitly queer sonnet in the sequence. Central to Pequigney's reading and the modern critical debate."}
+      ]
+    },
+    {
+      "number": 29,
+      "analysis": {
+        "volta_line": 10,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker, in disgrace with fortune, alone, cursing his fate, envying others — 'haply' thinks of the FYM, and his state rises like a lark from the earth to sing at heaven's gate. The FYM's love outweighs a king's wealth.",
+        "speaker_stance": "despairing, then suddenly exalted",
+        "emotional_arc": "self-pity -> envy -> near-despair -> sudden salvation -> ecstatic gratitude",
+        "dramatic_situation": "The Speaker is at his lowest point — outcast, friendless, cursing heaven. The thought of the FYM rescues him. This is the sonnet's argument: love redeems all loss.",
+        "subtext": "The depth of the despair reveals how dependent the Speaker is on the FYM. The lark image is ecstatic but also fragile — larks come back down. The rescue is a memory ('remember'd'), not a presence.",
+        "analysis_text": "Sonnet 29 is the sequence's great rescue narrative, built on a single sentence that spans all 14 lines — one of Shakespeare's most sustained syntactic structures. The eight-line subordinate clause ('When... when... wishing... desiring...') delays the main verb until line 10: 'Haply I think on thee.' The delay is dramatic: the reader sinks with the Speaker through layer after layer of despair before the thought of the FYM breaks through. The catalogue of misery in Q1-Q2 is specific enough to suggest autobiography: 'in disgrace with fortune and men's eyes' (professional setback?), 'outcast state' (social exclusion?), 'trouble deaf heaven' (unanswered prayers). The envy sequence (lines 5-8) is devastatingly honest: he wants others' hope, looks, friends, art, scope. 'With what I most enjoy contented least' — even his own gifts give no pleasure. Then: 'Haply I think on thee.' 'Haply' = by chance, perhaps, happily — all three meanings operate. The lark simile is the sonnet's transcendent moment: 'Like to the lark at break of day arising / From sullen earth, sings hymns at heaven's gate.' The transformation is instantaneous — from sullen earth to heaven's gate in one image. The couplet lands with the financial metaphor the procreation sonnets established: the FYM's love is 'wealth' that makes the Speaker 'scorn to change my state with kings.'"
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone, possibly at a desk or on a road. Desolate. The first 8 lines should feel like a pit he cannot climb out of.",
+        "character_note": "The despair must be real — not performed for sympathy but genuinely felt. The rescue at line 10 should surprise even the Speaker. He didn't set out to write a happy poem.",
+        "fym_note": "The FYM is salvation — but he's absent. The Speaker thinks OF him, not TO him. The FYM's power is in the memory, not the presence.",
+        "dl_note": "Absent.",
+        "overall_arc": "Sink into despair through Q1-Q2 (let the rhythm drag, let the envy accumulate). The turn at line 10 should feel involuntary — a sudden thought. The lark image lifts everything. The couplet arrives with quiet, absolute confidence.",
+        "key_moments": [
+          {"line": 2, "note": "'I all alone beweep my outcast state' — maximum isolation. 'All alone' is emphatic. Let the loneliness fill the line."},
+          {"line": 8, "note": "'With what I most enjoy contented least' — the bottom. Even his art gives no pleasure. This is as low as it gets."},
+          {"line": 10, "note": "'Haply I think on thee' — the rescue. 'Haply' = by chance. It's not deliberate; the thought arrives unbidden."},
+          {"line": 11, "note": "'Like to the lark at break of day arising' — the most joyful image in the sequence. Let the voice soar with the bird."},
+          {"line": 14, "note": "'I scorn to change my state with kings' — absolute. After wanting everyone else's gifts, he now wouldn't trade places with royalty."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["disgrace", "fortune", "men's", "eyes"], "emotional_note": "The opening wound — public shame", "delivery_note": "Heavy, weighted. 'Disgrace with fortune and men's eyes' — both luck and reputation have failed him.", "gloss": "When I'm in disfavor with luck and public opinion", "commentary": "'Disgrace with fortune' = out of favor with luck/prosperity. 'Men's eyes' = public reputation. Both external judgments."},
+        {"line_number": 10, "emphasis_words": ["Haply", "think", "thee", "state"], "emotional_note": "The rescue — sudden, involuntary, transformative", "delivery_note": "'Haply' — the word that changes everything. Pause before it. The thought arrives by chance. Then 'my state' lifts: same word as line 2 ('outcast state') but now transformed.", "gloss": "By happy chance I think of you, and then my condition", "commentary": "'Haply' = (1) by chance, (2) perhaps, (3) happily. All three meanings work. 'My state' echoes line 2's 'outcast state' — the same word, completely transformed."},
+        {"line_number": 11, "emphasis_words": ["lark", "break", "day", "arising"], "emotional_note": "The great simile — ascent from earth to heaven", "delivery_note": "Let the voice rise with the lark. The rhythm lifts — 'at break of day arising' is iambic but feels like flight.", "gloss": "Like a lark rising at dawn", "commentary": "The lark was the traditional emblem of morning joy (cf. Romeo and Juliet III.v). 'Arising from sullen earth' — the earth is sullen (gloomy, heavy); the lark escapes it."},
+        {"line_number": 14, "emphasis_words": ["scorn", "change", "state", "kings"], "emotional_note": "Absolute — richer than royalty", "delivery_note": "After 8 lines of envy, 'scorn' is the complete reversal. He wouldn't trade with KINGS. The emphasis on 'kings' is the climax.", "gloss": "That I would refuse to trade my position with kings", "commentary": "'Scorn to change my state with kings' — after envying everyone's advantages (lines 5-8), the Speaker now refuses to trade with the most powerful people on earth. The FYM's love outvalues royal power."}
+      ],
+      "themes": [
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "despair", "prominence": "PRIMARY"},
+        {"theme": "redemption", "prominence": "PRIMARY"},
+        {"theme": "envy", "prominence": "SECONDARY"},
+        {"theme": "fortune", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "MENTIONED", "evidence": "'Thee' at line 10 — the thought of the FYM rescues the Speaker from despair"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "First person throughout — the Speaker as outcast redeemed by love's memory"}
+      ],
+      "line_devices": [
+        {"line_number": 10, "device_id": "PUN", "quotation": "Haply I think on thee, and then my state", "explanation": "'Haply' = by chance / happily / perhaps. 'State' echoes line 2's 'outcast state' — the same word transformed by the thought of the FYM."},
+        {"line_number": 11, "device_id": "SIMILE", "quotation": "Like to the lark at break of day arising / From sullen earth, sings hymns at heaven's gate", "explanation": "The Speaker's spirit as a lark — rising from heavy earth to heaven's gate. The most joyful image in the entire sequence."},
+        {"line_number": 1, "device_id": "ANAPHORA", "quotation": "When... And... And... Wishing... Desiring... With...", "explanation": "The accumulative 'When' clause spans 8 lines, building despair through syntactic delay. The main verb doesn't arrive until line 10."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The emotional arc — despair to ecstasy in a single sentence — is pure drama. The delayed verb at line 10 is a theatrical coup."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "The 14-line sentence structure, the syntactic suspension through 8 subordinate clauses, and the rhythmic lift at the lark simile are essential to the sonnet's effect."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Love as redemption from despair — the FYM's power to restore the Speaker's sense of self-worth."}
+      ]
+    },
+    {
+      "number": 30,
+      "analysis": {
+        "volta_line": 13,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "RESOLUTION",
+        "argument_summary": "The Speaker summons memories in 'the sessions of sweet silent thought' and grieves for lost friends, wasted time, old loves. Then: 'But if the while I think on thee, dear friend, / All losses are restor'd and sorrows end.'",
+        "speaker_stance": "melancholic, then consoled",
+        "emotional_arc": "judicial summoning of grief -> accumulating losses -> sudden restoration",
+        "dramatic_situation": "A meditation on memory and loss that resolves, like Sonnet 29, through the thought of the FYM. The legal/financial metaphors (sessions, summon, account, pay, cancell'd) make grief into a debt the FYM's love repays.",
+        "subtext": "The 'sessions' metaphor makes memory a courtroom — the Speaker puts himself on trial for his losses. The FYM's love doesn't erase the losses; it 'restores' them — pays the debt. Love as financial restitution, not emotional healing.",
+        "analysis_text": "Sonnet 30 is the companion to 29 — both end with the FYM's love rescuing the Speaker from misery — but 30 is more formally elaborate and more deeply embedded in legal/financial metaphor. 'Sessions' = court sittings; 'summon up' = issue a legal summons; 'cancell'd woe' = debts struck off the books; 'account' = financial reckoning; 'new pay as if not paid before' = old debts re-charged. The Speaker's memory is a courtroom where past griefs are re-litigated. The alliterative intensity is remarkable: 'sessions of sweet silent thought,' 'I summon up,' 'sigh the lack of many a thing I sought' — the sibilance creates a whispering, sighing texture. Q2's catalogue of loss is devastating: 'precious friends hid in death's dateless night' — friends dead forever ('dateless' = without end-date). The heavy repetition of grief-words (woe/wail, moan/moan, grieve/grievances) creates a self-sustaining loop of sorrow. The couplet's rescue is identical in structure to 29's: 'But if the while I think on thee' — the word 'But' does all the work. 'All losses are restor'd' — not forgotten but repaid. The FYM's love is a form of financial restitution for every loss the Speaker has suffered."
+      },
+      "directing": {
+        "scene_setting": "The Speaker alone in silence, letting memories wash over him. A private courtroom of the mind.",
+        "character_note": "Unlike 29's public disgrace, this is private grief — the Speaker alone with his past. The sighing, weeping tone is intimate and involuntary.",
+        "fym_note": "'Dear friend' — one of the most tender names for the FYM. He is the one thought that restores everything.",
+        "dl_note": "Absent.",
+        "overall_arc": "Begin with quiet sibilance ('sweet silent thought'), let the grief accumulate through Q1-Q3 as an increasingly heavy burden, then release everything with the couplet's 'But.'",
+        "key_moments": [
+          {"line": 1, "note": "'Sessions of sweet silent thought' — the alliteration creates a whisper. This is the Speaker sitting in silence, remembering."},
+          {"line": 6, "note": "'Precious friends hid in death's dateless night' — the most moving line. 'Dateless' = eternal. They will never come back."},
+          {"line": 13, "note": "'But if the while I think on thee, dear friend' — the rescue. 'Dear friend' is the tenderest address."},
+          {"line": 14, "note": "'All losses are restor'd and sorrows end' — complete restoration. Every loss repaid. The simplicity is the power."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["sessions", "sweet", "silent", "thought"], "emotional_note": "Quiet, meditative — the sibilance creates a whisper", "delivery_note": "Slow. Let the four s-sounds create the hush. 'Sessions' = court sittings — the word starts a legal metaphor that runs through the whole sonnet.", "gloss": "When I hold court in sweet, silent reflection", "commentary": "'Sessions' = court sittings where cases are heard. 'Sweet silent thought' — the paradox of 'sweet' memory producing grief. The legal conceit makes memory a judicial process."},
+        {"line_number": 6, "emphasis_words": ["precious", "friends", "death's", "dateless", "night"], "emotional_note": "The deepest loss — friends dead forever", "delivery_note": "Let 'dateless' carry its weight: without end-date, without a term. They are gone permanently. 'Night' is both literal darkness and death.", "gloss": "For precious friends hidden in death's endless night", "commentary": "'Dateless night' = night without an expiry date — eternal death. 'Precious' = (1) beloved and (2) costly (financial). The friends are both dear to the heart and expensive in grief."},
+        {"line_number": 13, "emphasis_words": ["But", "think", "thee", "dear", "friend"], "emotional_note": "The rescue — simple, complete, transformative", "delivery_note": "'But' does all the work — it reverses 12 lines of grief. 'Dear friend' should be spoken with genuine warmth.", "gloss": "But if during this time I think of you, dear friend", "commentary": "The couplet's structure mirrors 29: 'But' + thought of FYM = salvation. 'Dear friend' = the tender address. 'All losses are restor'd' — not forgotten but repaid, the financial metaphor completing its arc."}
+      ],
+      "themes": [
+        {"theme": "memory", "prominence": "PRIMARY"},
+        {"theme": "grief", "prominence": "PRIMARY"},
+        {"theme": "love", "prominence": "PRIMARY"},
+        {"theme": "time", "prominence": "SECONDARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thee, dear friend' — the FYM as the one who restores all losses"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "First person: 'I summon up,' 'I sigh,' 'I drown an eye' — the Speaker as grieving rememberer"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "ALLITERATION", "quotation": "sessions of sweet silent thought", "explanation": "Quadruple sibilance — the s-sounds create a whispering, sighing texture that enacts the quiet meditation."},
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "sessions of sweet silent thought / I summon up remembrance", "explanation": "The legal conceit: memory as a courtroom. 'Sessions' = court sittings, 'summon' = legal summons. Past griefs are put on trial."},
+        {"line_number": 6, "device_id": "METAPHOR", "quotation": "precious friends hid in death's dateless night", "explanation": "Death as endless night — the friends are hidden where no light reaches. 'Dateless' = without expiry, permanent."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "All losses are restor'd and sorrows end", "explanation": "'Restor'd' = repaid/restituted (financial). The FYM's love is a form of financial settlement that clears all debts of grief."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The legal/financial conceit (sessions, summon, account, cancell'd, pay, restor'd) governs the entire sonnet. The imagery IS the argument."},
+        {"mode_id": "PROSODIC", "priority": 2, "rationale": "The sibilant alliteration of line 1, the heavy repetitions (woe/wail, moan/moan, grieve/grievances), and the couplet's syntactic release are sonic architecture."},
+        {"mode_id": "DRAMATIC", "priority": 1, "rationale": "The rescue structure (despair → thought of FYM → restoration) mirrors 29 and establishes the FYM as the Speaker's emotional anchor."}
+      ]
+    },
+    {
+      "number": 33,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "DRAMATIC",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker compares the FYM to a sun that shone gloriously one morning then was hidden by clouds. The sun is the FYM; the clouds are the betrayal. The couplet forgives: if heaven's sun can be stained, so can mine.",
+        "speaker_stance": "hurt, forgiving too quickly",
+        "emotional_arc": "gorgeous natural imagery -> the cloud arrives -> the FYM's betrayal revealed -> premature forgiveness",
+        "dramatic_situation": "The first betrayal sonnet. The Speaker discovers the FYM has done something wrong (the nature of the offense is unnamed — later revealed as the DL affair). The extended sun/cloud metaphor simultaneously beautifies and accuses.",
+        "subtext": "The forgiveness in the couplet is too easy — the Speaker excuses the FYM by comparing him to the sun, which elevates even the betrayal. The word 'stain' is doing heavy work: the FYM is stained but still a sun.",
+        "analysis_text": "Sonnet 33 introduces the betrayal narrative through the most sustained natural metaphor in the sequence. Q1 is pure beauty: a sunrise that flatters mountains, kisses meadows, gilds streams with 'heavenly alchemy.' The word 'alchemy' connects to the procreation sonnets' transformation imagery — the sun transmutes base matter into gold. Q2 darkens: 'basest clouds' ride over 'his celestial face' with 'ugly rack.' The sun that was sovereign becomes hidden, 'stealing unseen to west with this disgrace.' The volta at line 9 decodes the metaphor: 'Even so my sun one early morn did shine / With all triumphant splendour on my brow.' 'My sun' = the FYM. The triumphant splendour was real but lasted only 'one hour.' 'The region cloud hath mask'd him from me now' — the cloud is whatever has come between them (the DL, another commitment, emotional withdrawal). The couplet's forgiveness is both generous and troubling: 'Suns of the world may stain when heaven's sun staineth' — if even the real sun can be clouded, the FYM can be forgiven for being clouded too. But 'stain' means both 'be dimmed' and 'be morally corrupted.' The forgiveness includes the accusation."
+      },
+      "directing": {
+        "scene_setting": "The Speaker recalling a morning when the FYM's favor shone on him — and the moment it was withdrawn.",
+        "character_note": "The Speaker is hurt but determined to forgive. The natural imagery is a way of aestheticizing the pain. He makes the FYM's betrayal beautiful because he cannot bear for it to be ugly.",
+        "fym_note": "The FYM as the sun — the central metaphor. His favor is warmth and light; its withdrawal is darkness and cold. If Southampton: the patron's withdrawal of favor from the poet.",
+        "dl_note": "The 'basest clouds' may be the DL — the 'base' intrusion that comes between the Speaker and the FYM.",
+        "overall_arc": "Begin with the gorgeous sunrise (Q1 should feel radiant), darken through Q2 as the clouds arrive, reveal the personal meaning at line 9, and deliver the couplet's forgiveness with a tone that is generous on the surface and wounded beneath.",
+        "key_moments": [
+          {"line": 1, "note": "'Full many a glorious morning' — begin with pure beauty. The listener shouldn't yet know this is about betrayal."},
+          {"line": 4, "note": "'Heavenly alchemy' — the sun transforms everything it touches. This is the FYM's effect on the Speaker."},
+          {"line": 9, "note": "'Even so my sun' — the decode. Everything before was metaphor; now the FYM is named. The morning was real."},
+          {"line": 11, "note": "'But out! alack!' — the exclamations of pain breaking through the controlled metaphor."},
+          {"line": 14, "note": "'Suns of the world may stain when heaven's sun staineth' — the forgiveness that is also an accusation. 'Stain' means both dimmed and corrupted."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Full", "glorious", "morning", "seen"], "emotional_note": "Pure beauty — no hint of what's coming", "delivery_note": "Radiant. 'Full many' = I have often. 'Glorious morning' — let the word 'glorious' ring. The listener should feel sunrise.", "gloss": "I have seen many a magnificent morning", "commentary": "The opening conceals its purpose — the listener doesn't know yet that this is a betrayal sonnet. The beauty of Q1 is setup for Q2's darkness."},
+        {"line_number": 4, "emphasis_words": ["Gilding", "pale", "streams", "heavenly", "alchemy"], "emotional_note": "Transmutation — the sun as alchemist", "delivery_note": "'Heavenly alchemy' — the sun turns pale streams to gold. This is what the FYM's favor does to the Speaker.", "gloss": "Turning pale streams to gold with heavenly alchemy", "commentary": "'Alchemy' — the transmutation of base metal to gold. The sun-as-alchemist image connects to the sequence's commercial language: the FYM's favor is transformative value."},
+        {"line_number": 9, "emphasis_words": ["Even", "so", "my", "sun"], "emotional_note": "The revelation — the metaphor decoded", "delivery_note": "'Even so' — the comparison made explicit. 'My sun' — two words that name the FYM as the Speaker's center of gravity.", "gloss": "In just the same way, my sun (the FYM) shone on me one morning", "commentary": "'My sun' = the FYM. The possessive 'my' is both intimate and presumptuous — can you possess the sun? The metaphor flatters even as it accuses."},
+        {"line_number": 14, "emphasis_words": ["Suns", "world", "stain", "heaven's", "sun", "staineth"], "emotional_note": "Forgiveness that includes the accusation", "delivery_note": "'Stain' carries both meanings: dimmed by clouds AND morally corrupted. Let both register.", "gloss": "Earthly suns may be dimmed/corrupted when even heaven's sun can be", "commentary": "'Stain' = (1) be dimmed/obscured (by clouds) and (2) be morally corrupted. The forgiveness includes the diagnosis: the FYM is stained."}
+      ],
+      "themes": [
+        {"theme": "betrayal", "prominence": "PRIMARY"},
+        {"theme": "forgiveness", "prominence": "PRIMARY"},
+        {"theme": "beauty", "prominence": "SECONDARY"},
+        {"theme": "nature", "prominence": "SECONDARY"},
+        {"theme": "alchemy", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "IMPLIED", "evidence": "'My sun' (line 9) — the FYM as the sun whose favor was withdrawn"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'On my brow' (line 10) — the Speaker as recipient of the sun's/FYM's favor"},
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "The 'basest clouds' (line 5) may represent the DL or whatever intrusion came between Speaker and FYM"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "Full many a glorious morning have I seen / Flatter the mountain tops", "explanation": "The sun/FYM conceit governs the entire sonnet: sunrise = FYM's favor, clouds = betrayal, sunset = withdrawal."},
+        {"line_number": 4, "device_id": "METAPHOR", "quotation": "Gilding pale streams with heavenly alchemy", "explanation": "The sun as alchemist transmuting base matter to gold — the FYM's favor transforms everything it touches."},
+        {"line_number": 9, "device_id": "VOLTA", "quotation": "Even so my sun one early morn did shine", "explanation": "The decode: 'my sun' = the FYM. The natural metaphor becomes personal revelation."},
+        {"line_number": 14, "device_id": "PUN", "quotation": "Suns of the world may stain when heaven's sun staineth", "explanation": "'Stain' = (1) be dimmed by clouds and (2) be morally corrupted. The forgiveness contains the accusation."}
+      ],
+      "modes": [
+        {"mode_id": "IMAGISTIC", "priority": 3, "rationale": "The sustained sun/cloud metaphor IS the sonnet. The imagery does double work: beautifying and accusing simultaneously."},
+        {"mode_id": "DRAMATIC", "priority": 2, "rationale": "The concealed-then-revealed structure (nature → personal) is theatrical. The listener discovers the betrayal as the Speaker reveals it."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "The first betrayal sonnet — introduces the pattern of hurt-and-forgiveness that defines the FYM sequence's middle section."}
+      ]
+    },
+    {
+      "number": 57,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "TONAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker declares himself the FYM's slave, waiting on his hours and desires, not daring to question where he goes or what he does — imagining the FYM making others happy while the Speaker waits. Love is such a true fool that it sees no ill.",
+        "speaker_stance": "abject, bitterly ironic",
+        "emotional_arc": "abject submission -> deepening abasement -> suppressed jealousy -> ironic self-diagnosis",
+        "dramatic_situation": "The Speaker is waiting for the FYM to come to him — or return from wherever he has gone. The 'slavery' is presented as willing but every line leaks resentment. The jealousy in lines 9-12 is barely suppressed.",
+        "subtext": "Every statement of willing servitude is also an accusation: you treat me like a slave, you make me wait, you don't tell me where you are or with whom. The poem is a love letter that is also an indictment, written in a tone so obsequious it becomes a weapon.",
+        "analysis_text": "Sonnet 57 is the darkest of the servitude sonnets — a poem that performs absolute submission while seething with suppressed anger. 'Being your slave, what should I do but tend' — the opening's logic is impeccable and devastating: if I am your slave, I have no choice but to serve. But the Speaker CHOSE this slavery, which makes it both masochistic and accusatory. The 'nor dare I' repetitions (lines 5, 7, 9) accumulate like an inventory of forbidden acts — each thing the Speaker 'dare not' do is exactly what he wants to do: chide the waiting, question the jealousy, find out where the FYM is. Q3 reveals the jealousy: 'Nor dare I question with my jealous thought / Where you may be, or your affairs suppose.' He cannot ask, but he thinks. 'How happy you make those' — the FYM is giving to others the attention the Speaker craves. The couplet's 'So true a fool is love' completes the self-diagnosis: love is a fool, and the Speaker is that fool. 'In your Will' puns on (1) at your disposal, (2) in your desire/sexual appetite, and (3) the poet's name."
+      },
+      "directing": {
+        "scene_setting": "The Speaker waiting — alone, watching a clock, not daring to go out or send a message. The setting should feel confined: a room, a vigil.",
+        "character_note": "The tone is the key: every line of obedience is loaded with resentment. Play the submission straight — the irony should come from the words themselves, not from the delivery breaking character.",
+        "fym_note": "The FYM is absent and the absence is cruel. He is elsewhere, making others happy. If Southampton: the patron who doesn't summon the poet, who has other companions, who owes the Speaker nothing.",
+        "dl_note": "Possibly the FYM is with the DL — the unasked question of lines 9-10.",
+        "overall_arc": "Begin with flat, servile acceptance (Q1). Deepen the abasement through Q2 (the 'nor dare I' repetitions). Let the jealousy surface in Q3 (barely controlled). The couplet should land as self-diagnosis: love is a fool. I am a fool.",
+        "key_moments": [
+          {"line": 1, "note": "'Being your slave' — state it as fact. No self-pity in the delivery; the self-pity is in the content."},
+          {"line": 6, "note": "'My sovereign, watch the clock for you' — the power dynamic made explicit. He is sovereign; I watch his clock."},
+          {"line": 9, "note": "'Nor dare I question with my jealous thought' — the jealousy surfaces. 'Dare' — he doesn't dare. But he thinks."},
+          {"line": 13, "note": "'So true a fool is love' — the diagnosis. 'True' is ironic: genuinely foolish, foolish in its fidelity."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["slave", "tend"], "emotional_note": "Flat submission — stated as logical consequence", "delivery_note": "No drama. 'Being your slave' is a premise, not a complaint. The accusation is in the acceptance.", "gloss": "Since I am your slave, what can I do but attend to your schedule and desires?", "commentary": "'Slave' — not metaphorical. The Speaker casts himself in the lowest social position. 'Tend upon' = serve, wait on — a servant's duty."},
+        {"line_number": 6, "emphasis_words": ["sovereign", "watch", "clock"], "emotional_note": "The power hierarchy named — he is king, I watch his time", "delivery_note": "'My sovereign' — address the FYM as royalty. 'Watch the clock' — the image of servile waiting. Let the clock-watching feel endless.", "gloss": "While I, my king, watch the clock on your behalf", "commentary": "'Sovereign' makes the power dynamic explicit: king/slave. 'Watch the clock' — the Speaker's life is measured by the FYM's schedule, not his own."},
+        {"line_number": 9, "emphasis_words": ["dare", "question", "jealous", "thought"], "emotional_note": "The jealousy surfaces — barely controlled", "delivery_note": "'Nor dare I' — the third time. Each repetition builds pressure. 'Jealous thought' admits what the Speaker has been suppressing.", "gloss": "Nor do I dare interrogate my jealous thoughts about where you might be", "commentary": "The jealousy that the servile mask has been concealing. 'Question' = interrogate (legal). 'Jealous thought' — the Speaker admits the emotion he's been suppressing."},
+        {"line_number": 13, "emphasis_words": ["true", "fool", "love", "will"], "emotional_note": "Self-diagnosis — love as genuine foolishness", "delivery_note": "'True fool' — the oxymoron. 'In your Will' — let the pun on Shakespeare's name register if the listener knows it.", "gloss": "Love is such a faithful fool that, at your will/desire/in your Will", "commentary": "'True fool' = faithfully foolish, foolish in its fidelity. 'In your will' = (1) at your disposal, (2) in your desire, (3) in your Will (the poet's name). The pun foreshadows 135-136."}
+      ],
+      "themes": [
+        {"theme": "power", "prominence": "PRIMARY"},
+        {"theme": "jealousy", "prominence": "PRIMARY"},
+        {"theme": "servitude", "prominence": "PRIMARY"},
+        {"theme": "irony", "prominence": "SECONDARY"},
+        {"theme": "self_deception", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Your slave,' 'my sovereign,' 'your desire,' 'your Will'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'Being your slave' — the Speaker as self-diagnosed fool and willing servant"},
+        {"character_id": "DL", "role": "IMPLIED", "evidence": "'Where you may be' and 'how happy you make those' — the unnamed others who have the FYM's attention"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "IRONY", "quotation": "Being your slave what should I do but tend", "explanation": "The logic is impeccable and devastating: slavery presented as logical necessity. Every line of obedience is a barely concealed accusation."},
+        {"line_number": 5, "device_id": "ANAPHORA", "quotation": "Nor dare I... Nor think... Nor dare I", "explanation": "The triple 'Nor dare I' builds an inventory of forbidden acts — each prohibition reveals what the Speaker desperately wants to do."},
+        {"line_number": 13, "device_id": "PUN", "quotation": "in your will", "explanation": "'Will' = (1) at your disposal, (2) your desire/sexual appetite, (3) the poet's name (William). Triple pun foreshadowing Sonnets 135-136."},
+        {"line_number": 13, "device_id": "PARADOX", "quotation": "So true a fool is love", "explanation": "'True fool' — faithfully foolish, foolish because faithful. The oxymoron diagnoses the Speaker's condition exactly."}
+      ],
+      "modes": [
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The sonnet is a monologue of barely suppressed rage performed as obedience. The gap between what is said and what is felt is pure drama."},
+        {"mode_id": "RHETORICAL", "priority": 2, "rationale": "The logical structure (if slave, then serve; if serve, then don't question) is relentless and ironic — each step of the argument deepens the accusation."},
+        {"mode_id": "THEMATIC", "priority": 1, "rationale": "Power, servitude, and jealousy — the dark side of the FYM relationship. The patron/poet power dynamic at its most explicit."}
+      ]
+    },
+    {
+      "number": 87,
+      "analysis": {
+        "volta_line": 9,
+        "volta_type": "LOGICAL",
+        "couplet_function": "IRONIC",
+        "argument_summary": "The Speaker releases the FYM: you are too valuable for me to possess, your charter releases you, my bonds are expired. You gave yourself when you didn't know your worth — now that you do, the gift returns. I had you like a dream: asleep a king, waking nothing.",
+        "speaker_stance": "resigned, formally controlled, devastated",
+        "emotional_arc": "dignified release -> legal reasoning -> acknowledgment of inequality -> the dream metaphor crushes everything",
+        "dramatic_situation": "The Speaker says goodbye to the FYM using the language of law and commerce — a legal termination of the relationship. The emotion is contained in the legal formality: every cold term ('charter,' 'bonds,' 'patent,' 'misprision') is a wound dressed in dignity.",
+        "subtext": "The legal language is a defense mechanism. By framing the loss as a contract expiring rather than a lover leaving, the Speaker maintains composure. But the couplet's dream image destroys the composure: 'In sleep a king, but waking no such matter.' The relationship was a dream, and the Speaker has woken up to nothing.",
+        "analysis_text": "Sonnet 87 is the sequence's most formally controlled emotional collapse. Every line uses legal/commercial vocabulary: 'dear' (expensive), 'possessing' (legal ownership), 'estimate' (valuation), 'charter' (legal document of rights), 'bonds' (legal obligations), 'determinate' (expired), 'granting' (legal permission), 'patent' (license), 'misprision' (legal error of judgment). The effect is of a lawyer drafting a termination agreement while weeping. The argument: you are too valuable for me; your worth exceeds my claim; you gave yourself in error; the gift reverts. Q3's 'misprision' is devastating — a legal term meaning both 'mistake of judgment' and 'contempt of court.' The FYM either didn't know his own value or misjudged the Speaker's. Either way, the gift was made in error and is lawfully recalled. The couplet shatters the legal frame with a single metaphor: 'Thus have I had thee, as a dream doth flatter, / In sleep a king, but waking no such matter.' All the legal reasoning was scaffolding for this: the relationship was a dream. The Speaker was a king only while asleep. Waking, he has nothing. The feminine rhymes (flatter/matter) soften the ending into dissolution, the word 'matter' deflating into insignificance."
+      },
+      "directing": {
+        "scene_setting": "A formal farewell — the Speaker composing himself, using legal language as armor against grief. A letter of release.",
+        "character_note": "The Speaker's dignity is total and total dignity in this context IS devastation. Every controlled line costs emotional effort. The couplet is where the control breaks.",
+        "fym_note": "The FYM has grown beyond the Speaker — become aware of his own value, found better company, moved on. If Southampton: the patron who no longer needs the poet.",
+        "dl_note": "Absent. This is purely between Speaker and FYM.",
+        "overall_arc": "Formal, dignified, controlled through Q1-Q3. The legal language should feel like armor being carefully put on. The couplet strips it all away: the dream image is where the Speaker's real feeling lives.",
+        "key_moments": [
+          {"line": 1, "note": "'Farewell!' — the most devastating opening in the sequence. One word, exclamation mark, then the reason: 'thou art too dear for my possessing.'"},
+          {"line": 4, "note": "'My bonds in thee are all determinate' — legal termination. 'Determinate' = expired. The contract is over."},
+          {"line": 9, "note": "'Thyself thou gav'st, thy own worth then not knowing' — you didn't know your value when you gave yourself to me."},
+          {"line": 13, "note": "'Thus have I had thee, as a dream doth flatter' — the legal framework collapses into dream. Everything was an illusion."},
+          {"line": 14, "note": "'In sleep a king, but waking no such matter' — the most devastating line in the sequence. King/nothing. Asleep/awake. Dream/reality."}
+        ]
+      },
+      "line_annotations": [
+        {"line_number": 1, "emphasis_words": ["Farewell", "too", "dear", "possessing"], "emotional_note": "The opening blow — farewell and the reason in one line", "delivery_note": "'Farewell!' — let the exclamation ring. Then the quiet explanation: 'too dear for my possessing.' 'Dear' = expensive AND beloved.", "gloss": "Goodbye! You are too costly/precious for me to possess", "commentary": "'Farewell' opens with finality. 'Dear' = (1) expensive and (2) beloved. 'Possessing' = legal ownership. The Speaker relinquishes a claim he never felt entitled to."},
+        {"line_number": 4, "emphasis_words": ["bonds", "determinate"], "emotional_note": "Legal termination — the contract expires", "delivery_note": "'Determinate' = expired, at an end. Deliver with formal precision. This is a legal document of release.", "gloss": "My legal bonds to you have all expired", "commentary": "'Bonds' = legal obligations. 'Determinate' = reached their term, expired. The relationship as a contract that has run its course."},
+        {"line_number": 13, "emphasis_words": ["had", "thee", "dream", "flatter"], "emotional_note": "The legal framework collapses — everything was a dream", "delivery_note": "The tone shifts from legal to personal. 'As a dream doth flatter' — the metaphor replaces the legal language. Let the change register.", "gloss": "So I possessed you the way a flattering dream possesses a sleeper", "commentary": "The couplet abandons the legal conceit for the dream image. All the legal language was armor against this truth: the relationship was a dream. 'Flatter' = deceive with pleasant illusions."},
+        {"line_number": 14, "emphasis_words": ["sleep", "king", "waking", "no", "such", "matter"], "emotional_note": "The most devastating line in the sequence — king/nothing", "delivery_note": "'In sleep a king' — pause — 'but waking no such matter.' The deflation from 'king' to 'no such matter' should feel like falling. 'Matter' trails off into nothing.", "gloss": "Asleep I was a king; awake, no such thing at all", "commentary": "The final line's structure enacts what it describes: 'king' (high) to 'no such matter' (nothing). The feminine rhyme (flatter/matter) makes the ending soft, dissolving — the word 'matter' fading into insignificance. The Speaker wakes to find he has nothing."}
+      ],
+      "themes": [
+        {"theme": "farewell", "prominence": "PRIMARY"},
+        {"theme": "power", "prominence": "PRIMARY"},
+        {"theme": "self_worth", "prominence": "PRIMARY"},
+        {"theme": "economic_metaphor", "prominence": "SECONDARY"},
+        {"theme": "dreams", "prominence": "SECONDARY"}
+      ],
+      "character_appearances": [
+        {"character_id": "FYM", "role": "ADDRESSED", "evidence": "'Thou art too dear,' 'thy estimate,' 'thyself thou gav'st'"},
+        {"character_id": "SPEAKER", "role": "ADDRESSED", "evidence": "'My possessing,' 'my bonds,' 'my deserving' — the Speaker as the one who has lost everything"}
+      ],
+      "line_devices": [
+        {"line_number": 1, "device_id": "PUN", "quotation": "thou art too dear for my possessing", "explanation": "'Dear' = (1) expensive/costly and (2) beloved. The pun makes the beloved's value both emotional and economic."},
+        {"line_number": 1, "device_id": "CONCEIT", "quotation": "Farewell! thou art too dear... charter... bonds... determinate... granting... patent", "explanation": "The legal conceit governs the sonnet: the relationship is a contract that has expired. Every legal term is also an emotional wound."},
+        {"line_number": 11, "device_id": "PUN", "quotation": "upon misprision growing", "explanation": "'Misprision' = (1) legal error/misunderstanding, (2) undervaluation, (3) contempt. The FYM's gift was based on a misjudgment — of himself or of the Speaker."},
+        {"line_number": 14, "device_id": "METAPHOR", "quotation": "In sleep a king, but waking no such matter", "explanation": "The dream metaphor demolishes the legal framework: the entire relationship was a dream. The Speaker was never really a king."},
+        {"line_number": 14, "device_id": "ANTITHESIS", "quotation": "In sleep a king, but waking no such matter", "explanation": "Sleep/waking, king/nothing — the antithesis enacts the deflation from illusion to reality."}
+      ],
+      "modes": [
+        {"mode_id": "RHETORICAL", "priority": 3, "rationale": "The legal conceit IS the argument: every term (charter, bonds, patent, misprision) builds the case for release. The rhetoric is the defense mechanism."},
+        {"mode_id": "DRAMATIC", "priority": 3, "rationale": "The Speaker's composure IS the drama — total formal control that shatters in the couplet's dream image. The collapse of the legal framework into metaphor is devastating."},
+        {"mode_id": "IMAGISTIC", "priority": 1, "rationale": "The shift from legal to dream imagery in the couplet is the sonnet's most important imagistic event."}
+      ]
+    }
+  ]
+}

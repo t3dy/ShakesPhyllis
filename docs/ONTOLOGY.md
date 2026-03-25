@@ -2,456 +2,303 @@
 
 Database: `db/sonnets.db` (SQLite 3)
 
-25 tables across 3 migration stages. All tables include provenance fields where applicable: `source_method`, `review_status`, `confidence`.
+22 tables in a single `init_db.py` script, organized in 5 layers. All enrichment tables include provenance fields: `source_method`, `review_status`, `confidence`.
 
 ---
 
-## Stage 1: Core Tables (init_db.py) — 11 tables
+## Layer 1: Core Text (DETERMINISTIC)
 
-### sonnets [PLANNED]
+Source: 1609 Quarto via Project Gutenberg. All rows are VERIFIED / HIGH.
 
-The primary organizing unit. 154 rows.
+### sonnets — BUILT (154 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
+| id | INTEGER PK | 1-154 |
 | number | INTEGER UNIQUE NOT NULL | 1-154 |
-| title | TEXT | "Sonnet 18" or alternate title |
-| first_line | TEXT NOT NULL | "Shall I compare thee to a summer's day?" |
-| primary_addressee | TEXT | CHECK: FYM, DL, BOTH, SELF, RIVAL_POET, TIME, MUSE, BEAUTY, UNKNOWN |
-| addressee_confidence | TEXT | CHECK: HIGH, MEDIUM, LOW, DISPUTED |
-| addressee_evidence | TEXT | Brief justification |
-| sequence_group | TEXT | CHECK: PROCREATION, FYM_BEAUTY, FYM_ABSENCE, FYM_RIVAL, FYM_BETRAYAL, DL_DESIRE, DL_BETRAYAL, TRIANGLE, CODA, ANACREONTIC, DISPUTED |
-| volta_line | INTEGER | Line where the turn occurs (typically 9 or 13) |
-| volta_type | TEXT | CHECK: COUNTER_ARGUMENT, RESOLUTION, REVERSAL, AMPLIFICATION, QUALIFICATION, NONE |
-| thematic_keywords | TEXT | JSON array: ["time","beauty","mortality"] |
-| sonnet_text_full | TEXT NOT NULL | Full 14-line text, newline-separated |
-| source_edition | TEXT DEFAULT '1609_QUARTO' | |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
+| first_line | TEXT NOT NULL | |
+| line_count | INTEGER NOT NULL DEFAULT 14 | 15 for #99, 12 for #126 |
+| addressee | TEXT | FYM, DL, MIXED, NONE |
+| source | TEXT DEFAULT '1609_QUARTO_GUTENBERG' | |
+| source_method | TEXT DEFAULT 'DETERMINISTIC' | |
+| review_status | TEXT DEFAULT 'VERIFIED' | |
+| confidence | TEXT DEFAULT 'HIGH' | |
 
-### sonnet_lines [PLANNED]
-
-Every line as a first-class entity. 2,156 rows (154 × 14).
+### stanzas — BUILT (615 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
+| id | INTEGER PK AUTOINCREMENT | |
 | sonnet_id | INTEGER FK → sonnets | |
-| line_number | INTEGER NOT NULL | 1-14 within sonnet |
-| global_line_number | INTEGER UNIQUE | 1-2156 across all sonnets |
-| text | TEXT NOT NULL | The line text |
-| section | TEXT NOT NULL | CHECK: Q1, Q2, Q3, COUPLET (deterministic from line_number) |
-| rhyme_position | TEXT NOT NULL | A, B, C, D, E, F, G |
-| rhyme_word | TEXT | Last word |
-| syllable_count | INTEGER | Expected 10; deviations notable |
-| metrical_pattern | TEXT | e.g. "u/u/u/u/u/" for regular iambic pentameter |
-| has_metrical_variation | INTEGER DEFAULT 0 | Flag for notable departures |
-| source_method | TEXT DEFAULT 'DETERMINISTIC' | |
+| stanza_number | INTEGER NOT NULL | 1-4 (Q1, Q2, Q3, Couplet) |
+| stanza_type | TEXT NOT NULL | QUATRAIN_1, QUATRAIN_2, QUATRAIN_3, COUPLET |
+| start_line | INTEGER NOT NULL | |
+| end_line | INTEGER NOT NULL | |
+| UNIQUE(sonnet_id, stanza_number) | | |
+
+Note: Sonnet 126 has NO couplet stanza (3 stanzas only). Sonnet 99 has Q1 spanning 5 lines.
+
+### lines — BUILT (2,155 rows)
+
+| Column | Type | Notes |
+|--------|------|-------|
+| id | INTEGER PK AUTOINCREMENT | |
+| sonnet_id | INTEGER FK → sonnets | |
+| line_number | INTEGER NOT NULL | 1-based within sonnet |
+| line_text | TEXT NOT NULL | |
+| stanza_id | INTEGER FK → stanzas | |
+| meter_pattern | TEXT | (enrichment) |
+| has_enjambment | INTEGER | 0/1 (enrichment) |
+| has_caesura | INTEGER | 0/1 (enrichment) |
+| is_volta | INTEGER DEFAULT 0 | 0/1 (enrichment) |
 | UNIQUE(sonnet_id, line_number) | | |
 
-### sonnet_sections [PLANNED]
+---
 
-Structural units with commentary. 616 rows (154 × 4).
+## Layer 2: Characters & Scholarly Apparatus (SEED_DATA)
 
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER FK → sonnets | |
-| section_type | TEXT NOT NULL | CHECK: Q1, Q2, Q3, COUPLET |
-| start_line | INTEGER NOT NULL | 1, 5, 9, or 13 |
-| end_line | INTEGER NOT NULL | 4, 8, 12, or 14 |
-| rhetorical_function | TEXT | What this section DOES argumentatively |
-| imagery_cluster | TEXT | Dominant image/conceit |
-| commentary | TEXT | Section-level analytical note |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
-| UNIQUE(sonnet_id, section_type) | | |
-
-### characters [PLANNED]
-
-Dramatic personae. ~6 rows.
+### characters — BUILT (4 rows: FYM, DL, RP, SPEAKER)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| character_id | TEXT UNIQUE NOT NULL | FYM, DL, SPEAKER, RIVAL_POET, TIME, MUSE |
-| name | TEXT NOT NULL | "Fair Young Man", "Dark Lady" |
+| id | TEXT PK | FYM, DL, RP, SPEAKER |
+| name | TEXT NOT NULL | |
+| aka | TEXT | JSON array of alternate names |
 | description | TEXT | |
-| biographical_candidates | TEXT | JSON array: ["Henry Wriothesley","William Herbert"] |
-| scholarly_debate_summary | TEXT | Summary of identification controversies |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
 
-### sonnet_characters [PLANNED]
-
-Which characters appear in each sonnet. ~300 rows.
+### character_candidates — BUILT (10 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER FK → sonnets | |
-| character_id | INTEGER FK → characters | |
-| role | TEXT | CHECK: ADDRESSEE, SUBJECT, MENTIONED, IMPLIED |
-| prominence | TEXT | CHECK: PRIMARY, SECONDARY, PASSING |
-| evidence | TEXT | Brief textual/scholarly justification |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
-| UNIQUE(sonnet_id, character_id, role) | | |
+| id | INTEGER PK AUTOINCREMENT | |
+| character_id | TEXT FK → characters | |
+| candidate_name | TEXT NOT NULL | |
+| strength | TEXT NOT NULL | STRONG, MODERATE, SPECULATIVE |
+| evidence | TEXT | |
+| UNIQUE(character_id, candidate_name) | | |
 
-### line_addressee_shifts [PLANNED]
-
-Mid-sonnet addressee changes. ~50 rows.
+### scholars — BUILT (13 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER FK → sonnets | |
-| start_line_num | INTEGER NOT NULL | Line where addressee begins |
-| end_line_num | INTEGER NOT NULL | Line where addressee ends |
-| character_id | INTEGER FK → characters | |
-| shift_marker | TEXT | Word/phrase signaling the shift |
-| notes | TEXT | |
-| source_method | TEXT DEFAULT 'LLM_ASSISTED' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
+| id | TEXT PK | VENDLER, BOOTH, etc. |
+| name | TEXT NOT NULL | |
+| primary_work | TEXT | |
+| approach | TEXT | |
 
-### scholars [PLANNED]
-
-Scholar profiles. ~15 rows.
+### bibliography — BUILT (15 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| name | TEXT UNIQUE NOT NULL | |
-| birth_year | INTEGER | |
-| death_year | INTEGER | |
-| specialization | TEXT | "Form/rhetoric", "Identity/biography", "Thematic" |
-| sonnets_focus | TEXT | What they study about the Sonnets |
-| overview | TEXT | Bio paragraph |
-| review_status | TEXT DEFAULT 'DRAFT' | |
+| id | INTEGER PK AUTOINCREMENT | |
+| cite_key | TEXT UNIQUE NOT NULL | vendler1997, booth1977, etc. |
+| citation | TEXT NOT NULL | |
 
-### bibliography [PLANNED]
-
-Source works. ~60 rows.
+### sonnet_groups — BUILT (8 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| source_id | TEXT UNIQUE | e.g. "vendler_1997", "booth_1977" |
-| author | TEXT NOT NULL | |
-| title | TEXT NOT NULL | |
-| year | INTEGER | |
-| journal | TEXT | |
-| publisher | TEXT | |
-| pub_type | TEXT | CHECK: MONOGRAPH, ARTICLE, REVIEW, EDITION, ANTHOLOGY |
-| sonnets_relevance | TEXT | CHECK: PRIMARY, DIRECT, CONTEXTUAL |
-| scholar_type | TEXT | CHECK: FORM_RHETORIC, IDENTITY_BIOGRAPHY, THEMATIC, EDITION, GENERAL |
-| in_collection | INTEGER DEFAULT 1 | 1 if PDF in corpus/ |
-
-### scholar_works [PLANNED]
-
-Join: scholar ↔ bibliography. ~80 rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| scholar_id | INTEGER FK → scholars | |
-| bib_id | INTEGER FK → bibliography | |
-| PRIMARY KEY (scholar_id, bib_id) | | |
-
-### scholarly_refs [PLANNED]
-
-Scholar interpretations linked to specific sonnets. ~500+ rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER FK → sonnets | NULL for general claims |
-| bib_id | INTEGER NOT NULL FK → bibliography | |
-| interpretation_type | TEXT | CHECK: FORMAL, BIOGRAPHICAL, THEMATIC, TEXTUAL, HISTORICAL, RHETORICAL |
-| summary | TEXT NOT NULL | |
-| section_page | TEXT | Page reference in source |
-| applies_to_lines | TEXT | JSON: [3,4,5] or null for whole-sonnet |
-| confidence | TEXT DEFAULT 'HIGH' | |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-
-### schema_version [PLANNED]
-
-Migration tracking.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| version | INTEGER PK | |
-| applied_at | TEXT | datetime('now') |
+| id | TEXT PK | PROCREATION, IMMORTALITY, etc. |
+| name | TEXT NOT NULL | |
 | description | TEXT | |
+| addressee | TEXT | FYM, DL, MIXED, NONE |
+| themes | TEXT | JSON array |
+
+### sonnet_group_members — BUILT (101 rows)
+
+| Column | Type | Notes |
+|--------|------|-------|
+| group_id | TEXT FK → sonnet_groups | |
+| sonnet_id | INTEGER FK → sonnets | |
+| UNIQUE(group_id, sonnet_id) | | |
 
 ---
 
-## Stage 2: Rhetoric & Analysis Tables (migrate_v2.py) — 4 tables
+## Layer 3: Rhetoric & Poetics
 
-### rhetorical_devices [PLANNED]
-
-Device catalog. ~30 rows.
+### rhetorical_devices — BUILT (20 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| device_id | TEXT UNIQUE NOT NULL | METAPHOR, SIMILE, PUN, IRONY, ANTITHESIS, etc. |
+| id | TEXT PK | METAPHOR, SIMILE, PUN, IRONY, CONCEIT, PERSONIFICATION, APOSTROPHE, ANTITHESIS, PARADOX, HYPERBOLE, SYNECDOCHE, METONYMY, ALLITERATION, ASSONANCE, ENJAMBMENT, CAESURA, VOLTA, BLAZON, CHIASMUS, ANAPHORA |
 | name | TEXT NOT NULL | |
-| category | TEXT | CHECK: TROPE, SCHEME, SOUND, STRUCTURE |
-| definition_short | TEXT | |
-| definition_long | TEXT | |
-| example_sonnet | INTEGER | Canonical example sonnet number |
-| example_lines | TEXT | JSON: line range |
+| description | TEXT | |
 
-**Category definitions:**
-- **TROPE**: metaphor, simile, metonymy, synecdoche, irony, pun, hyperbole, litotes, personification
-- **SCHEME**: antithesis, chiasmus, anaphora, epistrophe, parallelism, zeugma
-- **SOUND**: alliteration, assonance, consonance, onomatopoeia
-- **STRUCTURE**: enjambment, caesura, volta, end-stop
-
-### sonnet_figures [PLANNED]
-
-Instances of rhetorical figures at line/span level. ~1500+ rows.
+### analytical_modes — BUILT (8 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER NOT NULL FK → sonnets | |
-| device_id | INTEGER NOT NULL FK → rhetorical_devices | |
-| start_line_num | INTEGER NOT NULL | 1-14 |
-| end_line_num | INTEGER NOT NULL | Same as start for single-line |
-| quoted_text | TEXT | The specific words exhibiting the device |
-| explanation | TEXT | What the device does HERE, in THIS context |
-| analytical_salience | TEXT | CHECK: PRIMARY, SUPPORTING, MINOR |
-| scholarly_source_id | INTEGER FK → bibliography | Who identified this |
+| id | TEXT PK | RHETORICAL, DRAMATIC, PROSODIC, IMAGISTIC, STRUCTURAL, INTERTEXTUAL, HISTORICAL, THEMATIC |
+| name | TEXT NOT NULL | |
+| description | TEXT | |
+
+### line_devices — ENRICHING (89 rows across 17 sonnets)
+
+Join: line × device. Each row is a specific instance of a rhetorical device on a specific line.
+
+| Column | Type | Notes |
+|--------|------|-------|
+| id | INTEGER PK AUTOINCREMENT | |
+| line_id | INTEGER FK → lines | |
+| device_id | TEXT FK → rhetorical_devices | |
+| quotation | TEXT | Specific text exhibiting the device |
+| explanation | TEXT | Why this is this device HERE |
 | source_method | TEXT DEFAULT 'LLM_ASSISTED' | |
 | review_status | TEXT DEFAULT 'DRAFT' | |
 | confidence | TEXT DEFAULT 'MEDIUM' | |
 
-**Salience definitions:**
-- **PRIMARY**: This is a defining feature of the sonnet. Lead with it in analysis.
-- **SUPPORTING**: Contributes to the sonnet's effect. Mention in analysis.
-- **MINOR**: Present but not what makes this sonnet notable. Omit unless space permits.
+### sonnet_modes — ENRICHING (54 rows across 17 sonnets)
 
-### analysis_modes [PLANNED]
-
-Analytical lens catalog. ~15 rows.
+Join: sonnet × mode. Priority-ranked analytical lenses per sonnet.
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| mode_id | TEXT UNIQUE NOT NULL | See list below |
-| name | TEXT NOT NULL | |
-| description | TEXT | What this lens reveals |
-| typical_indicators | TEXT | JSON: clues that suggest this mode is productive |
-
-**Mode IDs:** PUN_WORDPLAY, EXTENDED_METAPHOR, IRONY, DRAMATIC_SITUATION, FORM_METER, SOUND_PATTERN, ADDRESSEE_AMBIGUITY, TEMPORAL_LOGIC, LEGAL_LANGUAGE, ECONOMIC_LANGUAGE, RELIGIOUS_LANGUAGE, PETRARCHAN_REVERSAL, PROCREATION_ARGUMENT, RIVAL_POET_DRAMA, SELF_REFERENCE
-
-### sonnet_analysis_modes [PLANNED]
-
-Priority-ranked modes per sonnet — the LLM's routing guide. ~300 rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER NOT NULL FK → sonnets | |
-| mode_id | INTEGER NOT NULL FK → analysis_modes | |
-| priority | INTEGER NOT NULL DEFAULT 1 | 1 = most important lens |
-| rationale | TEXT | WHY this mode is productive here |
-| key_lines | TEXT | JSON: [3,4] — lines where most visible |
-| source_method | TEXT DEFAULT 'LLM_ASSISTED' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
-| UNIQUE(sonnet_id, mode_id) | | |
+| sonnet_id | INTEGER FK → sonnets | |
+| mode_id | TEXT FK → analytical_modes | |
+| priority | INTEGER DEFAULT 0 | Higher = more important |
+| rationale | TEXT | Why this mode matters here |
 
 ---
 
-## Stage 3: Enrichment Tables (migrate_v3.py) — 10 tables
+## Layer 4: Enrichment (LLM_ASSISTED)
 
-### annotations [PLANNED]
+All rows default to: source_method='LLM_ASSISTED', review_status='DRAFT', confidence='MEDIUM'.
 
-Free-form annotations at any granularity. ~2000+ rows.
+### sonnet_analyses — ENRICHING (17 rows)
 
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER NOT NULL FK → sonnets | |
-| target_type | TEXT NOT NULL | CHECK: SONNET, SECTION, LINE, SPAN |
-| target_section | TEXT | Q1/Q2/Q3/COUPLET (if SECTION) |
-| start_line_num | INTEGER | (if LINE or SPAN) |
-| end_line_num | INTEGER | (if SPAN) |
-| annotation_type | TEXT | CHECK: GLOSS, PARAPHRASE, COMMENTARY, ALLUSION, VARIANT_READING, EMENDATION |
-| content | TEXT NOT NULL | |
-| scholarly_source_id | INTEGER FK → bibliography | |
-| source_method | TEXT DEFAULT 'LLM_ASSISTED' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
-
-### glossary_terms [PLANNED]
-
-Early Modern English vocabulary. ~200 rows.
+Per-sonnet close reading and dramatic analysis.
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| slug | TEXT UNIQUE NOT NULL | |
-| term | TEXT NOT NULL | "usury", "Will", "engross" |
-| category | TEXT | CHECK: ARCHAIC, LEGAL, ECONOMIC, SEXUAL, RELIGIOUS, LITERARY |
-| definition_short | TEXT | |
-| definition_long | TEXT | |
-| example_sonnet | INTEGER | |
-| example_line | INTEGER | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
+| sonnet_id | INTEGER FK → sonnets (UNIQUE) | |
+| volta_line | INTEGER | Which line has the turn |
+| volta_type | TEXT | DRAMATIC, LOGICAL, TONAL, IRONIC |
+| couplet_function | TEXT | RESOLUTION, REVERSAL, EXTENSION, EPIGRAM, IRONIC |
+| argument_summary | TEXT | One-sentence summary of the sonnet's rhetorical 'move' |
+| speaker_stance | TEXT | e.g. 'pleading', 'bitter', 'self-mocking' |
+| emotional_arc | TEXT | e.g. 'adoration → doubt → resigned acceptance' |
+| dramatic_situation | TEXT | What's happening between the characters |
+| subtext | TEXT | What the Speaker means but doesn't say |
+| analysis_text | TEXT | Complete close-reading prose |
 
-### term_sonnet_refs [PLANNED]
+### line_annotations — ENRICHING (88 rows)
 
-Where glossary terms appear. ~600 rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| term_id | INTEGER FK → glossary_terms | |
-| sonnet_id | INTEGER FK → sonnets | |
-| line_number | INTEGER | |
-| context | TEXT | How the term is used HERE |
-| PRIMARY KEY (term_id, sonnet_id, line_number) | | |
-
-### intertextual_links [PLANNED]
-
-Connections between sonnets and external works. ~300 rows.
+Per-line directing and scholarly notes.
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| source_sonnet_id | INTEGER NOT NULL FK → sonnets | |
-| target_type | TEXT NOT NULL | CHECK: SONNET, EXTERNAL_WORK |
-| target_sonnet_id | INTEGER FK → sonnets | |
-| target_work_title | TEXT | e.g. "Ovid, Metamorphoses XV" |
-| link_type | TEXT | CHECK: ECHO, RESPONSE, PAIR, SEQUENCE, ALLUSION, CONTRAST |
-| description | TEXT | |
-| source_method | TEXT DEFAULT 'LLM_ASSISTED' | |
-| confidence | TEXT DEFAULT 'MEDIUM' | |
+| line_id | INTEGER FK → lines (UNIQUE) | |
+| emphasis_words | TEXT | JSON array of words to stress |
+| emotional_note | TEXT | Acting direction for this line |
+| delivery_note | TEXT | How to speak it (pace, volume, tone) |
+| gloss | TEXT | Paraphrase / modernization |
+| commentary | TEXT | Scholarly annotation |
 
-### sequence_groups [PLANNED]
-
-Named subsequences. ~10 rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| group_id | TEXT UNIQUE NOT NULL | PROCREATION_1_17, FYM_BEAUTY_18_77, etc. |
-| name | TEXT NOT NULL | "Procreation Sonnets" |
-| start_sonnet | INTEGER NOT NULL | |
-| end_sonnet | INTEGER NOT NULL | |
-| description | TEXT | |
-| dramatic_situation | TEXT | Emotional/narrative arc |
-| scholarly_consensus | TEXT | CHECK: STRONG, MODERATE, DISPUTED |
-| source_method | TEXT DEFAULT 'SEED_DATA' | |
-| review_status | TEXT DEFAULT 'DRAFT' | |
-
-### thematic_threads [PLANNED]
-
-Cross-cutting themes. ~15 rows.
-
-| Column | Type | Notes |
-|--------|------|-------|
-| id | INTEGER PK | |
-| thread_id | TEXT UNIQUE NOT NULL | TIME_MORTALITY, BEAUTY_DECAY, POETIC_IMMORTALITY, etc. |
-| name | TEXT NOT NULL | |
-| description | TEXT | |
-
-### sonnet_themes [PLANNED]
-
-Join: sonnets ↔ themes. ~400 rows.
+### sonnet_themes — ENRICHING (86 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
 | sonnet_id | INTEGER FK → sonnets | |
-| thread_id | INTEGER FK → thematic_threads | |
-| prominence | TEXT | CHECK: PRIMARY, SECONDARY, PASSING |
-| PRIMARY KEY (sonnet_id, thread_id) | | |
+| theme | TEXT NOT NULL | e.g. 'time', 'beauty', 'mortality' |
+| prominence | TEXT | PRIMARY, SECONDARY |
 
-### timeline_events [PLANNED]
-
-Publication and reception history. ~30 rows.
+### character_appearances — ENRICHING (38 rows)
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| year | INTEGER NOT NULL | |
-| year_end | INTEGER | |
-| event_type | TEXT | CHECK: PUBLICATION, EDITION, SCHOLARSHIP, PERFORMANCE, ADAPTATION, DIGITAL |
+| sonnet_id | INTEGER FK → sonnets | |
+| character_id | TEXT FK → characters | |
+| role | TEXT | ADDRESSED, MENTIONED, IMPLIED, ABSENT_PRESENCE |
+| evidence | TEXT | Textual basis |
+
+### directing_notes — ENRICHING (17 rows)
+
+Per-sonnet performance interpretation.
+
+| Column | Type | Notes |
+|--------|------|-------|
+| sonnet_id | INTEGER FK → sonnets (UNIQUE) | |
+| scene_setting | TEXT | Physical/emotional context for performance |
+| character_note | TEXT | Who is the Speaker in this moment |
+| fym_note | TEXT | How FYM relates to this sonnet |
+| dl_note | TEXT | How DL relates to this sonnet |
+| overall_arc | TEXT | Performance arc across the 14 lines |
+| key_moments | TEXT | JSON array of {line, note} |
+
+---
+
+## Layer 5: Essays & Context
+
+### essays — EMPTY
+
+| Column | Type | Notes |
+|--------|------|-------|
+| slug | TEXT UNIQUE NOT NULL | URL-friendly identifier |
 | title | TEXT NOT NULL | |
-| description | TEXT | |
-| description_long | TEXT | |
-| scholar_id | INTEGER FK → scholars | |
-| bib_id | INTEGER FK → bibliography | |
-| confidence | TEXT DEFAULT 'HIGH' | |
+| subtitle | TEXT | |
+| abstract | TEXT | |
+| body_html | TEXT | Generated HTML |
+| body_markdown | TEXT | Source markdown |
+| essay_type | TEXT | THEMATIC, CHARACTER, STRUCTURAL, HISTORICAL |
 
-### editions [PLANNED]
-
-Key editions of the Sonnets. ~10 rows.
+### essay_sonnet_links — EMPTY
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| edition_id | TEXT UNIQUE NOT NULL | quarto_1609, benson_1640, arden_1997 |
-| editor | TEXT | |
-| title | TEXT NOT NULL | |
-| year | INTEGER NOT NULL | |
-| publisher | TEXT | |
-| significance | TEXT | Why this edition matters |
-| sonnet_ordering | TEXT | ORIGINAL_1609, BENSON_1640, MODERN |
-| in_collection | INTEGER DEFAULT 0 | |
+| essay_id | INTEGER FK → essays | |
+| sonnet_id | INTEGER FK → sonnets | |
+| relevance | TEXT | DISCUSSED, CITED, CENTRAL |
 
-### llm_analysis_queue [PLANNED]
-
-Pipeline control for incremental LLM work. ~770 rows (154 × 5 analysis types).
+### contexts — EMPTY
 
 | Column | Type | Notes |
 |--------|------|-------|
-| id | INTEGER PK | |
-| sonnet_id | INTEGER NOT NULL FK → sonnets | |
-| analysis_type | TEXT NOT NULL | FIGURES, ADDRESSEE, MODES, SECTIONS, ANNOTATIONS |
-| status | TEXT | CHECK: PENDING, IN_PROGRESS, COMPLETE, SKIPPED |
-| last_run_at | TEXT | |
-| notes | TEXT | |
-| UNIQUE(sonnet_id, analysis_type) | | |
+| sonnet_id | INTEGER FK → sonnets | NULL for general |
+| context_type | TEXT | BIOGRAPHICAL, PUBLICATION, HISTORICAL, CANDIDATE |
+| title | TEXT | |
+| body_text | TEXT | |
 
 ---
 
 ## Entity Relationships
 
 ```
-sonnets ──< sonnet_lines
-sonnets ──< sonnet_sections
-sonnets ──< sonnet_characters >── characters
-sonnets ──< line_addressee_shifts >── characters
-sonnets ──< sonnet_figures >── rhetorical_devices
-sonnets ──< sonnet_analysis_modes >── analysis_modes
-sonnets ──< annotations
-sonnets ──< scholarly_refs >── bibliography
-sonnets ──< sonnet_themes >── thematic_threads
-sonnets ──< intertextual_links >── sonnets (self-referential)
-sonnets ──< term_sonnet_refs >── glossary_terms
-sonnets ──< llm_analysis_queue
-scholars ──< scholar_works >── bibliography
-sequence_groups ──< sonnets (via sequence_group column)
+sonnets ──< stanzas ──< lines
+sonnets ──< sonnet_group_members >── sonnet_groups
+sonnets ──< sonnet_analyses
+sonnets ──< directing_notes
+sonnets ──< sonnet_themes
+sonnets ──< character_appearances >── characters
+sonnets ──< sonnet_modes >── analytical_modes
+lines   ──< line_annotations
+lines   ──< line_devices >── rhetorical_devices
+characters ──< character_candidates
+essays  ──< essay_sonnet_links >── sonnets
+sonnets ──< contexts
 ```
 
 ---
 
-## How the Schema Serves LLM Analysis
+## How the Schema Serves the Audiobook/Directing Project
 
-| Table | LLM Use |
-|-------|---------|
-| sonnet_lines | **Ground truth for quoting.** Query exact text by line number. |
-| sonnet_sections | Read rhetorical_function to understand argumentative structure. |
-| sonnet_analysis_modes | **Query FIRST** to decide what kind of analysis to generate. Priority 1 shapes the whole output. |
-| sonnet_figures | Query "what figures in lines 1-4?" — get structured results with salience. |
-| characters | Read biographical_candidates for nuanced FYM/DL discussion. |
-| scholarly_refs | Cite scholars accurately with page numbers. |
-| glossary_terms | Explain archaic vocabulary in context. |
-| sequence_groups | Situate individual sonnets within narrative arcs. |
+| Table | Use |
+|-------|-----|
+| lines + stanzas | Ground truth for quoting. Query exact text by line/stanza. |
+| sonnet_analyses | Speaker stance, emotional arc, dramatic situation — shapes the performance reading. |
+| line_annotations | emphasis_words, delivery_note, emotional_note — line-by-line directing. |
+| directing_notes | scene_setting, overall_arc, key_moments — the director's frame for each sonnet. |
+| line_devices | Which rhetorical devices drive delivery choices (stress the pun, land the paradox). |
+| sonnet_modes | Priority-ranked analytical lenses — what to LEAD with in each sonnet's analysis. |
+| character_appearances | Who is present, addressed, or implied — essential for dramatic reading. |
+| character_candidates | Historical FYM/DL identification — grounds the performance in scholarship. |
+
+---
+
+## Enrichment Status
+
+| Batch | Sonnets | Status |
+|-------|---------|--------|
+| batch_01_procreation | 1, 3, 12, 17, 18 | COMPLETE |
+| batch_02_triangle | 40, 42, 93, 94, 129, 130, 138, 144 | COMPLETE |
+| batch_03_immortality | 55, 73, 116, 126 | COMPLETE |
+| Remaining 137 sonnets | 2, 4-11, 13-16, 19-39, 41, 43-54, 56-72, 74-92, 95-115, 117-125, 127-128, 131-137, 139-143, 145-154 | PENDING |
