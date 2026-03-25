@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShakesPhyllis — Shakespeare's Sonnets</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        .landing {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 4rem 1.5rem;
+            text-align: center;
+        }
+        .landing h1 {
+            font-family: var(--font-heading);
+            font-size: var(--text-4xl);
+            color: var(--text-heading);
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.03em;
+        }
+        .landing .subtitle {
+            font-family: var(--font-heading);
+            font-size: var(--text-xl);
+            color: var(--text-muted);
+            font-style: italic;
+            margin-bottom: 3rem;
+        }
+        .landing .desc {
+            font-size: var(--text-lg);
+            color: var(--text-primary);
+            line-height: 1.7;
+            margin-bottom: 3rem;
+            max-width: 650px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .nav-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 3rem;
+        }
+        .nav-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 8px;
+            padding: 1.5rem;
+            text-decoration: none;
+            transition: border-color 0.2s, transform 0.2s;
+        }
+        .nav-card:hover {
+            border-color: var(--accent-primary);
+            transform: translateY(-2px);
+        }
+        .nav-card h3 {
+            font-family: var(--font-heading);
+            font-size: var(--text-lg);
+            color: var(--text-heading);
+            margin-bottom: 0.5rem;
+        }
+        .nav-card p {
+            font-size: var(--text-sm);
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+        .nav-card .accent-bar {
+            width: 40px;
+            height: 3px;
+            border-radius: 2px;
+            margin-bottom: 1rem;
+        }
+        .stats-row {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-bottom: 3rem;
+            padding: 1.5rem;
+            background: var(--bg-card);
+            border-radius: 8px;
+            border: 1px solid var(--border-subtle);
+        }
+        .stat {
+            text-align: center;
+        }
+        .stat .num {
+            font-family: var(--font-heading);
+            font-size: var(--text-2xl);
+            color: var(--accent-gold);
+            display: block;
+        }
+        .stat .label {
+            font-size: var(--text-xs);
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+        .footer {
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-subtle);
+            font-size: var(--text-sm);
+            color: var(--text-dim);
+        }
+        .footer a { color: var(--text-muted); }
+    </style>
+</head>
+<body>
+<div class="landing">
+
+    <h1>ShakesPhyllis</h1>
+    <p class="subtitle">A Digital Humanities Database of Shakespeare's 154 Sonnets</p>
+
+    <p class="desc">
+        Close readings, performance direction, rhetorical analysis, and data visualization
+        for every sonnet in the sequence — organized around the dramatic love triangle
+        of the Fair Young Man, the Dark Lady, and the Speaker.
+    </p>
+
+    <div class="stats-row">
+        <div class="stat"><span class="num">154</span><span class="label">Sonnets</span></div>
+        <div class="stat"><span class="num">2,155</span><span class="label">Lines</span></div>
+        <div class="stat"><span class="num">1,041</span><span class="label">Devices</span></div>
+        <div class="stat"><span class="num">1,177</span><span class="label">Annotations</span></div>
+        <div class="stat"><span class="num">752</span><span class="label">Themes</span></div>
+    </div>
+
+    <div class="nav-grid">
+        <a href="visualizations/index.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--accent-gold);"></div>
+            <h3>Data Visualizations</h3>
+            <p>11 charts: dramatic arc, themes, rhetorical fingerprint, love triangle dynamics, scholarly groupings</p>
+        </a>
+        <a href="templates/homepage.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--accent-primary);"></div>
+            <h3>Sonnet Explorer</h3>
+            <p>Browse all 154 sonnets with analysis, directing notes, and historical context</p>
+        </a>
+        <a href="templates/analysis-018.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--tab-analyses);"></div>
+            <h3>Sample: Sonnet 18</h3>
+            <p>"Shall I compare thee to a summer's day?" — full close reading with devices and dramatic situation</p>
+        </a>
+        <a href="templates/directing-018.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--tab-directing);"></div>
+            <h3>Directing: Sonnet 18</h3>
+            <p>Line-by-line performance notes: emphasis, pace, emotional arc, staging</p>
+        </a>
+        <a href="templates/essay-index.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--tab-essays);"></div>
+            <h3>Essays</h3>
+            <p>Thematic essays including "Shakespeare's Sonnet Against Petrarch"</p>
+        </a>
+        <a href="templates/sonnet-index.html" class="nav-card">
+            <div class="accent-bar" style="background: var(--accent-purple);"></div>
+            <h3>Sonnet Index</h3>
+            <p>All 154 sonnets filterable by addressee, group, and theme</p>
+        </a>
+    </div>
+
+    <div class="footer">
+        <p>Built with <a href="https://claude.ai/claude-code">Claude Code</a> · <a href="https://github.com/t3dy/ShakesPhyllis">Source on GitHub</a></p>
+    </div>
+
+</div>
+</body>
+</html>
